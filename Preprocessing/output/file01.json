@@ -1,0 +1,192 @@
+{
+  "pages": {
+    "1": {
+      "width": 595,
+      "height": 842
+    }
+  },
+  "contents": [
+    {
+      "box": [
+        199.86,
+        107.43206999999995,
+        433.9473630000002,
+        119.10206999999991
+      ],
+      "text": "Application form for grant of LTC advance",
+      "page": 1,
+      "id": 0,
+      "fontname": "OIKPLG+Tahoma-Bold",
+      "order": 0
+    },
+    {
+      "box": [
+        70.02,
+        134.9998376000001,
+        292.93679215999987,
+        198.49434799999995
+      ],
+      "text": "1. Name of the Government Servant Designation 2. Date of entering the Central Government 3. Service",
+      "page": 1,
+      "id": 1,
+      "fontname": "OIKPLG+Tahoma-Bold",
+      "order": 1
+    },
+    {
+      "box": [
+        70.02000000000001,
+        206.8647876,
+        292.91827780000017,
+        282.60800879999977
+      ],
+      "text": "4. PAY + SI + NPA Whether permanent or temporary 5. 6. Home Town as recorded in the Service Book Whether wife / husband is employed and if 7. so whether entitled to LTC",
+      "page": 1,
+      "id": 2,
+      "fontname": "OILBGN+Tahoma",
+      "order": 2
+    },
+    {
+      "box": [
+        95.9985704,
+        290.98819279999987,
+        292.92412443999984,
+        300.7325927999998
+      ],
+      "text": "Whether the concession is to be availed for",
+      "page": 1,
+      "id": 3,
+      "fontname": "OILBGN+Tahoma",
+      "order": 3
+    },
+    {
+      "box": [
+        70.02000000000001,
+        308.56709039999987,
+        293.02351732,
+        335.94885439999985
+      ],
+      "text": "visiting home town and if so block for which 8. LTC is to be availed.",
+      "page": 1,
+      "id": 4,
+      "fontname": "OILBGN+Tahoma",
+      "order": 4
+    },
+    {
+      "box": [
+        95.9985704,
+        344.2608275999998,
+        292.9718720000001,
+        354.00522759999984
+      ],
+      "text": "(a) If the concession is to visit anywhere in",
+      "page": 1,
+      "id": 5,
+      "fontname": "OIKPLG+Tahoma-Bold",
+      "order": 5
+    },
+    {
+      "box": [
+        70.02000000000001,
+        361.8981915999998,
+        238.23757720000015,
+        389.22148919999984
+      ],
+      "text": "9. India, the place to be visited. (b) Block for which to be availed.",
+      "page": 1,
+      "id": 6,
+      "fontname": "OILBGN+Tahoma",
+      "order": 6
+    },
+    {
+      "box": [
+        95.9985704,
+        397.60167319999977,
+        293.03910835999994,
+        407.3460731999998
+      ],
+      "text": "Single rail fare/bus fare from the",
+      "page": 1,
+      "id": 7,
+      "fontname": "OILBGN+Tahoma",
+      "order": 7
+    },
+    {
+      "box": [
+        70.02000000000001,
+        415.18057079999977,
+        293.0157217999999,
+        442.5038683999998
+      ],
+      "text": "headquarters to home town/place of visit by 10. shortest route.",
+      "page": 1,
+      "id": 8,
+      "fontname": "OILBGN+Tahoma",
+      "order": 8
+    },
+    {
+      "box": [
+        70.02000000000001,
+        450.9425187999998,
+        505.67360964,
+        553.4438623999998
+      ],
+      "text": "Persons in respect of whom LTC is proposed to be availed. S.No Name Age Relationship 1. 2. 11. 3. 4. 5. 6.",
+      "page": 1,
+      "id": 9,
+      "fontname": "OILBGN+Tahoma",
+      "order": 9
+    },
+    {
+      "box": [
+        70.02974439999998,
+        563.1395403999998,
+        317.72459688000004,
+        578.7598135999999
+      ],
+      "text": "Amount of advance required. Rs. 12.",
+      "page": 1,
+      "id": 10,
+      "fontname": "OILBGN+Tahoma",
+      "order": 10
+    },
+    {
+      "box": [
+        70.02974440000003,
+        598.8430219999998,
+        570.12502012,
+        620.2904463999998
+      ],
+      "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge. I undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+      "page": 1,
+      "id": 11,
+      "fontname": "OILBGN+Tahoma",
+      "order": 11
+    },
+    {
+      "box": [
+        70.03948880000002,
+        634.0690279999999,
+        570.1279434399999,
+        655.5749187999999
+      ],
+      "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of advance, I undertake to refund the entire advance in one lump sum.",
+      "page": 1,
+      "id": 12,
+      "fontname": "OIKPLG+Tahoma-Bold",
+      "order": 12
+    },
+    {
+      "box": [
+        70.03948880000002,
+        680.9883139999998,
+        570.1376878400001,
+        702.4942047999998
+      ],
+      "text": "Date Signature of Government Servant.",
+      "page": 1,
+      "id": 13,
+      "fontname": "",
+      "order": 13
+    }
+  ]
+}
