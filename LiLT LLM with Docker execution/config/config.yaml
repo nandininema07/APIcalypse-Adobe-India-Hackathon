@@ -1,0 +1,36 @@
+# config/config.yaml
+document_analyzer:
+  font_diversity_threshold: 0.3
+  layout_variance_threshold: 0.4
+  text_density_threshold: 0.5
+  visual_complexity_threshold: 0.3
+  structure_clarity_threshold: 0.7
+  confidence_high_threshold: 0.8
+  confidence_low_threshold: 0.4
+  rule_suitability_threshold: 0.7
+
+rule_based_extractor:
+  font_size_diff_threshold: 2.0 # in pts
+  heading_score_threshold: 0.6
+  min_indentation_diff: 10 # in points/pixels
+  max_line_gap_for_block: 5 # in points/pixels
+
+ml_extractor:
+  model_path: "models/lilt_optimized_model.pt" # Placeholder, actual path after download
+  lilt_base_model_name: "lilt-base" # Or specific Hugging Face model ID
+  language_adapter_paths:
+    en: "models/lilt_adapter_en.pt"
+    ja: "models/lilt_adapter_ja.pt"
+    zh: "models/lilt_adapter_zh.pt"
+    universal: "models/lilt_adapter_universal.pt"
+  hierarchy_classifier_path: "models/hierarchy_classifier.pt"
+
+hybrid_processor:
+  rule_fallback_confidence: 0.75 # If rule-based confidence is below this, consider ML
+  fusion_strategy: "weighted_average" # Or 'ml_priority', 'rule_priority'
+
+language_detection:
+  min_text_for_detection: 50 # characters
+  
+output:
+  indent: 2

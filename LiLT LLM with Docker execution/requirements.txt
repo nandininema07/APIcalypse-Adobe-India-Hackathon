@@ -1,0 +1,15 @@
+# requirements.txt
+pypdfium2 # For PDF parsing (fast and robust, zero-OCR for text/layout)
+numpy
+scipy
+scikit-learn # For basic ML utilities or metrics
+torch # For PyTorch models (LiLT, Donut)
+transformers # Hugging Face for LiLT, Donut models
+opencv-python # For visual analysis if needed (e.g., image parsing)
+PyYAML # For config.yaml
+loguru # For better logging (optional, can stick to built-in logging)
+
+# Consider adding for potential ML model specifics
+# sentencepiece # often a dependency for transformer models
+# accelerate
+# bitsandbytes # for quantization if not using torch built-in

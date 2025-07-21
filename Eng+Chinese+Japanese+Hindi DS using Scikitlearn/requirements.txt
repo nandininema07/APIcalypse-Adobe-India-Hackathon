@@ -1,0 +1,11 @@
+PyMuPDF
+transformers
+sentence-transformers
+fasttext
+scikit-learn
+numpy
+scipy
+onnxruntime
+FlashRank
+summa
+Faker
