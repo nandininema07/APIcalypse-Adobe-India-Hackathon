@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "市场竞争、产权与政府补贴前针对政府补贴影响因素的研究却较少控制补贴动机的潜在影响。而中国历年来监管部门关于",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、引言",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "二、文献回顾与研究假说",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "(一)文献回顾",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(二)研究假说",
+      "parent_id": 30,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "三、数据来源与研究设计",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "(一)数据来源",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "(二)变量定义说明",
+      "parent_id": 52,
+      "order": 6
+    }
+  ]
+}

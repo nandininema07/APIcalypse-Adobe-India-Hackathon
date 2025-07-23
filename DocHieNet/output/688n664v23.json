@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "运城市工业和信息化局关于印发《运城市企业职工职业技能提升培训实施方案》的通知",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "title",
+      "text": "运城市企业职工职业技能提升培训实施方案",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "一、目标任务",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "二、强化组织实施，保障培训实效",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "(一)培训对象",
+      "parent_id": 15,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "(二)培训专业",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "(三)培训模式",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "(四)培训组织",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "(五)培训补贴",
+      "parent_id": 33,
+      "order": 6
+    }
+  ]
+}

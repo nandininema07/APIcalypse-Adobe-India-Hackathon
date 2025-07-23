@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "南方卓元债券型证券投资基金招募说明书(更新)摘要《基金法》、《运作办法》、基金合同及其他有关规定享有权利、承担义务。基金投资人欲",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "重要提示",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "S1基金管理人",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1.1基金管理人概况",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1.2主要人员情况",
+      "parent_id": 30,
+      "order": 4
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "1.2.1董事会成员",
+      "parent_id": 31,
+      "order": 5
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "1.2.2监事会成员",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "1.2.3公司高级管理人员",
+      "parent_id": 63,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "人才培养方案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "人才培养方案体例框架和基本要求",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "一、专业名称及代码",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "二、入学要求",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "三、基本学制",
+      "parent_id": 13,
+      "order": 4
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "四、职业面向",
+      "parent_id": 15,
+      "order": 5
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "(一)服务面向",
+      "parent_id": 16,
+      "order": 6
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "(二)职业发展路径",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "(三)职业岗位及职业能力分析",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "五、培养目标与培养规格",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "(一)培养目标",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(二)培养规格",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "1.素质",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.知识",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "3.能力",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "(1)专业通用能力",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "(2)专业(技能)方向能力",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "六、课程设置",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "(一)课程结构",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "(二)课程简介",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "1.公共基础课",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

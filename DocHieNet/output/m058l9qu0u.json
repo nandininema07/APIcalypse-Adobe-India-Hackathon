@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "国家安全监管总局关于上报、泄漏率统计、泄漏绩效考核等。泄漏检测维修工作要实行PDCA循环(戴明环)管理方式。对所有的泄漏事件都要参照事故调查要求严格管理。加强化工企业泄漏管理的指导意见",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、充分认识加强泄漏管理的意义",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "二、化工企业泄漏表现形式和管理的主要内容",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "三、优化装置设计，从源头全面提升防泄漏水平",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "四、系统识别泄漏风险，规范工艺操作行为",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "五、建立健全泄漏管理制度",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "六、全面加强泄漏应急处置能力",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "七、强化考核",
+      "parent_id": 32,
+      "order": 6
+    }
+  ]
+}

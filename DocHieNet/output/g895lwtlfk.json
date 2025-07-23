@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "CBO’S BUDGET AND ECONOMIC OUTLOOK:FISCAL YEARS 2004–2013",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "PREPARED STATEMENT OF HON. JIM NUSSLE, A REPRESENTATIVE IN CONGRESS FROM THE STATE OF IOWA",
+      "parent_id": 33,
+      "order": 1
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "STATEMENT OF DOUGLAS HOLTZ-EAKIN, DIRECTOR, CONGRESSIONAL BUDGET OFFICE",
+      "parent_id": 73,
+      "order": 2
+    }
+  ]
+}

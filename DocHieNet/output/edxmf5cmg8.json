@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "On the computational power of affine automata ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2 Preliminaries ",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "3 Stability Results ",
+      "parent_id": 62,
+      "order": 3
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "4 Equivalent Forms of Affine Automata ",
+      "parent_id": 101,
+      "order": 4
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "5 The first languages shown to be not in BAfL ",
+      "parent_id": 115,
+      "order": 5
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "6 Conclusion ",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 152,
+      "order": 6
+    }
+  ]
+}

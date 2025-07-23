@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "精密光学元器件行业研究报告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "一、精密光学元器件行业发展概况",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "二、行业规模",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1、智能手机市场",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2、车载镜头市场",
+      "parent_id": 28,
+      "order": 4
+    }
+  ]
+}

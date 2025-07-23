@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "公开招标文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 21,
+      "label": "title",
+      "text": "新景六期地块前期配套土方工程公开招标公告",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "编号：SYZB-SG-2020047",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "三、项目概况",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "四、项目简要说明",
+      "parent_id": 32,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "五、投标人资格要求",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "(一)一般资格条件",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "(二)其他条件：",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "六、招标文件领购的时间和地点",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "七、投标保证金",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "八、现场勘查及标前答疑",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "2.标前答疑",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "九、投标文件提交及开标信息",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "十、说明",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "十一、联系方式",
+      "parent_id": 81,
+      "order": 6
+    }
+  ]
+}

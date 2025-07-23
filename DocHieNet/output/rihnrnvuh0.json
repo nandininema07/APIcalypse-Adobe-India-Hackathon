@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 13,
+      "label": "title",
+      "text": "PLAINTIFF'S ORIGINA L PET IT I ON AN D APPLICATION FOR TEMPO RARY AND PERMANENT INJUNCTIV E R E LI EF",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1. D ISCOVE RY L E VE L",
+      "parent_id": 19,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "PARTIES AND SER VI C E",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "IIL. JU RISD ICTIO N AND VENUE",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "IV. F ACTS",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "V. CL AIMS FOR INJUNCTIVE RELIEF",
+      "parent_id": 117,
+      "order": 5
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "A . Reguest for Temporar y In i unction",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "B . Request fo r Permanent Iniunc t ion",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "PR AYER",
+      "parent_id": 141,
+      "order": 6
+    }
+  ]
+}

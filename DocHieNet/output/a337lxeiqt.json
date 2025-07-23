@@ -1,0 +1,207 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "ActI of 2012on the Labor Codel",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1.Objective",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Section l",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "2. Scope",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Section 2",
+      "parent_id": 9,
+      "order": 4
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "(1) This Act covers：",
+      "parent_id": 10,
+      "order": 5
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "(2) This Act shall apply to：",
+      "parent_id": 16,
+      "order": 6
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Section 3",
+      "parent_id": 19,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Section 4",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3. Interpretation principles",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Section 5",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "4. Common rules of conduct",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Section 6",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Section 74",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Section 8",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "5. Protection of rights relating to personality>",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Section 9",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Section 10",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Section 11",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "6. Principle of equal treatment",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Section 12",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "7. Employment regulations",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Section 13",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "8. Agreements",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Section 14",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "9. Unilateral acts， statements",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Section 15",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "10.Commitments",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "Section 16",
+      "parent_id": 86,
+      "order": 6
+    }
+  ]
+}

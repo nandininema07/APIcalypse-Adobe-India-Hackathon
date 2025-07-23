@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "新时代新力量新美学——当下\"新力量\"导演群体及其\"工业美学\"建构",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、从新时期到新世纪与新时代",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "二、主体的转向与重新定位：新导演的三种\"生存\"",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "三、\"体制内的作者\"：务实的一代",
+      "parent_id": 59,
+      "order": 3
+    }
+  ]
+}

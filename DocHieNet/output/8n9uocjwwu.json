@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "TOURISM COMPONENTS AND TOURISTS CHARACTERISTIC OF PRAMBANAN TEMPLE AS THE WORLD CULTURE HERITAGE SITE IN YOGYAKARTA， INDONESIA",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Achmad Andi Rif'an",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1.INTRODUCTION",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2. LITERATURE REVIEW",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "3.RESEARCH METHOD",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "4. RESULTS AND DISCUSSION",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "a. General Profile of Prambanan Temple",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "b.Characteristic of Tourism Camponents",
+      "parent_id": 56,
+      "order": 6
+    }
+  ]
+}

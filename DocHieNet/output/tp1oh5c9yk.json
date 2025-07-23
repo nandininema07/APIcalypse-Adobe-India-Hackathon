@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "大数据挖掘助力微观尺度下\"经\"\"规\"对话",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1.引言",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1.1经规合一的愿景",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1.2大数据与大数据挖掘技术",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1.3研究目的",
+      "parent_id": 11,
+      "order": 4
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2.研究范围和数据基础",
+      "parent_id": 15,
+      "order": 5
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "3.研究思路与技术方法",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "3.1研究思路",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3.1.1整合行业类型",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3.1.2整合用地类型",
+      "parent_id": 32,
+      "order": 6
+    }
+  ]
+}

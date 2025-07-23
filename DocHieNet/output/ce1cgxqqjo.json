@@ -1,0 +1,375 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "CODE RED 2015",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "E XECUTIVE SUMMARY",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "To improve the health of all Texas residents, the Code Red Task Force recommends the use of available federal funds to allow more low-income, working Texans to obtain health insurance.",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "WHAT ARE THE OPTIONS?",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "RECOMMENDATIONS IN BRIEF",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "CODE RED",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "IN 2014, THE TASK FORCE RECONVENED TO EXAMINE:",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "CODE RED OBSERVATIONS",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "CRITICAL OPPORTUNITIES EXIST TO ADDRESSTHESE CHALLENGES",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "T E X AS M EDICAID 1115 W AI VER",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "THE AFFORDABLE CARE ACT AND THE COVERAGE GAP",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "ONE MILLION TEXANS FALL INTO THE COVERAGE GAP.",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "MEDICAID COVERAGE EXPANSION",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "CODE RED 2015 RECOMMENDATIONS IN BRIEF",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "CODE RED Recommendations—2015 For the Successful Implementation of the Section 1115 Demonstration",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "section-title",
+      "text": "APPENDIX A",
+      "parent_id": 176,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "Approaches to the Texas Prescription TxRx and TxRxPlus",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "APPENDIX B",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "TASK FORCE MEMBERS",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 329,
+      "label": "section-title",
+      "text": "APPENDIX C",
+      "parent_id": 329,
+      "order": 6
+    },
+    {
+      "id": 330,
+      "label": "section-title",
+      "text": "INDIVIDUALS WHO TESTIFIED BEFORE THE TASK FORCE",
+      "parent_id": 330,
+      "order": 6
+    },
+    {
+      "id": 331,
+      "label": "section-title",
+      "text": "JAMES ALLISON, JD",
+      "parent_id": 331,
+      "order": 6
+    },
+    {
+      "id": 333,
+      "label": "section-title",
+      "text": "DAVID BAUER, MD",
+      "parent_id": 333,
+      "order": 6
+    },
+    {
+      "id": 335,
+      "label": "section-title",
+      "text": "SUE BORNSTEIN, MD",
+      "parent_id": 335,
+      "order": 6
+    },
+    {
+      "id": 337,
+      "label": "section-title",
+      "text": "MARCIA COLLINS",
+      "parent_id": 337,
+      "order": 6
+    },
+    {
+      "id": 339,
+      "label": "section-title",
+      "text": "ANAS DAGHESTANI, MD",
+      "parent_id": 339,
+      "order": 6
+    },
+    {
+      "id": 341,
+      "label": "section-title",
+      "text": "ANNE DUNKLEBERG, MPA",
+      "parent_id": 341,
+      "order": 6
+    },
+    {
+      "id": 343,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 343,
+      "order": 6
+    },
+    {
+      "id": 345,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 345,
+      "order": 6
+    },
+    {
+      "id": 347,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 347,
+      "order": 6
+    },
+    {
+      "id": 349,
+      "label": "section-title",
+      "text": "MARK HERNANDEZ, MD",
+      "parent_id": 349,
+      "order": 6
+    },
+    {
+      "id": 351,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 351,
+      "order": 6
+    },
+    {
+      "id": 353,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 353,
+      "order": 6
+    },
+    {
+      "id": 355,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 355,
+      "order": 6
+    },
+    {
+      "id": 357,
+      "label": "section-title",
+      "text": "DAVID LAKEY, MD",
+      "parent_id": 357,
+      "order": 6
+    },
+    {
+      "id": 359,
+      "label": "section-title",
+      "text": "KATRINA LAMBRECHT, JD",
+      "parent_id": 359,
+      "order": 6
+    },
+    {
+      "id": 361,
+      "label": "section-title",
+      "text": "JEFFREY LEVIN, MD, MPH",
+      "parent_id": 361,
+      "order": 6
+    },
+    {
+      "id": 363,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 363,
+      "order": 6
+    },
+    {
+      "id": 365,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 365,
+      "order": 6
+    },
+    {
+      "id": 367,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 367,
+      "order": 6
+    },
+    {
+      "id": 369,
+      "label": "section-title",
+      "text": "MAUREEN MILLIGAN, PHD",
+      "parent_id": 369,
+      "order": 6
+    },
+    {
+      "id": 371,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 371,
+      "order": 6
+    },
+    {
+      "id": 373,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 373,
+      "order": 6
+    },
+    {
+      "id": 375,
+      "label": "section-title",
+      "text": "J. JAMES ROHACK, MD, FAAC, FACP",
+      "parent_id": 375,
+      "order": 6
+    },
+    {
+      "id": 377,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 377,
+      "order": 6
+    },
+    {
+      "id": 379,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 379,
+      "order": 6
+    },
+    {
+      "id": 381,
+      "label": "section-title",
+      "text": "TED SHAW",
+      "parent_id": 381,
+      "order": 6
+    },
+    {
+      "id": 383,
+      "label": "section-title",
+      "text": "THOMAS SUEHS",
+      "parent_id": 383,
+      "order": 6
+    },
+    {
+      "id": 385,
+      "label": "section-title",
+      "text": "MANUEL M. VELA, JD",
+      "parent_id": 385,
+      "order": 6
+    },
+    {
+      "id": 387,
+      "label": "section-title",
+      "text": "CHERYL MAYO WILLIAMS",
+      "parent_id": 387,
+      "order": 6
+    },
+    {
+      "id": 389,
+      "label": "section-title",
+      "text": "ARLENE WOHLGEMUTH",
+      "parent_id": 389,
+      "order": 6
+    }
+  ]
+}

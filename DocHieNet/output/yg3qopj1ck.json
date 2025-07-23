@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "PROVINCE OF QUÉBEC DISTRICT OF MONTRÉAL",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "DEFENCE OF THE DEFENDANT THE TORONTO-DOMINION BANK",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "I. ABSENCE OF MISREPRESENTATIONS",
+      "parent_id": 75,
+      "order": 2
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "A.NO FALSE OR MISLEADING REPRESENTATIONS",
+      "parent_id": 76,
+      "order": 3
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "i. Customer Service Awards",
+      "parent_id": 83,
+      "order": 4
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "ii. Workplace Awards",
+      "parent_id": 87,
+      "order": 5
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "B.ABSENCE OF MATERIALITY",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "II. ABSENCE OF VERITABLE CORRECTIVE DISCLOSURES",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "III. CONFOUNDING FACTORS AND ABSENCE OF CAUSATION",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 170,
+      "label": "section-title",
+      "text": "IV. CCQ CLAIM",
+      "parent_id": 170,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "WHEREFORE, PLEASE THIS HONOURABLE COURT :",
+      "parent_id": 177,
+      "order": 6
+    }
+  ]
+}

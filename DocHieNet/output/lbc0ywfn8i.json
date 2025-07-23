@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Music Style Transfer: A Position Paper ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Introduction ",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Background of Automated Music Generation ",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Music Style Transfer: Importance & Challenges ",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Multi-level and Multi-modal Representation ",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Score Representation ",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Performance Control Representation ",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Sound Representation ",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Representation, Content, and Style ",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Music Style Transfer: A Precise Definition and Related Work ",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Timbre Style Transfer ",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Performance Style Transfer ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Composition Style Transfer ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "Future Directions of Music Style Modeling ",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "Conclusion ",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 88,
+      "order": 6
+    }
+  ]
+}

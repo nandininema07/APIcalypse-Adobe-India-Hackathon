@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "On automorphism groups of Toeplitz ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "subshifts * ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2 Background ",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.1 Topological dynamical systems ",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.2 Odometers ",
+      "parent_id": 40,
+      "order": 5
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "2.3 Toeplitz subshifts ",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "2.4 Automorphism group of disjoint Toeplitz subshifts ",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "3 Automorphism group of Toeplitz subshifts with subquadratic complex- ",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "ity ",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "4 Not finitely generated automorphism groups for Toeplitz subshifts ",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "4.1 ( p, q)-Toeplitz subshifts ",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "4.2 Self reading properties of ( p, q)-Toeplitz ",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "4.3 Proof of Theorem 4.1 ",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "5 Realization of finitely generated abelian groups ",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 210,
+      "order": 6
+    }
+  ]
+}

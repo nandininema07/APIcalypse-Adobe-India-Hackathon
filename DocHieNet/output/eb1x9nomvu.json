@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Great Lakes Water Levels and Temperatures",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "About the Indicator",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Key Points",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Indicator Notes",
+      "parent_id": 41,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Data Sources",
+      "parent_id": 43,
+      "order": 5
+    }
+  ]
+}

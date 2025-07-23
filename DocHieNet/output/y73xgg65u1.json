@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "FREQUENTLY ASKED QUESTIONS ON RISK MANAGEMENT FOR CHARTER SCHOOLS AFFILIATED WITH MANAGEMENT ORGANIZATIONS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "title",
+      "text": " performance risk as well as the collection and reporting of charter school data forFrequently Asked Questions (FAQs) on EDFacts. These FAOs and the referenced resources are intended to support SEs in Risk Management for Charter Schools Affiliated with Management reviewing and establishing sufficient policies and procedures to mitigate such risks. Organizations",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Background and Key Definitions",
+      "parent_id": 18,
+      "order": 3
+    }
+  ]
+}

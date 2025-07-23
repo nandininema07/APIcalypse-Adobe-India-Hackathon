@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Colouring (Pr + Ps )-Free Graphs∗ ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 16,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1 Intro duction ",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Our Results ",
+      "parent_id": 43,
+      "order": 3
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Preliminaries ",
+      "parent_id": 49,
+      "order": 4
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "2 The Pro of of Theorem 1 ",
+      "parent_id": 56,
+      "order": 5
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "Phase 1. Preprocessing (G, L) ",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "Phase 2. Reduce the number of distinct sets A(i, j) ",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "Phase 3. Reduce to the case where vertices of A1 have the same list ",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "2 THE PROOF OF THEOREM 1 ",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 170,
+      "label": "section-title",
+      "text": "Phase 4. Reduce to a set of instances of 2-List Colouring ",
+      "parent_id": 170,
+      "order": 6
+    },
+    {
+      "id": 237,
+      "label": "section-title",
+      "text": "3 The Pro of of Corollary 1 ",
+      "parent_id": 237,
+      "order": 6
+    },
+    {
+      "id": 243,
+      "label": "section-title",
+      "text": "4 Conclusions ",
+      "parent_id": 243,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 249,
+      "order": 6
+    }
+  ]
+}

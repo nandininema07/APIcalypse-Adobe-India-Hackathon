@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "公民参与：激活人大预算监督职能的新推力",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、人大行使预算监督职能的法理基础",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "二、公民参与：预算监督的民意诉求",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "三、人大主导下的公民参与：预算监督的新图景",
+      "parent_id": 15,
+      "order": 3
+    }
+  ]
+}

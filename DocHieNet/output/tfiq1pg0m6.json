@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "动力的高新产业集群，以企业为主体，鼓励产学研联合，鼓励在2020年度高新技术领域第二批重点研发计划项目申报指南高新技术产业园区、产业化示范基地和各市(州)布局重大产业",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、总体绩效目标",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "二、资金支持方式",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "三、支持类型和经费",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "四、实施周期",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "五、支持重点",
+      "parent_id": 16,
+      "order": 5
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "(二)软件与信息服务。",
+      "parent_id": 47,
+      "order": 6
+    }
+  ]
+}

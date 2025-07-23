@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "section-title",
+      "text": "Briefcase resource document： Transportation and day and employment services",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Authorizing and billing transportation",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Day training and habilitation (DT&H)-Daily",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "DT&H-15-minute and partial-day",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Employment exploration， development， support， prevocational and adult day services",
+      "parent_id": 12,
+      "order": 4
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Example",
+      "parent_id": 18,
+      "order": 5
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Things to consider when setting a waiver transportation rate",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Additional resources",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

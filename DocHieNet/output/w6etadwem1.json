@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "营销管理与创新实战(CMO))高端班",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "【导言】",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "【课程收益】",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "【师资阵容】",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "【学习时间】",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "【学习地点】",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "【学习费用】",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "【招生对象】",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "【证书颁发】",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "【学员感言】",
+      "parent_id": 69,
+      "order": 6
+    }
+  ]
+}

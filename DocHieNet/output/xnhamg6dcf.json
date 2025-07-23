@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Coastal Flooding",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "About the Indicator",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Key Points",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Indicator Notes",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Data Sources",
+      "parent_id": 39,
+      "order": 5
+    }
+  ]
+}

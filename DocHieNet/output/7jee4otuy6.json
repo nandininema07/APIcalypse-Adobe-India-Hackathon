@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "D I S C R ET E AU T OE NCO D E RS F OR S EQ U E N C E M O DE L S ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "A B S TRACT ",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1 I NT RO DU C TI O N ",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2 TE C HN IQ UE S ",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2.1 DISCRET I ZAT ION B Y IMP ROV E D S EM A NTI C H A S HING ",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.2 GU MB EL - S O F TM A X F O R D I S C RE TIZ ATI O N ",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2.3 AUTO E NCODI N G F U NC TIO N ",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.4 AUTO E NCODI N G S EQUE NC E MOD E L ",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3 EX P E R I M EN TS ",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3.1 DISCRET E S EQUE NC E AUTO E NCOD I N G EFFICIE N C Y ",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.2 S ENSIT I VIT Y T O NOISE ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "3.3 DE C I P H ERING TH E LAT EN T CO D E ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "3.4 MIXE D S A MPL E- B EA M DE C O DING ",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "4 C ON C LU S IO N ",
+      "parent_id": 93,
+      "order": 6
+    }
+  ]
+}

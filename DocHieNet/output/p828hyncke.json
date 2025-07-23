@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "HIGHER EDUCATION AND THE MARKET： FURTHER THOUGHTS AND REFLECTIONS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Academic Success and Widening Participation",
+      "parent_id": 22,
+      "order": 1
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Resourcing",
+      "parent_id": 28,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Importance of Teaching and Learning",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Scholarship Integrity",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Democracy and Service",
+      "parent_id": 35,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "What Is to Be Done?",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Restating and Reinvigorating the Public Purposes of Higher Education",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Tackling Internal Abuses",
+      "parent_id": 60,
+      "order": 6
+    }
+  ]
+}

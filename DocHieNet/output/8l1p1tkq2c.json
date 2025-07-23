@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "厚钢板箱型梁连体牛腿的制作和焊接",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "1、概述",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "2、箱型梁连体牛腿的结构形式及焊接方法",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "2-2.Q420B级钢焊接方法",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "2-3.Q345B级钢焊接方法",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "3.箱型梁连体牛腿的制作和焊接技术难度",
+      "parent_id": 18,
+      "order": 5
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "4.箱型梁连体牛腿的制作与焊接",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "4-2.腹板.上.下盖板的对接焊",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "5.胎架制作",
+      "parent_id": 40,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "古县职业高级中学2020年度中等职业教育质量报告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 45,
+      "label": "title",
+      "text": "年高一招生50人。计算机应用24人，园林绿化26人。古县职业高级中学2020年度中等职业教育质量报告",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "1.学校情况",
+      "parent_id": 46,
+      "order": 2
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "1.2学生情况。",
+      "parent_id": 48,
+      "order": 3
+    }
+  ]
+}

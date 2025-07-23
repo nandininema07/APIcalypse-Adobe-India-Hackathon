@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "IN THE CIRCUIT COURT OF COOK COUNTY, ILLINOIS COUNTY DEPARTMENT, CHANCERY DIVISION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Complaint",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Parties",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Jurisdiction",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Factual Allegations",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "I. The Collective Bargaining Agreement.",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "II. CTU’s repeated threats to illegally strike during the COVID-19pandemic.",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "III. CPS returned to in-person learning for the 2021–2022 school year until CTU voted to refuse to teach in person starting January 5, 2022.",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "IV. The Illinois Educational Labor Relations Act.",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "Count I CTU’s strike is not authorized by Section 13 of the Act or any other provision of Illinois law.",
+      "parent_id": 131,
+      "order": 6
+    }
+  ]
+}

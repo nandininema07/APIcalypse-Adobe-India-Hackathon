@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Object Detection in Videos with Tubelet Proposal Networks ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2. Related work ",
+      "parent_id": 29,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3. Tubelet proposal networks ",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "3.1. Preliminaries on ROI-pooling for regression ",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "3.2. Static object proposals as spatial anchors ",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3.3. Supervisions for tubelet proposal generation ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "3.4. Initialization for multi-frame regression layer ",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "4. Overall detection framework with tubelet generation and tubelet classification ",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "4.1. Efficient tubelet proposal generation ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "4.2. Encoder-decoder LSTM (ED-LSTM) for tem- poral classification ",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "5. Experiments ",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "5.1. Datasets and evaluation metrics ",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "5.2. Base CNN model training ",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "5.3. TPN training and evaluation ",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "5.4. LSTM Training ",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "5.5. Results ",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "6. Conclusion ",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 124,
+      "order": 6
+    }
+  ]
+}

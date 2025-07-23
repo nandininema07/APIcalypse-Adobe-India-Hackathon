@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "天府新区成都建设工程质量安全监督站文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "关于印发《建设工程飞行检查管理暂行办法》的通知",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "title",
+      "text": "建设工程飞行检查管理暂行办法",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "title",
+      "text": "天府新区成都建设工程质量安全监督站飞行检查委托审批表(委托单)",
+      "parent_id": 0,
+      "order": 3
+    }
+  ]
+}

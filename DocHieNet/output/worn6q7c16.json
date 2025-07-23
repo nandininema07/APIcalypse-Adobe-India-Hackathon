@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "HEARING BEFORE THE SUBCOMMITTEE ON GENERAL FARM COMMODITIES AND RISK MANAGEMENT OF THE COMMITTEE ON AGRICULTURE HOUSE OF REPRESENTATIVES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "COMMITTEE ON AGRICULTURE",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "HEARING TO REVIEW THE SOURCE OF DRAMATIC MOVEMENTS IN COMMODITY MARKETS(AGRICULTURE AND ENERGY): A CHANGE IN MARKET FUNDAMENTALS OR INFLUENCE OF INSTITUTIONAL INVESTORS?",
+      "parent_id": 89,
+      "order": 2
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "OPENING STATEMENT OF HON. BOB ETHERIDGE, A REPRESENTATIVE IN CONGRESS FROM NORTH CAROLINA",
+      "parent_id": 95,
+      "order": 3
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "OPENING STATEMENT OF HON. JERRY MORAN, A REPRESENTATIVE IN CONGRESS FROM KANSAS",
+      "parent_id": 104,
+      "order": 4
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "Testimony",
+      "parent_id": 147,
+      "order": 5
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "Written Testimony of Jeffrey Harris, Chief Economist and John Fenton, Director of Market Surveillance Before the Subcommittee on General Farm Commodities and Risk Management, Committee on Agriculture",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "CFTC Mission",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "Overvlew of Current Trends in the Futures Markets",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "Using Data to Oversee the Markets and to Enforce the CEA",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "Speculation in the Commodities Markets",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 189,
+      "label": "section-title",
+      "text": "Impact of institutional Investors",
+      "parent_id": 189,
+      "order": 6
+    },
+    {
+      "id": 205,
+      "label": "section-title",
+      "text": "Agriculture Commodities Overview",
+      "parent_id": 205,
+      "order": 6
+    },
+    {
+      "id": 207,
+      "label": "section-title",
+      "text": "Corn and Soybeans",
+      "parent_id": 207,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "section-title",
+      "text": "Wheat",
+      "parent_id": 215,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "Cotton",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "Energy Products Overview",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 233,
+      "label": "section-title",
+      "text": "Crude Oil",
+      "parent_id": 233,
+      "order": 6
+    }
+  ]
+}

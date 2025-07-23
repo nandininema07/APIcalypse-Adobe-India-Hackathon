@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "基于品牌战略的出版经营机制创新",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "一、以品牌产品为目标，创新人才机制",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "二、以品牌效益为核心，创新激励机制",
+      "parent_id": 27,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "三、以品牌文化为引领，创新发展机制",
+      "parent_id": 37,
+      "order": 3
+    }
+  ]
+}

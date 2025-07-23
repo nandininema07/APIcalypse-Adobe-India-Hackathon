@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Meet-and-Plead The Inevitable Consequence of Crushing Defender Workloads",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "The Effects of Gideon",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "S U A S P O N T E A Judge Comments",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Defender Workloads",
+      "parent_id": 46,
+      "order": 3
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Meet-and-Plead",
+      "parent_id": 57,
+      "order": 4
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "S U A S P O N T E A Judge Comments",
+      "parent_id": 60,
+      "order": 5
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Workload Standards",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Impact Litigation",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Misdemeanors and low-level felonies often receive short shrift.",
+      "parent_id": 90,
+      "order": 6
+    }
+  ]
+}

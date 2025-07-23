@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "可靠性与系统工程学院系统工程(081103)、武器系统与运用工程(082601)学术型硕士研究生培养方案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "一、适用学科",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "二、培养目标",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "三、培养方向",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "四、培养模式及学习年限",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "五、知识和能力结构",
+      "parent_id": 24,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "六、课程设置及学分要求",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.：学位选修课",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "4. r.学分要求",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "七、主要培养环节及基本要求",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "1.制定个人培养计划",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.专业实验",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "3.学术报告",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "八、学位论文及相关工作",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "1. 文献综述与开题报告",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "2.中期检查",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.：学位论文标准与答辩",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "4.成果与发表论文要求",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "九、终止培养",
+      "parent_id": 68,
+      "order": 6
+    }
+  ]
+}

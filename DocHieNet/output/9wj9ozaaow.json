@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "COMMUNICATIONS FOR CASES CLOSED NON-SUCCESSFULLY",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Introductory Message (Same for Success and Non-Success)",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Message containing e-mail link (Success and non-success)",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Follow-up message (to be sent 1 week after e-mail containing Comment Card link， to success and non-success)",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Ouestions for Monthly Cases Closed Comment Card (NON-Success)",
+      "parent_id": 43,
+      "order": 4
+    }
+  ]
+}

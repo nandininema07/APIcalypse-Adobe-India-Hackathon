@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Enhancing Identification of Causal Effects by Pruning ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1. Intro duction ",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2. Definitions ",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "3. ID Algorithm ",
+      "parent_id": 72,
+      "order": 4
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "4. Pruning of Variables ",
+      "parent_id": 85,
+      "order": 5
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "5. Pruning Identifiability Algorithm ",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "6. Examples on Recursive Pruning ",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 218,
+      "label": "section-title",
+      "text": "7. Discussion ",
+      "parent_id": 218,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 231,
+      "order": 6
+    }
+  ]
+}

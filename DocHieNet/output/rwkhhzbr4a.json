@@ -1,0 +1,165 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "THE 2018 CBIE INTERNATIONAL STUDENT SURVEY",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Characteristics",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Deciding to study in Canada",
+      "parent_id": 36,
+      "order": 3
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 56,
+      "order": 4
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 63,
+      "order": 5
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Student success",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "WHAT DO INTERNATIONAL STUDENTS PLAN TO DO AFTER THEIR STUDIES?",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Future citizens",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "Study and work plans",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Dependents",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "Marital status",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "Children",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "Housing",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "INDIGENOUS IDENTITY AND WAYS OF KNOWING",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Indigenous identity",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "EMPLOYMENT",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "Growing and supporting employability",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "Employment experience",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "CONCLUSION NOTES",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "CBIE RESEARCH IN BRIEF",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "Canadian Bureau for International Education",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "ENDNOTES",
+      "parent_id": 185,
+      "order": 6
+    }
+  ]
+}

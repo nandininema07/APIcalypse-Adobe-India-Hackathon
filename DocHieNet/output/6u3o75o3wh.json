@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "关于做好2021年度省重点研发计划项目进入国家视频答辩环节、但未获立项支持的，如本次申报省重点研发申报和推荐工作的通知项目的，符合条件的，同等条件下优先予以立项支持(不计入限额)。",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、项目组织方式",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "二、申报要求",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "(一)申报单位基本要求",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "(二)申报人员基本条件",
+      "parent_id": 27,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(三)申报限项要求",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "三、申报程序和时间安排",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "四、其他事项",
+      "parent_id": 41,
+      "order": 6
+    }
+  ]
+}

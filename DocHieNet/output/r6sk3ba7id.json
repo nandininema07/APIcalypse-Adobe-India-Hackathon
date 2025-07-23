@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "经济及社会理事会",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "title",
+      "text": "与中国第三次定期报告相关的问题清单日***",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "一般性信息",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "二.与《公约》一般条款相关的问题(第一至第五条)",
+      "parent_id": 39,
+      "order": 3
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "自由处置天然财富和资源的权利(第一条第二款)",
+      "parent_id": 40,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "尽最大能力(第二条第一款)",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "不歧视(第二条第二款)",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "男女享有平等权利(第三条)",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "三.与《公约》具体条款相关的问题(第六至第十五条)",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "工作权(第六条)",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "公正良好的工作条件权(第七条)",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "工会权利(第八条)",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "社会保障权(第九条)",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "保护家庭和儿童(第十条)",
+      "parent_id": 78,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "doi：10.3969/j.issn.1672-626x.2018.03.008",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "显示，95%的农民没有参加过任何形式的劳动技能培训，懂得如何正确使用农药的农民不足三分之一。因财政支农资金结构、人力资本与农民收入增长此，农村居民匮乏的人力资本严重制约着财政支农资金效益的进 一步发挥，而\"亲生产性\"的财政支农资金",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "一、引言",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "二、财政支农与农户收入：理论及现实",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "三、财政支农与农民收入增长实证研究",
+      "parent_id": 44,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "(一)数据与变量",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "(二)面板误差修正模型",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "1.单位根检验",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "2.协整关系检验",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.模型设定与估计",
+      "parent_id": 64,
+      "order": 6
+    }
+  ]
+}

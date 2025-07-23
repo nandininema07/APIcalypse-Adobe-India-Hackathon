@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "与生态环境耦合[15-17]。城镇化与生态环境之间呈现复杂的非线性交互耦合关系，内部作用城镇化与生态环境耦合动态模拟理论及方法机制复杂，且阶段性与空间差异性特征显著[18-19]。根据不同区域的历史数据，诸多学者定的研究进展量测度了城镇化与生态环境的耦合规律，发现其呈现双指数[20-21]或倒\"U\"型[22]等曲线形",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1引言",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2城镇化与生态环境耦合动态模拟的理论研究进展",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "2.1地理系统观：人地系统可持续性理论",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.2城市复合系统观：城市社会一生态系统理论",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.3复杂系统观：复杂系统理论",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.41多尺度耦合：人类与自然耦合系统理论",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2.5跨区域耦合：近远程耦合框架",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.6理论研究评述",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3城镇化与生态环境耦合动态模拟的方法研究进展",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3.11系统动力学(SD)动态模拟技术",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "3.2人工智能模拟技术",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "单位在基于良好信誉签发法定证书时享受责任豁免。在1990年\"斯堪地纳维亚之星\"一案中，法院即援引该条免除了船级社的责任。中国船级社法律责任探析",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "一、中国船级社的主要业务",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "(一)法定检验",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(二)入级检验",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "(三)鉴证和公证检验",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "二、船级社的法律责任",
+      "parent_id": 16,
+      "order": 5
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "(一)法定检验时船级社的责任",
+      "parent_id": 17,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "关船检机构和验船人员的经济责任。",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "(二)入级检验、公证检验时船级社的责任",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1、船级社与船东之间的合同是其责任依据",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2、船级社在合同中的默示义务",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "三、船级社对第三人的责任",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

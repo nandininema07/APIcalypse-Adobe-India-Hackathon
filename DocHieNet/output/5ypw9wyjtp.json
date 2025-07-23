@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Climate Change and the Health of Indigenous Populations",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Climate Change and Culture",
+      "parent_id": 46,
+      "order": 1
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "An Urban Perspective",
+      "parent_id": 48,
+      "order": 2
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Learn More",
+      "parent_id": 54,
+      "order": 3
+    }
+  ]
+}

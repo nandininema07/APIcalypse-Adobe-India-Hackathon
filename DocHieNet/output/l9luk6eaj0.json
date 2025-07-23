@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "STATEMENT O F OFFENSE",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "The Attack at the U.S. Capitol on January 6， 2021",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "O'BRIEN's Participation in the January 6， 2021， Capitol Riot",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "D EFENDAN T 'S AC KN OWL ED GMENT",
+      "parent_id": 53,
+      "order": 4
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "A TTORNE Y 'S ACK NOWL E DGMENT",
+      "parent_id": 57,
+      "order": 5
+    }
+  ]
+}

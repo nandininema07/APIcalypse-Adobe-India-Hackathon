@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "赣州高速和顺实业有限责任公司绿境方洲项目广告服务询价采购文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "第一章赣州高速和顺实业有限责任公司绿境方洲项目广告服务询价采购公告",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、询价条件",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "二、采购内容及要求",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "三、本次询价的控制价上限及要求",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "四、履约担保及费用的支付",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "五、报价人资格要求",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "六、报价文件组成",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "八、报价文件的密封和标识",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "九、报价文件的递交及相关事宜",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "十、报价文件的开启程序",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "十一、公示",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "十二、联系方式",
+      "parent_id": 56,
+      "order": 6
+    }
+  ]
+}

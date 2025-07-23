@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "输出电压反馈的双环定频控制策略，以便通过适应宽电压输入的两级式DC/DC变换器",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "Two-stage DC/DC Converter with Wide Voltage Input",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "1两级式功率拓扑",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1.1变换器构成",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "1.2控制策略",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2变换器设计要点",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.1Buck/Boost双模式控制",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "2.2LLC谐振变换器",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "3数字实现",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "4实验验证",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "5结论",
+      "parent_id": 101,
+      "order": 6
+    }
+  ]
+}

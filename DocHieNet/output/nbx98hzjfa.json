@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Osaka University Knowledge Archive ： OUKA",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": " temperature by 15 K. According to Ikawa et al.4) retainedInvestigation of Metallography and Behavior of",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": " austenite promotes initiation and M-A Constituent in Weld HAZ of HSLA Steels propagation of the",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Ivan HRIVNAK*， Fukuhisa MATSUDA**， Zhonglin LI***， Kenji IKEUCHI****",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "and Hitoshi OKADA*****",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.Introduction",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2. Experimental Procedures",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3. Experimental Results",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3.1 Metallography of M-A Constituent",
+      "parent_id": 51,
+      "order": 6
+    }
+  ]
+}

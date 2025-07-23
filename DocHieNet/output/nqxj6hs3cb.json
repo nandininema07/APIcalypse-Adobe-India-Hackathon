@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "新时代彝语文翻译的功能及发展方向",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "引言",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "和国家的重要思想理论和方针政策起到了积极作用。一、彝语文翻译的历史脉络及整体情况",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "二、新时代彝语文翻译的功能",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "(一)新时代彝语文翻译的宣传功能",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "(二)新时代下彝语文翻译的服务功能",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(三)新时代彝语文翻译的凝心聚力功能",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "三、新时代彝语文翻译的发展方向",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "(一)加强翻译队伍建设，提高翻译主体的政治素质和业务素质",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "(二)拓宽翻译客体的选择面，以工匠精神打造翻译精品",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "(三)创新翻译成果传播途径，提高翻译的宣传效率",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

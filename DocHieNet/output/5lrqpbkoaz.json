@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Jurgen Cappel， Matthias Weinberg and Rheinhold Flender：",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Market volume and market shares",
+      "parent_id": 24,
+      "order": 1
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "The processing of roller-bearing steel production of highly sensitive grades is also possible in",
+      "parent_id": 34,
+      "order": 2
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "The production of roller-bearing steel",
+      "parent_id": 45,
+      "order": 3
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Quality requirements",
+      "parent_id": 80,
+      "order": 4
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Quality achieved",
+      "parent_id": 95,
+      "order": 5
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Prospects",
+      "parent_id": 101,
+      "order": 6
+    }
+  ]
+}

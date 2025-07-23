@@ -1,0 +1,200 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "时，劳动者应当服从安排按时返岗。因交通管制等原因劳动者无法按时返岗的，佛山市2020年度十大劳动争议案例",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "案例一、劳动者因疫情影响无法按时返岗复工的应履行请假手续并提供相关证明",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "案情简介",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "仲裁结果",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "争议焦点",
+      "parent_id": 10,
+      "order": 4
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "案件评析",
+      "parent_id": 12,
+      "order": 5
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "案例二、劳动者从疫情严重地区返程应遵守属地疫情防控规定",
+      "parent_id": 17,
+      "order": 6
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "案情简介",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "仲裁结果",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "争议焦点",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "案件评析",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "案例三、用人单位受疫情影响短期内可采取轮岗轮休方式工作",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "案情简介",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "仲裁结果",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "争议焦点",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "案件评析",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "案例四、用人单位不得以劳动者违反计划生育政策为由解除劳动关系",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "案情简介",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "仲裁结果",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "争议焦点",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "案件评析",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "案例五、虚假劳动仲裁将承担相应法律后果",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "案情简介",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "仲裁结果",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "争议焦点",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "案件评析",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "案例六、劳动者参与赌博并影响用人单位生产经营秩序可予辞退",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "案情简介",
+      "parent_id": 65,
+      "order": 6
+    }
+  ]
+}

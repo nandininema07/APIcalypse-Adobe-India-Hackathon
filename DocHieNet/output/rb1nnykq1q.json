@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 19,
+      "label": "title",
+      "text": "Vice Admiral Nathan Visits NMCPHC-Sets the Tone for Public Health Delivery Navy-wide",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "PORTSMOUTH Va.- —",
+      "parent_id": 23,
+      "order": 1
+    },
+    {
+      "id": 38,
+      "label": "title",
+      "text": ".From the CO's Desk",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 47,
+      "order": 3
+    },
+    {
+      "id": 55,
+      "label": "title",
+      "text": "CMC Corner",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 67,
+      "label": "title",
+      "text": "Future Surface Warfare Medical Officers Get the Facts on Sexual Health and Responsibility",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 83,
+      "label": "title",
+      "text": "Navy Environmental Preventive Medicine Unit Six (NEPMU6) Provides Korean Navy RIMPAC Force Health Protection Support",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "title",
+      "text": "Future Surface Warfare Medical Officers Get the Facts on Sexual Health and Responsibility",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "title",
+      "text": "USS George H.W. Bush Physician Recognized for Contributions to Navy Public Health",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "title",
+      "text": "Military Sealift Command Adopts Navy’s Tool for Assessing Healthy Behavior",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "title",
+      "text": "The U.S. Navy Systematic Biological Collection: 350,000 Specimens and Growing",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "title",
+      "text": "USS George H.W. Bush Physician Recognized for Contributions to Navy Public Health",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "title",
+      "text": "Navy Environmental Preventive Medicine Unit Six(NEPMU6) Provides Korean Navy RIMPAC Force Health Protection Support",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 189,
+      "label": "section-title",
+      "text": "CMC Corner",
+      "parent_id": 189,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "what they need,” said Nathan.",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "title",
+      "text": "Military Sealift Command Adopts Navy’s Tool for Assessing Healthy Behavior",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 224,
+      "label": "title",
+      "text": "The U.S. Navy Systematic Biological Collection: 350,000 Specimens and Growing",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 234,
+      "label": "title",
+      "text": "Navy Environmental Preventive Medicine Unit Two Hosts U.S. Navy Surgeon General",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

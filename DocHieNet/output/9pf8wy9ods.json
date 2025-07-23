@@ -1,0 +1,480 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "2007 ANNUAL",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "• The AMLA",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Salient features of the AMLA",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "• The AMLC",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Functions of the AMLC",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Section 7 of the AMLA authorizes the AMLC:",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "• Offenses Under the AMLA",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "• Covered institutions/Reporting ent i ties",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "• Reportable Transactions Submitted to the AMLC",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "• The AMLC and the other International Bodies",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "AMLC ANNUAL REPORT (as of 31 December 2007)",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "1. Steps taken to implement Anti-Money Laundering/Combating the financing of terrorism (AML/CFT) standards",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "(a) Policy/coordination developments",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "(b) Le gi slative developments",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Salient Features:",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "Regulatory de velopments",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "(d) La w e nforcement",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "(e) I nternational cooperation developments",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "2.Training, technical assistance and other capacity building initiatives",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "(a) Brief description of AMLC-provided training",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "(b) Brief description of assistance received by the AMLC and other relevant government agencies",
+      "parent_id": 128,
+      "order": 6
+    },
+    {
+      "id": 156,
+      "label": "section-title",
+      "text": "OTA-sponsored training:",
+      "parent_id": 156,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "(C) Scholarships/Courses/Trainings/Seminars/Workshops",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 218,
+      "label": "section-title",
+      "text": "(d) Brief description of assistance needed during the next twelve (12) months.",
+      "parent_id": 218,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "3. FUNCTIONS OF THE AMLC",
+      "parent_id": 225,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": "A. Covered and Suspicious Transaction Reporting",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "i. Total Number of covered transactions (CTs)/ suspicious transactions (STs) for 2007",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "ii. Number of Cases filed in 2007 vis-a-vis the STRs/CTRs Investigated.",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "section-title",
+      "text": "B. Investigationandprosecutionncoffmoneylaundering,,Ccivil forfeiture and related cases",
+      "parent_id": 254,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "Under the AMLA, the AMLC is authorized to investigate suspicious transactions and covered transactions deemed suspicious after an investigation by AMLC, money laundering activities and other violations of the AMLA (Section 7 [5], AMLA as amended).",
+      "parent_id": 255,
+      "order": 6
+    },
+    {
+      "id": 256,
+      "label": "section-title",
+      "text": "To guide its Secretariat in the conduct of its AML/CFT investigations, the AMLC authorized its Secretariat to investigate money laundering and related offenses prompted and d triggered by the following transactions and/or circumstances:",
+      "parent_id": 256,
+      "order": 6
+    },
+    {
+      "id": 257,
+      "label": "section-title",
+      "text": "a) Suspicious Transaction Reports (STRs);",
+      "parent_id": 257,
+      "order": 6
+    },
+    {
+      "id": 258,
+      "label": "section-title",
+      "text": "b) Covered Transaction Reports that are orr( can be materially linked to any specified unlawful lactivity, S s L uspicious transaction, money laundering activities and/or other AMLA-related violations;",
+      "parent_id": 258,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "c))Referrals by Supervisory Authorities, law enforcement and other agencies on possible money laundering activities/offenses and other violations of the AMLA;",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 260,
+      "label": "section-title",
+      "text": "d ) ) Subject to the rules on reciprocity, referrals by foreign jurisdictions/states, agencies or FIUs involving possible money laundering activities/offenses, provided, that the predicate offenses upon which the possible money laundering activities/offenses are based are of similar nature to the unlawful activities under the AMLA, as amended;",
+      "parent_id": 260,
+      "order": 6
+    },
+    {
+      "id": 261,
+      "label": "section-title",
+      "text": "e) Newspaper or media reports of money laundering activities which contain sufficient leads or particulars to warrant the taking of further action, provided that the predicate offense can be sufficiently established by the following: (i) proof of its ongoing investigation by the concerned law enforcement agency; (ii) the filing of the corresponding criminal information; or ( iii) the pendency of the criminal case for the predicate offense;",
+      "parent_id": 261,
+      "order": 6
+    },
+    {
+      "id": 262,
+      "label": "section-title",
+      "text": "f)(Citizens’ sworn complaints relating to money laundering activities and/or other violations of the AMLA, provided the conditions under paragraph (e) above are met with regard to sufficient leads andproof of the predicate offense;",
+      "parent_id": 262,
+      "order": 6
+    },
+    {
+      "id": 277,
+      "label": "section-title",
+      "text": "C. Comparative Statistics for 2007 and 2006",
+      "parent_id": 277,
+      "order": 6
+    },
+    {
+      "id": 278,
+      "label": "section-title",
+      "text": "i. Cases filed.",
+      "parent_id": 278,
+      "order": 6
+    },
+    {
+      "id": 280,
+      "label": "section-title",
+      "text": "ii. Terminated Cases",
+      "parent_id": 280,
+      "order": 6
+    },
+    {
+      "id": 282,
+      "label": "section-title",
+      "text": "iii. Court Authorized Inquiry",
+      "parent_id": 282,
+      "order": 6
+    },
+    {
+      "id": 288,
+      "label": "section-title",
+      "text": "D. Cumulative Statistics as of 31 December 2007",
+      "parent_id": 288,
+      "order": 6
+    },
+    {
+      "id": 289,
+      "label": "section-title",
+      "text": "i. Number of active money laundering, civil forfeiture and related cases",
+      "parent_id": 289,
+      "order": 6
+    },
+    {
+      "id": 293,
+      "label": "section-title",
+      "text": "ii. Number of Terminated Cases",
+      "parent_id": 293,
+      "order": 6
+    },
+    {
+      "id": 298,
+      "label": "section-title",
+      "text": "i. Amount of funds / bank deposits frozen",
+      "parent_id": 298,
+      "order": 6
+    },
+    {
+      "id": 300,
+      "label": "section-title",
+      "text": "IV. Real Properties subject of Civil Forfeiture Cases",
+      "parent_id": 300,
+      "order": 6
+    },
+    {
+      "id": 302,
+      "label": "section-title",
+      "text": "v. Number of inquiries/examinations conducted in various banks (without court order)",
+      "parent_id": 302,
+      "order": 6
+    },
+    {
+      "id": 304,
+      "label": "section-title",
+      "text": "vi. Number of inquiries/examinations conducted in various banks (with court order)",
+      "parent_id": 304,
+      "order": 6
+    },
+    {
+      "id": 307,
+      "label": "section-title",
+      "text": "E. Compliance and Enforcement",
+      "parent_id": 307,
+      "order": 6
+    },
+    {
+      "id": 310,
+      "label": "section-title",
+      "text": "i. Resolved administrative matters under investigation",
+      "parent_id": 310,
+      "order": 6
+    },
+    {
+      "id": 312,
+      "label": "section-title",
+      "text": "ii. Number of pending administrative matters",
+      "parent_id": 312,
+      "order": 6
+    },
+    {
+      "id": 314,
+      "label": "section-title",
+      "text": "4. APG Typologies - method and trends",
+      "parent_id": 314,
+      "order": 6
+    },
+    {
+      "id": 315,
+      "label": "section-title",
+      "text": "(a ) ) ML/TF Typologies Identified",
+      "parent_id": 315,
+      "order": 6
+    },
+    {
+      "id": 316,
+      "label": "section-title",
+      "text": "• Swindling/Fraud",
+      "parent_id": 316,
+      "order": 6
+    },
+    {
+      "id": 323,
+      "label": "section-title",
+      "text": "• Narcotics/Illegal Drugs",
+      "parent_id": 323,
+      "order": 6
+    },
+    {
+      "id": 327,
+      "label": "section-title",
+      "text": "5. NPO Sector domestic review",
+      "parent_id": 327,
+      "order": 6
+    },
+    {
+      "id": 332,
+      "label": "section-title",
+      "text": "(b) Agencies involved in planning/undertaking the NPO sector review",
+      "parent_id": 332,
+      "order": 6
+    },
+    {
+      "id": 334,
+      "label": "section-title",
+      "text": "(c) Technical assistance required for completion of the NPO sector review",
+      "parent_id": 334,
+      "order": 6
+    },
+    {
+      "id": 336,
+      "label": "section-title",
+      "text": "(d) Interim findings of partially completed reviews",
+      "parent_id": 336,
+      "order": 6
+    },
+    {
+      "id": 338,
+      "label": "section-title",
+      "text": "• Definitions",
+      "parent_id": 338,
+      "order": 6
+    },
+    {
+      "id": 343,
+      "label": "section-title",
+      "text": "• Supervising/Regulatory Authority",
+      "parent_id": 343,
+      "order": 6
+    },
+    {
+      "id": 355,
+      "label": "section-title",
+      "text": "(e) Key findings for completed reviews",
+      "parent_id": 355,
+      "order": 6
+    },
+    {
+      "id": 357,
+      "label": "section-title",
+      "text": "6. Computerization Project",
+      "parent_id": 357,
+      "order": 6
+    },
+    {
+      "id": 358,
+      "label": "section-title",
+      "text": "a. AMLC'STransactionMonitoring and AnalysisSystem (TMAS)",
+      "parent_id": 358,
+      "order": 6
+    },
+    {
+      "id": 364,
+      "label": "section-title",
+      "text": "b. Network & Communications Infrastructure",
+      "parent_id": 364,
+      "order": 6
+    },
+    {
+      "id": 366,
+      "label": "section-title",
+      "text": "c. Support Applications",
+      "parent_id": 366,
+      "order": 6
+    },
+    {
+      "id": 368,
+      "label": "section-title",
+      "text": "7. Future priorities/planned initiatives",
+      "parent_id": 368,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "LENDER-PLACED INSURANCE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Why GAO Did This Study",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "What GAO Recommends",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "title",
+      "text": "LENDER-PLACED INSURANCE",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "What GAO Found",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Abbreviations",
+      "parent_id": 29,
+      "order": 5
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "The LPI Process",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "Differences between LPI and Borrower- Purchased Insurance",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "Role of State Insurance Regulators",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "Regulators",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "Tracking and Notification Processes Identify a Small Percentage of Mortgages Requiring LPI",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "LPI Is Most Often Placed on Non-Escrowed Mortgages When Borrowers Stop Paying Required Homeowners Insurance Premiums",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "Insurers Said They Refund Premiums on about 10 Percent of Policies",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "FEMA Offers Flood LPI, but Servicers Prefer Private Coverage",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "Stakeholders’ Views on LPI Rates and Practices Were Mixed",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "Industry Officials Provided a Number of Reasons for LPI’s Higher Premium Rates",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 198,
+      "label": "section-title",
+      "text": "Stakeholders’ Views Differed on the Appropriateness of LPI Premium Rates",
+      "parent_id": 198,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "Some Consumer Advocates and State Regulators Said Several Factors Resulted in Higher Rates and Other Practices That Harmed Consumers, but Industry Officials Disagreed",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 219,
+      "label": "section-title",
+      "text": "Some State and Federal Regulators Have Taken Actions Related to LPI, but Incomplete Data Limit Oversight",
+      "parent_id": 219,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "section-title",
+      "text": "State Oversight of LPI Varies",
+      "parent_id": 220,
+      "order": 6
+    },
+    {
+      "id": 262,
+      "label": "section-title",
+      "text": "Federal Regulators Have Long-standing Procedures for Overseeing Servicers’Flood LPI Activities and Are Implementing Recent Regulatory Changes for Homeowners LPI",
+      "parent_id": 262,
+      "order": 6
+    },
+    {
+      "id": 293,
+      "label": "section-title",
+      "text": "Insurer Data for Assessing the LPI Industry Are Unreliable Despite Efforts to Collect More Complete and Consistent Data",
+      "parent_id": 293,
+      "order": 6
+    },
+    {
+      "id": 310,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 310,
+      "order": 6
+    },
+    {
+      "id": 312,
+      "label": "section-title",
+      "text": "Recommendations for Executive Action",
+      "parent_id": 312,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "Agency Comments",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 328,
+      "label": "title",
+      "text": "Appendix I: Objectives, Scope, and Methodology Methodology",
+      "parent_id": 328,
+      "order": 6
+    },
+    {
+      "id": 346,
+      "label": "title",
+      "text": "ANaptpieonnadil xC IrI:e dCito mUnmioenn tsA dfrmoimni tshtreation National Credit Union Administration",
+      "parent_id": 346,
+      "order": 6
+    },
+    {
+      "id": 365,
+      "label": "title",
+      "text": "Appendix III: GAO Contact and Staff Acknowledgments Acknowledgments",
+      "parent_id": 365,
+      "order": 6
+    },
+    {
+      "id": 366,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 366,
+      "order": 6
+    },
+    {
+      "id": 368,
+      "label": "section-title",
+      "text": "Acknowledgments",
+      "parent_id": 368,
+      "order": 6
+    },
+    {
+      "id": 371,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 371,
+      "order": 6
+    },
+    {
+      "id": 373,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 373,
+      "order": 6
+    },
+    {
+      "id": 375,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 375,
+      "order": 6
+    },
+    {
+      "id": 379,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 379,
+      "order": 6
+    },
+    {
+      "id": 384,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 384,
+      "order": 6
+    },
+    {
+      "id": 389,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 389,
+      "order": 6
+    },
+    {
+      "id": 391,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 391,
+      "order": 6
+    }
+  ]
+}

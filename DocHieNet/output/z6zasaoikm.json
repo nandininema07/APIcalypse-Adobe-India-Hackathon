@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Hamiltonian formulation towards minimization of viscous fluid fingering ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "I. INTRODUCTION ",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "II. FINGERING MINIMIZATION IN ",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "HELE-SHAW CELLS ",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "A. Hamiltonian formulation and exact solution for ",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Q(t) ",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "B. Comparing the exact Hamiltonian solution with ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "the approximate Lagrangian solution ",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "III. FINGERING MINIMIZATION IN 3D ",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "POROUS MEDIA ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "A. Hamiltonian formulation and exact solution for ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Q(t) ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "B. Comparing the exact Hamiltonian solution with ",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "the approximate Lagrangian solution ",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "IV. CONCLUDING REMARKS ",
+      "parent_id": 105,
+      "order": 6
+    }
+  ]
+}

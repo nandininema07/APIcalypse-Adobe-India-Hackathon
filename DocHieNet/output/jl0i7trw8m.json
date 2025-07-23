@@ -1,0 +1,249 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Wavelet Monte Carlo dynamics: a new algorithm for simulating the ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "hydrodynamics of interacting Brownian particles ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "I. INTRODUCTION ",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "I I. NOTE ON SYSTEMS, UNITS AND HARDWARE ",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "I II. METHOD SKETCH AND MOTIVATION ",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "IV. MOBILITY TENSORS ",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "A. Wavelet representation of the Oseen tensor ",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "V. DESCRIPTION OF THE WAVELET METHOD ",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "A. Choice of mother wavelet ",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "B. Distributions of wavelet orientation and centres ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "C. Choosing the wavelet amplitude ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "D. Distribution of wavelet radii ",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "E. Time evolution per move ",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "F. Computational cost ",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "1. Cost of homogeneous systems ",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "2. Cost of fractal systems ",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "G. Effect of λmin and λmax on the mobility tensor ",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "VI. ADAPTATION TO INCLUDE FOURIER MOVES ",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "A. Choosing plane wave amplitude ",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "B. Distributions of wavevectors ",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "C. The probability of making a Fourier move ",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "D. Computational cost with Fourier moves ",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "VII. ALGORITHM VALIDATION ",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "A. Chain relaxation ",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "B. Chain diffusivity ",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "C. Finite box effect on self-diffusion ",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "VII I. SUMMARY AND OUTLOOK ",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "Appendix A: Showing the wavelet representation gives the ",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 198,
+      "label": "section-title",
+      "text": "Oseen tensor ",
+      "parent_id": 198,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "Appendix B: Simplifying the wavelet strain energy integr al ",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 208,
+      "label": "section-title",
+      "text": "Appendix C: Derivation of Ow (r; λ′, ∞) ",
+      "parent_id": 208,
+      "order": 6
+    },
+    {
+      "id": 217,
+      "label": "section-title",
+      "text": "Appendix D: Details of generating move parameters ",
+      "parent_id": 217,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "section-title",
+      "text": "Generating a wavelet ",
+      "parent_id": 220,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "Generating a plane wave ",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "Parameter recycling and up dating time ",
+      "parent_id": 238,
+      "order": 6
+    }
+  ]
+}

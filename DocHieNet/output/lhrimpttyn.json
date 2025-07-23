@@ -1,0 +1,333 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "Detoxification and Substance AbuseTreatmen t Trainin g Manua l",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "Based o n A Treatment Im p rovemen t Protocol",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "Detoxification and Substance Abuse Treatment TrainingaManual",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "Based on ATTreatment Improvement Protocol",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Acknowledgments",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Disclaimer",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Public Domain Notice",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Electronic Access and Copies of Publication",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Recommended Citation",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Originating Of",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "title",
+      "text": "TIP 45: Detoxifciation and Substance Abuse Treatment Training and ManuallOverview",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "I. TIP 45 Training Purpose",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "II. Background on Treatment Improvement Protocols(TIPs)",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "A.What is a TIP?",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "B. How is a TIP Developed?",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "C. How to Access the TIP Series",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "III. TIP 45 Training Rationale",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "IV. TIP 45 Training Goals",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "V.T TIP 45 Training Overview",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "A. Modular Approach",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "B.Target Audience",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "C. Training Delivery Options",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "D.Trainer-to-Participant Ratio and Trainer Qualifciations",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "E.Training Logistics",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "title",
+      "text": "F. Cultural Considerations",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "G.EEvaluation",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "VI. Training Manual Design",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "VII.TTrainer’s Role and Responsibilities",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "title",
+      "text": "Module 1::Overview, Essential Concepts and Definitions in Detoxifciation",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "Learning Objectives",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "TIP 45 References",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 188,
+      "label": "section-title",
+      "text": "Total Time to Deliver Module",
+      "parent_id": 188,
+      "order": 6
+    },
+    {
+      "id": 196,
+      "label": "section-title",
+      "text": "Training Equipment and Supplies",
+      "parent_id": 196,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "Participant Materials",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 207,
+      "label": "section-title",
+      "text": "I.Welcome and Introductions",
+      "parent_id": 207,
+      "order": 6
+    },
+    {
+      "id": 208,
+      "label": "section-title",
+      "text": "A.TrainerIIntroductions",
+      "parent_id": 208,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "B. Participant Introductions",
+      "parent_id": 223,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "II. Training Process and Training Goals",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": "A.Training Process",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 235,
+      "label": "section-title",
+      "text": "B.Training Goals",
+      "parent_id": 235,
+      "order": 6
+    },
+    {
+      "id": 251,
+      "label": "section-title",
+      "text": "III.Housekeeping,,Ground Rules, and Participant Expectations",
+      "parent_id": 251,
+      "order": 6
+    },
+    {
+      "id": 252,
+      "label": "section-title",
+      "text": "A. Housekeeping",
+      "parent_id": 252,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "B. Ground Rules",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "C. Participant Expectations",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 278,
+      "label": "section-title",
+      "text": "IV.IIntroduction to Module 1",
+      "parent_id": 278,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "V. Module 1 Objectives",
+      "parent_id": 292,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "VI. History of Detoxifciation Services",
+      "parent_id": 299,
+      "order": 6
+    }
+  ]
+}

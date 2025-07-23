@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "ANIMAL.EXPORT INSPECTION FACILITIES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "ANIMAL EXPORT INSPECTION FACILITIES",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "FACILITY COMPONENTS",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "General Considerations",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Building",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Truck Dock",
+      "parent_id": 38,
+      "order": 5
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Scales",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Alleyways",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Holding Pens",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Fences",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Gates",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "INSPECTION AREA",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "Crowding Pen",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "Squeeze Chute Pen",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "Squeeze Chute",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "Veterinary Work Area",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "Reject (Detention) Pen",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "CLEANING AND SANITIZING",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "LIGHTING",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "OTHER AREAS",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "Feed Storage",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "Water and Feed Troughs",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "Ofice",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 170,
+      "label": "section-title",
+      "text": "Restroom",
+      "parent_id": 170,
+      "order": 6
+    }
+  ]
+}

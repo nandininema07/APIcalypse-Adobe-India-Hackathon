@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "2021年信息化项目一富阳区交通信号控制系统提升改造项目",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "公开招标文件",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "title",
+      "text": "第一章招标公告",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "一、项目名称：2021 年信息化项目一富阳区交通信号控制系统提升改造项目",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "二、项目编号：ZJJJFY-20210914001",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "三、采购方式：公开招标",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "四、采购内容及数量：(详见采购需求)",
+      "parent_id": 20,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "五、合格投标人的资格要求",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "七、电子招投标的说明",
+      "parent_id": 46,
+      "order": 6
+    }
+  ]
+}

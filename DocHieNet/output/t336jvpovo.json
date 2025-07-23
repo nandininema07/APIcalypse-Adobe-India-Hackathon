@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "第一条合作模式",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "第二条合作内容",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "第三条产品的订单",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "第四条产品的质量",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "第五条产品的价格及开票",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "第六条付款方式",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "第七条产品的运输",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "第八条产品的交付及验收",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "第十条不可抗力",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "第十一条其它条款",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

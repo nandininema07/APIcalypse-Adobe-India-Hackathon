@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Conflicts of Interest and the President",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "I. OVERVIEW",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "II. THE PRESIDENT-ELECT’S PLAN",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Leadership and Management of The Trump Organization",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Status of President-Elect Trump’s Investments",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Status of The Trump Organization’s Deals and Rules for Entering into New Deals",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Further Measures Taken to Isolate President-Elect Trump from The Trump Organization",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "III. THE FOREIGN EMOLUMENTS CLAUSE",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

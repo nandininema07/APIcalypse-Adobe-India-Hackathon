@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "LAW OF THE REPUBLIC OF BELARUS of December 25，2005 No 77-3",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "CHAPTER1GENERAL PROVISIONS",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Article 1. Main terms used in the present Law and their definitions",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Article 2. Legal regulation of relations in the field of quarantine and plant protection",
+      "parent_id": 42,
+      "order": 3
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "Article 3. Subjects of relations in the field of quarantine and plant protection",
+      "parent_id": 50,
+      "order": 4
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Article 4. Objects of relations in the field of quarantine and plant protection",
+      "parent_id": 54,
+      "order": 5
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "Article 5. Quarantine and plant protection principles",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Article 6. Measures to ensure quarantine and plant protection",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Article 7. Obligations of legal entities， individuals， including individual entrepreneurs， in the field of quarantine and plant protection",
+      "parent_id": 82,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "的信息得到一个合理合法的共享和传播空间。上述两种情形因为数字化方式的不同其所面临的版权受侵风险也有所学术期刊数字化面临的不同，本文主要讨论期刊数据库数字化中可能出现的侵权著作权侵权风险及其规避f-",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 21,
+      "label": "title",
+      "text": "2011年第12期",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "一、学术期刊数字化侵犯著作权的风险",
+      "parent_id": 23,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "1.侵犯作品信息网络传播权的风险",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2.侵犯期刊社保护作品完整权的风险",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "二、侵权风险的规避",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "title",
+      "text": "2011年第12期",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "title",
+      "text": "编辑眼光看选题",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "问题一：确定选题的三原则",
+      "parent_id": 60,
+      "order": 6
+    }
+  ]
+}

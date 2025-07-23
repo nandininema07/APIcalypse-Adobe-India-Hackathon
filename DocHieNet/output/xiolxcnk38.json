@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "认证合同",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1目的",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2认证标准、范围、规模",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "2.1认证审核依据的标准",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.2认证审核范围及人数规模",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "3认证费用",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "4甲方的义务和权利",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "5乙方的义务和权利",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "6合同生效、失效与截止期限",
+      "parent_id": 72,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "文章编号：1003-2053(2015)02-0177-08",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "系在长期内均发挥着支持科技型中小企业自主创新中国科技金融投入对科技创新的作用效果的作用但在短期支持效果方面有较大的差别[7]；基于静态和动态面板数据模型的实证研究",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1文献评述",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2变量选取与模型构建",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.1变量选取及数据说明",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2.2模型构建",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "3实证分析",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "3.1单位根检验和协整检验结果及分析",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "3.2静态面板模型估计结果及分析",
+      "parent_id": 75,
+      "order": 6
+    }
+  ]
+}

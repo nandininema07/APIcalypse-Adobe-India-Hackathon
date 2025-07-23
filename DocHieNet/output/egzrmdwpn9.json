@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Predictability and hierarchy in Drosophila behavior ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "I. INTRODUCTION ",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "II. EXPERIMENTS AND BEHAVIORAL STATES ",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "II I. TRANSITION MATRICES AND NON-MARKOVIAN TIME SCALES ",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "IV. PREDICTABILITY AND HIERARCHY ",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "V. CONCLUSIONS ",
+      "parent_id": 57,
+      "order": 5
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "VI. METHODS ",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "A. Experiments ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "B. Generating Markovian Mo dels ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "C. Predictive Information Bottleneck ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "D. Treeness Index ",
+      "parent_id": 74,
+      "order": 6
+    }
+  ]
+}

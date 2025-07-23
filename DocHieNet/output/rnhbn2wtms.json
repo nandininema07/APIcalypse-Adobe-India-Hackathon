@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "200m³超大型充气机械搅拌式浮选机工业试验研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1工业试验条件",
+      "parent_id": 15,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1.1试验流程",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1.2矿浆试验采样方法",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2工业试验",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.1选别工艺指标对比",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.2浮选机原精尾矿粒度及金属量分布测定及对比",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.3矿浆悬浮能力查定",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.4浮选机功耗测定",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "2.5矿浆条件下充气量测定",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "2.6带负荷启动试验",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "2.7液位自动控制和充气量自动控制系统",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "3工业试验评价",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "title",
+      "text": "RESEARCH ON KYF-200 AIR-FOREED MECHINE THUOUGH COMMERCIAL TEST",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 99,
+      "order": 6
+    }
+  ]
+}

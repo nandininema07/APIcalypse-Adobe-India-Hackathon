@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 9,
+      "label": "title",
+      "text": "THIRD SESSION OF THE INTERGOVERNMENTAL MEETING OF EXPERTS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Preamble",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1. PURPOSES",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Article 1： Purposes",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "The purposes ofthis Convention are：",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1. GENERAL PROVISIONS",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Article 2： Definitions",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "For the purposes ofthis Convention，",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Article 5： [National safeguarding of the intangible cultural heritage]",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Article 5 bis： Title to be defined",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Article 6：/International cooperation]",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Article 7",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "II. COMMITTEES[AND LISTS]",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Article 8： Composition of the International Committee for Intangible Cultural Heritage",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Article 9： Membership ofthe Intangible Cultural Heritage Committee",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "1.",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "Article 10",
+      "parent_id": 91,
+      "order": 6
+    }
+  ]
+}

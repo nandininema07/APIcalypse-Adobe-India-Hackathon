@@ -1,0 +1,221 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "我国煤炭价格机制改革研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "Research into reform of coal price mechanism in China",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1煤炭资源概况",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1.1世界煤炭资源概况",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1.2我国煤炭资源概况",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2国外煤炭资源价格机制及其启示",
+      "parent_id": 32,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3我国煤炭价格改革的历史沿革",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "3.1完全计划价格阶段(1949~1985年)",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3.2多层次计划价格阶段(1985~1992年)",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "3.3煤价市场化过渡阶段(1992~2006年)",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.4煤价完全市场化阶段(2006年至今)产比)只有38年，而澳大利亚为186年，美国为",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "4我国现行煤炭价格机制的缺陷",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "4.1煤炭价格机制不健全",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "4.2煤炭价格构成不合理",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "4.2.11煤炭成本不完全",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "4.2.2煤炭运输费用过高",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4.2.3煤炭行业税费征收不合理",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "4.3煤炭与其他能源比价关系不科学",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "5我国煤炭价格形成机制的消极影响",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "5.1煤炭行业资源利用率偏低",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "5.2忽视。煤炭行业收低支高，增加了国家财政负担",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "5.3下游行业浪费惊人，污染严重",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "5.4增加了调结构、转方式的难度",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "5.5煤炭价格波动较大，影响国民经济平稳健康发展",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "6我国煤炭价格机制改革对策及政策建议",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "6.1坚持市场化改革方向，并辅以必要的宏观调控",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "6.2改革税费体制，实现全成本定价",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "6.3煤炭行业整合，提高集中度",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "6.4煤电就地转化，降低煤炭运输成本",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "6.5建立煤炭电子交易平台和期货市场",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "6.6建立健全国家煤炭储备制度和价格调控基金",
+      "parent_id": 101,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "P.K. Kairigo1，*， P.G.Kareru1，E.S.Madivoli1and F.K.Njonge2 little is still being done to exploit these resource that might ease the burden on our cement industry",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1.Introduction",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1.1 Geopolymers",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1.2 Geopolymer Chemistry and Reaction Mechanism",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.3 Chemical Structure",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "1.4 Geopolymer Development",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2. Materials and Methods",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.1 Sampling",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.2 Determination of Sample Composition by X-RF",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.3 Preparation of Geopolymer Concrete Specimens",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.4 Determination of Compressive Strength of the Blocks",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2.5 Determination of Density of the Blocks",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.6 Determination of Water Absorption",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3. Results and Discussion",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3.1 Soil Moisture Content",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "3.2 Optimization Results",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "3.3 Density",
+      "parent_id": 63,
+      "order": 6
+    }
+  ]
+}

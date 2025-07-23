@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Choosing a Coal Tar-Free Sealcoat:Guidance for property owners and managers",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Asphalt Maintenance Basics",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Deciding to Sealcoat",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Choosing a Sealcoat Product",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Choosing a Safer Alternative",
+      "parent_id": 43,
+      "order": 4
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Best Sealcoat Application Practices",
+      "parent_id": 55,
+      "order": 5
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Application costs",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Working with a sealcoat contractor",
+      "parent_id": 73,
+      "order": 6
+    }
+  ]
+}

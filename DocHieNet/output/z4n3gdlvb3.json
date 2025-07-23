@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "DOI：10.13925/j.cnki.gsxb.20190080",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": " polymerase chain reaction (RT-PCR). Phylogenetic tree was constructed using the MEGA 5.02 software秋姬李'PsMYB18基因克隆与功能分析",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "title",
+      "text": "Molecular cloning and function analysis of PsMYB18 in'Akihime'plumPCR analysis revealed that the expression of PsMYB18 in the fruit peel treated at 20℃ and light was(Prunus salicina Lindl.) significantly enhanced after 3 d of treatment and remained at a high level thereafter. However， no obvi-",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1材料和方法",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "1.1试验材料与处理",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "1.2PsMYB18的克隆与表达载体构建",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "1.3PsMYB18同源性分析",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "1.4PsMYB18的表达分析",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "1.5烟草叶片瞬时表达实验",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2结果与分析",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.1'秋姬李'果皮PsMYB18的发现与表达分析",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "2.2'秋姬李'果皮PsMYB18克隆与序列分析",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "2.3PsMYB18的功能验证",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3讨论",
+      "parent_id": 64,
+      "order": 6
+    }
+  ]
+}

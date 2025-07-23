@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Brief Report: Access to Treatment for Opioid Use Disorders: Medical Student Preparation",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Declaration of Interest",
+      "parent_id": 28,
+      "order": 1
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "REFERENCES",
+      "parent_id": 30,
+      "order": 2
+    }
+  ]
+}

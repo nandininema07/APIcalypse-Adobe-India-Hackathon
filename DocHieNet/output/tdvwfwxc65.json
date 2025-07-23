@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Factors Influencing Food Security among Loan default Farmers in Kwara State, Nigeria",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "METHODOLOGY",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Study Area",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "The model specification was as follows:",
+      "parent_id": 27,
+      "order": 4
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "RESULTS AND DISCUSSIONS",
+      "parent_id": 53,
+      "order": 5
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Result of the Food security status",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Maximum likelihood estimate of food security among defaulting farmers in the study area",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Marginal probability estimates",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "CONCLUSION AND RECOMMENDATIONS",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "REFERENCES",
+      "parent_id": 90,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "我国的宗教旅游资源及深度开发",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "我国的宗教旅游资源",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "以名山、寺庙、洞窟、佛塔为主的佛教旅游资源",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "以主要名山、宫观庙宇、洞窟石刻及遗迹为主的道教旅游资源",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "以清真寺院、著名遗迹为主的伊斯兰教旅游资源",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "4以主要教堂、著名遗迹为主的基督教旅游资源",
+      "parent_id": 38,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "宗教旅游资源开发的意义",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "可以满足信教者开展宗教活动的需求",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "有利于宗教文化艺术的发扬、继承和学习",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "为游客提供更多的观光游览场所",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "进一步开发宗教旅游的对策",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "变资源导向为市场导向",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "变小宗教旅游为大宗教旅游",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "注重开发一批特色宗教旅游项目",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4建立专业化的宗教旅行社企业集团",
+      "parent_id": 61,
+      "order": 6
+    }
+  ]
+}

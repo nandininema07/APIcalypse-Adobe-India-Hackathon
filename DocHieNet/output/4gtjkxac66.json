@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "Analysis of the 3C445 Soft X-ray Spectrum as Observed by ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "Chandra high-energy gratings ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1 INTRODUCTION ",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2 DATA REDUCTION ",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "3 LINE IDENTIFICATION ",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3.1 Radiative Recombination Continua ",
+      "parent_id": 56,
+      "order": 5
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "3.2 He-like Triplets ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "4 MODELING THE LINES ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "4.1 Collisionally Ionized Model ",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "4.2 Photoinization Model ",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "5 RESULTS AND DISCUSSION ",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "6 SUMMARY ",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 104,
+      "order": 6
+    }
+  ]
+}

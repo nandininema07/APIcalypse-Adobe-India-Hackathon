@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "关于做好全市企业疫情防控期间复工生产的通知",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、明确各类主体责任",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "二、企业复工的必备条件",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "三、企业复工前做好各项准备",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "四、企业复工后加强自身管理",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "五、其他相关要求",
+      "parent_id": 36,
+      "order": 5
+    }
+  ]
+}

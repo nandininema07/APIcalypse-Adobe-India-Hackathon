@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "《世界卫生组织烟草控制框架公约》第6条实施准则草案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "准则草案向《世界卫生组织烟草控制框架公约》所有缔约方的评论开放",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "缔约方在2013年6月的起草小组会议之后提交的声明",
+      "parent_id": 28,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "关于准则草案第3.2节\"应用的税率水平\"",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "缔约方会议的建议",
+      "parent_id": 42,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "title",
+      "text": "附件",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 48,
+      "label": "title",
+      "text": "《世界卫生组织烟草控制框架公约》第6条的准则草案",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "1.引言",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "本准则目的",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "指导原则",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "1.1决定烟草税收政策是缔约方的主权",
+      "parent_id": 58,
+      "order": 6
+    }
+  ]
+}

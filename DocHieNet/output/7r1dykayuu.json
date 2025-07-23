@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "海洋环境监测数据处理技术流程与方法研究*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1引言",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "2监测数据处理流程",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "3监测数据分析与处理方法",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "3.1监测数据集标准化处理",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3.1.1上监测任务名称的标准化处理",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "3.1.2组织单位名称的标准化处理",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3.1.3监测区域名称的标准化处理",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "3.1.4监测要素名称的标准化处理",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3.1.5监测参数及单位的标准化处理",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3.1.6站位基础信息的数据类型标准化处理",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3.1.7监测参数不规范类型的处理",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3.2监测数据的齐全性检验",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "3.3站位基础信息数据质量控制",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "3.3.1空间位置检验",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "3.3.22站位基础信息一致性的检测",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "3.3.3数据记录重复的处理",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "3.3.4平行样的处理",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "3.4监测参数数据质量控制",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "3.4.1值域一致性检验",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "3.4.2逻辑一致性检验",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "3.4.3离群点检验",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "3.4.4生物种名检验",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "3.5数据输出",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "4结束语",
+      "parent_id": 102,
+      "order": 6
+    }
+  ]
+}

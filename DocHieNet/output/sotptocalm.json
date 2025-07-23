@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "依托校园文化建设平台推动马克思主义大众化的几点思考",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "一、依托校园文化建设平台推动马克思主义大众化的必要性",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "二、依托校园文化建设平台推动马克思主义大众化的可行性",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "三、依托校园文化建设平台推动马克思主义大众化的媒介载体",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "四、依托校园文化建设平台推动马克思主义大众化的保障机制",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 51,
+      "label": "title",
+      "text": "Reflections on Promoting the Popularity of Marxism Relying on the Platform of Campus Culture Construction",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

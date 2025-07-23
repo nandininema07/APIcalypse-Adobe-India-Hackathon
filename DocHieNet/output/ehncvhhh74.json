@@ -1,0 +1,256 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Aquaculture Waste Environmental Impact Monitoring and Proposed Ameliorative Action Subject to Further Research(revised)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Table of Contents",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.0 Purpose of Report",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "2.0 Executive Summary",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "3.0 Introduction",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "3.1 The Issue",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3.2 The study area",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3.3 Methods and approach",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "4.0 Waste water guidelines",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "4.1 Aquaculture in general for culture",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "4.2 For release on land",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "4.3 For release into sewerage",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "4.4 For release into waterways",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "5.0 Results of Trial",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "5.1 Parameter results",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "5.2 Significant figures",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "6.0 Discussion of results",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "6.1 Compared against guidelines",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "6.1.1 Aquaculture guidelines",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "6.1.2 Wastewater discharge criteria(Into waterways)",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "6.1.3 For release on to land",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "6.1.4 For release into sewerage",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "6.2 Possible causes for significant figures",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "6.2.1 Cadmium",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 135,
+      "label": "section-title",
+      "text": "6.2.2 Nutrients- Phosphorous and Nitrogen",
+      "parent_id": 135,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "6.3 Environmental impact assessment",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "7.0 Sustainability of venture",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "7.1. Overview of system",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "7.2 Environmental assessment overall",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "8.0 Management recommendations",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "8.1 Facility use",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "8.2 Equipment",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "8.3 Waste removal",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 214,
+      "label": "section-title",
+      "text": "9.0 Conclusion",
+      "parent_id": 214,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "10.0 References",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 234,
+      "label": "section-title",
+      "text": "End of Document",
+      "parent_id": 234,
+      "order": 6
+    }
+  ]
+}

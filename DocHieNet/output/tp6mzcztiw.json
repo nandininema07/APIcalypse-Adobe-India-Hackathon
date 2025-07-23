@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Binge Drinkin g",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Binge drinking is a dangerous and costl y public health issue",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "P r oblem",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Binge drinking is a bigger problem than we thought.",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Binge drinking costs everyone.",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "US State Info",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "What Can Be Done",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "US Government can",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "States and communities can",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "People can",
+      "parent_id": 66,
+      "order": 6
+    }
+  ]
+}

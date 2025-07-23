@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "供应链管理在建筑业的应用研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "文章编号：1000-131X(2004) 09-0086-06",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "THE APPLICATION OF SUPPLY CHAIN MANAGEMENT IN CONSTRUCTION INDUSTRY",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1引言",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2建设供应链",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.1建设供应链的定义与模型",
+      "parent_id": 29,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.2建设供应链的特征与属性",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.3建设供应链中存在的问题",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3建设供应链管理",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "4集成化建设供应链管理框架",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "5传统建筑管理方法与CSCM方法的比较",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "6结论",
+      "parent_id": 75,
+      "order": 6
+    }
+  ]
+}

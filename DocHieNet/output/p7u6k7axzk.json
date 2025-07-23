@@ -1,0 +1,151 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "Strategies for Behavioral Health Organizations to Promote New Health Insurance Opportunities",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "In African American Communities",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Outreach and Enrollment Strategies",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1 Understand Your Community’s Preferences",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2Provide a Personal Approach",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "3 Involve Community Members in Outreach",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "4Use Language Familiar to Your Community",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "5 Engage Community Members on Their Own Terms",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "6Make It Easy to Get Help",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "7 Integrate Your Message Into Community Events",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "8 Partner With Community Organizations",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "9Use Media As a Resource",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "10 Address Barriers",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "title",
+      "text": "About the Strategies for Behavioral Health Organizations to Promote New Health Insurance Opportunities Series",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Acknowledgments",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "Disclaimer",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Public Domain Notice",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Electronic Access and Printed Copies",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Recommended Citation",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "Originating Of",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Additional Resources",
+      "parent_id": 64,
+      "order": 6
+    }
+  ]
+}

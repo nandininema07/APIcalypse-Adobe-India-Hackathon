@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "透明的理念，让资金流通达到直接、自由的状态，同时通过数据分析控制信用风险，最大程度地降低违约互联网金融背景下商业银行变与不变的选择",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "一、引言",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "二、互联网金融的内涵",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "(一)广义金融的本质。",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "(二)互联网金融的理想与现实。",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "三、互联网金融对商业银行业务的渗透",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "(一)支付结算类。",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "(二)融资类。",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "(三)投资理财类。",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "四、互联网金融发展趋势",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "(一)互联网进军金融业是水到渠成之举。",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "(二)互联网金融模式还在探索阶段。",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "(三)互联网金融的先天不足制约其发展。",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "(四)互联网金融无法撼动商业银行的霸主地位。",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "五、商业银行应对互联网金融冲击的举措",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "(一)改革派。",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "(二)保守派。",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "六、对商业银行反击互联网金融热潮的冷思考",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "(一)银行电商交易流量有限。",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "(二)银行电商内部管理冗杂。",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "(三)银行电商性价比不高。",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "(四)银行电商免责条款引疑虑。",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "(五)银行电商投资回报率低。",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "七、互联网金融背景下商业银行变与不变的选择",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "(一)以变谋发展。",
+      "parent_id": 104,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "Nat ional Diabetes Fact Shee t",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "What i s d i abetes?",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Pre val e nce of diabetes’ *",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Incidence of diabetes",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Deaths amon g p ersons with diabete s",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Prevalence of diabetes by a g e",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Prevalence of diabetes by sex in p eo pl e 20 years or older *",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Prevalence of diabetes b y race/ethnicity in people 20 years or older *",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "The four typ es of diabete s",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Complications of diabetes",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Heart disease",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Stroke",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "High blood pressure",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "Blindness",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Complications of diabetes (continued)",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Kidney disease",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Nervous system disease",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "A mputations",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "De n ta l disease",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Compl ic at i o ns of pregnancy",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Ot h e r complications",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "C o st",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "New diagnostic criteria for diabetes s ’ *",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Treatment of diabetes",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Impaire d fasting glucose",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "App e n di x",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "How we r e th e estimates in this fact sheet derived?",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Has th e n u m b e r o f persons wi t h diabetes changed since the previous National Diabetes Fact Sheet， w hich was iss u ed i n 1995?",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "R e feren c e s",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "A dd it i onal s ou r c es",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "Acknowledgment s",
+      "parent_id": 125,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "LICENSE AGREEMENT FOR ONLINE CONTENT PROVIDER",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Recitals",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1. Definitions",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2. Certification of Funds； Budget and Fiscal Provisions； Termination in the Event of Non- Appropriation",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3. Term of the Agreement",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "4. Effective Date of the Agreement",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "5. Grant of License",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "6. Delivery/Access of Licensed Materials to Licensee",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "7. Compensation",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "8. Invoice Format",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "9. Authorized Uses",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "10. Access by and Authentications of Authorized Users",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "11. Specific Restrictions on Use of Licensed Materials",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "12. Licensor Performance Obligations",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "13. Mutual Performance Obligations",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "14. Warranties： Right to Grant License",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "15. Hold Harmless and Indemnification",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "16. Intellectual Property Hold Harmless and Indemnification",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "17.。Guaranteed Maximum Costs",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "18. Submitting False Claims",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "19. Taxes",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "20.4 I insurance",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "21. Liability of Licensee",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "22. Notices to the Parties",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "23. Termination and Termination for Convenience",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "24.， Proprietary or Confidential Information of Licensee",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "25. Nondiscrimination； Penalties",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "26. Bankruptcy",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "27. MacBride Principles -Northern Ireland",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "28. Tropical Hardwoods",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 183,
+      "label": "section-title",
+      "text": "29. Reserved",
+      "parent_id": 183,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "30. Drug-Free Workplace Policy",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "31. Limitations on Contributions",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 192,
+      "label": "section-title",
+      "text": "32.e Prohibition on Political Activity with City Funds",
+      "parent_id": 192,
+      "order": 6
+    },
+    {
+      "id": 194,
+      "label": "section-title",
+      "text": "33. Preservative-Treated Wood Containing Arsenic",
+      "parent_id": 194,
+      "order": 6
+    },
+    {
+      "id": 196,
+      "label": "section-title",
+      "text": "34. Use of City Opinion",
+      "parent_id": 196,
+      "order": 6
+    },
+    {
+      "id": 198,
+      "label": "section-title",
+      "text": "35. Contract Interpretation",
+      "parent_id": 198,
+      "order": 6
+    },
+    {
+      "id": 200,
+      "label": "section-title",
+      "text": "36. Services Provided by Attorneys",
+      "parent_id": 200,
+      "order": 6
+    },
+    {
+      "id": 205,
+      "label": "section-title",
+      "text": "37. Protection of Private Information",
+      "parent_id": 205,
+      "order": 6
+    },
+    {
+      "id": 207,
+      "label": "section-title",
+      "text": "38. Subcontracting",
+      "parent_id": 207,
+      "order": 6
+    },
+    {
+      "id": 209,
+      "label": "section-title",
+      "text": "39. Assignment",
+      "parent_id": 209,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "40. Compliance with Americans with Disabilities Act",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "41. Sunshine Ordinance",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "section-title",
+      "text": "42. Non-Waiver of Rights",
+      "parent_id": 215,
+      "order": 6
+    },
+    {
+      "id": 217,
+      "label": "section-title",
+      "text": "43. Modification of Agreement",
+      "parent_id": 217,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": "44. Agreement Made in California； Venue",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 224,
+      "label": "section-title",
+      "text": "45. Construction",
+      "parent_id": 224,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": "46. Scope of Agreement； Entire Agreement； Provisions Controlling",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": "47. Compliance with Laws",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": "48. Cooperative Drafting",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 273,
+      "label": "section-title",
+      "text": "Appendix A Description of Licensed Materials",
+      "parent_id": 273,
+      "order": 6
+    },
+    {
+      "id": 276,
+      "label": "section-title",
+      "text": "De signa ted IP ad dresses：",
+      "parent_id": 276,
+      "order": 6
+    },
+    {
+      "id": 287,
+      "label": "section-title",
+      "text": "Appendix B Calculation of Charges",
+      "parent_id": 287,
+      "order": 6
+    },
+    {
+      "id": 288,
+      "label": "section-title",
+      "text": "Charges for Contractor’s licensed materials：",
+      "parent_id": 288,
+      "order": 6
+    }
+  ]
+}

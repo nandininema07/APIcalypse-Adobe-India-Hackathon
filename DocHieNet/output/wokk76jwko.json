@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "BANNING TOBACCO ADVERTISING. PROMOTION AND SPONSORSHIP",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "What you need to know",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 43,
+      "label": "title",
+      "text": "BAN ALL FORMS OF TOBACCO ADVERTISING， PROMOTION AND SPONSORSHIP",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "WHAT ARE TOBACCO ADVERTISING， PROMOTION AND SPONSORSHIP?",
+      "parent_id": 47,
+      "order": 3
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "THE TOBACCO INDUSTRY USES ALL POSSIBLE PROMOTIONAL CHANNELS",
+      "parent_id": 58,
+      "order": 4
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "I. INTRODUCTION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "A. BACKGROUND",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1. Hardware Fault Tree Analysis",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "a. Logical Relationship Between Hardware Events",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "b. Orders of Fault Events",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2. Software Fault Tree Analysis",
+      "parent_id": 35,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "a. Statement Templates",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "b. Contradiction Within Fault Trees",
+      "parent_id": 50,
+      "order": 6
+    }
+  ]
+}

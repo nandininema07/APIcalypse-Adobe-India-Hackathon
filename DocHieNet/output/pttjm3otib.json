@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "COMPANIES LEADING SUPPLIER DIVERSITY",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "title",
+      "text": "Expanding Small and Minority Businesses through Mentorship",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "title",
+      "text": "AXA Equitable Agressively Develops the Pipeline of Suppliers",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 56,
+      "label": "title",
+      "text": "Sustaining Supplier Diversity Momentum",
+      "parent_id": 56,
+      "order": 4
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Commitment to Spend Goals",
+      "parent_id": 63,
+      "order": 5
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Training",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Supplier Development",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "title",
+      "text": "Identifying, Implementing and Supporting Suppliers Who Reflect the Diversity of Our Global Markets",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "title",
+      "text": "Comcast’s Strategy Helps It Find Suppliers That Can Meet Its Capacity Requirements",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "Setting Supplier Diversity Goals Important to Success",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "title",
+      "text": "Ford’s Initiatives Help Develop Diverse Suppliers",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "title",
+      "text": "Database Helps Identify Suppliers and Solve Capacity Issues",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "title",
+      "text": "Partnership With Construction Business Yields Big Dividends for Wal-Mart",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "title",
+      "text": "Leadership Team Helps Keep Supplier Diversity Momentum Going",
+      "parent_id": 167,
+      "order": 6
+    }
+  ]
+}

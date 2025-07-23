@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "员名单如下：巴马瑶族自治县政府大院棚户区改造项目拆迁安置房分房工作方案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "一、指导思想",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "二、工作机构",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "三、分配房源",
+      "parent_id": 36,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "四、分配对象",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "五、分配原则及方式",
+      "parent_id": 40,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "六、房款说明",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "七、工作步骤",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "(一)前期准备阶段",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "(二)分房阶段",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "(三)签订合同阶段",
+      "parent_id": 63,
+      "order": 6
+    }
+  ]
+}

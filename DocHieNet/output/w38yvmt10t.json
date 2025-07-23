@@ -1,0 +1,151 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "招标文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "投标人须知",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "一、总则",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "(一)项目概述及资金来源",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "(二)投标人资格要求",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "(三)投标费用",
+      "parent_id": 38,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "二、招标文件",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "(一)招标文件构成",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "(二)招标文件的澄清",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "(三)招标文件的修改",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "三、投标文件的编制",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "(一)投标的语言",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "(二)投标文件构成",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "(三)投标函",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "(四)投标报价",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "(五)证明投标人资格合格的文件",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "(六)证明服务的合格性和符合招标文件规定的文件",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "(七)投标有效期",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "(八)投标文件的式样和签署",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "四、投标文件的递交",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "(一)投标文件的密封和标记",
+      "parent_id": 96,
+      "order": 6
+    }
+  ]
+}

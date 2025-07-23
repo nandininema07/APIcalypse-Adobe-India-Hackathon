@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "南通市达欣工程股份有限公司",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "一、安全生产管理办法",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "1总则",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2安全生产领导小组",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3安全生产目标责任书",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "4安全生产职责",
+      "parent_id": 35,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "5教育与培训",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "6安全生产检查",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "7安全生产奖罚",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "8技术交底",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "9保险",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "12附则",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

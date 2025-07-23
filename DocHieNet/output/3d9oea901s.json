@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "华能农安生物质发电厂1×35MW机组扩建工程",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "招标文件",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.总则",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1.1一般规定",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1.2标准和规范",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "1.2.5主要的标准和规范",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.通用技术要求",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.1总的要求",
+      "parent_id": 48,
+      "order": 6
+    }
+  ]
+}

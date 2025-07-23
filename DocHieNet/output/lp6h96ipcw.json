@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "文章编号：1671-4814(2004)02-150-05",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "我国农业生态旅游可持续发展探讨①",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1农业生态旅游产生的历史背景",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.1国外农业旅游发展历程",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.2我国农业旅游发展概况",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "2我国农业生态旅游的特征",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2.1以生态农业为基础，以生态保护为核心",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.2集自然景观和乡村文化于一体",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2.3具有季节变动性、地域差异性和可塑性",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.4活动具有娱乐性和参与性",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.5内容的广博性和专业性",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2.6体现了可持续发展性",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "3影响国内农业和农业旅游可持续发展的问题",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "3.1人口与耕地的矛盾日益突出",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.2水土流失严重，土壤生产力降低",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.3农业生态环境污染严重",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3.4乡村环境和乡村文化严重城市化",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "4我国农业生态旅游可持续发展的建议和措施",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "4.1农业生态旅游开发应遵循一定原则",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "4.2进行合理地农业生态旅游规划",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4.3加强基础和配套设施的建设",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "4.4加强农业与农村生态环境建设与保护，合理培育农业旅游资源",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "4.5加强对农业生态旅游商品的开发工作",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "5结语",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "title",
+      "text": "The research of sustainable development in agriculture-ecology tourism",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

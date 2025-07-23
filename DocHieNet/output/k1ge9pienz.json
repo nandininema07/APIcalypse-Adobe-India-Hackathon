@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "THE EFFECT OF BUSINESS OWNERS'/LEADERS' CULTURAL VALUES ON THE STRATEGIC BEHAVIOR IN CONDITION OF CRISIS： A RESEARCH ON SMALL ENTERPRISES IN ISTANBUL CHAMBER OF INDUSTRY",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1. Theoretical background",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Hypotheses development and research model",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2.Methodology",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.1 Data collection and instrument",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Measures",
+      "parent_id": 39,
+      "order": 6
+    }
+  ]
+}

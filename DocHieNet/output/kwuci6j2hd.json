@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "section-title",
+      "text": "IN THE SUPREME COURT OF THE STATE OF ARIZONA",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "COUNSEL:",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "JUSTICE LOPEZ, opinion of the Court:",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "BACKGROUND",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "DISCUSSION",
+      "parent_id": 47,
+      "order": 4
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "I.",
+      "parent_id": 48,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "A.",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "B.",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "II.",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "A.",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "B.",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "III.",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "IV.",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "V.",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "CONCLUSION",
+      "parent_id": 120,
+      "order": 6
+    }
+  ]
+}

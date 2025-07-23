@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "湘潭市人力资源和社会保障局湘潭市财政局关于做好实施企业稳岗扩岗专项支持计划工作的通知",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、关于困难企业认定",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "(一)认定范围",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "(二)认定条件",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "(三)认定程序",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "二、关于以工代训补贴",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "(一)困难企业以工代训补贴",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "4.4.申报资料",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "5.补贴程序",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "(二)扩大企业新吸纳以工代训补贴对象",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "三、关于加大失业保险稳岗返还力度",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "四、其它事项",
+      "parent_id": 44,
+      "order": 6
+    }
+  ]
+}

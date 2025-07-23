@@ -1,0 +1,669 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "BSI – Multihelvetia",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Sales prospectus with integrated fund contract",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "PART I PROSPECTUS",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1 Information about the investment fund",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1.1 General information on the fund",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1.2 Investment objective and investment policy of the fund",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "1.2.1 Investment objective",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1.2.2 Investment policy",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "1.2.3 Material risks",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "1.2.4 Use of derivatives",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "1.3 Profile of the typical investor",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "1.4 Tax regulations relevant for the fund",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "The investment fund has the following tax status:",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Final withholding tax",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "EU savings tax",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "FATCA",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "2 Information on the fund management company",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "2.1 General information on the fund management company",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "2.2 Delegation of investment decisions",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "2.3 Delegation of other duties",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "2.4 Exercising creditors’ and membership rights",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "3 Information on the custodian bank",
+      "parent_id": 124,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "4 Information on third parties",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "4.1 Paying agents",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "4.2 Distributors",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "4.3 External auditors",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "5 Further information",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "5.2 Terms for the issue and redemption of fund units",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "5.3 Remuneration and incidental costs",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "5.3.1Remuneration and incidental costs charged to the investor",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "(excerpt from § 18 of the fund contract)",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 168,
+      "label": "section-title",
+      "text": " Unit issues and redemptions via a distributor in Switzerland and abroad",
+      "parent_id": 168,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "5.3.2 Remuneration and incidental costs charged to the fund’s assets(excerpt from § 19 of the fund contract)",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 175,
+      "label": "section-title",
+      "text": " Class “A” units",
+      "parent_id": 175,
+      "order": 6
+    },
+    {
+      "id": 180,
+      "label": "section-title",
+      "text": "This fee is also used to cover the remuneration of the following services provided by third parties:",
+      "parent_id": 180,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "5.3.3 Payment of retrocessions and rebates",
+      "parent_id": 187,
+      "order": 6
+    },
+    {
+      "id": 193,
+      "label": "section-title",
+      "text": "In respect of distribution in or from Switzerland, the fund manage- ment company and its agents may on request pay rebates directly to Investors. The purpose of rebates is to reduce the fees or costs incurred by the Investor in question. Rebates are permitted pro- vided that:",
+      "parent_id": 193,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "The objective criteria for the granting of rebates by the fund man- agement company are as follows:",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "5.3.4 Total expense ratio",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "The coefficient of the entire costs charged on an ongoing basis to the fund assets(total expense ratio or TER) was:",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "5.3.5Commission-sharing agreements and soft commis- sions",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 214,
+      "label": "section-title",
+      "text": "5.3.6 Investments in associated collective investments",
+      "parent_id": 214,
+      "order": 6
+    },
+    {
+      "id": 216,
+      "label": "section-title",
+      "text": "5.4 Publications of official notices by the investment fund",
+      "parent_id": 216,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "5.5 Sales restrictions",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": "For the issue and redemption of units of this fund abroad, the regulations valid in the country in question shall apply.",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": "5.6 Detailed regulations",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "PART II FUND CONTRACT",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": "I Basis",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "§ 1 Name; name and domicile of the fund manage- ment company, custodian bank and asset manag- er",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "II Rights and obligations of the contracting parties",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 237,
+      "label": "section-title",
+      "text": "§ 2 Fund contract",
+      "parent_id": 237,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "§ 3 Fund management company",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "§ 4 Custodian bank",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 269,
+      "label": "section-title",
+      "text": "§ 5 The investor",
+      "parent_id": 269,
+      "order": 6
+    },
+    {
+      "id": 283,
+      "label": "section-title",
+      "text": "§ 6 Units and unit classes",
+      "parent_id": 283,
+      "order": 6
+    },
+    {
+      "id": 288,
+      "label": "section-title",
+      "text": "4. At the moment, there exist the following unit classes:",
+      "parent_id": 288,
+      "order": 6
+    },
+    {
+      "id": 295,
+      "label": "section-title",
+      "text": "III Investment policy guidelines",
+      "parent_id": 295,
+      "order": 6
+    },
+    {
+      "id": 296,
+      "label": "section-title",
+      "text": "A Investment principles",
+      "parent_id": 296,
+      "order": 6
+    },
+    {
+      "id": 297,
+      "label": "section-title",
+      "text": "§ 7 Compliance with investment guidelines",
+      "parent_id": 297,
+      "order": 6
+    },
+    {
+      "id": 300,
+      "label": "section-title",
+      "text": "§ 8 Investment policy",
+      "parent_id": 300,
+      "order": 6
+    },
+    {
+      "id": 337,
+      "label": "section-title",
+      "text": "§ 9 Liquid assets",
+      "parent_id": 337,
+      "order": 6
+    },
+    {
+      "id": 339,
+      "label": "section-title",
+      "text": "B Investment techniques and instruments",
+      "parent_id": 339,
+      "order": 6
+    },
+    {
+      "id": 340,
+      "label": "section-title",
+      "text": "§ 10 Securities lending",
+      "parent_id": 340,
+      "order": 6
+    },
+    {
+      "id": 348,
+      "label": "section-title",
+      "text": "§ 11 Securities repurchase agreements",
+      "parent_id": 348,
+      "order": 6
+    },
+    {
+      "id": 361,
+      "label": "section-title",
+      "text": "§ 12 Derivatives",
+      "parent_id": 361,
+      "order": 6
+    },
+    {
+      "id": 381,
+      "label": "section-title",
+      "text": "8. The prospectus has further details on:",
+      "parent_id": 381,
+      "order": 6
+    },
+    {
+      "id": 387,
+      "label": "section-title",
+      "text": "§ 13 Borrowing and lending",
+      "parent_id": 387,
+      "order": 6
+    },
+    {
+      "id": 392,
+      "label": "section-title",
+      "text": "§ 14 Encumbrance of the fund’s assets",
+      "parent_id": 392,
+      "order": 6
+    },
+    {
+      "id": 395,
+      "label": "section-title",
+      "text": "C Investment restrictions",
+      "parent_id": 395,
+      "order": 6
+    },
+    {
+      "id": 396,
+      "label": "section-title",
+      "text": "§ 15 Risk diversification",
+      "parent_id": 396,
+      "order": 6
+    },
+    {
+      "id": 397,
+      "label": "section-title",
+      "text": "1. The following are to beincludedin the riskdiversification provisions:",
+      "parent_id": 397,
+      "order": 6
+    },
+    {
+      "id": 401,
+      "label": "section-title",
+      "text": "2. Companies that make up a group according to international accounting standards are viewed as a single issuer.",
+      "parent_id": 401,
+      "order": 6
+    },
+    {
+      "id": 415,
+      "label": "section-title",
+      "text": "IV Calculation of net asset value as well as issue and redemption of units",
+      "parent_id": 415,
+      "order": 6
+    },
+    {
+      "id": 416,
+      "label": "section-title",
+      "text": "§ 16 Calculation of net asset value",
+      "parent_id": 416,
+      "order": 6
+    },
+    {
+      "id": 430,
+      "label": "section-title",
+      "text": "§ 17 Issue and redemption of units",
+      "parent_id": 430,
+      "order": 6
+    },
+    {
+      "id": 435,
+      "label": "section-title",
+      "text": "4. The fund management company may temporarily and by way of exception suspend the redemption of fund units in the inter- est of all investors if:",
+      "parent_id": 435,
+      "order": 6
+    },
+    {
+      "id": 442,
+      "label": "section-title",
+      "text": "V Remuneration and incidental costs",
+      "parent_id": 442,
+      "order": 6
+    },
+    {
+      "id": 443,
+      "label": "section-title",
+      "text": "§ 18 Remuneration and incidental costs charged to investors",
+      "parent_id": 443,
+      "order": 6
+    },
+    {
+      "id": 448,
+      "label": "section-title",
+      "text": "§ 19 Remuneration andincidentalcosts charged to the fund’s assets",
+      "parent_id": 448,
+      "order": 6
+    },
+    {
+      "id": 453,
+      "label": "section-title",
+      "text": "2. The following fees and incidental costs are not included in the flat fee and will be charged additionally to the fund assets:",
+      "parent_id": 453,
+      "order": 6
+    },
+    {
+      "id": 465,
+      "label": "section-title",
+      "text": "VI Financial statements and audits",
+      "parent_id": 465,
+      "order": 6
+    },
+    {
+      "id": 466,
+      "label": "section-title",
+      "text": "§ 20 Financial statements",
+      "parent_id": 466,
+      "order": 6
+    },
+    {
+      "id": 475,
+      "label": "section-title",
+      "text": "VII Appropriation of net income",
+      "parent_id": 475,
+      "order": 6
+    },
+    {
+      "id": 476,
+      "label": "section-title",
+      "text": "§ 22",
+      "parent_id": 476,
+      "order": 6
+    },
+    {
+      "id": 479,
+      "label": "section-title",
+      "text": "VIII Publications of official notices by the invest- ment fund",
+      "parent_id": 479,
+      "order": 6
+    },
+    {
+      "id": 480,
+      "label": "section-title",
+      "text": "§ 23",
+      "parent_id": 480,
+      "order": 6
+    },
+    {
+      "id": 485,
+      "label": "section-title",
+      "text": "IX Restructuring and dissolution",
+      "parent_id": 485,
+      "order": 6
+    },
+    {
+      "id": 486,
+      "label": "section-title",
+      "text": "§ 24 Merger",
+      "parent_id": 486,
+      "order": 6
+    },
+    {
+      "id": 488,
+      "label": "section-title",
+      "text": "2. Funds may only be merged if:",
+      "parent_id": 488,
+      "order": 6
+    },
+    {
+      "id": 491,
+      "label": "section-title",
+      "text": "c) the following provisions of the applicable fund con- tracts are essentially identical with regard to:",
+      "parent_id": 491,
+      "order": 6
+    },
+    {
+      "id": 512,
+      "label": "section-title",
+      "text": "X Amendment to the fund contract",
+      "parent_id": 512,
+      "order": 6
+    },
+    {
+      "id": 513,
+      "label": "section-title",
+      "text": "§ 26",
+      "parent_id": 513,
+      "order": 6
+    },
+    {
+      "id": 515,
+      "label": "section-title",
+      "text": "XI Applicable law and place of jurisdiction",
+      "parent_id": 515,
+      "order": 6
+    },
+    {
+      "id": 516,
+      "label": "section-title",
+      "text": "§ 27",
+      "parent_id": 516,
+      "order": 6
+    }
+  ]
+}

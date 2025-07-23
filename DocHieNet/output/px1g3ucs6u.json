@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "How to Use Methadone Safely",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Methadone",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "A Proven Road to Relief— If You Keep Your Eyes on the Road",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "The Dangers of Overdose",
+      "parent_id": 12,
+      "order": 4
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Navigate the Risks: Two Simple Steps",
+      "parent_id": 14,
+      "order": 5
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1. Take Methadone exactly as prescribed.",
+      "parent_id": 15,
+      "order": 6
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2. Know—and share— your complete health history.",
+      "parent_id": 17,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Using Methadone: Steer Clear of Danger",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "What Can Patients Do to Stay Safe?",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "When Taking Methadone:",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Take Side Effects Seriously",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "Feel Lost? Here’s Help",
+      "parent_id": 61,
+      "order": 6
+    }
+  ]
+}

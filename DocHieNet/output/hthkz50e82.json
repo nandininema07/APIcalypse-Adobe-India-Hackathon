@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "离该地区，该地区的航空产业集群很可能成为无源之水、由嵌入性向根植性转变的航空产业集群研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1嵌入性航空产业集群模式内容及适用性",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2嵌入性航空产业集群存在的问题",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "2.11嵌入性航空产业集群内在动力不足",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.22嵌入性航空产业集群较不稳定",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2.3嵌入性的产业集群很难优化升级",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3航空产业集群由嵌入性向根植性转变的必要性",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "4天津航空城航空产业集群的发展思路",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.1初期(2008~2010)",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "4.1.1引入A320的配套厂商和二次配套承包商",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "4.1.2初步形成飞机及零部件、发动机、航空维修、机场及空管设备、物流配送、人员培训等产业群雏形",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "4.2中期(2010~2015)",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "4.2.1纵向完善产业链，并向价值链上附加值高的环节转移",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "4.2.2横向拓展产业链，向产业链各个环节的相关业务",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "4.2.3全面推进航空产业与天津临空产业区其它产业的互动发展",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "4.3远期(2015~2020)",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "4.3.11引进空客A320外的后续机型及相关配套设施",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "4.3.2形成具有根植性特征的航空产业集群网络和区域创新网络",
+      "parent_id": 79,
+      "order": 6
+    }
+  ]
+}

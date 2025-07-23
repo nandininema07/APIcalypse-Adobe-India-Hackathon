@@ -1,0 +1,172 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "部分王室的土地也被分封和投入市场出售，原封的贵族、乡英国土地所有权的历史变迁和影响绅、商人、律师等有能力购买土地者，都可以通过受封或购",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "买的方式获得土地，成为土地所有者。这一改革所出售的土Research on the Historical Change of UK's Land Ownership and Its Influence",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1英国土地所有权的历史变迁及特点",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1.1英国土地所有权的变迁",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.1.119世纪工业革命之前",
+      "parent_id": 13,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "1.1.219世纪工业革命之后",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1.2英国土地所有权特点",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "1.2.1不完全的私有制-—英国所有土地名义上归英国王室所有",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2英国土地所有权的现状及特征",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.1英国土地所有权现状",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.1.1英国土地所有权类型",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "2.1.2英国土地所有权分配",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "(1)自置居所",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "(2)私人所有",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "(3)国家所有",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "(4)集体所有",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "(5)租权转移",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "2.2英国土地所有权现状特性",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "2.2.1现状土地所有权数据统计缺失",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "2.2.2土地所有权管理的复杂化和滞后性",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "2.2.3土地所有权中的自由交易权和限定开发权",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "3英国土地所有权对城市发展的影响",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "3.1农业土地和生态景观",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "3.2土地市场和土地开发利用",
+      "parent_id": 95,
+      "order": 6
+    }
+  ]
+}

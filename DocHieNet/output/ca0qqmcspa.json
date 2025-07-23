@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "供应链金融：背景、创新与概念界定",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "一、供应链金融创新的实体经济背景",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1.分工的演变与制造模式的变化",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2.供应链管理的兴起",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "3.全球贸易的增长",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "二、财务供应链管理在提高供应链竞争力方面的作用",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "1.供应链生产模式对财务成本的影响",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.通过财务供应链管理降低产品成本",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "三、供应链金融概念的界定",
+      "parent_id": 68,
+      "order": 6
+    }
+  ]
+}

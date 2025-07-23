@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Historic， archived document",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "FE A SIBILITY O F S HIPPI NG FRESH A PRICOTS A ND PRU N E S JU M B L E PACKED I N F IBERBO A R D B OX E S",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "S u mmary",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Intro d uc tio n",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Pr oce d ure",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "De scrip t i on o f S h ipping Containers and P ackingOperations",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Cos t s a nd Cha r g es",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Materials and D i r e ct L abo r C o st s",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Equipment Costs",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "Cold-R o om C ost s",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "rans p ort Charge s",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "C o mbined Costs a n d Charg es",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "Bru i si n g",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "Di sc u ss io n",
+      "parent_id": 123,
+      "order": 6
+    }
+  ]
+}

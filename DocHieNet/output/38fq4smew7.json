@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Advanced composite materials of the future in aerospace industry",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1.INTRODUCTION",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "2. THE DEFINITION OF COMPOSITE MATERIALS",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "FIBRE COMPOSITE USE IN AIRCRAFT",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.1 The advantages/disadvantages of composites in aviation industry",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "2.2 The usage of composite materials in aerospace industry",
+      "parent_id": 64,
+      "order": 5
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "THE AUTHOR'S SUMMARY",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "3.COMPOSITES-A SIGNIFICANT MILESTONE FOR AIRCRAFT PRODUCTION",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "3.1 Airbus and its innovation standard for composite environment",
+      "parent_id": 88,
+      "order": 6
+    }
+  ]
+}

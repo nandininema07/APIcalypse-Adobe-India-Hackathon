@@ -1,0 +1,389 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Chicago Transit Authority Open Standards Fare System",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Quality Assurance Plan Revised Draft",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Revision History",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Document Ownership",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Important:",
+      "parent_id": 12,
+      "order": 4
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Trademarks",
+      "parent_id": 14,
+      "order": 5
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "1. INTRODUCTION",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "1.1 Overall Approach",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "1.2 Objectives",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "2. PROGRAM MANAGEMENT",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "2.1 Organizational Structure",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "2.2 Program Management Roles and Responsibilities",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "2.3 Quality Assurance(QA) Team Roles and Responsibilities",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "3. QUALITY ASSURANCE PROGRAM ACTIVITIES",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "3.1 Initial Program Planning",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "3.2 Specific QA Activities",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "3.3 Design",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "3.4 Development",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "3.5 Production",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "3.6 System Testing",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "3.6.1 Installation",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "3.6.2 Sustaining",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "3.7 Specific Hardware QA Activities",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "3.7.1 Equipment Environmental Requirements",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "3.7.2 Equipment Qualification Requirements",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "3.7.3 CTA Furnished Materials",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "3.7.4 Handling, Storage and Delivery",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "3.7.5 Subcontractor and Supplier Monitor and Control",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 193,
+      "label": "section-title",
+      "text": "3.7.5.1 Reviews and Inspections",
+      "parent_id": 193,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "section-title",
+      "text": "3.7.5.2 On-Site Assessment and Evaluation",
+      "parent_id": 195,
+      "order": 6
+    },
+    {
+      "id": 212,
+      "label": "section-title",
+      "text": "3.7.5.3 Materials Control",
+      "parent_id": 212,
+      "order": 6
+    },
+    {
+      "id": 214,
+      "label": "section-title",
+      "text": "3.7.6 Non-Conforming Material",
+      "parent_id": 214,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "The complexity and the degree of the initiated preventive action is based on the impact of potential problems and likelihood of recurrence. In order to prevent future recurrences of nonconformity, it may be necessary, for example, to request a change in one or more of the manufacturing, packaging, transit, storage, or installation processes.",
+      "parent_id": 225,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": "Non-conforming items are fully documented as they are processed. Existing equipment targeted for reuse in the new solution is inspected but since it has previously been proven to conform it is not tested.",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 227,
+      "label": "section-title",
+      "text": "3.8 Inspection, Verification and Testing Activities",
+      "parent_id": 227,
+      "order": 6
+    },
+    {
+      "id": 228,
+      "label": "section-title",
+      "text": "ACS inspection, verification, and testing procedures are the basis for receiving the CTA's final acceptance of the system. A requirements and verification traceability matrix is provided in the Test Plan. This matrix indicates how ACS meets contract requirements. While CTA personnel, or its designee, have the opportunity to witness and approve all tests and inspections performed in support of this effort, it should be noted that many of these activities occur as part of the normal development and equipment receipt processes and may prove inefficient to set aside specific timeframes for conducting these tests. It should also be noted that these inefficiencies could cause delays in achieving the schedule’s critical path activities. ACS may modify inspection and verification points identified during this process if recommended by the CTA. Modifications may be made based on inspection results at the time the Quality Assurance Plan is reviewed or at any time during the inspection and verification process. Examples of quality inspection data include: inspection and test results, internal audit results, supplier QA acceptance records, calibration data, and documented deviations or waivers. Carrying out system inspections and verification is the sole responsibility of ACS.",
+      "parent_id": 228,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "Acceptance for in-process, final assembly, unit tests, integration tests, and system tests are contingent upon one of the following conditions:",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": " Inspection acceptance action is completed.",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": " The requirements are revised by the customer through a contract change order to conform to existing conditions.",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": " The corrective action for a discrepant condition is satisfactorily completed and the condition resolved as demonstrated by approved test procedures, cases and scripts.",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 233,
+      "label": "section-title",
+      "text": "One of the three conditions above must also be met before the material or equipment is designated ready-for-issue and released from receiving inspections. Official acceptance of any and all inspections or verifications by the CTA first requires the documented signature of the ACS QA team or an authorized ACS representative.",
+      "parent_id": 233,
+      "order": 6
+    },
+    {
+      "id": 234,
+      "label": "section-title",
+      "text": "The inspection and verification process is fully documented to ensure that no material or equipment is issued that has not been inspected and/or verified with the approval of the QA team. ACS configuration management and change control procedures are applied when material and equipment is received. These procedures ensure proper documentation and tracking of materials and equipment that includes the signature of the employee performing the task. ACS maintains this documentation for no less than one year after warranty expiration period.",
+      "parent_id": 234,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "3.8.1 Test and Measure Equipment",
+      "parent_id": 238,
+      "order": 6
+    },
+    {
+      "id": 241,
+      "label": "section-title",
+      "text": "3.8.2 Inspection and Test Document Formats",
+      "parent_id": 241,
+      "order": 6
+    },
+    {
+      "id": 253,
+      "label": "section-title",
+      "text": "3.8.3 Integration Testing",
+      "parent_id": 253,
+      "order": 6
+    },
+    {
+      "id": 256,
+      "label": "section-title",
+      "text": "3.8.4 Site Installation and Integration Activities",
+      "parent_id": 256,
+      "order": 6
+    },
+    {
+      "id": 266,
+      "label": "section-title",
+      "text": "3.8.5 Site Inspection and Testing Activities",
+      "parent_id": 266,
+      "order": 6
+    },
+    {
+      "id": 278,
+      "label": "section-title",
+      "text": "3.9 Corrective Action Program",
+      "parent_id": 278,
+      "order": 6
+    },
+    {
+      "id": 283,
+      "label": "section-title",
+      "text": "3.9.1 Corrective Action",
+      "parent_id": 283,
+      "order": 6
+    },
+    {
+      "id": 288,
+      "label": "section-title",
+      "text": "3.9.2 Preventive Action",
+      "parent_id": 288,
+      "order": 6
+    },
+    {
+      "id": 290,
+      "label": "section-title",
+      "text": "3.10 Drawings, Documentation and Changes",
+      "parent_id": 290,
+      "order": 6
+    },
+    {
+      "id": 310,
+      "label": "section-title",
+      "text": "3.11 Configuration Management",
+      "parent_id": 310,
+      "order": 6
+    },
+    {
+      "id": 312,
+      "label": "section-title",
+      "text": "3.12 Records",
+      "parent_id": 312,
+      "order": 6
+    },
+    {
+      "id": 315,
+      "label": "section-title",
+      "text": "3.13 Performance Monitoring",
+      "parent_id": 315,
+      "order": 6
+    },
+    {
+      "id": 319,
+      "label": "section-title",
+      "text": "3.14 QA Program Awareness",
+      "parent_id": 319,
+      "order": 6
+    }
+  ]
+}

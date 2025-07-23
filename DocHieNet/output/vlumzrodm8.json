@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "合同编号：GJZN2020-083",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "第一部分合同书",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1.1合同组成部分",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1.2货物",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.3价款",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "1.4付款方式和发票开具方式",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1.5货物交付期限、地点和方式",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1.6货物质量控制等要求",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "1.7履约保证金",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "1.8售后服务",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "1.9违约责任",
+      "parent_id": 46,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "INSTRUCTION MANUAL",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "IMPORTANT SAFETY INSTRUCTIONS",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "How to use",
+      "parent_id": 38,
+      "order": 2
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "1. Chuck",
+      "parent_id": 39,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2. Drilling in Wood",
+      "parent_id": 42,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "3. Drilling in Metal",
+      "parent_id": 44,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "4. Speed Control Switch",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "5. Reversing Switch",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "中山市产业扶持发展专项资金信息管理系统用户操作手册",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1.了解专项资金的最新资讯",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "2.申报信息备案",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "3.统计申报情况及业务办理短信提醒",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "1.5.1.账号注册",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "(一)点击\"用户注册\"按钮，如下图所示。",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "(二)进入\"用户注册服务公约\"页面，操作步骤如下：",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(三)进入\"填写账号资料\"页面，操作步骤如下：",
+      "parent_id": 30,
+      "order": 6
+    }
+  ]
+}

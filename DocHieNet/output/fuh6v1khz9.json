@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "career dedication； and retirement and old age. WhileGlobalization and Entertainment of Urban Families in Ho Chi Minh City in the pre-kindergarten stage， children need leisure",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1INTRODUCTION",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1.1.Globalization",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1.2.Entertainment",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1.3. Social action theory",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1.4. Rational choice theory",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2. RESEARCH METHODS",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3. RESULTS AND DISCUSSIONS",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "4.CONCLUSIONS",
+      "parent_id": 92,
+      "order": 6
+    }
+  ]
+}

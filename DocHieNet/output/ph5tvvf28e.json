@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "有发生；不少学校偏重于验证性实验，对自主和探究性实验重视不够；部分教师实验教学的理念和方法陈旧，实验技能莆田市教育局文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "新时代下教育的必然要求，实验室建设和实验教学工作要纳莆田市教育局关于进一步加强中小学实验入学校发展总体规划。工作的通知",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、充分认识实验工作的重要意义",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "二、着力提升实验教学的能力水平",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "确保实验室管理工作的正常有序。三、全面推进实验室建设和管理",
+      "parent_id": 0,
+      "order": 4
+    }
+  ]
+}

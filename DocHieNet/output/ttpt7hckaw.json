@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "OECD OUESTIONNAIRE ON",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "1.Introduction",
+      "parent_id": 33,
+      "order": 1
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2. Guidance for completion of the questionnaire",
+      "parent_id": 38,
+      "order": 2
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "National/regional policy framework",
+      "parent_id": 52,
+      "order": 3
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Countries with multiple educational jurisdictions",
+      "parent_id": 55,
+      "order": 4
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Year covered",
+      "parent_id": 57,
+      "order": 5
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "3. QUESTIONNAIRE",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "[EMPTY]",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Information in Part I and Part II is being requested only for：",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "A) Initial VET programmes (green colour)",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "B) Continuing VET programmes (CVET) (orange colour)",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

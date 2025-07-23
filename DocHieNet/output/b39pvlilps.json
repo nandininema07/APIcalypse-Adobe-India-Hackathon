@@ -1,0 +1,228 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "WARNING – Seizures",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "WARNING – Repetitive Motion Injuries and Eyestrain",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "CAUTION – Motion Sickness",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "SYSTEM MENU UPDATE",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "PORTAL OFPOWER",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "TOY PLACEMENT",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "GAMEPLAY CONTROLS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "CAUTION： WRIST STRAP USE",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "MENUS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "MENU NAVIGATION",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "MAINMENU",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "PAUSE MENU",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "PLAYINGTHEGAME",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "PLAYING THEGAME",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "SKYLANDERINFO",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "UPGRADES",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "ELEMENTAL CLASSES",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "ELEMENTALGATES",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "PLAYINGTHEGAME",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "SWAP FORCEPOWERS",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "SWAP FORCEPOWERZONES",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "LEVELINGUP",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "WOODBURROW",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "PLAYINGTHEGAME",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "TOYS",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "CO-OP PLAY",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "ARENA MODES",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "SAV=F=ATURES",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "TOY SAVE FEATURE",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "GAME SAVE",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "CUSTOMERCARE",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

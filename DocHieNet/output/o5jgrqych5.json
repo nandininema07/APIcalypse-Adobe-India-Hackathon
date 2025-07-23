@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "The artificial ecosystem: numb er soup (part II) ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 1. Rich biodiversity ",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 2. Properties of species loop ",
+      "parent_id": 28,
+      "order": 2
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 3. Intuition of Gillespie Algorithm ",
+      "parent_id": 45,
+      "order": 3
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 4. Growth rate comparing with Monod equation ",
+      "parent_id": 55,
+      "order": 4
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 5. Another way to think what a species excretes ",
+      "parent_id": 61,
+      "order": 5
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 6. Types of cross-feeding ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 7. Reflections on cooperators and cheaters ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "us4pt inus3pt! 8. Future works In this section, I list intriguing points and questions related to the number soup mo del, in the order of relevance and imp ortance, that deserve more reflections and investigations. ",
+      "parent_id": 82,
+      "order": 6
+    }
+  ]
+}

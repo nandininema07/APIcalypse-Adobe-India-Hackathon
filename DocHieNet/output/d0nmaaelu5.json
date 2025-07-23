@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Observing orogeny - Maria Graham's account of the earthquake in Chile in 1822",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Maria Graham(1785-1842)",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Observing earthquakes",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Mountain building and earthquakes",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "The 1822 evidence of the earthquake in Chile",
+      "parent_id": 32,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "G.B. Greenough pleads \"Not guilty\"",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Seeking additional evidence",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "Acknowledgements",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 93,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "MONROE HAND OPERATED LN Models CALCULATORS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "title",
+      "text": "MONROE CALCULATINGMACHINE",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "FOREWORD",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "title",
+      "text": "MONROEMODEL LN",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Description of Operating Controls and Parts",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "TO CLEAR THE MONROE MODEL LN",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "ADDITION AND SUBTRACTION",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "TO ADD",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "TO SUBTRACT",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "MULTIPLICATION",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "CONSTANT MULTIPLIER",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "DIVISION",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "PRACTICE PROBLEMS",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "DECIMALS",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "ADDITION AND SUBTRACTION OF DECIMAL NUMBERS",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "PRACTICE PROBLEMS",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "MULT I PLICATION OF DECIMAL NUMBERS",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "DIVISION OF DECIMAL NUMBERS",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "PRACTICE PROBLEMS",
+      "parent_id": 179,
+      "order": 6
+    }
+  ]
+}

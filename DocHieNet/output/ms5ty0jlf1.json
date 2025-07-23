@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "关于人大行使重大事项决定权的思考",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、理性认识人大重大事项决定权",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1.理论上如何理解",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "2.宪法法律如何规定",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "3.地方性法规如何界定",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "二、地方人大行使重大事项决定权的探索与范例",
+      "parent_id": 24,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "三、人大行使重大事项决定权存在的问题及成因",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "四、有效行使重大事项决定权的几点建议",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "1.增强行使重大事项决定权的主动性",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "2.增强行使重大事项决定权的协调性",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3.增强行使重大事项决定权的针对性",
+      "parent_id": 52,
+      "order": 6
+    }
+  ]
+}

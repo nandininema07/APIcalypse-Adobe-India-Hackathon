@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "上海市教师培训平台操作手册",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "上海市教师培训平台操作手册",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 32,
+      "label": "title",
+      "text": "上海市教师教育管理平台",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "1登录与密码管理",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2用户管理",
+      "parent_id": 42,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.1添加用户",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "2.2用户信息修改",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "2.2.1用户自行修改(信息更新)",
+      "parent_id": 52,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "-violating effects on MSSM Higgs searches ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1. Intro duction ",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2. The MSSM Higgs sector with complex parameters ",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "3. Higgs pro duction cross sections in the MSSM with complex parameters ",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "4. Impact of interference contributions ",
+      "parent_id": 55,
+      "order": 4
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "5. Conclusions ",
+      "parent_id": 74,
+      "order": 5
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 78,
+      "order": 6
+    }
+  ]
+}

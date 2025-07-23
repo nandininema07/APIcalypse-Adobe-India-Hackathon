@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "and depending on the type of machinery，，aCompanies in liquidation depreciation model for estimating the value of new machinery is discussed in paragraph 7. Paragraph 8 A model for the assessment of the value of used machinery",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1Introduction",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "2 Terms of the problem gradual performance degradation.",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3 Depreciation factors",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "4 Deductions from the intrinsic factors",
+      "parent_id": 51,
+      "order": 4
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "5 Deductions from the extrinsic factors",
+      "parent_id": 82,
+      "order": 5
+    }
+  ]
+}

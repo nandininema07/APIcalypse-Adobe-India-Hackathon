@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "京津冀水资源合理利用策略分析1",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1推广节水技术，开辟第二水源",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1.1推广节水技术，减少水资源消耗",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1.2回收利用城市污水，开辟第二水源",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1.3提高海水淡化能力，增加滨海地区水资源供给",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2严格控制地下水开采，控制地面沉降",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2.1分层控制地下水开采量",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2.2通过回灌技术，控制地面沉降",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3加强污染物排放监管，加强农业生态环境治理",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "3.1加强污染物排放全过程监管，实行总量控制",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3.2鼓励使用生物农药、高效低毒低残留农药和有机肥料",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "4运用市场经济规律促进节约用水",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "4.1建立用水补偿机制",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.2制定合理水价",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "5建立京津冀水资源利用协调机制，保障经济可持续发展",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "5.1建立京津冀政府间的协调机构",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "5.2制定合理利用水资源协调措施",
+      "parent_id": 46,
+      "order": 6
+    }
+  ]
+}

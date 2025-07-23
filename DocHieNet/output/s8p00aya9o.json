@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Vision and Mission of the Department",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Vision：",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Mission：",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Goals：",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Program Education Objectives (PEOs)",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "The Postgraduate students will demonstrate",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Program Outcomes (POs)",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Engineering Graduates will be able to：",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Programme Specific Outcomes (PSO)",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "On completion of the B.Tech.(Metallurgical Engineering) degree the graduates will be able to：",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Correlation between the PEOs and the POs",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "List of Abbreviations：",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

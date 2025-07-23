@@ -1,0 +1,200 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "IMPORTANT SAFETY INSTRUCTIONS (FOR ALL TOOLS)",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "READ ALL INSTRUCTIONS",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "DOUBLE-INSULATION",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "SAVE THESE INSTRUCTIONS",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "EXTENSION CORDS",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "MOTOR",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "OPERATING INSTRUCTIONS",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Precautionary Instructions",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Chip Chute",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Adjusting Planing Depth",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Unplug the planer",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Planing",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Fence Adjustment",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "Rabbeting",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "Unplug planer.",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "Adjustment of Rabbet Width",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "Edge Chamfering",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "HOW TO CHANGE AND ADJUST BLADES",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "To Change Blades",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "To Adjust the Blades for Proper Alignment",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "Unplug the planer.",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "ACCESSORIES",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "LUBRICATION",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "MAINTENANCE",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "IMPORTANT",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "COMMERCIAL/INDUSTRIAL USE WARRANTY",
+      "parent_id": 154,
+      "order": 6
+    }
+  ]
+}

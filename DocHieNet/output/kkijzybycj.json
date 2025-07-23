@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "附件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "国务院安委会办公室关于全面加强企业全员安全生产责任制工作的通知",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、高度重视企业全员安全生产责任制",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "二、建立健全企业全员安全生产责任制",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "三、加强对企业全员安全生产责任制的监督检查",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "四、工作要求",
+      "parent_id": 25,
+      "order": 5
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "RESTRICTED",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "NT DUCTIO·N",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 45,
+      "label": "title",
+      "text": "Airplan e e CGommander",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "DURING TRAINING",
+      "parent_id": 59,
+      "order": 3
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "COPILOT",
+      "parent_id": 83,
+      "order": 4
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "NAVIGATOR",
+      "parent_id": 85,
+      "order": 5
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "BOMBARDIER",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "RADAR OBSERVER",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "FLIGHT ENGINEER",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "RADIO OPERATOR",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "CENTRAL FIRE CONTROL SPECIALIST GUNNER",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "CAREER GUNNERS",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "CREW DISCIPLINE",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "ENFORCEETHESE",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "SMOKING",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "PARACHUTES",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "PROPELLERS",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "N EVERYFLIGHT",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 175,
+      "label": "section-title",
+      "text": "OXYGENNMMASKS",
+      "parent_id": 175,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "TRAINING",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "INSPECTIONS",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "INTERPHONE",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 193,
+      "label": "title",
+      "text": "eneralDescription",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 194,
+      "label": "section-title",
+      "text": "POWER PLANTS",
+      "parent_id": 194,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "FLIGHT ENGINEER'S PANEL",
+      "parent_id": 211,
+      "order": 6
+    }
+  ]
+}

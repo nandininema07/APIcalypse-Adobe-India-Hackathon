@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "NetworkedGovernment",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "The 'What'Question collaboration was more the exception than",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Logic and Value",
+      "parent_id": 33,
+      "order": 2
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Flexibility and Accountability",
+      "parent_id": 45,
+      "order": 3
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Massive Transformation",
+      "parent_id": 63,
+      "order": 4
+    }
+  ]
+}

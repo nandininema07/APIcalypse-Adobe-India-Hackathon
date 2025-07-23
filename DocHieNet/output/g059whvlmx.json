@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "基于多线程机制的电力数据采集系统设计与实现",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "DESIGN AND IMPLEMENTATION OF POWER DATA ACQUISITION SYSTEM BASED ON MULTI-THREAD MECHANISM",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "0引言",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1系统总体架构",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2基于多线程机制的电力数据采集系统设计",
+      "parent_id": 27,
+      "order": 4
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "3基于多线程机制的电力数据采集系统实现",
+      "parent_id": 35,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3.1数据采集线程实现",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3.2监听线程实现",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "3.3线程间同步问题",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "4应用验证",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "1)分析系统的数据采集速率",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "2)分析系统的实时性能",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "5结语",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "5结语",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "OPERATING INSTRUCTIONS FOR TWIN WHEEL BENCH STRIPPER",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "DRESSING INSTRUCTIONS",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "REPLACING BRUSHES",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "REPAIR PARTS LIST FOR TWIN WHEEL STRIPPER",
+      "parent_id": 24,
+      "order": 3
+    }
+  ]
+}

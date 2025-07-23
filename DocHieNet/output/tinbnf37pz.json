@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "UC Office of the President",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Title",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Permalink",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Author",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Publication Date",
+      "parent_id": 9,
+      "order": 4
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Copyright Information",
+      "parent_id": 11,
+      "order": 5
+    }
+  ]
+}

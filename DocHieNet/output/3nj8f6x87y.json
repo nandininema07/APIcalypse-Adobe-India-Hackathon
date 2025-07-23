@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "LooKing for the Best Mortgage",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Obtain Information from Several Lenders",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Obtain All Important Cost Information",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Rates",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Points",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Fees",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Down Payments and Private Mortgage Insurance",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Obtain the Best Deal That You Can",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Remember:Shop, Compare, Negotiate",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Fair Lending Is Required by Law",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Credit Problems? Still Shop, Compare, and Negotiate",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Mortgage Shopping Worksheet",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Mortgage Shopping Worksheet—continued",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "For more information on home lending issues , visit",
+      "parent_id": 87,
+      "order": 6
+    }
+  ]
+}

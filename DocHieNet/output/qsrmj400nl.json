@@ -1,0 +1,662 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "SHARE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "SHARE",
+      "parent_id": 15,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "Management Company:",
+      "parent_id": 40,
+      "order": 4
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 46,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Foreign exchange risk manager:",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Custodian Bank:",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Central Administration:",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Depositary of bearer shares:",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Independent Auditor:",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "1. DESCRIPTION OF THE SICAV",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "A. Introduction",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "B. Registered Office",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "C. Articles of association",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "D. Capital",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "E. Processing of personal data",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "2. DESCRIPTION OF THE MANAGEMENT COMPANY",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "3. MANAGEMENT OF THE SICAV",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "4. INVESTMENT AND DISTRIBUTION POLICY",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 180,
+      "label": "section-title",
+      "text": "A. Objective",
+      "parent_id": 180,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "B. Sub-funds – Classes of shares",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "C. Composition of Portfolios",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "D. Risk profile and investor profile",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 218,
+      "label": "section-title",
+      "text": "E. Investment Restrictions",
+      "parent_id": 218,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "section-title",
+      "text": "F. Dividend Policy",
+      "parent_id": 220,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "5. ISSUE AND REDEMPTION OF SHARES",
+      "parent_id": 225,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": "A. Description of the shares, rights of the shareholders",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 240,
+      "label": "section-title",
+      "text": "B. ISIN codes",
+      "parent_id": 240,
+      "order": 6
+    },
+    {
+      "id": 242,
+      "label": "section-title",
+      "text": "C. Organisations entitled to receive applications for the subscription, redemption and conversion of shares",
+      "parent_id": 242,
+      "order": 6
+    },
+    {
+      "id": 246,
+      "label": "section-title",
+      "text": "D. Subscriptions",
+      "parent_id": 246,
+      "order": 6
+    },
+    {
+      "id": 248,
+      "label": "section-title",
+      "text": "The Board of Directors is authorised to issue shares at any time and without limitation.",
+      "parent_id": 248,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "E. Combating money laundering and terrorist financing",
+      "parent_id": 255,
+      "order": 6
+    },
+    {
+      "id": 269,
+      "label": "section-title",
+      "text": "F. Redemptions",
+      "parent_id": 269,
+      "order": 6
+    },
+    {
+      "id": 289,
+      "label": "section-title",
+      "text": "G. Listing on the Luxembourg Stock Exchange",
+      "parent_id": 289,
+      "order": 6
+    },
+    {
+      "id": 291,
+      "label": "section-title",
+      "text": "6. SHARE CONVERSIONS",
+      "parent_id": 291,
+      "order": 6
+    },
+    {
+      "id": 307,
+      "label": "section-title",
+      "text": "7. NET ASSET VALUE",
+      "parent_id": 307,
+      "order": 6
+    },
+    {
+      "id": 311,
+      "label": "section-title",
+      "text": "8. CUSTODIAN BANK",
+      "parent_id": 311,
+      "order": 6
+    },
+    {
+      "id": 333,
+      "label": "section-title",
+      "text": "9. CENTRAL ADMINISTRATION",
+      "parent_id": 333,
+      "order": 6
+    },
+    {
+      "id": 342,
+      "label": "section-title",
+      "text": "10. DISTRIBUTION",
+      "parent_id": 342,
+      "order": 6
+    },
+    {
+      "id": 357,
+      "label": "section-title",
+      "text": "11. FISCALITY",
+      "parent_id": 357,
+      "order": 6
+    },
+    {
+      "id": 360,
+      "label": "section-title",
+      "text": "A. Tax treatment of the SICAV",
+      "parent_id": 360,
+      "order": 6
+    },
+    {
+      "id": 366,
+      "label": "section-title",
+      "text": "B. Taxation of the shareholders",
+      "parent_id": 366,
+      "order": 6
+    },
+    {
+      "id": 380,
+      "label": "section-title",
+      "text": "C. Foreign Account Tax Compliance Act(« FATCA »)",
+      "parent_id": 380,
+      "order": 6
+    },
+    {
+      "id": 393,
+      "label": "section-title",
+      "text": "12. GENERAL MEETINGS OF SHAREHOLDERS",
+      "parent_id": 393,
+      "order": 6
+    },
+    {
+      "id": 402,
+      "label": "section-title",
+      "text": "13. COSTS TO BE BORNE BY THE SICAV",
+      "parent_id": 402,
+      "order": 6
+    },
+    {
+      "id": 407,
+      "label": "section-title",
+      "text": "14. FINANCIAL YEAR AND INDEPENDENT AUDITOR",
+      "parent_id": 407,
+      "order": 6
+    },
+    {
+      "id": 410,
+      "label": "section-title",
+      "text": "15. DISSOLUTION AND LIQUIDATION OF THE SICAV",
+      "parent_id": 410,
+      "order": 6
+    },
+    {
+      "id": 411,
+      "label": "section-title",
+      "text": "A. General observations",
+      "parent_id": 411,
+      "order": 6
+    },
+    {
+      "id": 418,
+      "label": "section-title",
+      "text": "B. Voluntary liquidation",
+      "parent_id": 418,
+      "order": 6
+    },
+    {
+      "id": 423,
+      "label": "section-title",
+      "text": "C. Court liquidation",
+      "parent_id": 423,
+      "order": 6
+    },
+    {
+      "id": 425,
+      "label": "section-title",
+      "text": "16. DISSOLUTION, MERGER AND CONTRIBUTION OF SUB-FUNDS",
+      "parent_id": 425,
+      "order": 6
+    },
+    {
+      "id": 435,
+      "label": "section-title",
+      "text": "17. INFORMATION – AVAILABLE DOCUMENTS",
+      "parent_id": 435,
+      "order": 6
+    },
+    {
+      "id": 436,
+      "label": "section-title",
+      "text": "A. Available information",
+      "parent_id": 436,
+      "order": 6
+    },
+    {
+      "id": 437,
+      "label": "section-title",
+      "text": "a) Publication of net asset value",
+      "parent_id": 437,
+      "order": 6
+    },
+    {
+      "id": 442,
+      "label": "section-title",
+      "text": "b) Periodic reports",
+      "parent_id": 442,
+      "order": 6
+    },
+    {
+      "id": 446,
+      "label": "section-title",
+      "text": "c) Financial notices",
+      "parent_id": 446,
+      "order": 6
+    },
+    {
+      "id": 449,
+      "label": "section-title",
+      "text": "B. Documents available for inspection:",
+      "parent_id": 449,
+      "order": 6
+    },
+    {
+      "id": 453,
+      "label": "section-title",
+      "text": "C. Official language",
+      "parent_id": 453,
+      "order": 6
+    },
+    {
+      "id": 458,
+      "label": "section-title",
+      "text": "18. ADDITIONAL INFORMATION FOR INVESTORS IN THE FEDERAL REPUBLIC OF GERMANY",
+      "parent_id": 458,
+      "order": 6
+    },
+    {
+      "id": 468,
+      "label": "section-title",
+      "text": "Information on Taxation in the Federal Republic of Germany",
+      "parent_id": 468,
+      "order": 6
+    },
+    {
+      "id": 474,
+      "label": "section-title",
+      "text": "I. Transparent Taxation",
+      "parent_id": 474,
+      "order": 6
+    },
+    {
+      "id": 477,
+      "label": "section-title",
+      "text": "Current taxation",
+      "parent_id": 477,
+      "order": 6
+    },
+    {
+      "id": 484,
+      "label": "section-title",
+      "text": "Exemptions",
+      "parent_id": 484,
+      "order": 6
+    },
+    {
+      "id": 493,
+      "label": "section-title",
+      "text": "Redemption and sale of Investmentfund shares",
+      "parent_id": 493,
+      "order": 6
+    },
+    {
+      "id": 497,
+      "label": "section-title",
+      "text": "Tax rates",
+      "parent_id": 497,
+      "order": 6
+    },
+    {
+      "id": 500,
+      "label": "section-title",
+      "text": "Deduction of withholding tax(Kapitalertragsteuer)",
+      "parent_id": 500,
+      "order": 6
+    },
+    {
+      "id": 507,
+      "label": "section-title",
+      "text": "Impacts of Tax Audits",
+      "parent_id": 507,
+      "order": 6
+    },
+    {
+      "id": 509,
+      "label": "section-title",
+      "text": "II. Lump-Sum Taxation and Taxation of Investment Entities",
+      "parent_id": 509,
+      "order": 6
+    },
+    {
+      "id": 520,
+      "label": "title",
+      "text": "APPENDIX 1",
+      "parent_id": 520,
+      "order": 6
+    },
+    {
+      "id": 521,
+      "label": "title",
+      "text": "ELIGIBLE FINANCIAL ASSETS INVESTMENTS AND INVESTMENT RESTRICTIONS",
+      "parent_id": 521,
+      "order": 6
+    },
+    {
+      "id": 523,
+      "label": "section-title",
+      "text": "Transferable securities and money market instruments",
+      "parent_id": 523,
+      "order": 6
+    },
+    {
+      "id": 537,
+      "label": "section-title",
+      "text": "Units of collective investment undertakings",
+      "parent_id": 537,
+      "order": 6
+    },
+    {
+      "id": 543,
+      "label": "section-title",
+      "text": "Deposits with credit institutions",
+      "parent_id": 543,
+      "order": 6
+    },
+    {
+      "id": 545,
+      "label": "section-title",
+      "text": "Derivative financial instruments",
+      "parent_id": 545,
+      "order": 6
+    },
+    {
+      "id": 555,
+      "label": "section-title",
+      "text": "Transferable securities and money market instruments",
+      "parent_id": 555,
+      "order": 6
+    },
+    {
+      "id": 573,
+      "label": "section-title",
+      "text": "Deposits with credit institutions",
+      "parent_id": 573,
+      "order": 6
+    },
+    {
+      "id": 577,
+      "label": "section-title",
+      "text": "Derivative financial instruments",
+      "parent_id": 577,
+      "order": 6
+    },
+    {
+      "id": 582,
+      "label": "section-title",
+      "text": "Units of collective investment undertakings",
+      "parent_id": 582,
+      "order": 6
+    },
+    {
+      "id": 586,
+      "label": "section-title",
+      "text": "Combined limits",
+      "parent_id": 586,
+      "order": 6
+    },
+    {
+      "id": 595,
+      "label": "section-title",
+      "text": "Limits on control",
+      "parent_id": 595,
+      "order": 6
+    },
+    {
+      "id": 610,
+      "label": "section-title",
+      "text": "Borrowing",
+      "parent_id": 610,
+      "order": 6
+    },
+    {
+      "id": 613,
+      "label": "section-title",
+      "text": "Finally,theSICAVshallensurethattheinvestmentsofeachsub-fundrespectthe following rules:",
+      "parent_id": 613,
+      "order": 6
+    },
+    {
+      "id": 620,
+      "label": "section-title",
+      "text": "Notwithstanding all the aforementioned provisions:",
+      "parent_id": 620,
+      "order": 6
+    },
+    {
+      "id": 626,
+      "label": "section-title",
+      "text": "Investment instruments and techniques using transferable securities and money market instruments",
+      "parent_id": 626,
+      "order": 6
+    },
+    {
+      "id": 630,
+      "label": "section-title",
+      "text": "A. Securities lending and borrowing",
+      "parent_id": 630,
+      "order": 6
+    },
+    {
+      "id": 639,
+      "label": "section-title",
+      "text": "B. Reverse repurchase transactions/Repurchase transactions and sale with option to repurchase transactions",
+      "parent_id": 639,
+      "order": 6
+    },
+    {
+      "id": 657,
+      "label": "section-title",
+      "text": "C. Management of collateral",
+      "parent_id": 657,
+      "order": 6
+    },
+    {
+      "id": 672,
+      "label": "title",
+      "text": "APPENDIX 2",
+      "parent_id": 672,
+      "order": 6
+    },
+    {
+      "id": 673,
+      "label": "title",
+      "text": "NET ASSET VALUE (Excerpts from article 12 of the Articles of Association)",
+      "parent_id": 673,
+      "order": 6
+    },
+    {
+      "id": 681,
+      "label": "section-title",
+      "text": "A. The assets shall include:",
+      "parent_id": 681,
+      "order": 6
+    },
+    {
+      "id": 703,
+      "label": "section-title",
+      "text": "B. The liabilities of the SICAV are deemed to include:",
+      "parent_id": 703,
+      "order": 6
+    }
+  ]
+}

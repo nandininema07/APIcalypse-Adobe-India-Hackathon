@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "SUBJECT： Guidance on Managing Email",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "NARA BULLETIN",
+      "parent_id": 29,
+      "order": 2
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1. What is the purpose of this Bulletin?",
+      "parent_id": 34,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2. Are emails Federal records?",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "3. What are agency responsibilities for email management?",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "4. What is the role of Federal employees in email management?",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "5. What is Capstone?",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "6. How long should emails be kept?",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "7. How can agencies mitigate against loss of email records?",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "8. How do agencies report email loss?",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "9. What other related guidance does NARA provide?",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "10. Whom should I contact for more information?",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

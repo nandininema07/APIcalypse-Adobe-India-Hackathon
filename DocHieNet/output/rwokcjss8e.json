@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "RITcopes with gas shortage",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "THE REAL THING",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "TASTE TEST",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Future food service managers cook up feasts in Lomb Room",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Gas shortagecont ' d from p . 1",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Feasts cont ' d from p. 1",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Ski binding safety subject of study",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "BINDING DECISION",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Bevier Gallery features art of three women",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Metal craftsman sculpts jewelry",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "COLLAR",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "CRAFTSMAN",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Oriental destination for photo study program",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "NEWS& NEWSMAKERS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Direct Deposit",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "CONTINUINGEVENTS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "ROLE REVERSE",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

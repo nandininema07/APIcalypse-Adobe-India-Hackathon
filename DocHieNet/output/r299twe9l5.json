@@ -1,0 +1,158 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "For Immediate Release",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "title",
+      "text": "Press Conference Participants",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "title",
+      "text": "AEJMC Poll on Public Attitudes Toward the Press Data Sheet",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Public’s Engagement with News",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Platform Public Usually Uses to Access News",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "The Public Grades the Press",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Public’s Trust of Different Sources for News",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Public’s Attitudes about Journalism and News in their Lives",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Types of News the Public Pays Attention to Often",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "About the AEJMC Poll",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "title",
+      "text": "Some Facts about National News Engagement Day",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "National News Engagement Day was created to:",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "Tuesday, October 7 was selected as National News Engagement Day because:",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "The idea for National News Engagement Day originated from:",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "Website and Pinterest:",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "Hashtag:",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "Logo Designed by:",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "National News Engagement Activity:",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "About the Sponsor:",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "Is News Engagement Endangered?",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 159,
+      "order": 6
+    }
+  ]
+}

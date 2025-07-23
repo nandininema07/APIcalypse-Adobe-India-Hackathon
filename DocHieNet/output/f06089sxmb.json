@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "C O M M O N W E A L T H O F M A S S A C H U S E T T S H O U S I N G A P P E A L S C O M M I T T E E",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "C O M M O N W E A L T H O F M A S S A C H U S E T T S H O U S I N G A P P E A L S C O M M I T T E E",
+      "parent_id": 19,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "SUMMARY DECISION",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "I. PROCEDURAL HISTORY",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "II. STANDARD OF REVIEW AND DISCUSSION",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "III. OTHER CLAIMS BY THE BOARD",
+      "parent_id": 56,
+      "order": 5
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "IV. CONCLUSION AND ORDER",
+      "parent_id": 74,
+      "order": 6
+    }
+  ]
+}

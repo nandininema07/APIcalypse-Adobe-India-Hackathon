@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "中等职业学校电子商务专业人才培养方案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 26,
+      "label": "title",
+      "text": "中等职业学校电子商务专业人才培养方案",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "一、专业名称及代码",
+      "parent_id": 27,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "二、入学要求",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "三、修业年限",
+      "parent_id": 32,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "四、就业(岗位)面向",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(一)就业岗位",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "(二)职业资格证书要求",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "五、培养目标与培养规格",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "(一)培养目标",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "(二)培养规格",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "1.职业素养",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "2.专业知识",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.专业技能",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "六、课程设置和教学要求",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "(一)课程设置",
+      "parent_id": 75,
+      "order": 6
+    }
+  ]
+}

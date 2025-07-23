@@ -1,0 +1,172 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Clustering Algorithms: A Comparative Approach ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "I. INTRODUCTION ",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "II. RELATED WORKS ",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "III. CLUSTERING METHODS ",
+      "parent_id": 35,
+      "order": 3
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "IV. MATERIALS AND METHODS ",
+      "parent_id": 53,
+      "order": 4
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "A. Artificial datasets ",
+      "parent_id": 54,
+      "order": 5
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "B. Evaluating the performance of clustering algorithms ",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "V. RESULTS AND DISCUSSION ",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "A. Performance when using default parameters ",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "B. One-dimensional analysis ",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "C. Multi-dimensional analysis ",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "VI. CONCLUSIONS ",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "ACKNOWLEDGMENTS ",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "title",
+      "text": "SUPPLEMENTARY INFORMATION FOR “CLUSTERING ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "title",
+      "text": "ALGORITHMS: A COMPARATIVE APPROACH” ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 257,
+      "label": "section-title",
+      "text": "I. DESCRIPTION OF THE CLUSTERING ALGORITHMS’ PARAMETERS ",
+      "parent_id": 257,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "k-means clustering ",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 265,
+      "label": "section-title",
+      "text": "Clustering for large applications (clara) ",
+      "parent_id": 265,
+      "order": 6
+    },
+    {
+      "id": 272,
+      "label": "section-title",
+      "text": "Hierarchical clustering ",
+      "parent_id": 272,
+      "order": 6
+    },
+    {
+      "id": 278,
+      "label": "section-title",
+      "text": "Exp ectation maximization (EM) ",
+      "parent_id": 278,
+      "order": 6
+    },
+    {
+      "id": 286,
+      "label": "section-title",
+      "text": "hcmo del clustering ",
+      "parent_id": 286,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "Spectral algorithm ",
+      "parent_id": 292,
+      "order": 6
+    },
+    {
+      "id": 309,
+      "label": "section-title",
+      "text": "Subspace algorithm ",
+      "parent_id": 309,
+      "order": 6
+    },
+    {
+      "id": 322,
+      "label": "section-title",
+      "text": "II. CLUSTERING PERFORMANCE OBTAINED FOR RANDOM SELECTION OF PARAMETERS ",
+      "parent_id": 322,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Cleveland School of Architecture and Design at John Hay Campus2075 Stokes Boulevard - Cleveland， Ohio 44106",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "A completed application package requires ALL of the following items：",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Relatives who are students of the small schools at John Hay or alumni：",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Please complete the following Parent/Guardian information：",
+      "parent_id": 33,
+      "order": 3
+    }
+  ]
+}

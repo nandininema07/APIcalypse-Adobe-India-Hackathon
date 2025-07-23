@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Potential of Sustaining Handicrafts as a Tourism Product in Jordan",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Dr. Mairna Mustafa",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Handicrafts Sector in Jordan",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Formal Bodies Responsible for Handicrafts Sector in Jordan",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Strengths and Weaknesses in Jordanian Handicrafts Sector",
+      "parent_id": 56,
+      "order": 6
+    }
+  ]
+}

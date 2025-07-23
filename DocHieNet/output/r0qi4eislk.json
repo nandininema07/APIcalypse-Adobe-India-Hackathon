@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "政府采购招召标文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 49,
+      "label": "title",
+      "text": "第一篇投标邀请书",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "招标项目内容",
+      "parent_id": 51,
+      "order": 2
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "二、投标人资格要求及有关规定",
+      "parent_id": 54,
+      "order": 3
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "(一)投标人基本资格要求",
+      "parent_id": 55,
+      "order": 4
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "(二)特定资格条件",
+      "parent_id": 61,
+      "order": 5
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "(三)投标有关规定",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "(四)特别说明：",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "三、资金来源：财政性资金。",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "四、投标、开标有关说明",
+      "parent_id": 78,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 19,
+      "label": "title",
+      "text": "OFFICE OF FINANCIAL AFFAIRS/FINANCIAL MANAGEMENT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Q. What changes should l expect to see in Banner 9 for Finance?",
+      "parent_id": 20,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Q. What is the context behind the upgrade timeframe? Can this be pushed out?",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Q. What happens if we can't upgrade to Banner 9 in time? What are the risks?",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Q. What are the regulatory risks / timeline I need to consider?",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Q. Who else has moved forward with the Banner 9 upgrade?",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "Q. What do I need to consider if our institution has modifications?",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Q. Do we need Services to complete the upgrade to Banner 9?",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Q. What training or re-training of staff will be needed to use the new system?",
+      "parent_id": 60,
+      "order": 6
+    }
+  ]
+}

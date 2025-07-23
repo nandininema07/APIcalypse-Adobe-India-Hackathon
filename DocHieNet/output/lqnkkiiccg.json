@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Grade 9： Earthquake -\"How Big Was That Quake?\"",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "1.Introduction for the teacher：",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Materials：",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Handouts， 1 per student：",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2. Lesson： \"How Big Was That Quake?\"",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Procedure：",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "B. Discuss the difference between the magnitude of the earthquake and the intensities of shaking caused by the earthquake. Remind students：",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "Informal Assessment：",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3. Alignment to California Standards：",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "5. Home Connection：",
+      "parent_id": 87,
+      "order": 6
+    }
+  ]
+}

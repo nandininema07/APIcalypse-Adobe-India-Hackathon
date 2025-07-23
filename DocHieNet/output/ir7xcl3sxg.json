@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Dear Secretary Cason：",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Statutory and Regulatory Framework",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "The Substance of the Mohegan/Mashantucket Pequot Amendments",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "State Law Requirements",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Consultation with the Department",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "The Department's September 15 Letters",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "The Department's Obligation to Publish",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

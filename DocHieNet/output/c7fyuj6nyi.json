@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "66互联网+\"大学生创新创业大赛项目计划书",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "一、项目概述",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1.1市场分析及定位",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1.2产品介绍",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.3商业模式",
+      "parent_id": 13,
+      "order": 4
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1.4营销策略",
+      "parent_id": 15,
+      "order": 5
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1.5财务分析",
+      "parent_id": 17,
+      "order": 6
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.6团队介绍",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "二、公司简介",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2.1公司概述",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2.1.1公司名称",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.1.2公司宗旨",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2.1.3公司标识",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.2公司现状",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.3发展规划",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.3.1公司发展阶段",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2.3.1.1公司发展初期",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.3.1.2公司发展中期",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "2.3.2公司未来展望",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.3.1.3公司发展长期",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

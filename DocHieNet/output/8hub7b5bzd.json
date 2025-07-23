@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "REPORTOFCOOPERATIVE T TICK ERADICATION ACTIVITIES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "THE ERADICATION PROGRAM",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "PROGRAM GOALS",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "ACTIVE PROGRAM CON TI NUES _ IN T EXAS",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "RE PORT OF ACTIVITIES IN BUFFER AREAS",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "FI SCAL YEARS 1959 THROUGH 1964 AND IN 19 52",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "PROGRESS IN PUERTO RICO AND THE U. S。 VIRGIN ISLANDS",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "EQ U I NE P I ROPLASMOSIS SITUATION RE RT -OCTOBER 1964",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "WILD LIFE TICK SURVEY TURNS S UP INTERESTING COLLECTION",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "PARASITE IDENTIFICATION AND/OR CONFIRMATION AT BELTSVILLE ECTOPARASITE LABORATORY",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "EXOTIC TICKS FOUND IN OKLAHOMA， NEW YORK， WASHINGTON",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "T he Bont Tick Re a ppears",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "A m bly om ma Incisum T i cks F ound",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "T icks Found on Recently Imported Iguanas",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Lone StarTick Collected at Port",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "EXOTIC TICKS COLLECTED AT WILD ANIMAL COMPOUNDS AND ZOOLOGICAL PARKS DURING RECENT YEARS",
+      "parent_id": 67,
+      "order": 6
+    }
+  ]
+}

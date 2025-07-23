@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "而不予立案侦查，而死者家属对死者的死因持有完刑事立案前死因鉴定争议解决机制建构",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "关虽然对有的死因进行了补充鉴定或者重新鉴定，Construction of the Dispute Settlement Mechanism for Appraisal死者家属仍然不满意，必然会通过诉讼外多种途径 of Death Cause before Filing Criminal Cases",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1诉前死因鉴定争议缺乏正当的化解机制",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2建构合理的鉴定争议解决制度",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.1大陆法系解决鉴定意见异议的制度",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2.22英美法系解决鉴定意见异议的制度",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3制度建构的可行性实践",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4制度建构的配套措施",
+      "parent_id": 61,
+      "order": 6
+    }
+  ]
+}

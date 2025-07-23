@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "[EMPTY]",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Michael Hendryx， Ph.D.",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Synopsis",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "Mortality in Appalachian Coal Mining Regions： The Value of Statistical Life Lost",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Methods",
+      "parent_id": 29,
+      "order": 4
+    }
+  ]
+}

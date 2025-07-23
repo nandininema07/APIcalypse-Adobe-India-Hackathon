@@ -1,0 +1,347 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "Ain Shams University The Egyptian Journal of Medical Human Genetics",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Pathogenetics. An introductory review",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1. Deﬁnition",
+      "parent_id": 30,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2. Pathogenesis of genetic diseases",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "3. Mutagens",
+      "parent_id": 47,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "4. Classiﬁcation of mutagens",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "5. Factors affecting actions of mutagens",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "6. Mutation",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "7. Classiﬁcation of mutation",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "7.1. Induced and spontaneous mutation",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "7.2. Nuclear and mitochondrial mutation",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "7.3. Somatic and germinal mutation",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "7.4. Static and dynamic mutation",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "7.5. Pathological and non-pathological mutation",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "7.6. Point, small, gross and genomic mutation",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "7.6.1. Molecular mechanisms of point mutation",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "7.6.2. Types of point mutations",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "7.6.3. Small mutations",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "7.6.4. Gross mutations",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "(a) Deletion",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "(b) Translocation",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "(c) Inversion",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 164,
+      "label": "section-title",
+      "text": "(d) Ring chromosome formation",
+      "parent_id": 164,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "(e) Duplication",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "(f) Isochromosomes",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "(g) Mosaicism",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "(h) Chromosome gaps and breaks",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "(2) Numerical chromosomal aberrations",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 192,
+      "label": "section-title",
+      "text": "7.6.5. Genomic mutations",
+      "parent_id": 192,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "7.7. Base, sugar, phosphate mutation",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 208,
+      "label": "section-title",
+      "text": "7.8. Persistent and reversible mutation",
+      "parent_id": 208,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "8. Pathogenetic mechanisms of genetic diseases",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 252,
+      "label": "section-title",
+      "text": "9. Anti-mutation mechanisms of the human genome and human proteome",
+      "parent_id": 252,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "10. Anti-mutation mechanisms of the human genome",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 260,
+      "label": "section-title",
+      "text": "10.1. Structural organization of the human genome",
+      "parent_id": 260,
+      "order": 6
+    },
+    {
+      "id": 264,
+      "label": "section-title",
+      "text": "10.2. Structural features of DNA",
+      "parent_id": 264,
+      "order": 6
+    },
+    {
+      "id": 266,
+      "label": "section-title",
+      "text": "10.3. Degeneracy of the genetic code",
+      "parent_id": 266,
+      "order": 6
+    },
+    {
+      "id": 271,
+      "label": "section-title",
+      "text": "10.4. Nuclear localization of DNA",
+      "parent_id": 271,
+      "order": 6
+    },
+    {
+      "id": 273,
+      "label": "section-title",
+      "text": "10.5. DNA-associated proteins",
+      "parent_id": 273,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "10.6. Replication proofreading system",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 278,
+      "label": "section-title",
+      "text": "10.7. Genetic repair systems",
+      "parent_id": 278,
+      "order": 6
+    },
+    {
+      "id": 280,
+      "label": "section-title",
+      "text": "10.7.1. Nuclear DNA repair",
+      "parent_id": 280,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "10.7.2. RNA repair/editing system",
+      "parent_id": 292,
+      "order": 6
+    },
+    {
+      "id": 296,
+      "label": "section-title",
+      "text": "10.7.3. Mitochondrial DNA(mtDNA) repair",
+      "parent_id": 296,
+      "order": 6
+    },
+    {
+      "id": 298,
+      "label": "section-title",
+      "text": "10.8. Protein repair systems",
+      "parent_id": 298,
+      "order": 6
+    },
+    {
+      "id": 302,
+      "label": "section-title",
+      "text": "10.9. Silencing of transposon activity during development",
+      "parent_id": 302,
+      "order": 6
+    },
+    {
+      "id": 307,
+      "label": "section-title",
+      "text": "10.10. Antioxidant enzyme systems",
+      "parent_id": 307,
+      "order": 6
+    },
+    {
+      "id": 315,
+      "label": "section-title",
+      "text": "10.11. Apoptosis of heavily, lethally mutated cells",
+      "parent_id": 315,
+      "order": 6
+    },
+    {
+      "id": 319,
+      "label": "section-title",
+      "text": "10.12. Melatonin",
+      "parent_id": 319,
+      "order": 6
+    }
+  ]
+}

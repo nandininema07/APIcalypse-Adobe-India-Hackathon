@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "特大城市\"低碳\"城乡规划的思路与技术应用",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "Ideas and Technology Application for Low-Carbon Urban-rural Planning in Mega Cities",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1.\"低碳\"之于特大城市的重要意义",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2.特大城市\"低碳\"城乡规划的概念与思路城市建设用地的\"底\"，生态绿地是城市生态安全格局的重要保障，区域生态控制也是碳汇",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2.1\"低碳\"城乡规划的概念诠释",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2.2特大城市\"低碳\"城乡规划的关注重点",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3.特大城市\"低碳\"城乡规划的技术方法应用 CA模型可广泛应用于城市空间结构与形态的预测研究中，其中在城市空间增长、扩散和土",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3.1逾渗理论与自动元胞机",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.2碳氧平衡分析",
+      "parent_id": 48,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "文章编号：1000-1301(2002)02-0022-06管线与断层相交的点应力应变值最大，为管",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "地震断层作用下埋地管线的反应分析1",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "A method for analyzing response of buried pipeline due to earthquake fault movement",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1引言",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2管材的应力应变本构关系模型",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "3分析模型",
+      "parent_id": 35,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3.11BC段：",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.2AB段：",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3.3力的平衡方程",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "3.4变形协调方程",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "3.5破坏准则",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "4计算结果分析",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "5结语",
+      "parent_id": 116,
+      "order": 6
+    }
+  ]
+}

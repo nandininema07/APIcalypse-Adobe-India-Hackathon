@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "走向自觉反思的文学理论",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "走向反思",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "什么是文学理论?",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "问题、\"问题意识\"和中国自己的问题\"",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "关于本质主义、建构主义和对话主义",
+      "parent_id": 35,
+      "order": 4
+    }
+  ]
+}

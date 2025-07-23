@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Application of Spray Polyurea in Architecture",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Keywords",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1.Introduction",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "2. Polyurea chemistry",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "3.Polyurea history",
+      "parent_id": 18,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "4.Polyurea technology advantage",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "4.1 Environmental performance",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "4.2 Physical and chemical properties",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "4.3 Process performance",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.4 Cost",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "5. Polyurea construction",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "6.Conclusion",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

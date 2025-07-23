@@ -1,0 +1,165 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "职业教育校企合作中工业文化对接的新动向",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "一、工业文化的理论思考",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "(一)工业文化的内涵与属性",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "(二)工业文化的载体",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "(三)校企合作工业文化对接的迫切性",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1.学生与员工、学校与企业之间的文化差异",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.社会工业文化底蕴不足",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3.校企合作工业文化对接的目的",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "二、校企合作工业文化对接的任务、策略和原则",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(一)校企合作中工业文化对接的任务",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "(二)校企合作中工业文化对接的策略",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "(三)校企合作中工业文化对接的原则",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "三、工业文化对接的实践途径",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "(一)以学生为本的工业文化教育实践",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "1.校企合作开展职业生涯规划指导",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "2.重视工作价值观教育，开好工业文化教育基础课",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "3.在专业建设、课程教学改革中渗透工业文化",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "4.顶岗实习全面接受\"企业版\"工业文化教育",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "(二)全方位的工业文化育人实践子。安徽化工学校选择60家企业制作60块展板展",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "示企业基本情况和企业文化， 将其与安徽皖维集团1.校企合作建设\"双师型\"教师队伍，做好教书育人联合办学的学生宿舍楼命名为\"皖维楼\"，并请集团",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "2.借鉴体现先进工业文化的企业管理育人制度，做好管理育人",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "3.工业文化引领、师生共同参与，做好服务育人",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "4.营造饱含工业文化氛围的校园文化，做好环境育人",
+      "parent_id": 77,
+      "order": 6
+    }
+  ]
+}

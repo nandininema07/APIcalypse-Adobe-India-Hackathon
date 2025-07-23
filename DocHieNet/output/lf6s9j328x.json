@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "Influence of different parametres on the resistance of earth. used as a building material",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "Influence of different parametres on the resistance of earth used as a building material",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "COMPRESSED BRICKS",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "The Static Compressive Test",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Behaviour of Compressed Earth",
+      "parent_id": 39,
+      "order": 6
+    }
+  ]
+}

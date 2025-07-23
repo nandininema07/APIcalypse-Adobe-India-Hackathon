@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "投资贸易促进工作要为构建和谐社会发挥重要作用",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、2004年全省投资贸易促进工作取得长足进展",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "二、投资贸易促进和招商引资在构建和谐社会中的任务和重点",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "三、投资贸易促进和招商引资在构建和谐社会中的措施和途径",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(一)进一步转变思想观念",
+      "parent_id": 11,
+      "order": 4
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "(二)不断拓宽、转变招商引资的领域和方式",
+      "parent_id": 13,
+      "order": 5
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "(三)发挥兰洽会在全省对外开放中的重要作用",
+      "parent_id": 15,
+      "order": 6
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "(四)突出东西部合作，进一步扩大全方位经济技术联合与协作",
+      "parent_id": 17,
+      "order": 6
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "(五)再造环境竞争新优势",
+      "parent_id": 19,
+      "order": 6
+    }
+  ]
+}

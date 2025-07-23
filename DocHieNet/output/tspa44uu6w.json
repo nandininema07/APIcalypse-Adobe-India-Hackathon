@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "ITU-R BT.1852-1建议书",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "前言",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "知识产权政策(IPR)",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "title",
+      "text": "ITU-R BT.1852-1建议书",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "范围",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "关键词",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "title",
+      "text": "设计数字广播有条件接收系统的基本原则",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "引言",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2规范性参考文献",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3术语、定义和缩写词",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3.1术语和定义",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "3.2缩写词",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "4有条件接收系统概述",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "4.1参考模型",
+      "parent_id": 98,
+      "order": 6
+    }
+  ]
+}

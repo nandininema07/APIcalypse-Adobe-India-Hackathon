@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "人才培养方案文本格式",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "三、修业年限",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "四、职业面向",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "五、培养目标与培养规格",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1.素质",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "1)思想政治素质",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2)职业素质",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3)身心素质",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "4)文化素质",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.知识",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "3.能力",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "1)通用能力",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2)专业技术技能。",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "六、课程设置",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "七、学时安排",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "八、教学进程总体安排",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "九、实施保障",
+      "parent_id": 69,
+      "order": 6
+    }
+  ]
+}

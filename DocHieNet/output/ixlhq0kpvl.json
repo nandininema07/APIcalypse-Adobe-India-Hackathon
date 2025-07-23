@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "2021-2027年中国轻型货车行业市场深度调研及投资战略分析报告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "一、基本信息",
+      "parent_id": 15,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "二、内容介绍",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "2019-2025年中国轻型货车行业市场深度调研及投资战略分析报告",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2019年1-4月中国货车产量及同比增长走势",
+      "parent_id": 30,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2019年1-4月中国货车销量及同比增长走势",
+      "parent_id": 41,
+      "order": 5
+    }
+  ]
+}

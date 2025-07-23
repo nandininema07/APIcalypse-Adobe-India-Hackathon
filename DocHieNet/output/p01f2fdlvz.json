@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "ENCLOSURE #3",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Gentlemen：",
+      "parent_id": 21,
+      "order": 1
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "1.0 INTRODUCTION",
+      "parent_id": 50,
+      "order": 2
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "2.0 ASSUMPTIONS",
+      "parent_id": 55,
+      "order": 3
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "3.0 FAILURE RATES",
+      "parent_id": 83,
+      "order": 4
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "4.0 AVAILABILITY",
+      "parent_id": 112,
+      "order": 5
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "5.0 CALCULATIONS",
+      "parent_id": 125,
+      "order": 6
+    }
+  ]
+}

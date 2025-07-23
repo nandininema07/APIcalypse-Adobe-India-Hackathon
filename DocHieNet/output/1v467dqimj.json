@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Small Business in New York State:An Economic Snapshot",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Firms and Employment",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Industry Sectors",
+      "parent_id": 30,
+      "order": 2
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "New York State and Small Businesses",
+      "parent_id": 46,
+      "order": 3
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 50,
+      "order": 4
+    }
+  ]
+}

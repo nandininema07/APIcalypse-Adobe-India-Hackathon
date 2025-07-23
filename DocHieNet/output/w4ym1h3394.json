@@ -1,0 +1,158 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "TaintAssembly: Taint-Based Information Flow ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Control Tracking for WebAssembly ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "I . I N TRODU CT I ON ",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "II. BAC K GR O UND AN D RE LAT ED W OR K ",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "A. WebAssembly (wasm) ",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "B. Taint Tracking ",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "I I I. IM P LEMEN TAT ION ",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "A. Basic Taint Tracking ",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "B. Tainting Linear Memory ",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "C. Probabilistic Taint Tracking ",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "D. Additional Features ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "IV. P ER F O R MA N C E EVA L UAT I O N ",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "A. Program Runtime ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "B. Taint Insertion Overhead ",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "C. Probabilistic Taint Benchmarks ",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "V. L I M I TATION S ",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "A. Approach Limitations ",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "B. Taint Source Limitations ",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "C. WebAssembly Linear Memory ",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "VI . C HAL LEN GES ",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "V II. CO N C L USION ",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "AC KNOWL EDGMEN TS ",
+      "parent_id": 118,
+      "order": 6
+    }
+  ]
+}

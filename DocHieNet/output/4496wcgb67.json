@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Service Description for Internet",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Service Name",
+      "parent_id": 24,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Service Description",
+      "parent_id": 26,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Service Provisioning",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Provisioner",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Current Status and Future Plans",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Governance",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Service Scope / Customers",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Service Features and Functionality",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "Continuity Plan",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Criticality",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Service Resumption/Disaster Recovery",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Service Level Commitments",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "Service Consumer Requirements/Prerequisites",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "Cost /Funding Model",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "Technology",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "Core Competency Evaluation",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "Efficiency Analysis",
+      "parent_id": 89,
+      "order": 6
+    }
+  ]
+}

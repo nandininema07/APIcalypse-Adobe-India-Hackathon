@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": " the rediscovery of the state's role helps to the rehabilitation of the public sector and its socialMONDIALIZATION AND GLOBALIZATION'S INFLUENCE ONFINANCIAL REPORT AND ON THE EVOLUTIONOF ACCOUNTING TECHNIQUES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "1. THE CONTENT OF THE GLOBALIZATION PHENOMENON",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2. MULTINATIONAL COMPANIES-ECONOMICAL AGENTS OF GLOBALIZATION",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "3. INFLUENCES ON N FINANCIAL INFORMATION AND ON THE EVOLUTION OF ACCOUNTING TECHNIQUES",
+      "parent_id": 43,
+      "order": 3
+    }
+  ]
+}

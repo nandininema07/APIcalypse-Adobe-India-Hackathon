@@ -1,0 +1,18 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "鹤壁鹤淇发电有限责任公司2*660WM机组",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "燃料推煤机库及输煤程控楼屋顶防水修复",
+      "parent_id": 0,
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "KUTZTOWN UNIVERSITY RESEARCH COMMITTEE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Research Committee Members",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "title",
+      "text": "KUTZTOWN UNIVERSITY RESEARCH COMMITTEE",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Stipulations of Grant",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Submission and Deadline",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Timeline of Research Proiects",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Use of Funds",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "Review of Proposals",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "ProposalFormat",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Proposal submission must include：",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

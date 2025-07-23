@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "智能汽车CAN总线通信系统的建模与验证",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "0引言",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1系统描述",
+      "parent_id": 26,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "1.1基于CAN总线通信的智能车辆系统",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "1.2CAN协议介绍",
+      "parent_id": 32,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2形式化建模",
+      "parent_id": 44,
+      "order": 5
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.1符号化模型检测工具UPPAAL",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "2.2通信系统模型的建立",
+      "parent_id": 70,
+      "order": 6
+    }
+  ]
+}

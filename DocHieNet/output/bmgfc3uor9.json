@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Unsupervised Learning with Self- ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Organizing Spiking Neural Networks ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Abstract— ",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "I . I N TRODU CT I ON ",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "II. M E TH O DS ",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "A. Network architecture ",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "B. Increasing inhibition with inter-neuron distance ",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "C. Growing the inhibition level over the training phase ",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "D. Two-level inhibition ",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "E. Evaluating learned representations ",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "II I . R ESULTS ",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "A. Two-level inhibition ",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "B. Comparing baseline SNN and two-level inhibition ",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "C. Training larger networks ",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "D. Network convergence ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "E. Sparse input connectivity ",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "IV. C O NC LUSIO N S A N D F U TU RE WORK ",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "AC K NOWLE DGE ME N TS ",
+      "parent_id": 82,
+      "order": 6
+    }
+  ]
+}

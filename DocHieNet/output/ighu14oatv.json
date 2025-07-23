@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "儿在园期间的保教费用及伙食费补助。江西省学前教育资助制度实施意见",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "一、基本原则",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "二、资助对象",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "三、资助标准",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "四、资金来源",
+      "parent_id": 10,
+      "order": 4
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "五、组织管理",
+      "parent_id": 14,
+      "order": 5
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "教育阶段学校就读的在籍在校学生。关于印发《江西省义务教育阶段家庭经济困难学生生活补助管理办法》的通知",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "title",
+      "text": "附件：",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "title",
+      "text": "江西省义务教育阶段家庭经济困难学生生活补助管理办法",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "IN THE UNITED STATES DISTRICT COURT DISTRICT OF RHODE ISLAND",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "COMPLAINT",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "PARTIES, AND PROPERTIES",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "SEASON ONE OF SURVIVOR AND RELATED LEGAL PROCEEDINGS",
+      "parent_id": 59,
+      "order": 3
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "C C O O U U N N T T O O N N E E , ( ( C C l l a a i i m m A A g g a a i i n n s s t t R R i ic c h h a a r r d d H H . . H H a a t t c c h h , , J J r r . . t t o o R R e e d d u u c c e e I I n n c c o o m me e T T a a x x L L i i a a b b i i l l i i t ti i e e s s t t o o J Ju u d d g g m m e e n n t t ) )",
+      "parent_id": 72,
+      "order": 4
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "C Co O u U n N t T T T W wo O (Claim Against All Parties to Enforce Federal Tax Liens Against Real Properties)",
+      "parent_id": 87,
+      "order": 5
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "2 21 1 A A n n n n a a n n d d a a l l e e P P r r o o p p e e r r t ty y T T r r a a n n s s f f e e r r s s P P r r i io o r r t t o o S S e e p pt t e e m mb b e e r r 2 20 00 05 5 C C r ri im m i i n n a a l l I I n n d d i i c c t t m m e en n t t",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "2 2 3 3 A A n n n n a a n n d d a a l l e e P P r r o o p p e e r r t ty y T T r r a a n n s s f f e e r r s s P P r r i io o r r t t o o S S e e p pt t e e m mb b e e r r 2 20 00 05 5 C C r ri im m i i n n a a l l I I n n d d i i c c t t m m e en n t t",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "N N o o t t i i c c e e s s o of f F F e e d d e e r r a al l T T a a x x L L i ie e n n F F i il l e e d d i i n n t t h h e e N N a a m m e e o o f f R R i i c c h h a a r rd d H H . . H H a a t t c c h h , , J Jr r .",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "N N o o t t i i c c e e s s o o f f F F e e d d e e r r a a l l T T a u x x L L i ie e n n F F i il l e e d d i i n n t t h h e e N N a a m m e e o o f f K K ri ri s s t t i in n M M . . H H a a t tc ch h a a s s t t h h e e N N o o m m i i n n e ee e o o f f R R i i c c h h a a r rd d H. Hatch, Jr.",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "F F r r a a u u d d u u l l e e n n t t T r Tr a a n n s s f f e e r r s s a a n n d d E E n n f f o o r rc c e e m me e n n t t o of f F F e e d d e e r r a a l l T T a a x x L L i ie e n s ns",
+      "parent_id": 119,
+      "order": 6
+    }
+  ]
+}

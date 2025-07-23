@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "On C-E Translation and Promotion Strategies of Xi'an Leisure Culture",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "title",
+      "text": " Industry in OBOR",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "The Current Situation of Leisure Culture Life in Xi'an in OBOR",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "C-E translation Strategies of Xi'an Leisure Culture Industry",
+      "parent_id": 27,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Measures to Strengthen Xi'an Leisure Culture Industry",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Acknowledgements：",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "References：",
+      "parent_id": 67,
+      "order": 6
+    }
+  ]
+}

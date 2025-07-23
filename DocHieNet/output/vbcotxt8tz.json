@@ -1,0 +1,851 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "CANDRIAM GF",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "PROSPECTUS",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "1. Managing and administrative bodies for the SICAV",
+      "parent_id": 39,
+      "order": 3
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "Board of Directors of the SICAV",
+      "parent_id": 40,
+      "order": 4
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Portfolio Managers",
+      "parent_id": 62,
+      "order": 5
+    },
+    {
+      "id": 71,
+      "label": "title",
+      "text": "2. General description of the SICAV",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "title",
+      "text": "Before subscribing, investors should refer to the Fact Sheets to obtain further details about each sub-fund.",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "3. Management and administration",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "3.1. Board of Directors",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "3.2. Management Company",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "3.2.1. Portfolio management duties",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "3.2.2. Central Administration",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "3.2.3. Marketing",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "4. Custodian Bank and principal paying agent",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "5. Investment objectives",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "6. Investment policy",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "6.1. The investments of the various sub-funds of the SICAV must consist only of one or more of the following:",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 193,
+      "label": "section-title",
+      "text": "6.4.2. Repurchase transactions and reverse repurchase transactions",
+      "parent_id": 193,
+      "order": 6
+    },
+    {
+      "id": 194,
+      "label": "section-title",
+      "text": "a) Reverse repurchase transactions",
+      "parent_id": 194,
+      "order": 6
+    },
+    {
+      "id": 198,
+      "label": "section-title",
+      "text": "b) Repurchase transactions",
+      "parent_id": 198,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "6.4.3. Measures to limit the risks associated with efficient portfolio management techniques",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "a) Measures to limit counterparty and delivery risks",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 208,
+      "label": "section-title",
+      "text": "b) Measures taken to reduce the risk of conflicts of interest",
+      "parent_id": 208,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "6.4.4. Earnings on securities lending",
+      "parent_id": 210,
+      "order": 6
+    },
+    {
+      "id": 214,
+      "label": "section-title",
+      "text": "6.4.5. Periodic investor information",
+      "parent_id": 214,
+      "order": 6
+    },
+    {
+      "id": 216,
+      "label": "section-title",
+      "text": "7. Investment restrictions",
+      "parent_id": 216,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "7.10. Management of financial guarantees for OTC derivative products and efficient portfolio management techniques",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 276,
+      "label": "section-title",
+      "text": "a) General criteria",
+      "parent_id": 276,
+      "order": 6
+    },
+    {
+      "id": 286,
+      "label": "section-title",
+      "text": "b) Types of authorized financial guarantee",
+      "parent_id": 286,
+      "order": 6
+    },
+    {
+      "id": 294,
+      "label": "section-title",
+      "text": "c) Level of financial guarantee",
+      "parent_id": 294,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "d) Discounting policy",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 303,
+      "label": "section-title",
+      "text": "e) Reinvestment of cash",
+      "parent_id": 303,
+      "order": 6
+    },
+    {
+      "id": 306,
+      "label": "section-title",
+      "text": "8. Risk factors",
+      "parent_id": 306,
+      "order": 6
+    },
+    {
+      "id": 328,
+      "label": "section-title",
+      "text": "9. Risk Management",
+      "parent_id": 328,
+      "order": 6
+    },
+    {
+      "id": 332,
+      "label": "section-title",
+      "text": "a) Commitment method",
+      "parent_id": 332,
+      "order": 6
+    },
+    {
+      "id": 339,
+      "label": "section-title",
+      "text": "b) Value at risk(VaR) method",
+      "parent_id": 339,
+      "order": 6
+    },
+    {
+      "id": 342,
+      "label": "section-title",
+      "text": " Relative VaR limit",
+      "parent_id": 342,
+      "order": 6
+    },
+    {
+      "id": 344,
+      "label": "section-title",
+      "text": " Absolute VaR limit",
+      "parent_id": 344,
+      "order": 6
+    },
+    {
+      "id": 347,
+      "label": "section-title",
+      "text": "10. The shares",
+      "parent_id": 347,
+      "order": 6
+    },
+    {
+      "id": 355,
+      "label": "section-title",
+      "text": "11. Listing of shares",
+      "parent_id": 355,
+      "order": 6
+    },
+    {
+      "id": 357,
+      "label": "section-title",
+      "text": "12. Issue of shares and subscription and payment procedures",
+      "parent_id": 357,
+      "order": 6
+    },
+    {
+      "id": 371,
+      "label": "section-title",
+      "text": "13. Conversion of shares",
+      "parent_id": 371,
+      "order": 6
+    },
+    {
+      "id": 383,
+      "label": "section-title",
+      "text": "14. Redemption of shares",
+      "parent_id": 383,
+      "order": 6
+    },
+    {
+      "id": 385,
+      "label": "section-title",
+      "text": "14.1. Redemption procedure",
+      "parent_id": 385,
+      "order": 6
+    },
+    {
+      "id": 391,
+      "label": "section-title",
+      "text": "14.2. Temporary suspension of redemptions",
+      "parent_id": 391,
+      "order": 6
+    },
+    {
+      "id": 397,
+      "label": "section-title",
+      "text": "15. Market Timing and Late Trading",
+      "parent_id": 397,
+      "order": 6
+    },
+    {
+      "id": 401,
+      "label": "section-title",
+      "text": "16. Net asset value",
+      "parent_id": 401,
+      "order": 6
+    },
+    {
+      "id": 455,
+      "label": "section-title",
+      "text": "17. Temporary suspension of the calculation of the net asset value and of the issue, redemption and conversion of shares",
+      "parent_id": 455,
+      "order": 6
+    },
+    {
+      "id": 469,
+      "label": "section-title",
+      "text": "18. Dividend distribution policy",
+      "parent_id": 469,
+      "order": 6
+    },
+    {
+      "id": 470,
+      "label": "section-title",
+      "text": "18.1 General principles",
+      "parent_id": 470,
+      "order": 6
+    },
+    {
+      "id": 474,
+      "label": "section-title",
+      "text": "18.2 Dividend distribution policy",
+      "parent_id": 474,
+      "order": 6
+    },
+    {
+      "id": 496,
+      "label": "section-title",
+      "text": "19. Separation of the liabilities of the sub-funds",
+      "parent_id": 496,
+      "order": 6
+    },
+    {
+      "id": 498,
+      "label": "section-title",
+      "text": "20. Taxation",
+      "parent_id": 498,
+      "order": 6
+    },
+    {
+      "id": 499,
+      "label": "section-title",
+      "text": "20.1. Taxation of the SICAV",
+      "parent_id": 499,
+      "order": 6
+    },
+    {
+      "id": 500,
+      "label": "section-title",
+      "text": "Under the terms of current legislation and according to current practice, the SICAV is not liable for any Luxembourg income tax(i.e. on dividends, interest, or capital gains received). Similarly, dividends paid by the SICAV are not subject to any form of Luxembourg withholding tax.",
+      "parent_id": 500,
+      "order": 6
+    },
+    {
+      "id": 501,
+      "label": "section-title",
+      "text": "However, the SICAV is liable in Luxembourg to an annual subscription tax(“taxe d’abonnement”) representing 0.05% of the net assets of the SICAV. This subscription tax is reduced to 0.01% for classes reserved for institutional investors. The subscription tax is payable quarterly based on the net assets of the SICAV calculated at the end of the quarter to which the duty relates.",
+      "parent_id": 501,
+      "order": 6
+    },
+    {
+      "id": 502,
+      "label": "section-title",
+      "text": "Certain revenues of the SICAV such as dividends, interest, and capital gains on assets from sources outside Luxembourg may, however, be liable for variable rate taxes, which are generally deducted at source. Generally speaking, these taxes or deductions at source are not fully or even partially recoverable. The relief from these taxes and deductions at source provided by the international double taxation prevention treaties entered into by the Grand Duchy of Luxembourg and the respective countries is not always applicable.",
+      "parent_id": 502,
+      "order": 6
+    },
+    {
+      "id": 503,
+      "label": "section-title",
+      "text": "20.2. Taxation of shareholders",
+      "parent_id": 503,
+      "order": 6
+    },
+    {
+      "id": 512,
+      "label": "section-title",
+      "text": "21. General meetings of shareholders",
+      "parent_id": 512,
+      "order": 6
+    },
+    {
+      "id": 517,
+      "label": "section-title",
+      "text": "22. Closure, merger and demerger of a sub-fund, class or type of share – Liquidation of the SICAV",
+      "parent_id": 517,
+      "order": 6
+    },
+    {
+      "id": 518,
+      "label": "section-title",
+      "text": "22.1. Closure, cancellation and liquidation of sub-funds, share classes or share types",
+      "parent_id": 518,
+      "order": 6
+    },
+    {
+      "id": 528,
+      "label": "section-title",
+      "text": "22.2. Merger of sub-funds, share classes or share types",
+      "parent_id": 528,
+      "order": 6
+    },
+    {
+      "id": 529,
+      "label": "section-title",
+      "text": "22.2.1. Merger of a class or type of share",
+      "parent_id": 529,
+      "order": 6
+    },
+    {
+      "id": 533,
+      "label": "section-title",
+      "text": "22.2.2. Merger of a sub-fund",
+      "parent_id": 533,
+      "order": 6
+    },
+    {
+      "id": 537,
+      "label": "section-title",
+      "text": "22.3 Demerger of sub-funds, share classes or share types",
+      "parent_id": 537,
+      "order": 6
+    },
+    {
+      "id": 540,
+      "label": "section-title",
+      "text": "22.4 Liquidation/ merger of the SICAV",
+      "parent_id": 540,
+      "order": 6
+    },
+    {
+      "id": 548,
+      "label": "section-title",
+      "text": "23. Fees and charges",
+      "parent_id": 548,
+      "order": 6
+    },
+    {
+      "id": 549,
+      "label": "section-title",
+      "text": "23.1. Portfolio Management fee",
+      "parent_id": 549,
+      "order": 6
+    },
+    {
+      "id": 552,
+      "label": "section-title",
+      "text": "23.2. Performance fee",
+      "parent_id": 552,
+      "order": 6
+    },
+    {
+      "id": 554,
+      "label": "section-title",
+      "text": "23.3 Distribution fee",
+      "parent_id": 554,
+      "order": 6
+    },
+    {
+      "id": 556,
+      "label": "section-title",
+      "text": "23.4. Operational and administrative charges",
+      "parent_id": 556,
+      "order": 6
+    },
+    {
+      "id": 580,
+      "label": "section-title",
+      "text": "24. Information to shareholders",
+      "parent_id": 580,
+      "order": 6
+    },
+    {
+      "id": 581,
+      "label": "section-title",
+      "text": "24.1. Publication of the net asset value",
+      "parent_id": 581,
+      "order": 6
+    },
+    {
+      "id": 583,
+      "label": "section-title",
+      "text": "24.2. Notices to shareholders",
+      "parent_id": 583,
+      "order": 6
+    },
+    {
+      "id": 592,
+      "label": "section-title",
+      "text": "24.3. Documents available for inspection",
+      "parent_id": 592,
+      "order": 6
+    },
+    {
+      "id": 595,
+      "label": "section-title",
+      "text": "24.4. Auditors",
+      "parent_id": 595,
+      "order": 6
+    },
+    {
+      "id": 597,
+      "label": "section-title",
+      "text": "25. Information for investors in the Federal Republic of Germany",
+      "parent_id": 597,
+      "order": 6
+    },
+    {
+      "id": 607,
+      "label": "section-title",
+      "text": "Special risks resulting from tax publication requirements in Germany:",
+      "parent_id": 607,
+      "order": 6
+    },
+    {
+      "id": 611,
+      "label": "section-title",
+      "text": "Candriam GF US High Yield Corporate Bonds",
+      "parent_id": 611,
+      "order": 6
+    },
+    {
+      "id": 612,
+      "label": "section-title",
+      "text": "- Fact Sheet-",
+      "parent_id": 612,
+      "order": 6
+    },
+    {
+      "id": 614,
+      "label": "section-title",
+      "text": "2. Investment policy:",
+      "parent_id": 614,
+      "order": 6
+    },
+    {
+      "id": 625,
+      "label": "section-title",
+      "text": "5. Risk factors specific to the sub-fund and risk management",
+      "parent_id": 625,
+      "order": 6
+    },
+    {
+      "id": 626,
+      "label": "section-title",
+      "text": "5.1. Risk factors specific to the sub-fund",
+      "parent_id": 626,
+      "order": 6
+    },
+    {
+      "id": 641,
+      "label": "section-title",
+      "text": "5.2. Risk Management",
+      "parent_id": 641,
+      "order": 6
+    },
+    {
+      "id": 645,
+      "label": "section-title",
+      "text": "8. Share classes",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 670,
+      "label": "section-title",
+      "text": "9. Minimum initial subscription",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 675,
+      "label": "section-title",
+      "text": "10. Fees and charges",
+      "parent_id": 675,
+      "order": 6
+    },
+    {
+      "id": 678,
+      "label": "section-title",
+      "text": "11. Applicable cut-off times for the subscription, redemption and exchange of shares",
+      "parent_id": 678,
+      "order": 6
+    },
+    {
+      "id": 680,
+      "label": "section-title",
+      "text": "12. Listing on an official stock exchange: Shares are not listed on a stock exchange.",
+      "parent_id": 680,
+      "order": 6
+    },
+    {
+      "id": 683,
+      "label": "section-title",
+      "text": "Candriam GF Institutional Capital Focused US Equity",
+      "parent_id": 683,
+      "order": 6
+    },
+    {
+      "id": 684,
+      "label": "section-title",
+      "text": "- Fact Sheet-",
+      "parent_id": 684,
+      "order": 6
+    },
+    {
+      "id": 686,
+      "label": "section-title",
+      "text": "2. Investment policy:",
+      "parent_id": 686,
+      "order": 6
+    },
+    {
+      "id": 696,
+      "label": "section-title",
+      "text": "5. Risk factors specific to the sub-fund and risk management",
+      "parent_id": 696,
+      "order": 6
+    },
+    {
+      "id": 697,
+      "label": "section-title",
+      "text": "5.1. Risk factors specific to the sub-fund",
+      "parent_id": 697,
+      "order": 6
+    },
+    {
+      "id": 706,
+      "label": "section-title",
+      "text": "5.2. Risk Management",
+      "parent_id": 706,
+      "order": 6
+    },
+    {
+      "id": 710,
+      "label": "section-title",
+      "text": "8. Share classes",
+      "parent_id": 710,
+      "order": 6
+    },
+    {
+      "id": 735,
+      "label": "section-title",
+      "text": "9. Minimum initial subscription",
+      "parent_id": 735,
+      "order": 6
+    },
+    {
+      "id": 739,
+      "label": "section-title",
+      "text": "10. Fees and charges",
+      "parent_id": 739,
+      "order": 6
+    },
+    {
+      "id": 743,
+      "label": "section-title",
+      "text": "11. Applicable cut-off times for the subscription, redemption and exchange of shares",
+      "parent_id": 743,
+      "order": 6
+    },
+    {
+      "id": 745,
+      "label": "section-title",
+      "text": "12. Listing on an official stock exchange: Shares are not listed on a stock exchange.",
+      "parent_id": 745,
+      "order": 6
+    },
+    {
+      "id": 748,
+      "label": "section-title",
+      "text": "Candriam GF Global Equity Opportunities",
+      "parent_id": 748,
+      "order": 6
+    },
+    {
+      "id": 749,
+      "label": "section-title",
+      "text": "- Fact Sheet-",
+      "parent_id": 749,
+      "order": 6
+    },
+    {
+      "id": 768,
+      "label": "section-title",
+      "text": "5. Risk factors specific to the sub-fund and risk management",
+      "parent_id": 768,
+      "order": 6
+    },
+    {
+      "id": 781,
+      "label": "section-title",
+      "text": "5.2. Risk Management",
+      "parent_id": 781,
+      "order": 6
+    },
+    {
+      "id": 785,
+      "label": "section-title",
+      "text": "8. Share classes",
+      "parent_id": 785,
+      "order": 6
+    },
+    {
+      "id": 804,
+      "label": "section-title",
+      "text": "9. Minimum initial subscription",
+      "parent_id": 804,
+      "order": 6
+    },
+    {
+      "id": 808,
+      "label": "section-title",
+      "text": "10. Fees and charges",
+      "parent_id": 808,
+      "order": 6
+    },
+    {
+      "id": 812,
+      "label": "section-title",
+      "text": "11. Applicable cut-off times for the subscription, redemption and exchange of shares",
+      "parent_id": 812,
+      "order": 6
+    },
+    {
+      "id": 817,
+      "label": "section-title",
+      "text": "Candriam GF U.S. Equity Opportunities",
+      "parent_id": 817,
+      "order": 6
+    },
+    {
+      "id": 818,
+      "label": "section-title",
+      "text": "- Fact Sheet-",
+      "parent_id": 818,
+      "order": 6
+    },
+    {
+      "id": 823,
+      "label": "section-title",
+      "text": "2. Investment policy:",
+      "parent_id": 823,
+      "order": 6
+    },
+    {
+      "id": 837,
+      "label": "section-title",
+      "text": "5. Risk factors specific to the sub-fund and risk management",
+      "parent_id": 837,
+      "order": 6
+    },
+    {
+      "id": 838,
+      "label": "section-title",
+      "text": "5.1. Risk factors specific to the sub-fund",
+      "parent_id": 838,
+      "order": 6
+    },
+    {
+      "id": 850,
+      "label": "section-title",
+      "text": "5.2. Risk Management",
+      "parent_id": 850,
+      "order": 6
+    },
+    {
+      "id": 852,
+      "label": "section-title",
+      "text": "6. Base currency: USD.",
+      "parent_id": 852,
+      "order": 6
+    },
+    {
+      "id": 853,
+      "label": "section-title",
+      "text": "7. Form of the shares: registered shares only.",
+      "parent_id": 853,
+      "order": 6
+    },
+    {
+      "id": 854,
+      "label": "section-title",
+      "text": "8. Share classes",
+      "parent_id": 854,
+      "order": 6
+    },
+    {
+      "id": 879,
+      "label": "section-title",
+      "text": "9. Minimum initial subscription",
+      "parent_id": 879,
+      "order": 6
+    },
+    {
+      "id": 884,
+      "label": "section-title",
+      "text": "10. Fees and charges",
+      "parent_id": 884,
+      "order": 6
+    },
+    {
+      "id": 887,
+      "label": "section-title",
+      "text": "11. Applicable cut-off times for the subscription, redemption and exchange of shares",
+      "parent_id": 887,
+      "order": 6
+    }
+  ]
+}

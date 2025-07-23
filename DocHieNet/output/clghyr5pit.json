@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Secur in g t he U K ' s S en erg y fu t ur e",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Securing the UK’s energy future",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Executive summary",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Part I: The Problems with Energy Policy",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1. Britain’s energy capacity crisis",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "a) EU/domestic legislation and power station closure",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "b) EU regulations and renewables",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2. Spiralling consumer costs",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "a) Costs of EU energy policy",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "b) Costs of UK Government policy",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "c) Green policies and fuel poverty",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "3. The failure of subsidies",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "a) Renewables",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "b) Nuclear",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "title",
+      "text": "c) The facts of fossil fuel subsidies",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "4. The failure to combat carbon dioxide emissions",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "Part II: Securing Britain’s energy future: the solutions",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "1. Create capacity: switch to gas",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "2. Cut consumer costs: lift regressive green taxes",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "3. Set energy free: scrap subsidies",
+      "parent_id": 152,
+      "order": 6
+    }
+  ]
+}

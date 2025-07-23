@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "学术期刊投稿分析系统",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "一、产品简介",
+      "parent_id": 25,
+      "order": 1
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1.1期刊导航",
+      "parent_id": 28,
+      "order": 2
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "1.2投稿分析",
+      "parent_id": 40,
+      "order": 3
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "二、系统特点",
+      "parent_id": 56,
+      "order": 4
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "2.1呈现完整的期刊分类指引",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

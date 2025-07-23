@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "ampuses It ' s hard to tell",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Casa Loma",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "St.James",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Kensington",
+      "parent_id": 12,
+      "order": 4
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Nightingale",
+      "parent_id": 15,
+      "order": 5
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "College Street",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "P aculty and Advisors",
+      "parent_id": 20,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "C acilities and Equipment",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "A ransportation",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "A ccommodation",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "S e rvices",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "For more information",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 72,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "近代以来的世界贸易与文化交流的扩展",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、全球贸易网的形成",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "(2)表现",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "3.工业革命后的世界贸易",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "4.20世纪以来的世界贸易",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "(1)表现",
+      "parent_id": 17,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "二、商品流动与文化交流国际化",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.表现",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(1)茶",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "(2)服装",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "(3)钟表",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "3.20世纪以后",
+      "parent_id": 47,
+      "order": 6
+    }
+  ]
+}

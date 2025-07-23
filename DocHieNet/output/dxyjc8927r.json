@@ -1,0 +1,249 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "SmartFindExpress Substitute User Guide",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Registering with the System",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Logging into SmartFindExpress",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Managing Profile Information",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "View Profile Information",
+      "parent_id": 39,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Update Your Email Address",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "View/Modify Call Back Information",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Change Password",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Help",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Sign Out",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Temporary Do Not Call",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Classifications",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "Locations",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "Unavailable Dates",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "Available Jobs",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "3. Click the Details link for a job to display the job details.",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "Review Assignments",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "Finding and Accepting Jobs over the Telephone",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "Call-in",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "1. Review or Cancel Assignments",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 156,
+      "label": "section-title",
+      "text": "2. Hear Available Jobs",
+      "parent_id": 156,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "3. Review or Modify Callback number",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "section-title",
+      "text": "4. Review or modify Temporary Do not Call Time",
+      "parent_id": 160,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "5. Review or Modify Unavailability dates",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "Call-in(continued)",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 170,
+      "label": "section-title",
+      "text": "6. Review or Modify Daily Availability",
+      "parent_id": 170,
+      "order": 6
+    },
+    {
+      "id": 175,
+      "label": "section-title",
+      "text": "7. Change PIN or Name Recording",
+      "parent_id": 175,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "section-title",
+      "text": "Job Offers",
+      "parent_id": 176,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "Assignment Cancellations",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 180,
+      "label": "section-title",
+      "text": "Call-out",
+      "parent_id": 180,
+      "order": 6
+    },
+    {
+      "id": 182,
+      "label": "section-title",
+      "text": "A substitute can:",
+      "parent_id": 182,
+      "order": 6
+    },
+    {
+      "id": 183,
+      "label": "section-title",
+      "text": "• Press the star(*) key for the system to wait up to 2 minutes",
+      "parent_id": 183,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "• Access the system",
+      "parent_id": 185,
+      "order": 6
+    }
+  ]
+}

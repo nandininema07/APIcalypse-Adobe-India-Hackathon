@@ -1,0 +1,235 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "DEFENSE ACQUISITIONS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Why GAO Did This Study",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "What GAO Recommends",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "title",
+      "text": "DEFENSE ACQUISITIONS",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "Factors Affecting Outcomes of Advanced Concept Technology Demonstrations",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "What GAO Found",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Advanced Concept Technology Demonstrations Projects",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Abbreviations",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Results in Brief",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "Twenty-one of 24 Projects Transitioned at Least Some Technologies to Users",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "Some Factors Can Hamper the ACTD Process",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "Technology Maturity",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "Sustaining Commitment",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "ACTD Management",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "Software Challenges",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "Military Utility Assessments",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "Initiatives Are Underway to Improve ACTD Outcomes",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 193,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 193,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "section-title",
+      "text": "Recommendations for Executive Action",
+      "parent_id": 195,
+      "order": 6
+    },
+    {
+      "id": 202,
+      "label": "section-title",
+      "text": "Agency Comments and Our Evaluation",
+      "parent_id": 202,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "Scope and Methodology",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "section-title",
+      "text": "Appendix I: Technology Readiness Levels and Their Definitions Their Definitions",
+      "parent_id": 220,
+      "order": 6
+    },
+    {
+      "id": 224,
+      "label": "title",
+      "text": "Appe ndix II: Co Appendix II: Comments from the Department of m Defe m nse ents from the Department of Defense",
+      "parent_id": 224,
+      "order": 6
+    },
+    {
+      "id": 244,
+      "label": "section-title",
+      "text": "OFFICE OF THE UNDER SECRETARY OF DEFENSE",
+      "parent_id": 244,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "“DEFENSE ACQUISITIONS: FACTORS AFFECTING OUTCOMES OF ADVANCED CONCEPT TECHNOLOGY DEMONSTRATIONS”",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 260,
+      "label": "section-title",
+      "text": "DEPARTMENT OF DEFENSE COMMENTS TO THE RECOMMENDATIONS",
+      "parent_id": 260,
+      "order": 6
+    },
+    {
+      "id": 273,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 273,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "Testimony",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 278,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 278,
+      "order": 6
+    },
+    {
+      "id": 282,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 282,
+      "order": 6
+    },
+    {
+      "id": 287,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 287,
+      "order": 6
+    }
+  ]
+}

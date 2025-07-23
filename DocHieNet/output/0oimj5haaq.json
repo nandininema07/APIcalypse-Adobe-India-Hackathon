@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "日本地下深层空间利用的法律问题*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "一、城市的地下利用及其权利结构",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "(一)城市的土地利用和地下利用",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1、地下空间的特点",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "2、城市土地利用的现状",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "3、土地利用和地下利用的关系",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "(二)获得利用地下的权利的途径",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1、利用道路或公园地下的许可",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2、签订设定区分地上权的合同",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3、依据土地征用法对使用地下进行裁决",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "二、地下深层空间使用法》概要",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "(一)地下深层空间使用法》的适用范围和地下深层空间的定义",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "(二)利用地下深层空间的批准手续",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "(三)地下深层空间使用权的性质及登录簿的配制、公开",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "(四)深层空间的使用和损失赔偿",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "三、统一各种与地下利用有关的的施工方法才保全了土地的利用价值，因此基法律的必要性建单位同样也受到了损失，在考虑赔偿时这方",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "(一)权利概念的统一",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "(二)地下利用权的公示",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "(三)改革地下利用损失赔偿方面的结构",
+      "parent_id": 70,
+      "order": 6
+    }
+  ]
+}

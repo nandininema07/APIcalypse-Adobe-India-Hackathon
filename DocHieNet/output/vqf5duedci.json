@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "信息申报。大连商品交易所铁矿石期货保税交割业务指引",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、指导原则",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "二、相关要求",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(一)海关要求",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "(二)税务要求",
+      "parent_id": 15,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "(三)交割货源要求",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "(四)信息收集要求",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "(五)会员名录管理要求",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "三、保税交割业务办理流程",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "(二)货主向交易所、海关申报期货保税交割",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "1.向交易所申报期货保税交割",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.向海关申报期货保税交割",
+      "parent_id": 40,
+      "order": 6
+    }
+  ]
+}

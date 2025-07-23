@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "HCP-Mg平衡固液界面的微观结构",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "Microstructure of equilibrium solid-liquid interface of HCP-Mg",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1模拟方法",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1.11MD模拟概述",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.2势函数",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1.3结构表征方法",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "1.4搭建固液界面",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2结果与讨论",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.1势函数验证",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "2.21D属性渐变及界面定位",
+      "parent_id": 64,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": " efforts for an SuperFund site under the direction of the Norfolk DivisionThe Interactive Land Use VRML Application (ILUVA) Architecture*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2Background",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "2.1VRMLbetweenmenus.",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.2Servlets",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2.3Geographic Information Systems",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3Virtual World Software Architecture",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3.1User Interface",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "3.2C Objects",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.3The Resource Manager",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.4Arbitration",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3.5Collision Manager",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3.6Simulation Manager",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3.7The Base Visualization",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3.8The VRML Execution Engine",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "4Object Types",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4.1Point Objects",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "4.2Line Objects",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "4.3Area Objects",
+      "parent_id": 69,
+      "order": 6
+    }
+  ]
+}

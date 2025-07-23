@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "SUPERIOR COURT OF THE DISTRICT OF COLUMBIA CIVIL DIVISION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "RE S PONDENT S 'DISCOVERY REPORT",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "I. The District of Columbia’s Discovery Obligations",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Ⅱ. Respondents’Discovery Obligations",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "I. Conclusion",
+      "parent_id": 39,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "C E RTIFICAT E OF S E RVIC E",
+      "parent_id": 44,
+      "order": 5
+    }
+  ]
+}

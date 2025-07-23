@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "来越脆弱，生态安全问题日益严峻，这已成为我国海洋生态安全政策体系研究*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1我国海洋生态环境现状",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1.11海洋生态系统严重退化",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.2海洋环境污染日趋严重",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "1.3外来海洋物种的入侵",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2我国海洋生态安全保护存在的主要问题",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.1海洋生态安全管理部门职责不清",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.22相关法律制度及实践的缺陷",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.3相关财政投入不足",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.4海洋倾废问题严重",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3我国海洋生态安全政策体系的构建",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.1海洋生物多样性保护政策",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3.1.1加强海洋自然保护区及海洋特别保护区建设",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3.1.2加强海洋开发过程中的生物多样性保护",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3.1.3加强海洋生物多样性保护的管理和监督",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "3.1.4防治海洋外来物种入侵点对油污染、热污染、浊度等的监测尤为突出，",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "3.22海洋生态恢复政策",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "3.2.1构建海洋生态恢复的环境质量评价体系",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "3.2.2建立海洋生态补偿机制",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "3.2.3运用先进科学技术监测海洋生态恢复",
+      "parent_id": 72,
+      "order": 6
+    }
+  ]
+}

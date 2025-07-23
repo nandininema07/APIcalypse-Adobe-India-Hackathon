@@ -1,0 +1,284 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "MEDICAID PROGRAM INTEGRITY",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Why GAO Did This Study",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "What GAO Recommends",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "title",
+      "text": "MEDICAID PROGRAM INTEGRITY",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "What GAO Found",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Abbreviations",
+      "parent_id": 31,
+      "order": 5
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "State and Federal Program Integrity Entities",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "Managed Care Presents a Gap in Medicaid Program Integrity Efforts",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "States Have Focused on FFS Claims and Have Not Closely Examined Medicaid Managed Care Program Integrity",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "Federal Entities Have Taken Few Steps to Address Medicaid Managed Care Program Integrity",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "Fragmentation Exists and Coordination Efforts Raise Benefits and Challenges",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 216,
+      "label": "section-title",
+      "text": "Conclusions",
+      "parent_id": 216,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "Recommendations for Executive Action",
+      "parent_id": 223,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 244,
+      "label": "title",
+      "text": "Appendix I: Comments from the Department of Health and Human Services of Health and Human Services",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 246,
+      "label": "section-title",
+      "text": "DE PA R TM EN T OF H EA LT H & H U MA N SE RV IC E S",
+      "parent_id": 246,
+      "order": 6
+    },
+    {
+      "id": 251,
+      "label": "section-title",
+      "text": "Dear Ms. Yocum:",
+      "parent_id": 251,
+      "order": 6
+    },
+    {
+      "id": 260,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 260,
+      "order": 6
+    },
+    {
+      "id": 272,
+      "label": "section-title",
+      "text": "GENERAL COMMENTS OF THE DEPARTMENT OF HEALTH AND HUMAN SERVICES (HHS) ON THE GOVERNMENT ACCOUNTABILITY OFFICE (GAO) DRAFT REPORT: “MEDICAID PROGRAM INTEGRITY: INCREASED OVERSIGHT NEEDED TO ENSURE INTEGRITY OF GROWING MANAGED CARE EXPEN D I T U RE S ” (GA O- 14-3 41)",
+      "parent_id": 272,
+      "order": 6
+    },
+    {
+      "id": 284,
+      "label": "section-title",
+      "text": "GENERAL COMMENTS OF THE DEPARTMENT OF HEALTH AND HUMAN SERVICES (HHS) ON THE GOVERNMENT ACCOUNTABILITY OFFICE (GAO) DRAFT REPORT:“MEDICAID PROGRAM INTEGRITY: INCREASED O VERSIGHT NEEDED TO ENSURE INTEGRITY OF GROWING MANAGED CARE E X PE N DITURES” (GAO -1 4- 3 41 )",
+      "parent_id": 284,
+      "order": 6
+    },
+    {
+      "id": 285,
+      "label": "section-title",
+      "text": "GAO Recommendation",
+      "parent_id": 285,
+      "order": 6
+    },
+    {
+      "id": 287,
+      "label": "section-title",
+      "text": "H HS Respons e",
+      "parent_id": 287,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "GAO Recommendation",
+      "parent_id": 292,
+      "order": 6
+    },
+    {
+      "id": 298,
+      "label": "section-title",
+      "text": "GENERAL COMMENTS OF THE DEPARTMENT OF HEALTH AND HUMAN SERVICES (HHS) ON THE GOVERNMENT ACCOUNTABILITY OFFICE (GAO) DRAFT REPORT:“MEDICAID PROGRAM INTEGRITY: INCREASED OV ERSI GHT NEEDED T O E NS UR E INTEGRITY OF GROW I N G MA NAGED C A RE EX PE N D ITU RE S” (GAO- 1 4 - 3 4 1)",
+      "parent_id": 298,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 302,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 302,
+      "order": 6
+    },
+    {
+      "id": 304,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 304,
+      "order": 6
+    },
+    {
+      "id": 311,
+      "label": "section-title",
+      "text": "GENERAL COMMENTS OF THE DEPARTMENT OF HEALTH AND HUMAN SERVICES (HHS)ON THE GOVERNMENT ACCOUNTABILITY OFFICE (GAO) DRAFT REPORT: “MEDICAID PROGRAM INTEGRITY: INCREASED OVERSIGHT NEEDED TO ENSURE INTEGRITY OF GROWING MANAGED CARE E XPENDITURES”(GAO-14-341)",
+      "parent_id": 311,
+      "order": 6
+    },
+    {
+      "id": 317,
+      "label": "title",
+      "text": "Appendix II: GAO Contact and Staff Acknowledgments Acknowledgments",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 320,
+      "label": "section-title",
+      "text": "Acknowledgments",
+      "parent_id": 320,
+      "order": 6
+    },
+    {
+      "id": 323,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 323,
+      "order": 6
+    },
+    {
+      "id": 325,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 325,
+      "order": 6
+    },
+    {
+      "id": 327,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 327,
+      "order": 6
+    },
+    {
+      "id": 331,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 331,
+      "order": 6
+    },
+    {
+      "id": 335,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 335,
+      "order": 6
+    },
+    {
+      "id": 340,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 340,
+      "order": 6
+    },
+    {
+      "id": 342,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 342,
+      "order": 6
+    }
+  ]
+}

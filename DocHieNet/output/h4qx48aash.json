@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "doi： 10.11720/wtyht.2017.4.29",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "石油烃类污染土壤电阻率特征及其影响因素",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "0引言",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1实验材料与方法",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1.1实验材料",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "1.2实验装置",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2结果与分析",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.1土壤电阻率与含水率的关系",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "2.2土壤电阻率与石油烃类污染物含量的关系",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "2.3温度对石油烃类污染土壤电阻率的影响",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "3结论与讨论",
+      "parent_id": 91,
+      "order": 6
+    }
+  ]
+}

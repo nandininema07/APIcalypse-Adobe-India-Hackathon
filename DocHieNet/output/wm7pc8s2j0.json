@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "程改革与发展的历程开展更为宏观的全景分析。新时代基础外语教育课程改革的关键问题任何一次课程改革，都不仅是对上一个课程状态所作的修正和增补，而是同时体现了对之前更多历时与发展的视角",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1.引言",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2.\"双基教学\"日时期1",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "树人\"\"必备能力\"和\"形成过程\"三个关键词3.\"新课程\"改革与\"综合能力\"时期",
+      "parent_id": 34,
+      "order": 3
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.2017版课标与\"核心素养\"新时期",
+      "parent_id": 39,
+      "order": 4
+    }
+  ]
+}

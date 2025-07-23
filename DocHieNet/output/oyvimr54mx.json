@@ -1,0 +1,459 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "R E P O R T T O T H E J U D I C I AL C O U N C I L",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Rules, Forms, Standards, or Statutes Affected",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Effective Date",
+      "parent_id": 16,
+      "order": 5
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Date of Report",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Contact",
+      "parent_id": 20,
+      "order": 6
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Executive Summary",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Recommendation",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Relevant Previous Council Action",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Analysis/Rationale",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "Methodological considerations and Study Caveats",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Workload-based model",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Workload study updates",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Workload study methodology",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Table 1. Basic Components of Workload Study",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Time study",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Participation",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Graph 1. Participating Courts(Map)",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Posttime study",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "(1) Data validation",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "(2) Adjustments",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Integrating 2018 updated caseweights with prior caseweights",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "Graph 2. Statewide Median Caseweight",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "Additional analysis conducted",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "Measuring civil unlimited workload",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "Policy implications",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "Comments",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "Alternatives considered",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "Fiscal and Operational Impacts",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "Attachments and Links",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "Attachment A 2018 Judicial Workload Study Update- Draft Caseweights and Standards",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "Attachment B2018 Judicial Workload Study Update: Draft Assessed Judge Need",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "Attachment C California Judicial Prioritization Methodology",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "May 2019",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "Generating the Prioritization List",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "Attachment D- Priority Ranking",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "1. Criminal:",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 194,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 194,
+      "order": 6
+    },
+    {
+      "id": 201,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 201,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 209,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 209,
+      "order": 6
+    },
+    {
+      "id": 216,
+      "label": "section-title",
+      "text": "7. Non-Case Specific",
+      "parent_id": 216,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "Workload Assessment Advisory Committee",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "Hon. Lorna A. Alksne, Chair",
+      "parent_id": 223,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "Hon. Charles R. Brehmer",
+      "parent_id": 225,
+      "order": 6
+    },
+    {
+      "id": 227,
+      "label": "section-title",
+      "text": "Ms. Stephanie Cameron",
+      "parent_id": 227,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "Ms. Sherri R. Carter",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 233,
+      "label": "section-title",
+      "text": "Ms. Arlene D. Junior",
+      "parent_id": 233,
+      "order": 6
+    },
+    {
+      "id": 235,
+      "label": "section-title",
+      "text": "Mr. James Kim",
+      "parent_id": 235,
+      "order": 6
+    },
+    {
+      "id": 237,
+      "label": "section-title",
+      "text": "Hon. Kirk H. Nakamura",
+      "parent_id": 237,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "Mr. Michael D. Planet",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 241,
+      "label": "section-title",
+      "text": "Hon. Lawrence P. Riff",
+      "parent_id": 241,
+      "order": 6
+    },
+    {
+      "id": 243,
+      "label": "section-title",
+      "text": "Hon. Jennifer K. Rockwell",
+      "parent_id": 243,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 247,
+      "label": "section-title",
+      "text": "Ms. Kim Turner",
+      "parent_id": 247,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "Hon. Garrett L. Wong",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 251,
+      "label": "section-title",
+      "text": "Workload Assessment Advisory Committee",
+      "parent_id": 251,
+      "order": 6
+    },
+    {
+      "id": 253,
+      "label": "section-title",
+      "text": "JUDICIAL COUNCIL LEAD COMMITTEE STAFF",
+      "parent_id": 253,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "section-title",
+      "text": "Ms. Kristin Greenaway",
+      "parent_id": 254,
+      "order": 6
+    },
+    {
+      "id": 256,
+      "label": "section-title",
+      "text": "Ms. Leah Rose-Goodwin",
+      "parent_id": 256,
+      "order": 6
+    }
+  ]
+}

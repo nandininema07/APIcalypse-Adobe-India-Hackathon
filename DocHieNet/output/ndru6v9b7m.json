@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Questionnaire： Global Diffusion of The Internet",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Part1. Dimensions of Internet Diffusion",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1. Pervasiveness (check the appropriate level)",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2. Geographic Dispersion (Check the appropriate level)",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "3. Sectoral Absorption",
+      "parent_id": 44,
+      "order": 4
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "4. Connectivity Infrastructure",
+      "parent_id": 63,
+      "order": 5
+    }
+  ]
+}

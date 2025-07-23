@@ -1,0 +1,193 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "美国APHIS区域动物疫病状况认可信息目录研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1兽医管理与监督",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.1兽医卫生活动的立法情况",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "1.2兽医服务机构的组织结构",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "1.3基础设施和财政资源",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2流行病学史和免疫接种情况",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2.1当地疫病暴发历史情况",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2.2疫苗接种情况",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3畜群数量和追溯机制",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "3.1易感动物的畜群总量情况",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3.2动物识别和牧场注册的相关文件",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "4防控疫病传入体系建设情况",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "4.1相邻地区疫病情况",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "4.2自然和人工屏障情况",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "4.3本地区针对进口贸易和贸易伙伴制定的相应措施",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "4.4本地区针对货物入境制定的相关要求",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "4.5本地区实施的检验措施和程序的具体内容",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "5疫病监测建设",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "5.1本地区主动监测系统的具体建设情况",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "5.2本地区被动监测系统的具体建设情况",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "6实验室诊断能力建设",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "7应急准备和应急响应",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "7.1提供针对各种疫病制定的应急计划文件",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "7.2提供确保当地兽医当局在本地区疫病暴发后能够及时向相关国际机构上报疫情的相关程序。",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "8小结",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "title",
+      "text": "乌鲁木齐市野禽禽流感监测报告",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "title",
+      "text": "A report of wildfowl avian influenza monitoring in Urumqi City",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

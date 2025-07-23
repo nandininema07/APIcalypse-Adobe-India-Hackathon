@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "INTRODUCTION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "1.1Background to the Study",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1.2Statement of the Problem",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1.3Purpose of the Study",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Other purposes include the following：",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "1.4Research Questions",
+      "parent_id": 24,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "The following research questions were raised in this study：",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "1.5 Research Hypotheses",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "1.6Significance of the Study",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "This study will be beneficial to the following：",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "1.7Scope of the Study",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "1.8Definition of Terms",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Operational terms were be defined in this study thus：",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "INFORMATION COMMUNICATION TECHNOLOGY AND ACADEMIC ACHIEVEMENT OF SANDWICH STUDENTS ATTHE UNIVERSITY OF LAGOS",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "NEW TIMES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Contents",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Preface",
+      "parent_id": 47,
+      "order": 2
+    }
+  ]
+}

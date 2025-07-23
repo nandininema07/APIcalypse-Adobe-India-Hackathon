@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "DOl：10.11720/j.issn.1000-8918.2014.2.23",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "某化工厂周边不同介质中铬含量及形态特征",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "摘要：为了解某化工厂附近土壤铬污染状况及其生物有效性， 研究了该化工厂周边的土壤、粉尘、排污底泥、工业废渣和水等不同介质中重金属含量及Cr的化学形态特征。结果显示，该区域土壤出现以化工厂为中心的大面积Cr异常；废渣和部分底泥中Cr的含量是土壤背景值的近100倍乃至上万倍；表层土壤和粉尘中Cr元素含量与化工厂距离变化曲线的一致性， 表明化工厂粉尘是引起大面积Cr异常的主要污染源；不同介质中Cr元素主要以残渣态(生物不可利用态) 存在， 但底泥中Cr的潜在可利用态、废渣中Cr的可利用态存在一定的比例，会对当地的动植物和人体产生负面的生态效应，应重视其可能引起的生态后果。",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1研究区概况",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "2样品采集、测试与数据处理",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2.1样品采集",
+      "parent_id": 17,
+      "order": 5
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "2.2样品处理与分析方法",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3结果与分析",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3.1重金属元素异常特征",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "3.2异常查证及分析",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "3.2.1子样分析特征",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "3.2.2 加密采样及主要污染源查证",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.2.2.1表层土壤中重金属含量及分布特征",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3.2.2.2大气粉尘中重金属含量及分布特征",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "3.2.2.3污染物中重金属含量及分布特征",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3.2.2.4水体中重金属含量及分布特征",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "3.3重金属铬化学形态分布特征",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "4结论",
+      "parent_id": 84,
+      "order": 6
+    }
+  ]
+}

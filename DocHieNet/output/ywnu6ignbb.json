@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "高等学校固定资产分类与代码",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "title",
+      "text": "Classification and codes for fixed assets in colleges and universities",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "前言",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "title",
+      "text": "高等学校固定资产分类与代码",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1范围",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2规范性引用文件",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3术语和定义",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "3.1固定资产 fixed assets",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "4分类原则",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "5编码方法",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "6代码表",
+      "parent_id": 61,
+      "order": 6
+    }
+  ]
+}

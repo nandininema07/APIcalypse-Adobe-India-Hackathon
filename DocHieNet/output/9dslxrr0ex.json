@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Application for Ministerial approval to prescribe a non-pharmaceutical grade cannabis-based product without consent for distribution in New Zealand under Regulation 22 of the Misuse of Drugs Regulations 1977",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "IMPORTANT INFORMATION FOR APPLICANTS",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1. PRODUCT",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "2. PATIENT DETAILS",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2. PATIENT INFORMED CONSENT",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "3. APPLICANT DETAILS",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "4. PATIENT HISTORY(Attach any further relevant information)",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "5. ENDORSEMENT AND CONFIRMATION",
+      "parent_id": 68,
+      "order": 6
+    }
+  ]
+}

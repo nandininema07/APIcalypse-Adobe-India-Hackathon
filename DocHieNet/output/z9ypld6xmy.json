@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "PROFESSIONAL SERVICES AGREEMENT CITY OF NEW ORLEANS AND MCGRIFF， SEIBELS & WILLIAMS OF LOUISIANA，INC.",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "I. THE CONTRACTOR'S OBLIGATIONS.",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "H. Ins u r an c e .",
+      "parent_id": 60,
+      "order": 2
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "MINIMUM SCOPE OF INSURANCE",
+      "parent_id": 61,
+      "order": 3
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "II. REPRESENTATIONS AND WARRANTIES.",
+      "parent_id": 98,
+      "order": 4
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "11. THE CITY'S OBLIGATIONS.",
+      "parent_id": 115,
+      "order": 5
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "IV. COMPENSATION.",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "V. DURATION AND TERMINATION.",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "VI. NON-DISCRIMINATION.",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "section-title",
+      "text": "VI. INDEPENDENT CONTRACTOR.",
+      "parent_id": 160,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "VIII. NOTICE.",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 188,
+      "label": "section-title",
+      "text": "IX. ADDITIONAL PROVISIONS.",
+      "parent_id": 188,
+      "order": 6
+    }
+  ]
+}

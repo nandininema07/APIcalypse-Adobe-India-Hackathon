@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "A REAL-TIME PHOTOGRAMMETRIC ALGORITHM FOR SENSOR AND SYNTHETIC IMAGE FUSION WITH APPLICATION TO AVIATION COMBINED VISION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Commission III",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "ABSTRACT：",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1.INTRODUCTION",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "2. SENSOR AND SYNTHETIC IMAGE FUSION BASED ON PHOTOGRAMMETRIC METHOD",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "3. RUNWAY DETECTION",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "4. EXTERIOR ORIENTATION OF THE CAMERA",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "EXPERIMENTAL RESULTS",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "6. CONCLUSIONS",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "REFERENCES",
+      "parent_id": 136,
+      "order": 6
+    }
+  ]
+}

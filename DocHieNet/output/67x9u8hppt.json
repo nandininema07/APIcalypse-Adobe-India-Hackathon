@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Review Safety of diagnostic imaging in pregnancy.",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 31,
+      "order": 1
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Ionising radiation and X-rays",
+      "parent_id": 33,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Units of radiation",
+      "parent_id": 35,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Effects ofionising radiation",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "Computed tomography",
+      "parent_id": 72,
+      "order": 5
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "estimated threshold dose is 200-250mGy. The riskDosimetry and threshold doses ofsevere mental retardation with high exposure is",
+      "parent_id": 89,
+      "order": 6
+    }
+  ]
+}

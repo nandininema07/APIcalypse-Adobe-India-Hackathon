@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "VQABQ: Visual Question Answering by Basic Questions ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2. Motivations ",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3. Related Work ",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "4. Basic Question Dataset ",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "5. Methodology ",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "5.1. Question encoding ",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "5.2. Problem Formulation ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "5.3. Basic Question Generation ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "5.4. Basic Question Concatenation ",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "5.5. Co-Attention Mechanism ",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "6. Experiment ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "6.1. Datasets ",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "6.2. Setup ",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "6.3. Evaluation Metrics ",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "6.4. Results and Analysis ",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "7. Conclusion and Future Work ",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 98,
+      "order": 6
+    }
+  ]
+}

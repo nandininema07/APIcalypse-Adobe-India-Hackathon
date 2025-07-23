@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "后埃博拉时期中非卫生合作的趋向、挑战与建议*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "一、后埃博拉时期非洲的卫生状况病等在非洲的流行率也持续上升，传染病与慢性非传染病的双重负担给原本",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "(一)面临着传染病与慢性非传染病的双重威胁",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "(二)卫生支出总量不足且过度依赖外部援助",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "(三)尚未建立有效的医疗卫生体系",
+      "parent_id": 42,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "(四)医疗卫生服务的可及性及公平性较差",
+      "parent_id": 44,
+      "order": 5
+    }
+  ]
+}

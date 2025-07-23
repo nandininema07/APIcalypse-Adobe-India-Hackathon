@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "DEFENSE ACQUISITIONS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Results in Brief",
+      "parent_id": 23,
+      "order": 1
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 31,
+      "order": 2
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Fleet Demands and Rapidly Advancing Technology Cited for the High Percentage of Low-Rate Initial Production Purchases",
+      "parent_id": 60,
+      "order": 3
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "Problems Experienced When Procuring High Percentages of Units In Low-Rate Initial Production",
+      "parent_id": 72,
+      "order": 4
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "Navy and SPAWAR Take Steps to Reduce Low-Rate Initial Production Risks",
+      "parent_id": 89,
+      "order": 5
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Methodology",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "App endix I: Co Appendix I: Comments From the Department o m f the m Navy ents From the Department of the Navy",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "Ordering Information",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "section-title",
+      "text": "To Report Fraud, Federal Programs",
+      "parent_id": 176,
+      "order": 6
+    }
+  ]
+}

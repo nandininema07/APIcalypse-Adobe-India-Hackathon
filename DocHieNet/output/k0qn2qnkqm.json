@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "基于自适应支持加权准则的建筑物图像匹配扩散研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "IMAGE MATCHING PROPAGATION OF BUILDING SCENES BASED ON ADAPTIVE SUPPORT WEIGHT CRITERION",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "0引言",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "1建筑物图像的匹配扩散算法框架",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1.1算法框架",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "1.2邻域窗口几何规范化",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "1.3仿射传递",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "2自适应支持加权匹配度量准则ASW",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "4结语",
+      "parent_id": 73,
+      "order": 6
+    }
+  ]
+}

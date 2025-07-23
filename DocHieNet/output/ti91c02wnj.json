@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "Controlling shareholders， audit committee",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Article history：",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Keywords：",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Kata Kunci：",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Abstrak",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1. Introduction",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2. Hypotheses Development",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "3. Method， Data， and Analysis",
+      "parent_id": 73,
+      "order": 6
+    }
+  ]
+}

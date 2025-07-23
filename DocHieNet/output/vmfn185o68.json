@@ -1,0 +1,228 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "OPEN ACCESS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "title",
+      "text": "Burdenofpost-COVID-19 syndrome and implications forhealthcare serviceplanning: A population-based cohort study",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Methods",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Results",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Conclusions",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Methods",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Study design and participants",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Data sources and outcomemeasurement",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Statistical analysis",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Results",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Study population",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "Recovery and longer-term symptoms",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Fatigue",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "Dyspnea",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "Depression, anxiety and stress",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "Overlap ofmain outcomes and health-related quality of life",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "Healthcare service utilization",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "Healthcare use",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "Sensitivity analyses",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "Discussion",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "Main findings",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "Evidence in context",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "Implications for healthcare resource planning",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "Limitations",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 183,
+      "label": "section-title",
+      "text": "Supportinginformation",
+      "parent_id": 183,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "Acknowledgments",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "AuthorContributions",
+      "parent_id": 210,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 223,
+      "order": 6
+    }
+  ]
+}

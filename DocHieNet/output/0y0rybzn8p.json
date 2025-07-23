@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Accurate closed-form tra jectories of light around a Kerr ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "black hole using asymptotic approximants ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2. Light deflection: notation and conventions ",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "3. Analytic limiting cases for light deflection ",
+      "parent_id": 58,
+      "order": 4
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "3.1. The closest approach limit: zeroth-order approximation (y = 1, i.e., r = r0 ). ",
+      "parent_id": 65,
+      "order": 5
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "3.2. The closest approach limit: higher order corrections (y → 1, i.e., r → r0 ) ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "3.3. The far-distance limit (y → 0, i.e., r → ∞) ",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "4. Asymptotic Approximant ",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "5. Results and Discussion ",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "6. Conclusions ",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 192,
+      "label": "section-title",
+      "text": "1. On the Symmetry of Photon Tra jectories ",
+      "parent_id": 192,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "2. Recursive Formulation of Co efficients ",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "2.1. Closest-approach series ",
+      "parent_id": 210,
+      "order": 6
+    },
+    {
+      "id": 217,
+      "label": "section-title",
+      "text": "2.2. Far-distance series ",
+      "parent_id": 217,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "2.3. Coefficients of the asymptotic approximant ",
+      "parent_id": 223,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "3. 5th-order approximant for bending angle α ",
+      "parent_id": 231,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "植物叶绿体谷胱甘肽还原酶的功能研究进展",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1 GR蛋白结构及特性",
+      "parent_id": 20,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2植物体中的GR编码基因和GR蛋白的亚细胞分布",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "3叶绿体GR的功能研究进展",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "3.1叶绿体GR活性与抗逆性",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.2叶绿体GR与生长发育",
+      "parent_id": 46,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "4展望",
+      "parent_id": 52,
+      "order": 6
+    }
+  ]
+}

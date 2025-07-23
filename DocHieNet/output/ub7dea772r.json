@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": " People will have more choices when n we encounterFeasibility Study of Bitcoin Hedging the U.S. Stock severe stock market yolatility in the future. Better protect your assets. Market",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1. INTRODUCTION",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2. DATAAND RESEARCH METHOD",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.1Data",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.2 Methodology",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.2.1 Daily return",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "2.2.2 Portfolio weights and portfolio return",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "2.2.3 Hedge ratio",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "2.2.4 Performance evaluation",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "3.EMPIRICAL RESULTS",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "3.1. Long-term hedge",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "3.2 Short-term hedge",
+      "parent_id": 92,
+      "order": 6
+    }
+  ]
+}

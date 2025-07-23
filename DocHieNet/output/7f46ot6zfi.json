@@ -1,0 +1,165 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Dynamical History of the Lo cal Group in ΛCDM ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "ABSTRACT ",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1 INTRODUCTION ",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "2 METHOD ",
+      "parent_id": 63,
+      "order": 3
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "2.1 Equations of motion ",
+      "parent_id": 65,
+      "order": 4
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "2.2 Simulations ",
+      "parent_id": 90,
+      "order": 5
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "2.2.1 Including the Milky Way and Andromeda ",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "2.2.2 Including Centaurus A ",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "2.3 Observations & Sample Selection ",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 168,
+      "label": "section-title",
+      "text": "2.4 Comparing simulations with observations ",
+      "parent_id": 168,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "3 RESULTS ",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "4 DISCUSSION ",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 261,
+      "label": "section-title",
+      "text": "4.1 Reduced Local Group Mass ",
+      "parent_id": 261,
+      "order": 6
+    },
+    {
+      "id": 291,
+      "label": "section-title",
+      "text": "4.2 Increased Hubble constant ",
+      "parent_id": 291,
+      "order": 6
+    },
+    {
+      "id": 302,
+      "label": "section-title",
+      "text": "4.3 Tides from ob jects outside the Lo cal Group ",
+      "parent_id": 302,
+      "order": 6
+    },
+    {
+      "id": 303,
+      "label": "section-title",
+      "text": "4.3.1 Centaurus A ",
+      "parent_id": 303,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "4.3.2 IC 342 and M81 ",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 335,
+      "label": "section-title",
+      "text": "4.3.3 The Great Attractor ",
+      "parent_id": 335,
+      "order": 6
+    },
+    {
+      "id": 352,
+      "label": "section-title",
+      "text": "4.4 Kinematic corrections due to massive satellites ",
+      "parent_id": 352,
+      "order": 6
+    },
+    {
+      "id": 390,
+      "label": "section-title",
+      "text": "4.5 Interactions With Massive Satellite Galaxies ",
+      "parent_id": 390,
+      "order": 6
+    },
+    {
+      "id": 402,
+      "label": "section-title",
+      "text": "4.6 Interactions with the MW and M31 ",
+      "parent_id": 402,
+      "order": 6
+    },
+    {
+      "id": 442,
+      "label": "section-title",
+      "text": "5 CONCLUSIONS ",
+      "parent_id": 442,
+      "order": 6
+    },
+    {
+      "id": 462,
+      "label": "section-title",
+      "text": "REFERENCES ",
+      "parent_id": 462,
+      "order": 6
+    }
+  ]
+}

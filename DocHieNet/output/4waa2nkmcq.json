@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "广州市97823例院前急救患者流行病学分析",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1资料与方法",
+      "parent_id": 19,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2结果",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3i讨寸论",
+      "parent_id": 55,
+      "order": 3
+    }
+  ]
+}

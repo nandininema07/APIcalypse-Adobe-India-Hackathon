@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "How China's shadowy agency is working to absorbTaiwan",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "REUTERS/PICHI CHUANG",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "INFLUENCING POLITICS",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Taiwan-China trade",
+      "parent_id": 46,
+      "order": 3
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "PRIZED HONOUR",
+      "parent_id": 87,
+      "order": 4
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "Party Power Structure",
+      "parent_id": 93,
+      "order": 5
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Clarification Potential of Instructions",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "Luciana Benotti",
+      "parent_id": 2,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1I Introduction",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "2Background and motivation",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2.1Theoretical： Relevance of clarifications",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.2Practical： Kinds of clarifications",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2.3Empirical： The SCARE corpus",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "2.4Preliminary conclusionstion is specified as a STRIPS-like operator (Fikes",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "3The information resources",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "3.1The world model",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "3.2The dialogue model",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3.3The world actions",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "3.4The potential actions",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "3.5Preliminary conclusions",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "4The inference tasks",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "4.1Planning： A means-end inference task",
+      "parent_id": 83,
+      "order": 6
+    }
+  ]
+}

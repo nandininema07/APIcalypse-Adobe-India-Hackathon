@@ -1,0 +1,333 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "PLANS for Farm BaildingSand LivestockEqupment",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "The Plans in This Book...",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "How to Order.. .",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "PLANNING FARM BUILDING IMPROVEMENTS",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "FRAMING PLANSAND CONSTRUCTION DETAILS",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "GABLE-ROOF FRAMES",
+      "parent_id": 40,
+      "order": 5
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Post supported， 1 story. Plan 497 (15 c ) . 34 or 36 feet wi d e. (Top l e ft)",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "GAMBREL-ROOF FRAMES (top center)",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "GOTHIC-ROOF FRAMES (upper right)",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "MACHINERYAND EQUIPMENT STORAGES",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "CROP STORAGE BUILDINGS",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "title",
+      "text": "PLANS FOR CROP STORAGE BUILDINGS",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "BEEF CATTLE HOUSING AND EQUIPMENT",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "PLANS FOR BEEF CATTLE HOUSING",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "PLANS FOR BEEF CATTLE EQUIPMENT",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "DAIRY HOUSING AND EQUIPMENT",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "New Dairy Building Plans of the Midwest Plan Service",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "STANCHION BARNS",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "LOOSE HOUSING STRUCTURES",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 190,
+      "label": "section-title",
+      "text": "MILKHOUSES AND EQUIPMENT",
+      "parent_id": 190,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "HOG HOUSING AND EQUIPMENT",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "PLANS FOR HOG HOUSES",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "HOG EQUIPMENT PLANS",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "POULTRY HOUSINGG AND EQUIPMENT",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 267,
+      "label": "section-title",
+      "text": "PLANS FOR POULTRY HOUSES",
+      "parent_id": 267,
+      "order": 6
+    },
+    {
+      "id": 279,
+      "label": "section-title",
+      "text": "POULTRY EQUIPMENT PLANS",
+      "parent_id": 279,
+      "order": 6
+    },
+    {
+      "id": 298,
+      "label": "section-title",
+      "text": "SHEEP BARNSS AND EQUIPMENT",
+      "parent_id": 298,
+      "order": 6
+    },
+    {
+      "id": 306,
+      "label": "section-title",
+      "text": "GENERAL PURPOSE BARNS",
+      "parent_id": 306,
+      "order": 6
+    },
+    {
+      "id": 309,
+      "label": "section-title",
+      "text": "MISCELLANEOUS",
+      "parent_id": 309,
+      "order": 6
+    },
+    {
+      "id": 315,
+      "label": "section-title",
+      "text": "PLANNING THE FARMSTEAD",
+      "parent_id": 315,
+      "order": 6
+    },
+    {
+      "id": 327,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 327,
+      "order": 6
+    },
+    {
+      "id": 329,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 329,
+      "order": 6
+    },
+    {
+      "id": 333,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 333,
+      "order": 6
+    },
+    {
+      "id": 340,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 340,
+      "order": 6
+    },
+    {
+      "id": 345,
+      "label": "section-title",
+      "text": "PUBLICATIONS ON FARM STRUCTURES AND HOUSING From the U. S. Department of Agriculture",
+      "parent_id": 345,
+      "order": 6
+    },
+    {
+      "id": 349,
+      "label": "section-title",
+      "text": "Farm housing",
+      "parent_id": 349,
+      "order": 6
+    },
+    {
+      "id": 364,
+      "label": "section-title",
+      "text": "Farm buildings， materials， and equipment",
+      "parent_id": 364,
+      "order": 6
+    },
+    {
+      "id": 389,
+      "label": "section-title",
+      "text": "From the Small Homes Council",
+      "parent_id": 389,
+      "order": 6
+    },
+    {
+      "id": 417,
+      "label": "section-title",
+      "text": "From the University of I llinois Department of Agricultural Engineering",
+      "parent_id": 417,
+      "order": 6
+    },
+    {
+      "id": 419,
+      "label": "section-title",
+      "text": "Farm Housing",
+      "parent_id": 419,
+      "order": 6
+    },
+    {
+      "id": 424,
+      "label": "section-title",
+      "text": "Barns",
+      "parent_id": 424,
+      "order": 6
+    },
+    {
+      "id": 429,
+      "label": "section-title",
+      "text": "Crop Storage",
+      "parent_id": 429,
+      "order": 6
+    },
+    {
+      "id": 439,
+      "label": "section-title",
+      "text": "Hog Housing",
+      "parent_id": 439,
+      "order": 6
+    },
+    {
+      "id": 442,
+      "label": "section-title",
+      "text": "Poultry Housing",
+      "parent_id": 442,
+      "order": 6
+    },
+    {
+      "id": 445,
+      "label": "section-title",
+      "text": "Other",
+      "parent_id": 445,
+      "order": 6
+    },
+    {
+      "id": 449,
+      "label": "section-title",
+      "text": "Midwest Plan Service",
+      "parent_id": 449,
+      "order": 6
+    },
+    {
+      "id": 460,
+      "label": "section-title",
+      "text": "FARMHOUSES",
+      "parent_id": 460,
+      "order": 6
+    }
+  ]
+}

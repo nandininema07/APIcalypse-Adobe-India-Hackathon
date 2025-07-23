@@ -1,0 +1,242 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "ADOPTION TAX CREDIT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Why GAO Did This Study",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "What GAO Recommends",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "title",
+      "text": "ADOPTION TAX CREDIT",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "What GAO Found",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Abbreviations",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "IRS’s Adoption Tax Credit Compliance Strategy Involved Communication, Documentation, and Audit",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "Taxpayers and Stakeholders Did Not Have Important Information on the Adoption Tax Credit",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "IRS Can Reduce the Number of Audits in2012",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "Conclusions",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "Recommendations for Executive Action",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "Agency Comments and Our Evaluation",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "title",
+      "text": "Appendix I: Adoption Tax Credit Provisions,1996 to the Present 1996 to the Present",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "title",
+      "text": "Appendix II: Comments from the Internal Revenue Service Revenue Service",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 180,
+      "label": "section-title",
+      "text": "DEPARTMENT OF THE TREASURY",
+      "parent_id": 180,
+      "order": 6
+    },
+    {
+      "id": 207,
+      "label": "section-title",
+      "text": "Recommendation 1",
+      "parent_id": 207,
+      "order": 6
+    },
+    {
+      "id": 209,
+      "label": "section-title",
+      "text": "C omment",
+      "parent_id": 209,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "Recommendation 2",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "Co mment",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "section-title",
+      "text": "Recommendation 3",
+      "parent_id": 215,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "Comment",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "Recom m end a tion 4",
+      "parent_id": 223,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "C ommen t",
+      "parent_id": 225,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "title",
+      "text": "ppendix III: GAO Contact and Staff Acknowledgments Acknowledgments",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 233,
+      "label": "section-title",
+      "text": "Staff Acknowledgments",
+      "parent_id": 233,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 238,
+      "order": 6
+    },
+    {
+      "id": 240,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 240,
+      "order": 6
+    },
+    {
+      "id": 244,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 244,
+      "order": 6
+    },
+    {
+      "id": 248,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 248,
+      "order": 6
+    },
+    {
+      "id": 253,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 253,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 255,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Nanjing University of Aeronautics and",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": " Astronautics",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "I. Post and employment period of party B",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "II. Working content of party B",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "III. Treatment and conditions from party A",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "IV. Party B's rights and obligations",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "V. Obligation and responsibility assumed by party C",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "VI. Supplementary Provisions",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 9,
+      "label": "title",
+      "text": "Chapter 17 Firearms Safety",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Chapter 17 - Firearms Safety",
+      "parent_id": 15,
+      "order": 1
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "A. Classroom Component， Firearms Training Course",
+      "parent_id": 45,
+      "order": 2
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "B. Shooting Proficiency， Firearm Training Course",
+      "parent_id": 51,
+      "order": 3
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Illustration 17-1",
+      "parent_id": 96,
+      "order": 4
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "UNITED STATES DEPARTMENT OF THE I NTERIOR",
+      "parent_id": 99,
+      "order": 5
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "REQUEST TO CARRY AND USE FIREARMS",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 109,
+      "order": 6
+    }
+  ]
+}

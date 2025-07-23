@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Is Political Analysis Changing Donor Behaviour? Sue Unsworth",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 2,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Approaches to Political Analysis",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Limited Impact",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Does This Matter?",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Entry Points",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Operational Strategies",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 57,
+      "order": 6
+    }
+  ]
+}

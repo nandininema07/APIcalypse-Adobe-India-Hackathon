@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "E-COMMERCE GROWTH IN INDIA： A STUDY OF SEGMENTS CONTRIBUTION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Phases of Evolution of E-commerce",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "First Phase (1995 to 2005)",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Second Phase (2005 to Present)",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "REVIEW OF LITERATURE AND RELEVANCE OF THE STUDY",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "E-COMMERCE GROWTH IN INDIA",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

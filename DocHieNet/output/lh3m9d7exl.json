@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "作组织与欧亚经济联盟的成员与伙伴国领导人参会，共同探讨发金砖国家会议发展合作议题的演变与特点",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "一、金砖国家会议发展议题的演变",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "二、金砖国家发展合作的优先领域",
+      "parent_id": 27,
+      "order": 2
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "(一)基础设施领域",
+      "parent_id": 29,
+      "order": 3
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "(二)应对气候变化与环境保护",
+      "parent_id": 32,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "(三)卫生健康",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "(四)教育",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "(五)智库",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "(六)人道主义援助",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "三、金砖合作机制发展合作领域的特点",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "(一)金砖国家强调联合国在全球发展问题上的核心地位，寻求在联合国平台上共同发声",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "(二)金砖机制是南南合作的重要平台，\"金砖+\"模式促进建立更广泛的南南伙伴关系",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "(三)金砖国家致力于金融互补，促进发展筹资",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

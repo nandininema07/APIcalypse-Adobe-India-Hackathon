@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "IN THE COUNTY COURT OF THE 15TH JUDICIAL CIRCUIT. IN AND FOR PALM BEACH COUNTY，FLORIDA",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "DEFENDANT'S MOTION TO DISMISS. ANSWER & AFFIR M ATIVE DEFENSES. & MOTION TO DETERMINE RENT",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "MOTIONTO DISMISS",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "ANSWER. A FFIRMATIVE DE F ENS E S . MOTIONTO DETERMINE R E N T AND DEMA N D F O RJ URY T RI AL",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "AFFIRMATIVE D EFEN S E FAILURE OF CONDITIONPRECEDENT (Defective Notice)",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "AFFIRMATIVE DEF E NS E ： CURE",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 41,
+      "label": "title",
+      "text": "13. Plaintiff is not entitled to evict Defendant because Defendant was prepared to cured any alleged noncompliance by the deadline. However， Plaintiff has refused to take funds.",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "AFFIRMATIVE DEFE N SE VIOLATI O N OF OBLIGATION O F GOOD FAITH",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "A FFIRMATIVE DEFENSE： PA YM E N T",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "AFFIRMATIVE DE F ENSE TEN D ER",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "MOTION TO DETERMINE REN T",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "REOU E ST FOR REASONA B LE ACCO MMO DATION PURSUANT TO THE F A IR HOUSING ACT",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "DEMAND FOR JURY TRIAL",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "CERTIFICATE OF SERVICE",
+      "parent_id": 74,
+      "order": 6
+    }
+  ]
+}

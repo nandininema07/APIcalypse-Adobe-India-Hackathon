@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "附件A",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "国际电联2020年风险管理政策",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1引言",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1.1国际电联的使命和总体战略目标",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1.2国际电联风险管理政策的目的和部门目标",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1.3驱动原则",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2风险管理流程和方法",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.1风险视角",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.2风险评估",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.3风险应对",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.4风险评估和风险应对的批准",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "2.5风险应对措施的落实",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "2.6信息与沟通",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "2.7监测",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "3作用和职责",
+      "parent_id": 67,
+      "order": 6
+    }
+  ]
+}

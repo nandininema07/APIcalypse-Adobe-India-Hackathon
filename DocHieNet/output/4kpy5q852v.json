@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "医院财务会计与预算会计差异的处理",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "一、财务会计与预算会计的差异类型及产生原因",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "差异处理方式",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "(一)时间性差异",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "(二)永久性差异",
+      "parent_id": 60,
+      "order": 4
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "三、差异结果的编报",
+      "parent_id": 64,
+      "order": 5
+    }
+  ]
+}

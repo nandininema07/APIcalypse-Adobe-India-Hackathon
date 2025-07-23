@@ -1,0 +1,18 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "新时代人力资源管理高级研修班招生简章",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 38,
+      "label": "title",
+      "text": "新时代人力资源管理高级研修班报名申请表",
+      "parent_id": 0,
+      "order": 1
+    }
+  ]
+}

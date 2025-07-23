@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "J/ψ → Ds,d π, Ds,d K decays with p erturbative QCD approach ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "I. INTRODUCTION ",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "I I. THEORETICAL FRAMEWORK ",
+      "parent_id": 26,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "A. The effective Hamiltonian ",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "B. Hadronic matrix elements ",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "C. Kinematic variables ",
+      "parent_id": 38,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "D. Wave functions ",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "E. Decay amplitudes ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "I I I. NUMERICAL RESULTS AND DISCUSSION ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "IV. SUMMARY ",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Acknowledgments ",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Appendix A: Building blocks of decay amplitudes ",
+      "parent_id": 96,
+      "order": 6
+    }
+  ]
+}

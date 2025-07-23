@@ -1,0 +1,235 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "OBSTRUCTIONS TO ALGEBRAIZING TOPOLOGICAL ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "VECTOR BUNDLES ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Question 1. ",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Theorem 2. ",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Remark 3. ",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Theorem 4 (See Corollary 3.1.5). ",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "2. Obstruction theory: proof of Theorem 2 ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Lemma 2.1.1. ",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Lemma 2.1.2. ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Remark 2.1.3. ",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Proposition 2.2.1. ",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Proof. ",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Theorem 2.2.2. ",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Proof. ",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "Proof (Proof of Theorem 2). ",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Remark 2.2.3. ",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "3. Constructing examples: proof of Theorem 4 ",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "3.1. Explicit examples of non-algebraizable vector bundles. If dim X < 3, ",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "Proposition 3.1.1. ",
+      "parent_id": 128,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "Proof. ",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "Remark 3.1.2. ",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "Proposition 3.1.3. ",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "Proof. ",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "Theorem 3.1.4. ",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "Proof. ",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "Corollary 3.1.5. ",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "Proof. ",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 164,
+      "label": "section-title",
+      "text": "Example 3.2.1. ",
+      "parent_id": 164,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "Example 3.2.2. ",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "Conjecture 3.2.3 (Nori,Totaro). ",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "Example 3.2.4. ",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 176,
+      "order": 6
+    }
+  ]
+}

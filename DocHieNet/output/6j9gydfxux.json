@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "COOPERATIVE ENDEAVOR AGREEMENT BETWEEN THE CITY OF NEW ORLEANS AND COVENANT HOUSE NEW ORLEANS LOT MAINTENANCE PROGRAM",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "ARTICLEI OBLIGATIONS OF THE PARTIES",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "A. Obligations of the C oven ant Hou s e. The Covenant House agrees to：",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "B. Obligations of the City. The City agrees to：",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "ARTICLEI COMPENSATION",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "ARTICLE III PAYMENTS",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "ARTICLE IV DURATION",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "ARTICLEV TERMINATION",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "ARTICLE VI INDEMNITY",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "ARTICLE VII INSURANCE",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "ARTICLE VIII NON-DISCRIMINATION",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "ARTICLE IX INDEPENDENT CONTRACTOR STATUS",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "ARTICLEX NOTICES",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "1. To the City：",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "2. To Covenant House：",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "ARTICLE X MISCELLANEOUS PROVISIONS",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "title",
+      "text": "EXHIBIT A-1 TO COOPERATIVE ENDEAVOR AGREEMENT BETWEEN CITY OF NEW ORLEANS AND COVENANT HOUSE NEW ORLEANS “SCOPE OF WORK”",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 243,
+      "label": "section-title",
+      "text": "EXHIBIT A-2 TO COOPERATIVE ENDEAVOR AGREEMENT BETWEEN CITY OF NEW ORLEANS AND COVENANT HOUSE NEW ORLEANS MONTHLY TRAINING REPORT",
+      "parent_id": 243,
+      "order": 6
+    }
+  ]
+}

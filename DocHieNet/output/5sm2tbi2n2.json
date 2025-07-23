@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Bounds on equiangular lines and on related spherical co des ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1 Intro duction ",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2 Pro of of Theorem 1 ",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "3 Open problems ",
+      "parent_id": 60,
+      "order": 4
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 70,
+      "order": 5
+    }
+  ]
+}

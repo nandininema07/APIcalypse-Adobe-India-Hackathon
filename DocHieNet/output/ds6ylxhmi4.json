@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "世界无线电通信大会(WRC-15)2015年11月2-27日，日内瓦",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "title",
+      "text": "法国",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "引言",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "2关于所用方法的一般信息",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "3航空业务的特性",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3.1全球航空器数量",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3.2转发器的固有特性",
+      "parent_id": 51,
+      "order": 6
+    }
+  ]
+}

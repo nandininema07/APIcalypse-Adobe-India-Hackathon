@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "编号          ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "劳动合同书",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "一、劳动合同期限",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "二、工作内容及工作地点",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "四、工作时间及休息时间",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "四、劳动报酬",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "五、劳动合同终止的条件",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "六、保密规定",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "七、违反合同的责任",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "八、劳动争议处理",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "九、其他",
+      "parent_id": 80,
+      "order": 6
+    }
+  ]
+}

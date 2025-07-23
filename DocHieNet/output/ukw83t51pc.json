@@ -1,0 +1,207 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Projecting Embeddings for Domain Adaptation: ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Joint Modeling of Sentiment Analysis in Diverse Domains ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Title and Abstract in Basque ",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "2 Related Work and Motivation ",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2.1 Pivot-based Approaches ",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2.2 Autoencoder Approaches ",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "2.3 Domain Specific Word Representations ",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3 Projecting Representations ",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "Cross-domain Projection ",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Sentiment Classification ",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Joint Learning ",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Target-domain Classification ",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4 Experiments ",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "4.1 Datasets ",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "4.1.1 Amazon Corpora ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "4.1.2 SemEval Corpora ",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "4.2 Embeddings ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "4.3 Baselines and Model ",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "4.4 Results ",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "5 Model Analysis ",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "5.1 Domain Divergence and Feature Sparsity ",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "5.2 Error Analysis ",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "5.3 Choice of Projection Lexicon ",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "5.4 Analysis of M ′ ",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "6 Conclusion and Future Work ",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 132,
+      "order": 6
+    }
+  ]
+}

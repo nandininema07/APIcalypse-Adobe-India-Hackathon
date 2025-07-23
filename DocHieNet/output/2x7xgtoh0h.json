@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "康社区有完备的幼儿园、中小学健康社区：我国未来城市建设发展的重要选择系统、可负担的其他成人教育项",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "健康社区：为人们的全生命周期提供健康服务保障的社区",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "健康社区：对维护人们健康和应对突发卫生事件作用显著",
+      "parent_id": 26,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "健康社区：高质量的环境对促进人们身心健康非常重要",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "健康社区：在应对突发公共卫生事件中具有独特的作用",
+      "parent_id": 32,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "街道中应限制机动车行驶速度，并推动我国健康社区建设的几点建议",
+      "parent_id": 44,
+      "order": 5
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "建立社区健康影响评估机制改造成行人优先的人车共享区域。",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "将健康社区建设纳入城市应急管理体系中",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "打造健康社区的\"完整街道\"",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "鼓励部分城市管理权限直接下放社区",
+      "parent_id": 67,
+      "order": 6
+    }
+  ]
+}

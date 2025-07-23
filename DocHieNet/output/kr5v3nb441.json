@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "STATE ATTORNEY'S OFFICE TWELFTH JUDICIAL CIRCUIT OF FLORIDA INTERDEPARTMENTAL MEMORANDUM",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Facts：",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "T h e Pri or Relationship be tw e en the Vic tim and D e f en d an t：",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "The Night of March 1 ，20 1 4",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Law and Analvsis：",
+      "parent_id": 56,
+      "order": 4
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "P r incipal to False Imprisonment：",
+      "parent_id": 59,
+      "order": 5
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Principal to Sexual Battery：",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Submission to a uniformed officer：",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Physically helpless：",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Physically incapacitated：",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Insufficient p r oo f o f the v ictim's lack of cons en t：",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "The Victim's Credibility or Motive to Fabricate：",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Memory ：",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "Moti ve to fabricate be c ause of her relationship：",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "Potential pecuniary interest：",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Conclusion：",
+      "parent_id": 101,
+      "order": 6
+    }
+  ]
+}

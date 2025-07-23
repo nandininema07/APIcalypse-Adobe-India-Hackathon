@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "SETTLEMENT AGREEMENT AND GENERAL RELEASE OF AL L CLAIMS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "1. P ar ti e s ：",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "2. S ettlement Ter m s：",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "[ALL SIGNATURES ON PAGE 41",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 76,
+      "label": "title",
+      "text": "EXHIBITA",
+      "parent_id": 76,
+      "order": 4
+    }
+  ]
+}

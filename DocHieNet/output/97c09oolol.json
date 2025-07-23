@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "促进青少年有氧体适能和体育锻炼行为的路径：动机理论的观点",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "The Path of Promoting Aerobic Physical Fitness and Physical Exercise Behavior of Adolescents： Mo-tivation Theory Views",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "1概念模型与研究假设",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2研究对象与方法",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "2.1研究对象",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.2研究方法",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2.2.1文献资料法",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.2.2问卷调查法",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "2.2.3测试法",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2.2.4数理统计法",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3结果与分析",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3.1学生体育锻炼动机、行为和有氧体适能的基本情况及相关分析结果",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.2学生体育锻炼动机、行为和有氧体适能的回归分析",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "3.3促进青少年有氧体适能与体育锻炼行为的模型分析",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "4分析与讨论",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "4.1体育锻炼动机对体育锻炼行为和有氧体适能的影响",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "4.2体育锻炼行为对有氧体适能的作用",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "4.3体育锻炼的中介效应分析",
+      "parent_id": 99,
+      "order": 6
+    }
+  ]
+}

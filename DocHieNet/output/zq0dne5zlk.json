@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "重把握所报专业是否需要、适不适合五年制培养等中高职课程衔接的区域实践与理论反思①",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "一、中高职课程衔接的本土实践",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(一)专业衔接：构造课程衔接的空间框架",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "(二)学制衔接：构造课程衔接的时间框架",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "(三)课程体系衔接：构造中高职课程衔接的内容框架",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "二、中高职课程衔接区域实践的隐忧与反思",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(一)衔接理念：人为分割与生态系统",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "(二)衔接框架：错位倒置与包容拓展标准等，对于同一内容指向的标准来说，前面冠以",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "(三)衔接规范：理论不足与标准构建",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "(四)衔接路径：资格框架与资历互认",
+      "parent_id": 57,
+      "order": 6
+    }
+  ]
+}

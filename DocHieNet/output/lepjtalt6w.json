@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Relativistic motion under constant force: velocity and acceleration behavior ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "I. INTRODUCTION ",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "II. TWO-DIMENSIONAL MOTION OF A PARTICLE UNDER THE ACTION OF A RELATIVISTIC 3-FORCE ",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "A. Velocity b ehavior ",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "B. Acceleration b ehavior ",
+      "parent_id": 53,
+      "order": 4
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "1. Force in two directions ",
+      "parent_id": 60,
+      "order": 5
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "2. Force in only one direction ",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "II I. FINAL REMARKS ",
+      "parent_id": 88,
+      "order": 6
+    }
+  ]
+}

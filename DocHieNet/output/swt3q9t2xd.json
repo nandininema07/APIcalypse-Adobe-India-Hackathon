@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "文章编号：1001-2486(2004)04-0093-06",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "渐开线球齿轮齿廓曲面方程的推导*",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "Profile Formule Derivation of the Involute Spherical Gears",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1齿廓曲面21，的参数方程",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "2坐标系及其变换[5]",
+      "parent_id": 61,
+      "order": 4
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "3啮合方程",
+      "parent_id": 76,
+      "order": 5
+    }
+  ]
+}

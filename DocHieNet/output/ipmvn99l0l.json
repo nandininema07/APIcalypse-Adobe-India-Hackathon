@@ -1,0 +1,431 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "title",
+      "text": "PROJECT VANGUARD REPORT NO. 2 REPORT OF PROGRESS",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "FACILITIES AND COORDINATION WITH OTHER SERVICES",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Tracking",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Construction",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Technical Program",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Scientific Program",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Test Range Facilities",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Technical Program",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Scientific Program",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Logistic Support",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Tr ac k i n g Ne two rk",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "THE LAUNCHING VEHICLE",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Vehicle Specifications",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Aerodynamics",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "Propulsion",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "Flight-Path Control",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "Design",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Instrumentation",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "THE SATELLITE",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "Configuration and Design",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "Instrumentation and Tracking",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "Contract s",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 164,
+      "label": "section-title",
+      "text": "Schedule",
+      "parent_id": 164,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "Antenna Calibration",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "A lte rn ate Stati o ns",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "Effect of the Ionosphere",
+      "parent_id": 187,
+      "order": 6
+    },
+    {
+      "id": 189,
+      "label": "section-title",
+      "text": "Transmitting Frequencies",
+      "parent_id": 189,
+      "order": 6
+    },
+    {
+      "id": 191,
+      "label": "section-title",
+      "text": "Choice of Satellite Components",
+      "parent_id": 191,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "Scientific Experiments",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 206,
+      "label": "section-title",
+      "text": "1， . Visual Acquisition and Tracking",
+      "parent_id": 206,
+      "order": 6
+    },
+    {
+      "id": 208,
+      "label": "section-title",
+      "text": "2. Visibility Studies",
+      "parent_id": 208,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "3. Reflectance of the Satellite",
+      "parent_id": 210,
+      "order": 6
+    },
+    {
+      "id": 214,
+      "label": "section-title",
+      "text": "4. Components",
+      "parent_id": 214,
+      "order": 6
+    },
+    {
+      "id": 216,
+      "label": "section-title",
+      "text": "5.. Environmental Studies",
+      "parent_id": 216,
+      "order": 6
+    },
+    {
+      "id": 218,
+      "label": "section-title",
+      "text": "6.. Telemetering",
+      "parent_id": 218,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "section-title",
+      "text": "COMPUTATION",
+      "parent_id": 220,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "Vehicle Performance Data",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "Telemetering Data",
+      "parent_id": 223,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "Orbital Data",
+      "parent_id": 225,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "title",
+      "text": "APPENDIX A Vanguard Vehicle Performance Summary",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 234,
+      "label": "section-title",
+      "text": "Velocity",
+      "parent_id": 234,
+      "order": 6
+    },
+    {
+      "id": 237,
+      "label": "section-title",
+      "text": "F un d amen ta l Paramet ers",
+      "parent_id": 237,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "Performance Data",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 246,
+      "label": "section-title",
+      "text": "First Stage",
+      "parent_id": 246,
+      "order": 6
+    },
+    {
+      "id": 247,
+      "label": "section-title",
+      "text": "Weight data",
+      "parent_id": 247,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "First stage alone",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "Propulsion data",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 263,
+      "label": "section-title",
+      "text": "Aerodynamic data",
+      "parent_id": 263,
+      "order": 6
+    },
+    {
+      "id": 265,
+      "label": "section-title",
+      "text": "Trajectory data",
+      "parent_id": 265,
+      "order": 6
+    },
+    {
+      "id": 270,
+      "label": "section-title",
+      "text": "Second Stage",
+      "parent_id": 270,
+      "order": 6
+    },
+    {
+      "id": 271,
+      "label": "section-title",
+      "text": "Weight data",
+      "parent_id": 271,
+      "order": 6
+    },
+    {
+      "id": 273,
+      "label": "section-title",
+      "text": "Second stage alone",
+      "parent_id": 273,
+      "order": 6
+    },
+    {
+      "id": 285,
+      "label": "section-title",
+      "text": "Propulsion data",
+      "parent_id": 285,
+      "order": 6
+    },
+    {
+      "id": 289,
+      "label": "section-title",
+      "text": "Aerodynamic data",
+      "parent_id": 289,
+      "order": 6
+    },
+    {
+      "id": 291,
+      "label": "section-title",
+      "text": "Trajectory data",
+      "parent_id": 291,
+      "order": 6
+    },
+    {
+      "id": 298,
+      "label": "section-title",
+      "text": "Third Stage",
+      "parent_id": 298,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "Weight data",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 305,
+      "label": "section-title",
+      "text": "Propulsion data",
+      "parent_id": 305,
+      "order": 6
+    },
+    {
+      "id": 308,
+      "label": "section-title",
+      "text": "Trajectory data",
+      "parent_id": 308,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "PETITION FOR SUBMISSION OF PROPOSED AMENDMENT TO CHARTER",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "PROPOSED CHARTER AMENDMENTS",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "SECTION III-1. POWERS, NUMBER AND TERM",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "SECTION III-2. QUALIFICATIONS",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "SECTION III-7. MEETINGS",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "SECTION III-11. PRESIDENT AND VICE PRESIDENT",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "SECTION VII-3. PETITION FOR PLACES ON BALLOTS",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "SECTION VII-5. WHO ELECTED",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "SECTION VIII-2. REFERENDUM",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "SUGGESTED BALLOT LANGUAGE:",
+      "parent_id": 40,
+      "order": 6
+    }
+  ]
+}

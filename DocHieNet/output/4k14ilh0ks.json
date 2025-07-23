@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "心的既有法律行为规则。虽然物权法、公司法设置了特别规则，但存在如下问题：决议行为效力规则之构造",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、社会变迁与决议行为理论、立法应对的缺失",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "二、决议行为之性质及私法规制之伦理基础",
+      "parent_id": 31,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "(一)关于决议行为性质之争议",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "(二)决议行为系社团意思形成行为",
+      "parent_id": 49,
+      "order": 4
+    }
+  ]
+}

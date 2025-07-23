@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Class-E RF Power Amplifiers",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "What Can Class-E Do for Me?",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Analytical and Numerical Derivations of Design Equations",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Physical Principles for Achieving High Efficiency",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Explicit Design Equations",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Accuracy of Design Equations",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Harmonic Filtering and Associated Changes to Design Equations",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "Optimizing Efficiency",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "Effects of Non-Ideal Components",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "COMPLAINT AND AFFIDAVIT IN SUPPORT OF ARREST WARRANT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "I. The Child Nutrition Act",
+      "parent_id": 19,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "II. Red Apple Child Development Centers",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "III. The Scheme to Defraud",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "A. Stealing CACFP Funds",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "B. False Claims Made To The NYSDOH",
+      "parent_id": 51,
+      "order": 5
+    }
+  ]
+}

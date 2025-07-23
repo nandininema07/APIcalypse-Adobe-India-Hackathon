@@ -1,0 +1,410 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "National Digital Health Mission: Health Data Management Policy",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Chapter I: Preliminary",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "1. Purpose",
+      "parent_id": 4,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "2. Applicability",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "3. Objectives",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "The key objectives of this Policy are:",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "4. Definitions",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "Chapter II: Applicable Law and Governance Structure",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "5. Applicable laws and regulations",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "6. Governance structure",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Chapter III: Consent Framework",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "7. Collection of personal or sensitive personal data by data fiduciaries",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "8. General principles governing consent framework",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "9. Consent in relation to collection and processing of personal or sensitive personal data",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "10. Privacy Notice for the collection of personal and sensitive personal data",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "11. Method of obtaining consent",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "12. Processing personal or sensitive personal data pertaining to a child",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "13. Processing personal or sensitive personal data of data principals who are seriously ill or mentally incapacitated",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "14. Rights of data principals",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "Chapter IV: ID Policy",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "15. Allocation of Health ID",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 196,
+      "label": "section-title",
+      "text": "16. Principle of non-exclusion for Health ID",
+      "parent_id": 196,
+      "order": 6
+    },
+    {
+      "id": 201,
+      "label": "section-title",
+      "text": "17. Creation of Health ID",
+      "parent_id": 201,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "18. Allocation of a Health Practitioner ID",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": "19. Principle of non-exclusion for Health Practitioner ID",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": "20. Creation of Health Practitioner ID",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 243,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 243,
+      "order": 6
+    },
+    {
+      "id": 247,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 247,
+      "order": 6
+    },
+    {
+      "id": 253,
+      "label": "section-title",
+      "text": "24. National Health Infrastructure Registry",
+      "parent_id": 253,
+      "order": 6
+    },
+    {
+      "id": 257,
+      "label": "section-title",
+      "text": "25. Safeguards for creation of Health ID, Health Practitioner ID or Health Facility ID",
+      "parent_id": 257,
+      "order": 6
+    },
+    {
+      "id": 260,
+      "label": "section-title",
+      "text": "Chapter V: Obligations of data fiduciaries in relation to processing of personal data",
+      "parent_id": 260,
+      "order": 6
+    },
+    {
+      "id": 261,
+      "label": "section-title",
+      "text": "26. Privacy principles to be followed by data fiduciaries",
+      "parent_id": 261,
+      "order": 6
+    },
+    {
+      "id": 263,
+      "label": "section-title",
+      "text": "26.1 Accountability",
+      "parent_id": 263,
+      "order": 6
+    },
+    {
+      "id": 265,
+      "label": "section-title",
+      "text": "26.2 Transparency",
+      "parent_id": 265,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "26.3 Privacy by Design",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 290,
+      "label": "section-title",
+      "text": "26.4 Choice and Consent Driven Sharing",
+      "parent_id": 290,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "26.5 Purpose Limitation",
+      "parent_id": 292,
+      "order": 6
+    },
+    {
+      "id": 295,
+      "label": "section-title",
+      "text": "26.6 Collection, Use and Storage Limitation",
+      "parent_id": 295,
+      "order": 6
+    },
+    {
+      "id": 297,
+      "label": "section-title",
+      "text": "26.7 Empowerment of Data Principal",
+      "parent_id": 297,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "26.8 Data Quality",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 302,
+      "label": "section-title",
+      "text": "26.9 Reasonable Security Practices and Procedures",
+      "parent_id": 302,
+      "order": 6
+    },
+    {
+      "id": 304,
+      "label": "section-title",
+      "text": "27. Transparency and accountability measures",
+      "parent_id": 304,
+      "order": 6
+    },
+    {
+      "id": 305,
+      "label": "section-title",
+      "text": "27.1 Reasonable Security Practices and Procedures",
+      "parent_id": 305,
+      "order": 6
+    },
+    {
+      "id": 314,
+      "label": "section-title",
+      "text": "27.2 Data management by data processors",
+      "parent_id": 314,
+      "order": 6
+    },
+    {
+      "id": 324,
+      "label": "section-title",
+      "text": "27.3 Data Protection Impact Assessment",
+      "parent_id": 324,
+      "order": 6
+    },
+    {
+      "id": 327,
+      "label": "section-title",
+      "text": "27.4 Maintenance of Records",
+      "parent_id": 327,
+      "order": 6
+    },
+    {
+      "id": 336,
+      "label": "section-title",
+      "text": "27.5 Audit",
+      "parent_id": 336,
+      "order": 6
+    },
+    {
+      "id": 341,
+      "label": "section-title",
+      "text": "Chapter VI: Sharing of personal data and obligations of entities with whom personal data is shared",
+      "parent_id": 341,
+      "order": 6
+    },
+    {
+      "id": 342,
+      "label": "section-title",
+      "text": "28. Sharing of personal data by data fiduciaries",
+      "parent_id": 342,
+      "order": 6
+    },
+    {
+      "id": 347,
+      "label": "section-title",
+      "text": "29. Sharing of de-identified or anonymised data by data fiduciaries",
+      "parent_id": 347,
+      "order": 6
+    },
+    {
+      "id": 354,
+      "label": "section-title",
+      "text": "30. Obligations of HIUs upon sharing of personal data",
+      "parent_id": 354,
+      "order": 6
+    },
+    {
+      "id": 366,
+      "label": "section-title",
+      "text": "31. Restrictions on sharing, circulating or publishing of personal or sensitive personal data",
+      "parent_id": 366,
+      "order": 6
+    },
+    {
+      "id": 370,
+      "label": "section-title",
+      "text": "Chapter VII: Grievance Redressal and Compliance",
+      "parent_id": 370,
+      "order": 6
+    },
+    {
+      "id": 371,
+      "label": "section-title",
+      "text": "32. Grievance redressal",
+      "parent_id": 371,
+      "order": 6
+    },
+    {
+      "id": 377,
+      "label": "section-title",
+      "text": "33. Personal Data Breach and Incident Management",
+      "parent_id": 377,
+      "order": 6
+    },
+    {
+      "id": 384,
+      "label": "section-title",
+      "text": "34. Compliance and Policy Governance",
+      "parent_id": 384,
+      "order": 6
+    },
+    {
+      "id": 388,
+      "label": "section-title",
+      "text": "35. Non-compliance with this Policy",
+      "parent_id": 388,
+      "order": 6
+    }
+  ]
+}

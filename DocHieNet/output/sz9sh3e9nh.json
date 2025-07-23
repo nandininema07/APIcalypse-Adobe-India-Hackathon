@@ -1,0 +1,165 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "利用现场总线技术，改造制丝电控系统",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1PROFIBUS现场总线简介",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "22控制系统总体方案",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2.1硬件的选型",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2.2系统结构",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.3系统主要功能",
+      "parent_id": 29,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(1)自动控制功能",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "(2)手动/自动切换功能",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(3)根据工艺上的划分考虑，设有分段启动、分段停机功能，以便于检修、调试、维护等。",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "(4)具有多种安全措施",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "(5)具有自动故障诊断、定位及报警功能，以及必要的故障自动处理能力。出现故障时，有声光报警。OP37画面可显示故障点。",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "(6)监控显示功能",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "(7)生产自动调度与生产计划管理",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "(8)实现生产统计并打印报表",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "(9)OP37功能",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3系统改造的效果以及我们的体会",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3.1控制设计简单",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4软件设计",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "5结束语",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "3.2结构设计一致",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "3.3程序设计灵活",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "3.4系统故障率低、调试、维护简单",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "3.5抑制网络干扰",
+      "parent_id": 81,
+      "order": 6
+    }
+  ]
+}

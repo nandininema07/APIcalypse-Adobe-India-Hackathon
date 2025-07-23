@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": " consumption[9]. Because of the deficiencies of existingA Review Article on Edible Pigments Properties and Sources as",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": " Natural Biocolorants in Foodstuff and Food Industry",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Other Application in Food Industry",
+      "parent_id": 46,
+      "order": 3
+    }
+  ]
+}

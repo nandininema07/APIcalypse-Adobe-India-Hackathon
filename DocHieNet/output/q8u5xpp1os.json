@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "A NOTE ON THE ISOPERIMETRIC INEQUALITY IN THE PLANE ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "2. Preliminaries ",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Theorem 2.1 ",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Figure 2.2. ",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Figure 2.3. ",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 44,
+      "order": 6
+    }
+  ]
+}

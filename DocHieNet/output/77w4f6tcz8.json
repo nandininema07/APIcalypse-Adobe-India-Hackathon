@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "国有企业法律规制与政治规制：丛竞争到融合有制企业法》、《公司法》、《企业国有资产法》是现行关于国有企业的核心法律；③此外，《宪法》、《物权法》等法",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "一、国企治理中的二元规制模式竞争",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(一)国企规制模式概述",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1.国企法律规制模式演进",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.国企政治规制模式演进",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "(二)国企规制竞争模式之表现：党组织全面嵌入公司治理",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "1.股东(会)决策权竞争：\"三重一大\"和\"党管干部\"",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.董事会管理权竞争：\"双向进入、交叉任职\"",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "3.监事会监督权竞争：纪检监察、党委巡视组",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "(1)\"三重一大\"决策制度",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "(2)\"党管干部\"组织原则",
+      "parent_id": 53,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "道路养护与管理专业2021级人才培养方案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "湖南交通职业技术学院道路养护与管理专业2021级人才培养方案",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、专业名称及代码",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "二、入学要求",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "三、修业年限",
+      "parent_id": 11,
+      "order": 4
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "四、职业面向",
+      "parent_id": 13,
+      "order": 5
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1.职业面向",
+      "parent_id": 14,
+      "order": 6
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "2.职业发展路径",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "3.典型工作任务与职业能力分析",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "五、培养目标与培养规格",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "(一)培养目标",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "(二)培养规格",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "1.素质",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2.知识",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "公共基础知识",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "专业知识",
+      "parent_id": 55,
+      "order": 6
+    }
+  ]
+}

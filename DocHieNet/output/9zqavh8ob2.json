@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Standard Operating Procedure",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "PROCEDURES",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1) DETERMINATION OF SHELTER AVAILABILITY",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2) OBSERVATION AND IDENTIFICATION OF ENCAMPMENT:",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "3) NOTICE AND OUTREACH:",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "4) CLEAN UP",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "5) ENFORCEMENT",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "6) FOLLOW UP",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "title",
+      "text": "NOTICE TO VACATE ILLEGAL ENCAMPMENT",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "title",
+      "text": "CITY CREWS WILL ABATE THIS ENCAMPMENT ON THE DATE SPECIFIED ABOVE, OR ON THE NEXT BUSINESS DAY.",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "title",
+      "text": "ANY PROPERTY LEFT AT THIS SITE AT THE TIME OF CLEANUP WILL BE REMOVED FROM THE SITE AND STORED BY THE CITY.",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "GUIDELINES FOR PROPERTY IDENTIFICATION",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "title",
+      "text": "NOTICE OF COLLECTED PROPERTY",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "title",
+      "text": "by the City of Santa Cruz.",
+      "parent_id": 117,
+      "order": 6
+    }
+  ]
+}

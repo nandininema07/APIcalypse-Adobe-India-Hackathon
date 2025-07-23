@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "Introducing advanced practice nurses/nurse practitioners in health care systems: a framework for refelction and analysis",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Advanced Practice Nurses(APN) – Nurse Practitioners(NP)",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Refelcting on advanced practice roles: Five drivers to be considered",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "The health care needs of the population",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Practice patterns& new models of care",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Education",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Workforce issues",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Legal and policy context",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Outcomes research in view of Advanced Nursing Practice roles",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "Correspondence:",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 196,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 196,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 204,
+      "order": 6
+    }
+  ]
+}

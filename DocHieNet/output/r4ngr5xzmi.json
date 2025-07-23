@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "合同编号：                 ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "房屋租赁合同",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "title",
+      "text": "    房屋租赁合同年。(3-5年)",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "第一条租赁地点",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "第二条租赁期限及用途",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "第三条租金及相关收费标准",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "第四条租金优惠政策",
+      "parent_id": 44,
+      "order": 6
+    }
+  ]
+}

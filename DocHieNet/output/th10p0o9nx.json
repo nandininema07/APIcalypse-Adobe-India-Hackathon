@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "PHARMACEUTICAL BIO-TECHNOLOGY",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Course Description：",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Course Instructors：",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Reference Textbooks：",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Grading Scale：",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Evaluation：",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Attendance：A student will be allowed no more than 5 single period unexcused absences during the semester. Excused absences will be permitted upon approval of the Associate Dean for Student Affairs. Class work missed during an excused absence will have to be satisfied at the convenience of the instructor. A grade of F will be assigned if the student is withdrawn due to excessive absenteeism.",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Prerequisites：",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "General Course Objectives：",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Learning Objectives",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Lecture OutlineTopics",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Laboratory OutlineTopics(4 hours )",
+      "parent_id": 58,
+      "order": 6
+    }
+  ]
+}

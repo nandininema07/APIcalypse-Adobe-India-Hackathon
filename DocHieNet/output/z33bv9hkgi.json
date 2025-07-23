@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "浙江省杭州高级中学贡院校区2020年物业服务项目技术规范和服务要求应资质的专业单位和设施设备生产单位专项服务，经甲方许可后由中标单位联系单位承",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "一、物业管理项目基本情况",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "二、物业管理项目",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "三、物业管理服务内容",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "(一)、保安服务及治安管理(秩序维护员)服务内容：保安服务，治安管理。",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1、基本要求：",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "2、岗位及具体内容",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.1.学校大门门岗：",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "2.2后校区(体育馆、操场、体育场地开放)管理",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.3场馆保洁",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "2.4车辆管理",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "2.5消控、监控室值班。",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "2.6其他：",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "(二)、绿化养护",
+      "parent_id": 72,
+      "order": 6
+    }
+  ]
+}

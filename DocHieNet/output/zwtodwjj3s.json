@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "HEARING BEFORE THE COMMITTEE ON AGRICULTURE HOUSE OF REPRESENTATIVES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "COMMITTEE ON AGRICULTURE",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 23,
+      "label": "title",
+      "text": "HEARING TO REVIEW THE IMPACT OF IM-PORTEDCONTAMINATEDFOODANDFEED INGREDIENTS AND OF RECENT FOOD SAFE-TY EMERGENCIES ON FOOD SAFETY AND ANIMAL HEALTH SYSTEMS",
+      "parent_id": 23,
+      "order": 2
+    }
+  ]
+}

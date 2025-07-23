@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "学科之间、数学与生活之间的联系，运用数学的思维方式进行思考，增强发现和将数学课堂变成趣味故事，促进线上教学",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "一、将数学课堂变成趣味故事，促进教师课前思考",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "二、将数学课堂变成趣味故事，促进教师教师组织教学，学生学学习数学",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "(1)创设趣味故事导入，激发学习兴趣：小学生学习数学是一个直观与抽",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "(2)新授延续趣味故事，突出学生主体：抓住小学生喜欢听故事的特点，",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "(3)练习和小结渗透趣味故事，串联教学环节，维持学生上课注意：\"一般来说，",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "三、反思强化数学课堂趣味化的方法",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "[EMPTY]",
+      "parent_id": 51,
+      "order": 6
+    }
+  ]
+}

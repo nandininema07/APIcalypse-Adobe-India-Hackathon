@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "哈尔滨工业大学(威海))大学生创业商学院创业精英班培养方案案((2019版)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、培养目标与能力模块",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1.培养目标及培养模式",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "2.能力模块",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "二、课程体系",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1、创业核心课程",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2、模拟实训",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3.创业实践",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "三、学习的组织、考核及结业",
+      "parent_id": 34,
+      "order": 6
+    }
+  ]
+}

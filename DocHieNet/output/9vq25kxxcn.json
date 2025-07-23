@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "断流的现象；胶州市工业和信息化局关于组织2020年第八期(总第63期)\"企业之家'(99大讲堂预报名的通知",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、培训时间、地点",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "二、培训形式",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "三、参加人员",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "四、课程主题",
+      "parent_id": 12,
+      "order": 4
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "五、课程收益",
+      "parent_id": 14,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "六、讲师简介",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "七、课程简介",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "第一讲：班组长从成功走向成功",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "一、班组长的角色定位",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "2.班组长角色认识的三层次",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "4.挑战有方法：解除员工的自困模式",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "二、班组长管理心思维",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2.如何从成功走向成功的工作模式",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.班组长的三项细分身份",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "4..班组长三项核心能力提升",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "三、班组长管理新模式",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "1.班组长管理新模式",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "第二讲：班组现场管控系统技术",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "一、班组长提升现场效率的能力",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "二、班组长管控现场质量的能力",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "3..7不符合要求的质量成本PONC分析",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "4.降低现场质量成本的方法与技巧",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "三、班组长降低安全风险的能力",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "3.安全生产及重大事故的解决方案",
+      "parent_id": 92,
+      "order": 6
+    }
+  ]
+}

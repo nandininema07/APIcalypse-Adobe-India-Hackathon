@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "COVID-19 and US higher education enrollment： Preparing leaders for fall",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "About the research： McKinsey's student enrollment survey",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Near-term steadiness， but the future is uncertain",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Exhibit1",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Students'first-choice schools are changing",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Students highlight COVID-19's impact on college preparedness and potential for success",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Exhibit2",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Exhibit 3",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "A remote fall semester introduces more uncertainty",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Exhibit 4",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Exhibit 5",
+      "parent_id": 90,
+      "order": 6
+    }
+  ]
+}

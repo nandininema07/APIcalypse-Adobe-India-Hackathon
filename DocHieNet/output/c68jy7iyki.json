@@ -1,0 +1,18 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "PH Y SICAL Q UA LIFI CA TIONS AND MEDICAL R EC O RDS DIVISION B UR E AU OF MEDICINE AND S URGERY ON MEDICAL RECO R DS MANAGEMENT PROBLEMS AT 、 SYMPOSIUM OF THE S URGFON G E NER A L N AT I ON A L NAV A L MED IC A L CE N TER B ET H ESDA， M ARYLAND",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "MEDICAL RECORDS MANAGEMENT PROBLEMS",
+      "parent_id": 6,
+      "order": 1
+    }
+  ]
+}

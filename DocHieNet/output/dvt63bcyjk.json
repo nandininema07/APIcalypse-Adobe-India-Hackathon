@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "V-cycle multigrid algorithms for discontinuous ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Galerkin metho ds on non-nested polytopic meshes ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "2 Model problem and its DG discretization ",
+      "parent_id": 34,
+      "order": 3
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.1 Grid assumptions ",
+      "parent_id": 43,
+      "order": 4
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "2.2 DG formulation ",
+      "parent_id": 53,
+      "order": 5
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "3 Preliminary results ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "4 The BPX-framework for the V-cycle algorithms ",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "4.1 Convergence analysis ",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "4.2 Verification of Assumption A.1 ",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "4.3 Verification of Assumption A.2 ",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "4.4 Verification of Assumption A.3 ",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "5 Numerical results ",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "6 Additive Schwarz smoother ",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "1 Pro of of Lemma 1 ",
+      "parent_id": 199,
+      "order": 6
+    },
+    {
+      "id": 208,
+      "label": "section-title",
+      "text": "2 Pro of of Lemma 7 ",
+      "parent_id": 208,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 229,
+      "order": 6
+    }
+  ]
+}

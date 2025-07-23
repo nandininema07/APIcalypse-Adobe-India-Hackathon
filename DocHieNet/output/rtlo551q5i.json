@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "doi：10.3782/j. issn.1006-0863.2015.08.20两极如何将有序的公民参与热情和行动与有效的公",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "心变量主要是政策质量要求和政策可接受性。在具体界定公民参与范围和程度时必须衡量这二者之间地方公共决策的有效参与：的权重：对政策质量期望越高的公共问题，对公众参与的需求程度就越小而对政策接受性期望越高的公基于温州民间智库的经验研究*",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "一、公共决策有效参与模型：源流、思想及其评析",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "二、公共决策有效参与模型：修正与扩展",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "(一)地方领导者的民主风格和治理智慧",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "(二)政策议题的性质：政策质量要求和政策可接受性",
+      "parent_id": 31,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "(三)公民的行动意愿及行动能力",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "(四)政策守门人的行为动机与偏好",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "三、个案验证：温州民间智库的实践",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "(一)地方领导者与地方民间智库的有效参与",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "(二)政策质量要求和政策可接受性与地方民间智库的有效参与",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "(三)公民参与意愿和能力与地方民间智库的有效参与",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "(四)政策守门人的行为动机和偏好与地方民间智库的有效参与",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "四、结语：温州民间智库发展的经验与限度",
+      "parent_id": 74,
+      "order": 6
+    }
+  ]
+}

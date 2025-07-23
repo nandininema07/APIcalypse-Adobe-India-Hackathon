@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Ce r tified Ma i l-Re tu rn Receipt Requested",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1. BACKGROUND",
+      "parent_id": 16,
+      "order": 1
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "II. SUMMARY OF FINDINGS",
+      "parent_id": 34,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "A. The Manner in which LHA C o n d ucted t h e R AD C onversion of Beacon Homes A dverselv Affected African Amer i c an Tenants in N on compliance w ith T itle VI.",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "1.There is No Evidence that Evicted B eacon Homes Tenants Received Required Due Process.",
+      "parent_id": 48,
+      "order": 4
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "2. Ten ants Did Not Receive Re asonable Adv a n c e Notic e that LHA S ta ff W ould Enter t heir Units as Required by Federal Law and HUD Regulations",
+      "parent_id": 68,
+      "order": 5
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "3. LHA’ s Met hods o f Admi n i st eri ng i ts Pu blic H ousing Pr o gram， its Failu r e to Follo w Federal Law， Department Regulations and Failure to Follow its Own Grievance Pr o cedure Ne ga tive ly A ffe cted African American Tenants",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "III， SUMMARY OF CONCERNS",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "A. Pr ogram Con ce rn： Pote ntial Un ifo rm Relocation Assista nc e and Re a l P roper ty Acquisitions P o licies A ct ( URA) V iolation s.",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "B. Program Concern： Potential Violation of the RAD Notice.",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "C. Ti tle VI Finding.",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "IV. CONCLUSION",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "A ppen dix I",
+      "parent_id": 122,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "它反映了地层的岩性、含流体类型、流体饱和度、压地层衰减在地震记录上的特征分析",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "摘要",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "引言",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "方法原理",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "模型分析",
+      "parent_id": 66,
+      "order": 5
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "物理模拟分析",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "野外资料分析",
+      "parent_id": 103,
+      "order": 6
+    }
+  ]
+}

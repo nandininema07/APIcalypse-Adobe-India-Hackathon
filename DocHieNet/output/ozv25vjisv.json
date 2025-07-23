@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "中国质量检验协会标准",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "室内空气质量在线监测技术要求",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "中国质量检验协会发布",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "[EMPTY]",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "1范围",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2规范性引用文件",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3术语和定义",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "3.1监测单元",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3.2存储及显示单元",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "3.3传输单元",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "4系统组成及结构",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "5工作条件",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "6技术要求",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "6.1一般规定",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "6.1.1外观要求",
+      "parent_id": 55,
+      "order": 6
+    }
+  ]
+}

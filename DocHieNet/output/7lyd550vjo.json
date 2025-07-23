@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "2021-2027年中国抗体药物行业市场监测及投资趋势报告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "报告编号：522986",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "一、基本信息",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "二、内容介绍",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "第1章抗体药物相关概述1",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "第一节生物制药阐述1",
+      "parent_id": 24,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "第二节抗体药物阐述13",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "第三节单克隆抗体的制备与优点14",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "第2章2014-2017年全球生物制药产业运行总况20",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "第一节全球生物制药发展回顾20",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "第二节2014-2017年全球生物制药产业现状综述21",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "第三节2014-2017年世界生物制药市场动态分析35",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "第四节2014-2017年世界主要地区生物制药行业发展现状分析46",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "第3章2014-2017年国际抗体药物市场运营态势分析66",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "第一节2014-2017年国际抗体药物市场发展综述66",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "第二节2014-2017年国际单抗药物市场分析70",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "第三节2014-2017年国际抗体药物区域市场分析79",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "第4章2014-2017年中国生物制药产业发展新形态分析85",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "第一节2014-2017年中国生物制药产业发展总况85",
+      "parent_id": 103,
+      "order": 6
+    }
+  ]
+}

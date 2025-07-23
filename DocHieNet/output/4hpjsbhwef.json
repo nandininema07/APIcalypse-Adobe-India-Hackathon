@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "企业质量信用报告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 30,
+      "label": "title",
+      "text": "前言",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 40,
+      "label": "title",
+      "text": "总经理致辞",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "企业简介",
+      "parent_id": 48,
+      "order": 3
+    }
+  ]
+}

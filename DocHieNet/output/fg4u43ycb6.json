@@ -1,0 +1,228 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "Pesticide Contamination in India and its Health Effects",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "I. INTRODUCTION",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Pesticides are categorized as –",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "2.1 On the basis of toxicity –",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.2 On the basis of Mode of entry-",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "2.3 On the basis of mode of action",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2.4 On the basis of chemical nature-",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": " Organic pesticides",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": " Inorganic pesticides",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": " Synthetic pesticides",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "a. Organochlorine Pesticides:",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "b. Organophosphate Pesticides:",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "c. Organometal Pesticides:",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "d. Synthetic-pyrethroid:",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "e. Carbamates:",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": " Miscellaneous compounds",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "III. PESTICIDE CONTAMINATION",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "IV.CONTAMINATION IN SOIL",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "V.CONTAMINATION IN WATER",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "5.1 Water Pollution Source",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "5.2 Entry of Pesticide into Water",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "5.3 Indian Case Study on Pesticide Pollution Entry in Water",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "VII.CONTAMINATION IN AIR",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "VIII. EFFECT OF PESTICIDE ON HUMAN HEALTH",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "8.1 Path of pesticide contact:",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "8.2 Harmful effects of pesticides",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "A. Respiratory problems",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "a) Asthma:",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "b) Neurotoxic effect:",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "IX.CONCLUSION",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "REFRENCES",
+      "parent_id": 142,
+      "order": 6
+    }
+  ]
+}

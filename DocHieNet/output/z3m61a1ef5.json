@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "技创新创业和社会可持续发展提供支撑。江苏省科技公共服务平台管理办法",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "江苏省科技公共服务平台管理办法",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "第一章总则",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "第二章管理机构及其职责",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "(一)省科技厅",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(二)省财政厅",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(三)主管部门",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "第三章申报与立项",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "第四章实施与验收",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "第五章经费管理",
+      "parent_id": 66,
+      "order": 6
+    }
+  ]
+}

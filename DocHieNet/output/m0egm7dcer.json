@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "title",
+      "text": "AMENDED，RESTATED，CONSOLIDATED AND REAFFIRMED MORTGAGE， ASSIGNMENT OF RENTS， SECURITY AGREEMENT AND FIXTURE FILING",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "RECITALS",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "ARTICLEI",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "MORTGAGE",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "ARTICLE IL",
+      "parent_id": 42,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "OBLIGATIONS SECURED",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "ARTICLE II",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "ASSIGNMENT OFRENIS",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "3.2 Pr otection of Security . To protect the security of this assignment， Mortgagor agrees：",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "ARTICLEIV",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "SE CURIT Y AGREEM EN T AND FIXU R E FI LIN G",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "ARTICLEV",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "R EP R ESENTATIONS， WARRANTIES AND C OVEN AN T S",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "title",
+      "text": "(k) that Mortgagee is authorized to file financing statements in the name of Mortgagor to perfect Mortgagee’s security interest in the Collateral；",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "5.2 C ovena nt s . Mortgagor agrees：",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "ARTICLE VI",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "RI GHTS AN D DUTIES OF THE PARTIES",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "section-title",
+      "text": "ARTICLE VII",
+      "parent_id": 160,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "DE FAULT PROVISIONS AND REMEDIE S",
+      "parent_id": 161,
+      "order": 6
+    }
+  ]
+}

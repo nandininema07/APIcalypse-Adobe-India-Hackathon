@@ -1,0 +1,172 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "中农威特生物科技股份有限公司55#建筑、60#建筑UPS蓄电池",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、采购单位：中农威特生物科技股份有限公司",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "二、组织部门：中农威特生物科技股份有限公司采购部",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "三、项目名称：55#建筑、60#建筑UPS蓄电池",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "四、采购文件编号：ZNWT-CGB-2021-043",
+      "parent_id": 7,
+      "order": 4
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "五、采购要求及主要参数",
+      "parent_id": 8,
+      "order": 5
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "六、发布文件公告网站及获取采购文件的方式和时间",
+      "parent_id": 10,
+      "order": 6
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "七、递交报价文件截止时间",
+      "parent_id": 13,
+      "order": 6
+    },
+    {
+      "id": 23,
+      "label": "title",
+      "text": "中农威特生物科技股份有限公司55#建筑、60#建筑UPS蓄电池询价比价的标准，如遇到更新、废止或与供货商所执行的标准不一致时，按较高标准执行",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "一、采购单位：中农威特生物科技股份有限公司",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "二、采购项目：55#建筑、60#建筑UPS蓄电池",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "三、询价比价时间：2021年7月21日8：30",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "四、询价比价地点：中农威特生物科技股份有限公司采购部会议室",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "五、采购内容",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "(一)概述",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "(二)技术要求",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "1.应遵循的主要标准",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.使用环境条件",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.蓄电池基本技术参数",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "4.技术性能要求",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": ". 智能单体蓄电池活化仪技术性能要求",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "(三)供货范围",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "1.一般要求",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "2.供方提供的供货范围",
+      "parent_id": 104,
+      "order": 6
+    }
+  ]
+}

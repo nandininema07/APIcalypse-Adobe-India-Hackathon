@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "INTERNSHIP CONSORTIUM",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Consortium Seminars 2019-2020",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Research Seminar",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Professional Issues Seminar",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Assessment Seminar",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Multicultural Seminar",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Participation",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Evaluation",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Note",
+      "parent_id": 33,
+      "order": 6
+    }
+  ]
+}

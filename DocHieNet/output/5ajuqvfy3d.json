@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "福建省住房城乡建设领域施工现场专业人员职业培训操作手册",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "负责\"原则组织实施，并对参训人员的职业培训、测试结果、福建省住房城乡建设领域施工现场培训质量和真实性负责。专业人员职业培训操作手册",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "一、培训单位管理",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "二、培训管理",
+      "parent_id": 29,
+      "order": 3
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(一)培训内容",
+      "parent_id": 30,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "(二)报名条件",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "(三)培训组织",
+      "parent_id": 42,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Dr. Branville G. Bard， Jr.",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Objective：",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Philosophy：",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Education：",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Professional Experience：",
+      "parent_id": 9,
+      "order": 4
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Public Safety：",
+      "parent_id": 10,
+      "order": 5
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Academic：",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Publications：",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Professional Presentations：",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Assessment Centers：",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Professional， Academic & Civic Affiliations：",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Awards：",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Certifications：",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

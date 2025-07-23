@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "私营企业雇工劳动合同书",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "一、劳动合同期限",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "二、工作内容",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "三、劳动报酬",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "四、劳动保护和劳动条件",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "五、保险福利待遇",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "六、劳动纪律",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "七、劳动合同的变更、解除、终止、续订",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "八、经济补偿与赔偿",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "十、劳动争议处理",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "十一、其他",
+      "parent_id": 81,
+      "order": 6
+    }
+  ]
+}

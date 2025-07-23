@@ -1,0 +1,214 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "PRODUCT OF TWO DISTINCT ODD PRIMES ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES3 ",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2. Acknowledgements ",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3. Modular Symbols ",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3.1. The rational structure of the curve X0 (N ) defined over rational. ",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "3.2. Classical modular symbols. ",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "3.3. The Manin map. ",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "3.4. Relative homology group H1 (X0(pq) − R ∪ I , ∂(X0 (pq )), Z).√ ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES5 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.5. Manin-Drinfeld theorem. ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "4. Eisenstein series for Γ0(pq) with integer coefficients ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES7 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "4.1. Period Homomorphisms. We now define the p erio d homomorphisms for the differential forms of third kind. ",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "5. Eisenstein elements ",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES9 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "6. Even Eisenstein elements ",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "6.1. Simply connected Riemann surface of genus zero with three marked points. ",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "6.2. Mo dular curves with bijective Manin maps. ",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES11 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES13 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "7. Eisenstein elements and winding elements for Γ0(pq) ",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "7.1. Eisenstein elements for Γ0(pq). ",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES15 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES17 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES19 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": "7.2. The winding elements of level pq. ",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 235,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 235,
+      "order": 6
+    },
+    {
+      "id": 240,
+      "label": "title",
+      "text": "THE EISENSTEIN ELEMENTS OF MODULAR SYMBOLS FOR LEVEL PRODUCT OF TWO DISTINCT ODD PRIMES21 ",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Infinite dimensional optimistic optimisation with ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "applications on physical systems ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "2 Simultaneous Optimistic Optimisation (SOO) ",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "3 Multi-level SOO ",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "4 Numerical Experiments ",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "5 Conclusion ",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Acknowledgments ",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

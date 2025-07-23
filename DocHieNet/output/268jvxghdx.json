@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "环境中反复循环使用达1000次以上。现在主要应用智能纤维在服装中的应用与发展",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1智能纤维在服装中的应用",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.1形状记忆纤维在服装中的应用",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1.2相变纤维在服装中的应用",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "1.3变色纤维在服装中的应用",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "1.4导电纤维在服装中的应用",
+      "parent_id": 44,
+      "order": 5
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2智能纤维在服装应用中存在的问题",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "2.1实用性",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "2.2舒适安全性",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "2.3加工性",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "3智能纤维的发展趋势",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3智能纤维的发展趋势",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.1性能优化",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3.223环保安全",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "3.3市场化",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "4结语",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "title",
+      "text": "Application and Development of Intelligent Fiber in Clothing",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "title",
+      "text": "Pattern Classification of Yarn-Dyed Fabrics Based on GoogLeNet",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

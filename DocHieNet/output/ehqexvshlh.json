@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "entrepreneurship plays a central role in promoting the process of economic[7]. At present， manyResearch on the Influence of Entrepreneurship on Economic Growth in academia have conducted",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Literature Review",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "The Connotation of Entrepreneurship",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "The Influence of Entrepreneurship on Economic Growth",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Entrepreneurship Promotes Knowledge and Technological Progress",
+      "parent_id": 24,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Entrepreneurship Improves People's Livelihood",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Entrepreneurship Promotes Reasonable Allocation of Resources",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Research on Shaping and Cultivation of Entrepreneurship",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Comparison of Entrepreneurship among Chinese Regions",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Cultivation of Entrepreneurship",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "UNITED STATES DISTRICT COURT EASTERN DISTRICT OF MICHIGAN SOUTHERN DIVISION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "NOW COMES, INTERVENOR DEFENDANT ROBERT DAVIS (hereinafter “Intervenor Defendant Davis”), by and through his attorney, ANDREW A. PATERSON, and for his Emergency Motion to Strike Plaintiffs’ Emergency Motion for TRO(ECF No. 7), states the following:",
+      "parent_id": 34,
+      "order": 1
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "I. Concurrence",
+      "parent_id": 35,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "II. Necessity for Immediate Consideration",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "III. Introduction",
+      "parent_id": 49,
+      "order": 4
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "IV. Law and Legal Analysis",
+      "parent_id": 56,
+      "order": 5
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "CONCLUSION",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "CERTIFICATE OF SERVICE",
+      "parent_id": 111,
+      "order": 6
+    }
+  ]
+}

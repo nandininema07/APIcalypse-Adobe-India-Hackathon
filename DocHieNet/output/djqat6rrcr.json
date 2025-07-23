@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "2018年澧县一中德育工作总结",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、理顺机制，形成教育合力",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "二、落实常规，传承校园文化",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "四、疏导结合，确保身心健康",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "五、体验活动，强化育人实践",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "六、专题培训，提升育人水平",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 24,
+      "label": "title",
+      "text": "德育工作总结",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1、创造性地落实常规管理",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2、、不有质量地开展各项活动",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "title",
+      "text": "高二年级上学期德育工作总结",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "title",
+      "text": "德育工作总结",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

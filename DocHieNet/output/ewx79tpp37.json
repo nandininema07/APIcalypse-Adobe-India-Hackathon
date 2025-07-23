@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "NAT I ONAL ARCHIVES AND RECORDS ADMINISTRAT I ON WASHING T ON ， D .C. 20408",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 27,
+      "label": "title",
+      "text": "NARA BULLETIN NO. 2014-06",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "1. What is the purpose of this Bulletin?",
+      "parent_id": 31,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2. Are emails Federal records?",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3. What are agency responsibilities for email management?",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "4. What is the role of Federal employees in email management?",
+      "parent_id": 40,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "5. What is Capstone?",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "6. How long should emails be kept?",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "7. How can agencies mitigate against loss of email records?",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "8. How do agencies report email loss?",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "9. What other related guidance does NARA provide?",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "10. Whom should I contact for more information?",
+      "parent_id": 68,
+      "order": 6
+    }
+  ]
+}

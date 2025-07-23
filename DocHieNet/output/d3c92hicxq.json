@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Ghost imaging with the human eye ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Evaluation of visual response times. ",
+      "parent_id": 30,
+      "order": 1
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Discussion. ",
+      "parent_id": 44,
+      "order": 2
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "FUNDING INFORMATION ",
+      "parent_id": 50,
+      "order": 3
+    }
+  ]
+}

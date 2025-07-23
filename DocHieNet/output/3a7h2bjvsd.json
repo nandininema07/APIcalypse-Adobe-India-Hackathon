@@ -1,0 +1,165 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "广州市执信中学2021年校园信息化建设项目之智慧教育平台子项目采购需求",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "第一章项目概述",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "1.1项目名称",
+      "parent_id": 4,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1.2项目性质",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1.3项目建设周期",
+      "parent_id": 8,
+      "order": 4
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1.4项目建设内容一览表",
+      "parent_id": 10,
+      "order": 5
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "第二章业务现状、项目必要性和需求分析",
+      "parent_id": 14,
+      "order": 6
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2.1业务现状分析",
+      "parent_id": 15,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.2存在问题",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1、大概念与落地的矛盾",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2、建筑智能化工程与信息智能化工程的矛盾",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3、硬件系统与软件系统的矛盾",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "4、数据共享与数据交换的矛盾",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2.3必要性分析",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1、基于人工智能的学习环境",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2、构建\"互联网十\"智慧教育平台",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "3、以课堂为中心的移动端伴随式数据采集",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "4、构建学校的大数据资产",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "5、智能化促进信息技术与教育教学深度融合",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "6、大数据解决教育行为数据收集不足问题",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "7、强大的数据挖掘和分析技术有效提升教育管理信息化水平和教育决策能力",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "2.4需求分析",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "2.4.1系统应用需求分析",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

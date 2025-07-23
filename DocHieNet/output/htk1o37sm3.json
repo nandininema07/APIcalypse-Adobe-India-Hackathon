@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Procurement of Government Goods/Services. In Article 90 of the PresidentialArrangement of Procurement of Defense Regulation states that the procurement of defense and security equipment is carried out in accordance with the provisions of laws and regulations in the Equipment That Supports The Development defense industry. In terms of the Presidential concerning the e requirements and of The Defense Industry",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "I. INTRODUCTION",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "II. PROBLEMS",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "III  RESEARCH METHOD",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "IV.DISCUSSION",
+      "parent_id": 32,
+      "order": 4
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "V. CONCLUSION",
+      "parent_id": 96,
+      "order": 5
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "ACKNOWLEDGEMENT",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "REFERENCES",
+      "parent_id": 107,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "FRAMEWORK FOR HIGHER EDUCATION QUALIFICATIONS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Certificates of Higher Education are awarded to students who have demonstrated：",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Typically， holders of the qualification will be able to：",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "and holders will have：",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Descriptor for a higher education qualification at level 5： Foundation Degree",
+      "parent_id": 15,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Descriptor for a higher education qualification at level 6： Bachelor's degree with Honours",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "and holders will have：",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "Descriptor for a higher education qualification at level 7： Master's degree",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Typically， holders of the qualification will be able to：",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "and holders will have：",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Descriptor for a higher education qualification at level 8： Doctoral degree",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Typically， holders of the qualification will be able to：",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "and holders will have：",
+      "parent_id": 83,
+      "order": 6
+    }
+  ]
+}

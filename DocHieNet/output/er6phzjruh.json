@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "AN EXTENSION OF HERON’S FORMULA ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "2. Area of n-gons in terms of its sides ",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "3. Comments ",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 26,
+      "order": 4
+    }
+  ]
+}

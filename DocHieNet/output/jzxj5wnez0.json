@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "论诊所法律教育对法律职业道德塑造之价值",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "一问题的提出",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "二研究的视角",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "三中国法律职业化中存在的问题",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "(一)法律职业的概念和内容",
+      "parent_id": 27,
+      "order": 4
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "(二)法律职业化是中国法律职业发展的必然趋势",
+      "parent_id": 29,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "(三)我国法律人员在法律职业化过程中存在的问题",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "四诊所法律教育对解决中国法律职业化问题的重要价值",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "title",
+      "text": "On the Value of Clinical Legal Education in the Shaping of Legal Ethics",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

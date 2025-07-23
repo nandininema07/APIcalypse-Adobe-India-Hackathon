@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "CaosDB - Research Data Management for ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Complex, Changing, and Automated Research ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Workflows ",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1 Background ",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2 Requirements ",
+      "parent_id": 27,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "3 Implementation ",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "3.1 Architecture ",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3.2 Data Mo del ",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3.3 Query Language ",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "3.4 User Management and Access Control ",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "4 Discussion ",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "5 Conclusions ",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "Software availability ",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "Authors’ contributions ",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "Acknowledgement ",
+      "parent_id": 114,
+      "order": 6
+    }
+  ]
+}

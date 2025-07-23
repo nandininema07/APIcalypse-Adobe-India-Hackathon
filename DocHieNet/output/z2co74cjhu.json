@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "SITETextileSpecSheet Vendor Guidelines",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1. About the attached Textile SpecSheet template",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Please note the following：",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "2. How to complete one of the attached Textile SpecSheet template",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2.1.Product Group/Product Name(header of the Textile SpecSheet)",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2.2.Product Description(paragraph 1. Textile SpecSheet)",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.4.Product Certification/Licences(paragraph 3. Textile SpecSheet)",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "3. How to send supporting documents， sample(s) and photographs (if any)",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.1.Documents",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3.2. Digital Photographs",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3.3. Product Samples",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "6. Who to contact in case of questions",
+      "parent_id": 69,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "USD A R ADIOLOGICAL MONITORING PROGRA M",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "PART 工- In trod uction",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "A. A A s ssignment ofMonitori n gResponsibility",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "B。 Assignments W i thinUSDA",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "PART II-Radiological I Def e n s eTraining Program USDA",
+      "parent_id": 45,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "A。 T raining gRadiological LDefenseIns t ructors",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "B。 Training Radiological 1 Monitors",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "C In fo rmation and Refresher Cour",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "D。 R Reports s c on Radiological1DefenseTraining",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "E。 RadioactiveSourceSets 一",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "F。 Radiological 1S Safety Handbook",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Property Accountability",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "H。Personnel Protectio n",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "PART II T - C o m municationsRela tin g to Radiological Monitoring",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "A。 GeneralUnderstandi ng Regarding Coverage 8 andExchange of Data",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "B. Monitor Reports",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "PARTI IV -Rural 1R Radiological Monitoring",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "A。 Monitoring and R epor t ing Requirements (Rural Areas)",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "B。 Responsibilities",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "上。 General",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "2. Local 1 Gover n me n t",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "3. The 1Department Off Ag riculture (Local Representative)",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "Organization",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "1. General",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "2。 Sta ff",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "D。Operational Plans(Joint USDA and Local Functions)",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "PART V-FederalFix e dMonitoring Stations",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "A。 Monitor ing and ReportingRequirements",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "B。 Peacetim e Operation of F ix e d M onitoring Stati o ns",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "1.春 CareofInstruments",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "2， Reports",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "C。 Operation f Fi xed 1 M o n itoring StationsWhen Attack ] Im m in en t",
+      "parent_id": 178,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "富民县财政局文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "富民县财政局关于2021年提升政府采购营商环境工作相关事宜的通知",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、对标对表落实好发现问题整改事项",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "二、落实政府采购支持企业发展",
+      "parent_id": 17,
+      "order": 3
+    }
+  ]
+}

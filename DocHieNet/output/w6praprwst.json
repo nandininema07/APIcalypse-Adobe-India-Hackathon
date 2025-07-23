@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Exploring the Use of RPAs as 5G Points of ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Presence ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "I . I N TRODU CT I ON ",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "II. RE MOT E LY PIL OTED A IR C RA F T SY S TEM S ",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "I I I. U S ING RPA S A S 5 G P OINT S OF P R E S ENCE ",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "A. User experience continuity in dense areas ",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "B. Service provisioning in emergency situations ",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "C. Aiding IoT coverage to wide areas ",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "IV. PRE L IM I NARY R ESULTS ",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "A. Viability of deploying virtual machines on resource- constrained devices ",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "B. Proof of concept ",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "V. C ONCLU S I ON ",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "AC K NOWL E DGM EN T ",
+      "parent_id": 61,
+      "order": 6
+    }
+  ]
+}

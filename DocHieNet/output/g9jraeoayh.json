@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "文章编号：1000-3037(2001)01-0028-09",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "title",
+      "text": "中国红树林湿地资源及其保护*",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1中国红树林湿地的分布与树种组成",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1.1中国红树林湿地的分布与影响因素",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1.2中国红树林湿地分布面积",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "1.3中国红树林植物种类组成",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "2中国红树林湿地资源价值和环境功能",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "2.1提供森林产品的直接经济价值",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "2.2红树林捕沙促淤防浪护岸功能",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "2.3红树林湿地是海岸带生态关键区",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "2.4红树林过滤陆地径流和内陆带出的有机物和污染物，净化空气和海水，减轻海洋污染的功能",
+      "parent_id": 68,
+      "order": 6
+    }
+  ]
+}

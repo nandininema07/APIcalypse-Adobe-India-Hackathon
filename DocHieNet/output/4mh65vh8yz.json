@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "SCIENTIFIC REP RTS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Materials and Methods",
+      "parent_id": 20,
+      "order": 1
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Results",
+      "parent_id": 39,
+      "order": 2
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Discussion",
+      "parent_id": 66,
+      "order": 3
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 92,
+      "order": 4
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "Acknowledgements",
+      "parent_id": 144,
+      "order": 5
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "Author Contributions",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "Additional Information",
+      "parent_id": 148,
+      "order": 6
+    }
+  ]
+}

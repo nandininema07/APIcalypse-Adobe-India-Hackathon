@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "June 23, 2010 MEDNEWS Items of Interest:",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Did You Know…",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "title",
+      "text": "Navy Surgeon General Discusses Opportunities for Military Medical Partnerships with Vietnam",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "By Cmdr. Cappy Surette, Bureau of Medicine and Surgery Public Affairs",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "title",
+      "text": "Navy Medicine Supports Global Operations",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "title",
+      "text": "Corpsman Receives Purple Heart at Bethesda Naval Hospital",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "PARTNERSHIPS",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "title",
+      "text": "Expeditionary Surgical Unit Supports African Lion in Morocco",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "title",
+      "text": "Navy Officer is Presented with Presidential Medal in Djibouti",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "title",
+      "text": "Navy Medicine Celebrates Hospital Corps 112th Birthday",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "SURGICAL",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "title",
+      "text": "Navy Medicine and Johns Hopkins Celebrate Social Work",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "title",
+      "text": "Navy Corpsmen Gives Afghan National Army Lifesaving Skills",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "CORPSMAN",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "Portsmouth Medical Center Staff Receive Humanitarian Award",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "title",
+      "text": "Navy Environmental Health Officer Reflects on Haiti Mission",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

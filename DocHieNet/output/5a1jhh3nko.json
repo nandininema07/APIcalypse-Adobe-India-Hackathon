@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "The Influence of the Financial Ratio to the Prevention of Bankruptcy in Cigarette Manufacturing Companies Sub Sector",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "LITERATURE REVIEW",
+      "parent_id": 26,
+      "order": 2
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "METHODOLOGY",
+      "parent_id": 39,
+      "order": 3
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Operational Research Variables",
+      "parent_id": 41,
+      "order": 4
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Data Analysis Methods",
+      "parent_id": 48,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "1.Multiple Linear Regression Analysis",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "2.Hypothesis Testing",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.1. Simultaneous Test (Test F)",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

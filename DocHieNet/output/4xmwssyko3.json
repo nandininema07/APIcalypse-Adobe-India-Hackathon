@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Living without oil",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "About this free course",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Intellectual property",
+      "parent_id": 20,
+      "order": 2
+    }
+  ]
+}

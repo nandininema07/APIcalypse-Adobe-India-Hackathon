@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "LEASE AND SUBLEASE AGREEMENT BETWEEN CENTRAL UNIFIED SCHOOL DISTRICT AND BUSH CONSTRUCTION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "PREAMBLE",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "RECITALS",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "AGREEMENT",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "ARTICLEI GENE R A L T E R MS ： SITE LEAS E",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "ARTICLE II SCOPE O F PROJECT",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "ARTICLE III SUBLEA SE",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "ARTICLE IV MI S C ELLANEOUS PROVISIONS",
+      "parent_id": 68,
+      "order": 6
+    }
+  ]
+}

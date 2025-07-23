@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Connectedness of The Moduli Space of Artin-Schreier ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Curves of Fixed Genus ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 4,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2 Mo duli space of Artin-Schreier curves ",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.1 Artin-Schreier Theory ",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2.2 Partitions of Integers ",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.3 Mo duli of Artin-Schreier Curves and Partitions of Integers ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "3 Strata lying in closures of the other strata ",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.1 Some Deformation Results ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "3.1.1 The Oort-Sekiguchi-Suwa Component ",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "3.2 Some Closure Results ",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "4 Connectedness ",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "4.1 Case p = 3 ",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "4.2 Case p = 5 ",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "4.3 Case p > 5 ",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "4.4 Disconnectedness of ASg ",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 182,
+      "label": "section-title",
+      "text": "5 Proof of Technical Results ",
+      "parent_id": 182,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "5.1 Edge of Typ e {e} → {e1 , e2 } ",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "5.2 Edge of Typ e {e} → {e1 , e2 , e3} ",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 258,
+      "label": "section-title",
+      "text": "5.3 Edge of Typ e {e} → {p − 1, e1 , e2 } ",
+      "parent_id": 258,
+      "order": 6
+    },
+    {
+      "id": 265,
+      "label": "section-title",
+      "text": "5.4 Edge of Typ e {(n + 1)(p − n + 1)} → {n + 1, n + 1, . . . , n + 1} ",
+      "parent_id": 265,
+      "order": 6
+    },
+    {
+      "id": 276,
+      "label": "section-title",
+      "text": "5.5 Deformations in Characteristic 5 ",
+      "parent_id": 276,
+      "order": 6
+    },
+    {
+      "id": 301,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 301,
+      "order": 6
+    }
+  ]
+}

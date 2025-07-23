@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "中存在的及潜在的矛盾和不足之处自愿提交的不安全事件和安全隐患报告，航空安全自愿报告系统经验分享",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1背景",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2SCASS的任务与目的",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3SCASS的基本原则",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "4自愿报告系统与强制执法措施",
+      "parent_id": 35,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "5自愿报告系统与安全文化互为因果",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "6SCASS与管理当局和工业界的关系",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "7报告表格、信息共享和研究结果的传播",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "title",
+      "text": "北京脑血管病医院新楼落成",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

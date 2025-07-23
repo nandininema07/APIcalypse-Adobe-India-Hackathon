@@ -1,0 +1,172 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "FE AT U R E - BA S E D ATT E N T IO N IN CO N VO L U T I O N A L ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "N EU R A L N E TW O R K S ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "A B S TRACT ",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1 I NT RO DU C TI O N ",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "2 S U MMA RY OF PRE VI OU S W O R K ",
+      "parent_id": 13,
+      "order": 4
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2.1 AT TEN TION IN CN N S ",
+      "parent_id": 15,
+      "order": 5
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.2 F I NDIN G S FROM BIO LOG Y ",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "3 F BA I M P L EME NTAT I ON A N D T EST I N G ",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "3.1 F BA P ROCE D UR E ",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "3.1 . 1 D ET E R MINATIO N O F F EATURE PAT TE RN S ",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3.1 . 2 O P TION S FOR APPL I CATIO N O F FBA AT RUNT I M E ",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.2 OBJ EC T DE TE CT I ON TE S TS ",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3.2 . 1 A R RAY IM AGE SE T ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3.2 . 2 ME R G ED I MAG E S ET ",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3.3 NE TWORK ARCHI T ECTU RE A N D PAR AM E TE R S ",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "4 R ESU LT S ",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "4.1 S TR ENG TH OF AT T EN T ION A FFECT S PERFORM A NCE ",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "4.2 APPLY ING FBA TO L ATE R L AYE RS P ERFORM S BE ST ",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "4.3 B I - DIR ECTI O NAL MU LT I P LIC AT I VE EFF ECTS P ER F OR M BE ST ",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "4.4 EFF E C TS O F BI-D I RE C TIONA L M ODU L AT I ON ARE U NC LE A R ",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "4.5 C OM P L IC AT I O NS ",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "5 C ON C LU S IO N ",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "AC KNOWL EDG ME N TS ",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "6 A PPE ND I X ",
+      "parent_id": 111,
+      "order": 6
+    }
+  ]
+}

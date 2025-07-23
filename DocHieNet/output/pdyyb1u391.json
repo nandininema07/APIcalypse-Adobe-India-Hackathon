@@ -1,0 +1,1159 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "1. Sales Prospectus",
+      "parent_id": 24,
+      "order": 1
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2 . The Fund",
+      "parent_id": 27,
+      "order": 2
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "3 . Investment Policy",
+      "parent_id": 34,
+      "order": 3
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Bantleon Opportunities S",
+      "parent_id": 35,
+      "order": 4
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Bantleon Opportunities L",
+      "parent_id": 38,
+      "order": 5
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Bantleon Opportunities XL",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Bantleon Opportunities Global",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "4 . Risk Warning",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "General",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Risk Management",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Leverage",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Market Risk",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Interest Rate Risk",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Credit Risk",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Counter Party Risk",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Risks Associated with Investment Shares",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Currency Risk",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Risks Associated with Commodities",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Concentration Risk",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Country or Transfer Risk",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "Custody Risk",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Political Risk/ Regulatory Risk",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Inflation Risk",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Key Persons Risk",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Change in Investment Policy",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Change of Management Regulations; Dissolution or Merger",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "Liquidity Risk",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "Risks Associated with Derivative Transactions",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "Risk of Increased Sales",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Risk of currency hedged share classes",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "5 . Investor Proflie",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "6 . The Management Company",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "7 . The Investment Manager",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "8 . The Depositary Bank",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "9 . Management and Transfer Agent",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "10 . Prevention of Money Laundering",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "11 . Shares",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "12 . Share Prices",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "13 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "14 . Charges and Fees",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 192,
+      "label": "section-title",
+      "text": "Performance-based fee",
+      "parent_id": 192,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "15 . Further Notes",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 202,
+      "label": "section-title",
+      "text": "16 . Taxes",
+      "parent_id": 202,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "17 . Publications and Information",
+      "parent_id": 210,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "18 . The Management Regulations",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "section-title",
+      "text": "19 . Combating Market Timing and Late Trading Activities",
+      "parent_id": 215,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "FUND OVERVIEW",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": "Bantleon Bantleon Bantleon Bantleon Bantleon letters »PT« and »PA«) maximum subscription fee Subscription fee(share classes designated by the no subscription fee letters »IT« and »IA«) maximum Fixed management fee Share classes designated by the letters »IT« and »IA« 0,30% maximum(private investors) Fixed management fee Share classes designated by the letters »PT« and »PA« 1,40% 2,10% 2,10% 2,10% 0,50% maximum(institutional investors)",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 224,
+      "label": "section-title",
+      "text": "MANAGEMENT AND ADMINISTRATION",
+      "parent_id": 224,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "Management Company",
+      "parent_id": 225,
+      "order": 6
+    },
+    {
+      "id": 227,
+      "label": "section-title",
+      "text": "Board of Directors of the Management Company:",
+      "parent_id": 227,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": "Responsible for the day-to-day business:",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 234,
+      "label": "section-title",
+      "text": "Investment Manager",
+      "parent_id": 234,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "Depositary Bank",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "Management and Transfer Agent",
+      "parent_id": 238,
+      "order": 6
+    },
+    {
+      "id": 240,
+      "label": "section-title",
+      "text": "Auditor of the Management Company and the Fund",
+      "parent_id": 240,
+      "order": 6
+    },
+    {
+      "id": 242,
+      "label": "section-title",
+      "text": "Paying Agents",
+      "parent_id": 242,
+      "order": 6
+    },
+    {
+      "id": 243,
+      "label": "section-title",
+      "text": "Paying Agent in Luxembourg:",
+      "parent_id": 243,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "Paying Agent in Germany:",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 247,
+      "label": "section-title",
+      "text": "Paying Agent in Austria:",
+      "parent_id": 247,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "Paying Agent in Switzerland:",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "section-title",
+      "text": "Distributors",
+      "parent_id": 254,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "Distributor in Germany:",
+      "parent_id": 255,
+      "order": 6
+    },
+    {
+      "id": 257,
+      "label": "section-title",
+      "text": "Distributor in Austria:",
+      "parent_id": 257,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "Main distributor in Switzerland:",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 264,
+      "label": "section-title",
+      "text": "1. The Management Regulations",
+      "parent_id": 264,
+      "order": 6
+    },
+    {
+      "id": 268,
+      "label": "section-title",
+      "text": "2 . The Fund",
+      "parent_id": 268,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "3 . The Management Company",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 277,
+      "label": "section-title",
+      "text": "4 . The Investment Manager",
+      "parent_id": 277,
+      "order": 6
+    },
+    {
+      "id": 282,
+      "label": "section-title",
+      "text": "5 . The Depositary Bank",
+      "parent_id": 282,
+      "order": 6
+    },
+    {
+      "id": 289,
+      "label": "section-title",
+      "text": "6 . Management and Transfer Agent",
+      "parent_id": 289,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "I I . GENERAL INVESTMENT POLICY GUIDELINES",
+      "parent_id": 292,
+      "order": 6
+    },
+    {
+      "id": 293,
+      "label": "section-title",
+      "text": "1 . Investment Objective",
+      "parent_id": 293,
+      "order": 6
+    },
+    {
+      "id": 295,
+      "label": "section-title",
+      "text": "2 . Listed Securities",
+      "parent_id": 295,
+      "order": 6
+    },
+    {
+      "id": 297,
+      "label": "section-title",
+      "text": "3 . Unlisted Securities and Other Securitised Rights",
+      "parent_id": 297,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "4. Newly Issued Securities",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 301,
+      "label": "section-title",
+      "text": "5. Investments in UCITS and UCI",
+      "parent_id": 301,
+      "order": 6
+    },
+    {
+      "id": 311,
+      "label": "section-title",
+      "text": "6 . Investment Limits",
+      "parent_id": 311,
+      "order": 6
+    },
+    {
+      "id": 312,
+      "label": "section-title",
+      "text": "According to the provisions of the Law of 17 December 2010 the following investment limits apply:",
+      "parent_id": 312,
+      "order": 6
+    },
+    {
+      "id": 322,
+      "label": "section-title",
+      "text": "6.8 Teh following provisions apply to investments in UCITS or other UCIs:",
+      "parent_id": 322,
+      "order": 6
+    },
+    {
+      "id": 326,
+      "label": "section-title",
+      "text": "7. Futures",
+      "parent_id": 326,
+      "order": 6
+    },
+    {
+      "id": 328,
+      "label": "section-title",
+      "text": "8 . Interest Rate Swap Agreements",
+      "parent_id": 328,
+      "order": 6
+    },
+    {
+      "id": 332,
+      "label": "section-title",
+      "text": "9 . Currency Futures",
+      "parent_id": 332,
+      "order": 6
+    },
+    {
+      "id": 334,
+      "label": "section-title",
+      "text": "10 . Liquid Assets",
+      "parent_id": 334,
+      "order": 6
+    },
+    {
+      "id": 336,
+      "label": "section-title",
+      "text": "11 . Further Investment Restrictions",
+      "parent_id": 336,
+      "order": 6
+    },
+    {
+      "id": 341,
+      "label": "section-title",
+      "text": "12 . Loans and Encumbrance Prohibitions",
+      "parent_id": 341,
+      "order": 6
+    },
+    {
+      "id": 344,
+      "label": "section-title",
+      "text": "13 . Introduction of Currencies to Replace or Succeed the Euro",
+      "parent_id": 344,
+      "order": 6
+    },
+    {
+      "id": 350,
+      "label": "section-title",
+      "text": "III. ISSUES AND REDEMPTIONS,FURTHER CONDITIONS",
+      "parent_id": 350,
+      "order": 6
+    },
+    {
+      "id": 351,
+      "label": "section-title",
+      "text": "1 . Shares in the Sub-Funds",
+      "parent_id": 351,
+      "order": 6
+    },
+    {
+      "id": 354,
+      "label": "section-title",
+      "text": "2 . Issue of Shares",
+      "parent_id": 354,
+      "order": 6
+    },
+    {
+      "id": 357,
+      "label": "section-title",
+      "text": "3 . Calculation of the Net Asset Value per Share",
+      "parent_id": 357,
+      "order": 6
+    },
+    {
+      "id": 364,
+      "label": "section-title",
+      "text": "Teh net asset value of the sub-fund is calculated according to the following principles:",
+      "parent_id": 364,
+      "order": 6
+    },
+    {
+      "id": 374,
+      "label": "section-title",
+      "text": "4 . Suspension of Calculation of the NAV per Share",
+      "parent_id": 374,
+      "order": 6
+    },
+    {
+      "id": 380,
+      "label": "section-title",
+      "text": "5 . Redemption of Shares",
+      "parent_id": 380,
+      "order": 6
+    },
+    {
+      "id": 384,
+      "label": "section-title",
+      "text": "6 . Exchange of Shares",
+      "parent_id": 384,
+      "order": 6
+    },
+    {
+      "id": 386,
+      "label": "section-title",
+      "text": "7 . Dividend Distributions",
+      "parent_id": 386,
+      "order": 6
+    },
+    {
+      "id": 389,
+      "label": "section-title",
+      "text": "8 . Duration and Closing of the Fund and the Sub-Funds and the Merger of Funds or Sub-Funds",
+      "parent_id": 389,
+      "order": 6
+    },
+    {
+      "id": 392,
+      "label": "section-title",
+      "text": "Teh winding-up of the fund or of a sub-fund is mandatory in the following cases:",
+      "parent_id": 392,
+      "order": 6
+    },
+    {
+      "id": 399,
+      "label": "section-title",
+      "text": "9. Fees, Charges",
+      "parent_id": 399,
+      "order": 6
+    },
+    {
+      "id": 406,
+      "label": "section-title",
+      "text": "10 . Fiscal Year and Audit of Annual Accounts",
+      "parent_id": 406,
+      "order": 6
+    },
+    {
+      "id": 409,
+      "label": "section-title",
+      "text": "11 . Statute of Limitations",
+      "parent_id": 409,
+      "order": 6
+    },
+    {
+      "id": 411,
+      "label": "section-title",
+      "text": "12 . Amendments",
+      "parent_id": 411,
+      "order": 6
+    },
+    {
+      "id": 416,
+      "label": "section-title",
+      "text": "13 . Publications",
+      "parent_id": 416,
+      "order": 6
+    },
+    {
+      "id": 420,
+      "label": "section-title",
+      "text": "14. Applicable Law, Jurisdiction and Language of Contract",
+      "parent_id": 420,
+      "order": 6
+    },
+    {
+      "id": 424,
+      "label": "section-title",
+      "text": "15. Entry into Force",
+      "parent_id": 424,
+      "order": 6
+    },
+    {
+      "id": 430,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 430,
+      "order": 6
+    },
+    {
+      "id": 431,
+      "label": "section-title",
+      "text": "Teh sub-fund Bantleon Opportunities S invests its assets only in the following securities in euro:",
+      "parent_id": 431,
+      "order": 6
+    },
+    {
+      "id": 439,
+      "label": "section-title",
+      "text": "2 . Liquid Assets",
+      "parent_id": 439,
+      "order": 6
+    },
+    {
+      "id": 441,
+      "label": "section-title",
+      "text": "3 . Futures",
+      "parent_id": 441,
+      "order": 6
+    },
+    {
+      "id": 443,
+      "label": "section-title",
+      "text": "Futures can be used to",
+      "parent_id": 443,
+      "order": 6
+    },
+    {
+      "id": 450,
+      "label": "section-title",
+      "text": "4. Currency Futures",
+      "parent_id": 450,
+      "order": 6
+    },
+    {
+      "id": 453,
+      "label": "section-title",
+      "text": "5. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 453,
+      "order": 6
+    },
+    {
+      "id": 457,
+      "label": "section-title",
+      "text": "6 . Charges and Fees",
+      "parent_id": 457,
+      "order": 6
+    },
+    {
+      "id": 464,
+      "label": "section-title",
+      "text": "7 . Dividend Distributions",
+      "parent_id": 464,
+      "order": 6
+    },
+    {
+      "id": 466,
+      "label": "section-title",
+      "text": "8 . Term/ Entry into Force",
+      "parent_id": 466,
+      "order": 6
+    },
+    {
+      "id": 473,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 473,
+      "order": 6
+    },
+    {
+      "id": 482,
+      "label": "section-title",
+      "text": "2 . Liquid Assets",
+      "parent_id": 482,
+      "order": 6
+    },
+    {
+      "id": 484,
+      "label": "section-title",
+      "text": "3 . Futures",
+      "parent_id": 484,
+      "order": 6
+    },
+    {
+      "id": 486,
+      "label": "section-title",
+      "text": "Futures can be used to",
+      "parent_id": 486,
+      "order": 6
+    },
+    {
+      "id": 492,
+      "label": "section-title",
+      "text": "4. Currency Futures",
+      "parent_id": 492,
+      "order": 6
+    },
+    {
+      "id": 495,
+      "label": "section-title",
+      "text": "5 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 495,
+      "order": 6
+    },
+    {
+      "id": 499,
+      "label": "section-title",
+      "text": "6 . Charges and Fees",
+      "parent_id": 499,
+      "order": 6
+    },
+    {
+      "id": 506,
+      "label": "section-title",
+      "text": "7 . Dividend Distributions",
+      "parent_id": 506,
+      "order": 6
+    },
+    {
+      "id": 508,
+      "label": "section-title",
+      "text": "8 . Term/Entry into Force",
+      "parent_id": 508,
+      "order": 6
+    },
+    {
+      "id": 515,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 515,
+      "order": 6
+    },
+    {
+      "id": 516,
+      "label": "section-title",
+      "text": "Teh sub-fund Bantleon Opportunities XL invests its assets solely in the following securities quoted in euro:",
+      "parent_id": 516,
+      "order": 6
+    },
+    {
+      "id": 524,
+      "label": "section-title",
+      "text": "2 . Liquid Assets",
+      "parent_id": 524,
+      "order": 6
+    },
+    {
+      "id": 526,
+      "label": "section-title",
+      "text": "3 . Futures",
+      "parent_id": 526,
+      "order": 6
+    },
+    {
+      "id": 528,
+      "label": "section-title",
+      "text": "Futures can be used to",
+      "parent_id": 528,
+      "order": 6
+    },
+    {
+      "id": 537,
+      "label": "section-title",
+      "text": "4 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 537,
+      "order": 6
+    },
+    {
+      "id": 541,
+      "label": "section-title",
+      "text": "5 . Charges and Fees",
+      "parent_id": 541,
+      "order": 6
+    },
+    {
+      "id": 551,
+      "label": "section-title",
+      "text": "6 . Dividend Distributions",
+      "parent_id": 551,
+      "order": 6
+    },
+    {
+      "id": 553,
+      "label": "section-title",
+      "text": "7 . Term/Entry into Force",
+      "parent_id": 553,
+      "order": 6
+    },
+    {
+      "id": 560,
+      "label": "section-title",
+      "text": "1. Investment Policy",
+      "parent_id": 560,
+      "order": 6
+    },
+    {
+      "id": 562,
+      "label": "section-title",
+      "text": "Bonds",
+      "parent_id": 562,
+      "order": 6
+    },
+    {
+      "id": 572,
+      "label": "section-title",
+      "text": "Equities",
+      "parent_id": 572,
+      "order": 6
+    },
+    {
+      "id": 575,
+      "label": "section-title",
+      "text": "Commodities",
+      "parent_id": 575,
+      "order": 6
+    },
+    {
+      "id": 577,
+      "label": "section-title",
+      "text": "Investment Funds",
+      "parent_id": 577,
+      "order": 6
+    },
+    {
+      "id": 590,
+      "label": "section-title",
+      "text": "2. Liquid Assets",
+      "parent_id": 590,
+      "order": 6
+    },
+    {
+      "id": 592,
+      "label": "section-title",
+      "text": "3 . Currencies",
+      "parent_id": 592,
+      "order": 6
+    },
+    {
+      "id": 597,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 597,
+      "order": 6
+    },
+    {
+      "id": 599,
+      "label": "section-title",
+      "text": "Futures can be used to",
+      "parent_id": 599,
+      "order": 6
+    },
+    {
+      "id": 603,
+      "label": "section-title",
+      "text": "5. Currencies Futures",
+      "parent_id": 603,
+      "order": 6
+    },
+    {
+      "id": 605,
+      "label": "section-title",
+      "text": "6 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 605,
+      "order": 6
+    },
+    {
+      "id": 609,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 609,
+      "order": 6
+    },
+    {
+      "id": 612,
+      "label": "section-title",
+      "text": "8 . Dividend Distributions",
+      "parent_id": 612,
+      "order": 6
+    },
+    {
+      "id": 614,
+      "label": "section-title",
+      "text": "9. Term/ Entry into Force",
+      "parent_id": 614,
+      "order": 6
+    },
+    {
+      "id": 621,
+      "label": "section-title",
+      "text": "1. Investment Policy",
+      "parent_id": 621,
+      "order": 6
+    },
+    {
+      "id": 632,
+      "label": "section-title",
+      "text": "2 . Liquid Assets",
+      "parent_id": 632,
+      "order": 6
+    },
+    {
+      "id": 634,
+      "label": "section-title",
+      "text": "3. Futures",
+      "parent_id": 634,
+      "order": 6
+    },
+    {
+      "id": 636,
+      "label": "section-title",
+      "text": "Futures can be used to",
+      "parent_id": 636,
+      "order": 6
+    },
+    {
+      "id": 641,
+      "label": "section-title",
+      "text": "4. Interest Rate Swap Agreements",
+      "parent_id": 641,
+      "order": 6
+    },
+    {
+      "id": 643,
+      "label": "section-title",
+      "text": "5. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 643,
+      "order": 6
+    },
+    {
+      "id": 649,
+      "label": "section-title",
+      "text": "6. Charges and Fees",
+      "parent_id": 649,
+      "order": 6
+    },
+    {
+      "id": 652,
+      "label": "section-title",
+      "text": "7 . Dividend Distributions",
+      "parent_id": 652,
+      "order": 6
+    },
+    {
+      "id": 654,
+      "label": "section-title",
+      "text": "8 . Term/Entry into Force",
+      "parent_id": 654,
+      "order": 6
+    },
+    {
+      "id": 659,
+      "label": "section-title",
+      "text": "I. ISSUERS",
+      "parent_id": 659,
+      "order": 6
+    },
+    {
+      "id": 683,
+      "label": "section-title",
+      "text": "II . EQUITY I NDICES",
+      "parent_id": 683,
+      "order": 6
+    },
+    {
+      "id": 697,
+      "label": "section-title",
+      "text": "Asset Management",
+      "parent_id": 697,
+      "order": 6
+    },
+    {
+      "id": 703,
+      "label": "section-title",
+      "text": "Depositary Bank",
+      "parent_id": 703,
+      "order": 6
+    },
+    {
+      "id": 707,
+      "label": "section-title",
+      "text": "Management Company",
+      "parent_id": 707,
+      "order": 6
+    },
+    {
+      "id": 712,
+      "label": "section-title",
+      "text": "Fund Sales and Marketing",
+      "parent_id": 712,
+      "order": 6
+    },
+    {
+      "id": 718,
+      "label": "section-title",
+      "text": "Internet",
+      "parent_id": 718,
+      "order": 6
+    }
+  ]
+}

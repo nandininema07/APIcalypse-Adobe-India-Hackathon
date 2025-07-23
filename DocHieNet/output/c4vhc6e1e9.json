@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "中国农业补贴政策变动趋势及其影响分析",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1文献综述",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "1.1一农场补贴\"等方面欧盟共同农业政策达到了一定对中国农业补贴政策的研究",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "1.2对国外农业补贴政策的研究",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2中国农业补贴现状",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3模型方法与数据",
+      "parent_id": 50,
+      "order": 5
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "4模拟结果讨论",
+      "parent_id": 70,
+      "order": 6
+    }
+  ]
+}

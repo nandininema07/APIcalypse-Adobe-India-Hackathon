@@ -1,0 +1,382 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "PUBLIC AND INDIAN HOUSING PROGRAMS",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "TRANSFORMING RENTAL ASSISTANCE",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "TENANT-BASED RENTAL ASSISTANCE",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "TENANT-BASED RENTAL ASSISTANCE—Continued",
+      "parent_id": 43,
+      "order": 4
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "HOUSING CERTIFICATE FUND",
+      "parent_id": 46,
+      "order": 5
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "PROJECT-BASED RENTAL ASSISTANCE",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "PUBLIC HOUSING CAPITAL FUND",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "PUBLIC HOUSING CAPITAL FUND—Continued",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "PUBLIC HOUSING OPERATING FUND",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "DRUG ELIMINATION GRANTS FOR LOW-INCOME HOUSING",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "CHOICE NEIGHBORHOODS",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "CHOICE NEIGHBORHOODS—Continued",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "REVITALIZATION OF SEVERELY DISTRESSED PUBLIC HOUSING(HOPE VI)",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "NATIVE AMERICAN HOUSING BLOCK GRANTS",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "NATIVE AMERICAN HOUSING BLOCK GRANTS—Continued",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "NATIVE HAWAIIAN HOUSING BLOCK GRANT",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "LOW-RENT PUBLIC HOUSING—LOANS AND OTHER EXPENSES",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "INDIAN HOUSING LOAN GUARANTEE FUND PROGRAM ACCOUNT",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 191,
+      "label": "section-title",
+      "text": "INDIAN HOUSING LOAN GUARANTEE FUND PROGRAM ACCOUNT—Continued",
+      "parent_id": 191,
+      "order": 6
+    },
+    {
+      "id": 194,
+      "label": "section-title",
+      "text": "INDIAN HOUSING LOAN GUARANTEE FUND FINANCING ACCOUNT",
+      "parent_id": 194,
+      "order": 6
+    },
+    {
+      "id": 202,
+      "label": "section-title",
+      "text": "NATIVE HAWAIIAN HOUSING LOAN GUARANTEE FUND PROGRAM ACCOUNT",
+      "parent_id": 202,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "NATIVE HAWAIIAN HOUSING LOAN GUARANTEE FUND FINANCING ACCOUNT",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": "TITLE VI INDIAN FEDERAL GUARANTEES FINANCING ACCOUNT",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 228,
+      "label": "section-title",
+      "text": "TITLE VI INDIAN FEDERAL GUARANTEES FINANCING ACCOUNT—Continued",
+      "parent_id": 228,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "COMMUNITY PLANNING AND DEVELOPMENT",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS",
+      "parent_id": 238,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "COMMUNITY DEVELOPMENT FUND",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 253,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 253,
+      "order": 6
+    },
+    {
+      "id": 265,
+      "label": "section-title",
+      "text": "COMMUNITY DEVELOPMENT FUND—Continued",
+      "parent_id": 265,
+      "order": 6
+    },
+    {
+      "id": 267,
+      "label": "section-title",
+      "text": "EMPOWERMENT ZONES/ENTERPRISE COMMUNITIES/RENEWAL COMMUNITIES",
+      "parent_id": 267,
+      "order": 6
+    },
+    {
+      "id": 268,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 268,
+      "order": 6
+    },
+    {
+      "id": 272,
+      "label": "section-title",
+      "text": "BROWNFIELDS REDEVELOPMENT",
+      "parent_id": 272,
+      "order": 6
+    },
+    {
+      "id": 273,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 273,
+      "order": 6
+    },
+    {
+      "id": 277,
+      "label": "section-title",
+      "text": "HOME INVESTMENT PARTNERSHIPS PROGRAM",
+      "parent_id": 277,
+      "order": 6
+    },
+    {
+      "id": 280,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 280,
+      "order": 6
+    },
+    {
+      "id": 294,
+      "label": "section-title",
+      "text": "HOUSING TRUST FUND (Legislative proposal, subject to PAYGO)",
+      "parent_id": 294,
+      "order": 6
+    },
+    {
+      "id": 297,
+      "label": "section-title",
+      "text": "CAPACITY BUILDING",
+      "parent_id": 297,
+      "order": 6
+    },
+    {
+      "id": 300,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 300,
+      "order": 6
+    },
+    {
+      "id": 305,
+      "label": "section-title",
+      "text": "CAPACITY BUILDING—Continued",
+      "parent_id": 305,
+      "order": 6
+    },
+    {
+      "id": 307,
+      "label": "section-title",
+      "text": "SELF-HELP AND ASSISTED HOMEOWNERSHIP OPPORTUNITY PROGRAM",
+      "parent_id": 307,
+      "order": 6
+    },
+    {
+      "id": 308,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 308,
+      "order": 6
+    },
+    {
+      "id": 312,
+      "label": "section-title",
+      "text": "NEIGHBORHOOD STABILIZATION PROGRAM",
+      "parent_id": 312,
+      "order": 6
+    },
+    {
+      "id": 313,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 313,
+      "order": 6
+    },
+    {
+      "id": 322,
+      "label": "section-title",
+      "text": "HOMELESS ASSISTANCE GRANTS (INCLUDING TRANSFER OF FUNDS)",
+      "parent_id": 322,
+      "order": 6
+    },
+    {
+      "id": 325,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 325,
+      "order": 6
+    },
+    {
+      "id": 334,
+      "label": "section-title",
+      "text": "HOMELESS ASSISTANCE GRANTS—Continued",
+      "parent_id": 334,
+      "order": 6
+    },
+    {
+      "id": 337,
+      "label": "section-title",
+      "text": "PERMANENT SUPPORTIVE HOUSING",
+      "parent_id": 337,
+      "order": 6
+    },
+    {
+      "id": 338,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 338,
+      "order": 6
+    },
+    {
+      "id": 341,
+      "label": "section-title",
+      "text": "RURAL HOUSING AND ECONOMIC DEVELOPMENT",
+      "parent_id": 341,
+      "order": 6
+    },
+    {
+      "id": 342,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 342,
+      "order": 6
+    },
+    {
+      "id": 346,
+      "label": "section-title",
+      "text": "REVOLVING FUND(LIQUIDATING PROGRAMS)",
+      "parent_id": 346,
+      "order": 6
+    },
+    {
+      "id": 347,
+      "label": "section-title",
+      "text": "Program andFinancing (in millions of dollars)",
+      "parent_id": 347,
+      "order": 6
+    },
+    {
+      "id": 349,
+      "label": "section-title",
+      "text": "Status ofDirectLoans (in millions of dollars)",
+      "parent_id": 349,
+      "order": 6
+    }
+  ]
+}

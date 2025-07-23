@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Investigating the sterile neutrino parameters ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "with QLC in 3 + 1 scenario ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2 Theoretical Framework of QLC Model in 3+1 sce- nario ",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2.1 C K M4 and P M N S4 formulation ",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "3 Numerical Simulation and Metho dology ",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "4 Results ",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "4.1 Predictions for θP M N S24 and θP M N S34 ",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "5 Conclusions ",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 76,
+      "order": 6
+    }
+  ]
+}

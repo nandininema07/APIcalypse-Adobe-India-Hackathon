@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "A Look at Black Student Success: Identifying Top- and Bottom-Performing Institutions",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "ABOUT THIS REPORT",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "SUCCESS PATTERNS IN TRADITIONAL PUBLIC AND PRIVATE NONPROFIT INSTITUTIONS",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "TOP- AND BOTTOM-PERFORMING INSTITUTIONS FOR BLACK STUDENTS",
+      "parent_id": 51,
+      "order": 4
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "WHY WE LOOK AT GRADUATION RATE GAPS BETWEEN BLACK AND WHITE STUDENTS",
+      "parent_id": 56,
+      "order": 5
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "SIMILAR COLLEGES, DIFFERENT OUTCOMES",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "GRADUATION RATES AT FOUR-YEAR, FOR-PROFIT INSTITUTIONS",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "WHAT INSTITUTIONS DO FOR THEIR STUDENTS MATTERS",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "Using Data to Improve Student Outcomes: Learning From Leading Colleges",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "Higher Education Practice Guide: Learning From High-Performing and Fast-Gaining Institutions",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "Leading the Way in Diversity and Degrees: Rutgers University–Newark",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "Appendix",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "ENDNOTES",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "MORE ABOUT THE DATA",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "ABOUT THE EDUCATION TRUST",
+      "parent_id": 178,
+      "order": 6
+    }
+  ]
+}

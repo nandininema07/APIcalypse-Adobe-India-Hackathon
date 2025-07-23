@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "AFFILIATION AGREEMENT BETWEEN UNIVERSITY OF MISSISSIPPI AND THE UNIVERSITY OF MISSISSIPPI FOUNDATION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "PREAMBLE",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "ARTICLE 1. LEASE OF FACILITIES",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "ARTICLE 2. UNIVERSITY PERSONNEL AND SERVICES",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "ARTICLE 3. FOUNDATION OBLIGATIONS",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "ARTICLE 4. COMPLIANCE",
+      "parent_id": 64,
+      "order": 5
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "ARTICLE 5. INSURANCE",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "ARTICLE 6. REPORTING",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "ARTICLE 7. TERMINATION AND RENEWAL",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "ARTICLE 8. MISCELLANEOUS PROVISIONS",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "ARTICLE 9. NOTICE",
+      "parent_id": 109,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Breaking the Nonsmooth Barrier: A Scalable Parallel ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Method for Composite Optimization ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.1 Related work ",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "1.2 Definitions and notations ",
+      "parent_id": 31,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2 Sparse Proximal SAGA ",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "3 Asynchronous Sparse Proximal SAGA ",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3.1 Analysis framework ",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "3.2 Properties and assumptions ",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "3.3 Analysis ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "4 Experiments ",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "5 Conclusion and future work ",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "References Bauschke, Heinz and Combettes, Patrick L. Convex analysis and monotone operator theory in Hilbert spaces. Springer, 2011. Beck, Amir and Teboulle, Marc. Gradient-based algorithms with applications to signal recovery. Convex Optimization in Signal Processing and Communications, 2009. ",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "Breaking the Nonsmooth Barrier: A Scalable Parallel ",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "Method for Composite Optimization ",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "Supplementary material ",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "Appendix A Basic properties ",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 135,
+      "label": "section-title",
+      "text": "Appendix B Sparse Proximal SAGA ",
+      "parent_id": 135,
+      "order": 6
+    },
+    {
+      "id": 175,
+      "label": "section-title",
+      "text": "Appendix C.1 Proof outline. ",
+      "parent_id": 175,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "Appendix C.2 Detailed proof ",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 217,
+      "label": "section-title",
+      "text": "Appendix D Comparison with related work ",
+      "parent_id": 217,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": "Appendix D.1 Comparison of bounds with Liu & Wright (2015) ",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 240,
+      "label": "section-title",
+      "text": "Appendix E Implementation details ",
+      "parent_id": 240,
+      "order": 6
+    },
+    {
+      "id": 252,
+      "label": "section-title",
+      "text": "Appendix F Experiments ",
+      "parent_id": 252,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "section-title",
+      "text": "Appendix F.1 Comparison of ProxASAGA with other sequential methods ",
+      "parent_id": 254,
+      "order": 6
+    },
+    {
+      "id": 262,
+      "label": "section-title",
+      "text": "Appendix F.2 Theoretical speedups. ",
+      "parent_id": 262,
+      "order": 6
+    },
+    {
+      "id": 268,
+      "label": "section-title",
+      "text": "Appendix F.3 Timing benchmarks ",
+      "parent_id": 268,
+      "order": 6
+    },
+    {
+      "id": 271,
+      "label": "section-title",
+      "text": "Appendix F.4 Hyperparameters ",
+      "parent_id": 271,
+      "order": 6
+    }
+  ]
+}

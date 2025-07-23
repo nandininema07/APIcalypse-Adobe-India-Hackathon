@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "L andsc ape s f r om th e W av es一Marine T erraces of California",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "How Marine Terraces Form",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Coastal Faults and Uplift",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "H ow Do We Know Bedrock Was Once at Sea Level? Fossils.",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Marine Terrace Soil Chronosequences",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Soil Nodules",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Pygmy Forests on the Ecological Staircase",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Dynamic Landscapes",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Acknowledgements",
+      "parent_id": 43,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Suggested Format for a Written Hazard Communication Program",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "General",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Hazard Classification",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Labeling",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "B.. All labels shall be checked for：",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Safety Data Sheets",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Change from MSDS to SDS format effective June 1， 2015- Chemical manufacturers or importers shall ensure that SDSs for their products includes the following Sections in order：",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Employee Information and Training",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "B. Before their initial work assignment， each new employee will receive hazard communication training. This will include the following information and training：",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Information：",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Training：",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "C. The employee shall be informed that：",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Hazardous Non-routine Tasks (Delete section if not applicable.)",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "A. Occasionally， employees are required to perform non-routine tasks (i.e.， clean reactor vessels， enter confined spaces， etc.). Prior to starting work in such areas， each employee will be given information about the hazards of the area or procedure. This information will include：",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Measures the company has taken to eliminate or control the hazard， including：",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Multi-Employer Worksites-- Informing Contractors",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "A. If our company exposes any employee of another employer to any hazardous chemicals that we produce， use， or store， the following information will be supplied to that employer：",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Pipes and Piping Systems",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "List of Hazardous Chemicals",
+      "parent_id": 92,
+      "order": 6
+    }
+  ]
+}

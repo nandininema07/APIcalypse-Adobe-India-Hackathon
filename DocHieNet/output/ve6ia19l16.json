@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "基于农户响应的北方农牧交错带生态改善策略",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "Exploring strategies about ecological improvement based on local responses in northern agro-pastoral ecotone",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "1研究区域特征与研究方法",
+      "parent_id": 29,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2结果分析",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.1调查对象的社会经济特征",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.2调查对象对于农业的态度和认知",
+      "parent_id": 48,
+      "order": 5
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "2.3调查对象对农业政策的态度和认知",
+      "parent_id": 62,
+      "order": 6
+    }
+  ]
+}

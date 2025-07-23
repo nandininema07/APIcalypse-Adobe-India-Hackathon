@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "THELAW OF THE REPUBLIC OF AZERBAIJAN",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "CHAPTER1General Provisions",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Article 1. Main concepts and terminology",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Article 2. The legislation of Azerbaijan Republic on environment protection",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Article 3. The main principals of the environment protection",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "CHAPTER2RIGHTS AND DUTIES IN ENVIRONMENT PROTECTION",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Article 4. The rights and duties of the State in environment protection",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "1. The rights of the State in environment protection issues are as follows：",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2. The obligations of the State in environment protection are as follows：",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Article 5. Responsibilities of the institutions of local governing on environment protection issues",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Article 6. Rights and duties of citizens in environment protection issues",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "1. The rights of social unions in terms of environmental protection are as follows：",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "CHAPTER3NATURE USE",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "Article 8. Nature users",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Article 9. Common and Individual use",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Article 10 Limits and quotas of rations (norms) of nature use",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "Article 11. Special permit for nature use",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Article 12. Nature use regulated by the Government",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "Article 13. The users rights and responsibilities",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "1.Users responsibilities are：",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "Article 14. The varieties of nature use activities for which special permits are needed.",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "Article 15. Contracts for use of natural resources",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "CHAPTER 4STANDARDISATION AND CERTIFICATION OF ENVIRONMENT， NATURAL RESOURCES， CADASTRE AND MONITORING",
+      "parent_id": 124,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "Article 16. The state cadastre of natural resources",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "Article 17. The state monitoring of environment and natural resources",
+      "parent_id": 128,
+      "order": 6
+    }
+  ]
+}

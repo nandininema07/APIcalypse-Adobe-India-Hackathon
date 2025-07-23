@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "REQUEST FOR INFORMATION FOR FAMILY/GRADUATE HOUSING OPTIONS FOR THE UNIVERSITY OF MISSOURI",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "ADVERTISEMENT FOR REQUEST FOR INFORMATION(RFI)",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "title",
+      "text": "Request For Information(RFI) for family/graduate housing options at the University of Missouri(MU)",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "THE UNIVERSITY OF MISSOURI",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "DEPARTMENT MISSION/SUMMARY",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "APARTMENT HOUSING FOR FAMILY/GRADUATE STUDENTS",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "SUBMITTALS",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}

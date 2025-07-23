@@ -1,0 +1,235 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "湖北省高等教育自学考试课程考试大纲",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Ⅰ课程性质与课程目标",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、课程性质与特点",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "二、课程目标",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "三、本课程与相关课程的联系与区别",
+      "parent_id": 13,
+      "order": 4
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "四、课程的重点和难点",
+      "parent_id": 16,
+      "order": 5
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Ⅱ考核目标",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Ⅲ课程内容与考核要求",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "第一章概述",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "一、学习目的与要求",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "二、课程内容",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "三、考核知识点与考核要求",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "四、本章重点、难点",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "第二章学前儿童艺术教育活动的设计与组织",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "一、学习目的与要求",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "二、课程内容",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "三、考核知识点与考核要求",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "(一)学前儿童艺术教育活动的设计",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "(二)组织学前儿童艺术教育活动的基本原则",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "(三)组织学前儿童艺术教育活动的基本方法",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "四、本章重点、难点",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "第三章学前儿童歌唱活动的实施指导",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "一、学习目的与要求",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "二、课程内容",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "三、考核知识点与考核要求",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "(二)学前儿童歌唱活动的教育目标",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "(三)学前儿童歌唱活动的内容",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "(四)学前儿童歌唱活动的设计与实施指导",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "四、本章重点、难点",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "(一)学前儿童歌唱能力的发展",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "第四章学前儿童韵律活动的实施指导",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "一、学习目的与要求",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "二、课程内容",
+      "parent_id": 121,
+      "order": 6
+    }
+  ]
+}

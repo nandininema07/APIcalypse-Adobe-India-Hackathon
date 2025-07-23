@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "北京大学基层工会经费使用和报销指南",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 36,
+      "label": "title",
+      "text": "北京大学基层工会经费使用和报销指南",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "1基层工会经费来源及使用范围",
+      "parent_id": 40,
+      "order": 2
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "1.1.基层工会经费来源",
+      "parent_id": 41,
+      "order": 3
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "1.2基层工会经费支出原则与相关要求",
+      "parent_id": 46,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "1.工会活动有计划，工会经费有预算",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "2.基层工会经费应普惠平等服务职工会员",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3.工会经费使用本着勤俭节约、有主有辅，杜绝奢侈浪费的原则。",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "(2)工会经费以\"雪中送炭\"为主，而不是锦上添花。",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4.规范工会活动安排和活动奖品购买。",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "1.33 基层工会经费支出项目和相关标准",
+      "parent_id": 63,
+      "order": 6
+    }
+  ]
+}

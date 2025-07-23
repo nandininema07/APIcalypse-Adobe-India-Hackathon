@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": " control operations in a water plant is reported in [8]， featuring aspects of a \"Smart Factory\"concept.MACHINERY SELF-AWARENESS WITH WIRELESS SENSOR NETWORKS： A MEANS TO SUSTAINABLE OPERATION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "SUMMARY",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "2WIRELESS CONDITION MONITORING",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "2.1Smart Sensor Networks",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3SENSOR EMBEDDED LOGIC",
+      "parent_id": 32,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "3.1Intelligent Applications/Services Development",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "[EMPTY]",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "4TESTBED AND APPLICATION DEVELOPMENT",
+      "parent_id": 61,
+      "order": 6
+    }
+  ]
+}

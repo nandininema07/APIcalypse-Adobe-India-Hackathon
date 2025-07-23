@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "汽车BCM应用电路设计",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "title",
+      "text": "Design of Auto BCM Application Circuits",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1汽车BCM电路板及其控制原理框图",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2BCM的基本电路设计",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.1输入信号处理电路",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.2车输入口扩展电路",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2.3车输出信号驱动电路",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2.4电源处理电路外接收管接收。最大检测距离是6mm。",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "2.5智能功率器件的应用",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "2.6MCU唤醒电路",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "2.7CAN收发电路",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3BCM电路板设计注意事项",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "3实验结果",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "4结束语",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "4结论",
+      "parent_id": 94,
+      "order": 6
+    }
+  ]
+}

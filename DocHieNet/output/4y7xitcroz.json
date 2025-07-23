@@ -1,0 +1,256 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "National Drug Control udget",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Highlights of the FY 2013 Budget by Function",
+      "parent_id": 24,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Treatment",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Centers for Medicare& Medicaid Services",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Substance Abuse& Mental Health Services Administration(SAMHSA) Programs of Regional and National Significance ‐ Treatment",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Substance Abuse Treatment Block Grant",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Bureau of Prisons(BOP) Drug Treatment Efforts",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Problem Solving Justice",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Residential Substance Abuse Treatment",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Homeless Assistance Grants ‐ Continuum of Care",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Trainee Employment Assistance Program",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "Veterans Health Administration Treatment",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Prevention",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Successful, Safe, and Healthy Students Grant Program",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "Substance Abuse& Mental Health Services Administration(SAMHSA) Prevention Grants",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "Drug Free Communities(DFC)",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Youth Drug Prevention Media Program",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "Drugged Driving",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "Domestic Law Enforcement",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "Department of Defense(DoD) Domestic Counterdrug Support",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "Prescription Drug Monitoring Program(PDMP)",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "Drug Enforcement Administration(DEA) – Diversion Control Account",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "Incarceration Operations",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "High Intensity Drug Trafficking Areas(HIDTA) Program",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "Interdiction",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "Customs and Border Protection ‐ Border Security at Ports of Entry(POE)",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "Customs and Border Protection – Air& Marine Support",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "United State Coast Guard Acquisition, Construction and Improvements",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "International",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 156,
+      "label": "section-title",
+      "text": "United States Agency for International Development(USAID)",
+      "parent_id": 156,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "section-title",
+      "text": "Colombia",
+      "parent_id": 160,
+      "order": 6
+    },
+    {
+      "id": 164,
+      "label": "section-title",
+      "text": "Mexico",
+      "parent_id": 164,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "Caribbean Basin Security Initiative",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 175,
+      "label": "section-title",
+      "text": "Central America Regional Security Initiative(CARSI)",
+      "parent_id": 175,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "Afghanistan and Central Asia",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 183,
+      "label": "section-title",
+      "text": "Performance Measurement",
+      "parent_id": 183,
+      "order": 6
+    }
+  ]
+}

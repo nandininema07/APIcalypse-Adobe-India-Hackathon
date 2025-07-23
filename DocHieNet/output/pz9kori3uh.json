@@ -1,0 +1,193 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Numerical simulations of axisymmetric hydro dynamical ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Bondi-Hoyle accretion onto a compact ob ject ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1 INTRODUCTION ",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2 THEORETICAL FRAMEWORK ",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2.1 Hoyle-Lyttleton accretion ",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2.2 Accretion column model ",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.3 Sonic surface of B-H flows ",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.4 Dealing with the energy ",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "3 DESIGNING AXISYMMETRIC ",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "SIMULATIONS OF BH ACCRETION ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.1 MPI-AMRVAC ",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "3.2 Numerical setup and b oundary conditions ",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3.2.1 Axisymmetric spherical (r,θ) coordinates ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3.2.2 Grid resolution ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "3.2.3 Boundary conditions ",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "4 RESULTS AND COMMENTS ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "4.1 Large scale structure of the shock ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "4.1.1 Spatial dimensions ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "4.1.2 Geometrical properties, profiles and stability ",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "4.2 Mass accretion rates ",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "4.2.1 Numerical relaxation ",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "4.2.2 Normalisation ",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "4.2.3 Permanent mass accretion rates ",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "4.3 The sonic surface ",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "5 SUMMARY & OUTLOOK ",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "ACKNOWLEDGMENTS ",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "REFERENCES ",
+      "parent_id": 142,
+      "order": 6
+    }
+  ]
+}

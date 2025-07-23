@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "JOBS GROWTH LAONNDG-TERM PROSPERITY",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "E C O N O M I C A C T I O N P L A N 2 0 1 2 T H E B U D G E T S P E E C H",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "Check Against Delivery",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Economic Action Plan 2012Jobs, Growth and Long‐Term Prosperity",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "title",
+      "text": "Protecting and strengthening our country",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Taking the next steps",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Maintaining and strengthening Canada’s sound fiscal position",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "Ensuring the sustainability of Canada’s social programs",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Creating jobs now, while investing in skills training and filling gaps in Canada’s labour force",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Making effective investments to support world‐leading research, innovation, and entrepreneurship",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Streamlining the review process for major economic projects",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Supporting the most ambitious trade expansion plan in Canadian history",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Looking a little ahead",
+      "parent_id": 79,
+      "order": 6
+    }
+  ]
+}

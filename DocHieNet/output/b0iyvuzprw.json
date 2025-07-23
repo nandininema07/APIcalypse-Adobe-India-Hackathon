@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "西双版纳海关技术业务快检实验室(食品检测)改造项目建设工程合同",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "title",
+      "text": "西双版纳海关技术业务快检实验室(食品检测)改造项目建设工程合同",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "一、工程概况",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "二、合同工期",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "三、质量标准及标准规范",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "四、合同文件及解释顺序",
+      "parent_id": 103,
+      "order": 5
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "五、合同价款",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "六、付款方式",
+      "parent_id": 121,
+      "order": 6
+    }
+  ]
+}

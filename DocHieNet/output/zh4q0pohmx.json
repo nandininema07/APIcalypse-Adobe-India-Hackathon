@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "ITU-R SM.1370-2建议书*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "开发先进的自动化频谱管理系统的设计导则",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "范围",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "关键词",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 47,
+      "label": "title",
+      "text": "开发先进的自动化频谱管理系统的设计导则",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 48,
+      "label": "title",
+      "text": "附件",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "操作导则",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "1.1对频谱使用申请的处理",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "1.2频率划分规划/频道处理",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "1.3许可处理",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "1.4费用处理",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "1.5报告处理",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "1.6申诉处理",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "1.7基准表格处理",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "1.8安全性问题的处理",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "1.9事务处理",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "2有关记录保持的导则",
+      "parent_id": 112,
+      "order": 6
+    }
+  ]
+}

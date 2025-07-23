@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "高级管理人员类",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "证券投资基金行业高级管理人员任职管理办法(2004年9月23日证监会令第23号)........1",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "基金经理类",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "从业人员类",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "title",
+      "text": "高级管理人员类",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "第一章总则",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "第二章任职条件和审核程序",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "(五)对拟任人的考察意见；",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

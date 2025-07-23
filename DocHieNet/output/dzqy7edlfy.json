@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "法的法教义学既能促进法的安定性，又有助于建构融贯的法律体系，对于任意类型的法治都具有重要意义②。此外，法教义学还能够担当教学方法的角色，这也是其实践意义的扩展③。法治话语体系构建中的法律方法研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "一、法律方法基础理论：法教义学的深度探索与体系变革",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "二、法律方法理论体系：转向整体的中国法治实践话语",
+      "parent_id": 42,
+      "order": 2
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "(一)法律解释",
+      "parent_id": 44,
+      "order": 3
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "(二)法律论证",
+      "parent_id": 77,
+      "order": 4
+    }
+  ]
+}

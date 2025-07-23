@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "落花生教案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "教学目标：",
+      "parent_id": 2,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "教学重难点：",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "教学准备：",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "第一课时",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "一、导入新课，激发兴趣。",
+      "parent_id": 15,
+      "order": 5
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "二、初读课文，扫清字词障碍",
+      "parent_id": 19,
+      "order": 6
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1.疏通字词。",
+      "parent_id": 20,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "(1)要特别注意",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "三、再读课文，整体感知。",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "第二课时",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "三、回顾课文，开展活动",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "1.总结全文、深化中心",
+      "parent_id": 74,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION GODDARD SPACE FLIGHT CENTER ANACOSTIA NAVAL STATION GREENBELT， MARYLAND",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1.0 Introduction and Iist of Major Components",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2.0 Do p pler Acquisition System",
+      "parent_id": 44,
+      "order": 2
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.1。 Tabulated.Specifications(Electrical)",
+      "parent_id": 45,
+      "order": 3
+    },
+    {
+      "id": 68,
+      "label": "title",
+      "text": "c。 Count and print Insertion Oscillator and Doppler frequencies alternately。",
+      "parent_id": 68,
+      "order": 4
+    },
+    {
+      "id": 69,
+      "label": "title",
+      "text": "d。Count and print Insertion Oscillator frequency， count and add Doppler difference frequency and dispLay and print the sum.",
+      "parent_id": 69,
+      "order": 5
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "2.2 Telemetry Data Acquisition",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "2.2.2 Provisions to record.",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "title",
+      "text": "b。 Output Converter， R-220 455 kc I：F、 translated downward to center frequencies of 7 kc， 25 kc， 52 kc， or 70 kc。 Iwo output channels， one common input。",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "2.3 Theory of P-14 System Operation",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "2.4.1。 System Noise Figure：",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "2.4.2 Procedure for the Measurement of System Noise Figure：",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "2.4.3 Receiver Tune-up and Dial Calibration Procedure",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "2.4.4。 Output Converter Checks",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "2.4.4.1。 Local Osci1lator measurements：",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "2.4.4.2。 Level Setting of Output Converter and Video Amplifier。",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "2.4.4.3. Output Converter Output Frequency：",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "2.4.4.4。 AGC Ad justments",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "2.4.4.5. Tracking Filter and Demodulator",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "title",
+      "text": "8. The Insertion Oscillator gives an output frequency of 108.000 mc hich is 60 kc below the P-14 transmitter frequency (PM) of 108.060 mc.",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "3.0 108 mc Pre Am plifiers：",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "3.2 Power Requirements：",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "3.3 Theory of Operatio n：",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "3.4 Tuning：",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 175,
+      "label": "section-title",
+      "text": "3.5 Operating Proce d ure ：",
+      "parent_id": 175,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "3.6. Pole-Mounted Preamp li fier",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 183,
+      "label": "section-title",
+      "text": "4.0 Insertion Oscillator",
+      "parent_id": 183,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "4.1 Tabul a ted Specifications：",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "4.1.1。 Frequency Stability：",
+      "parent_id": 187,
+      "order": 6
+    },
+    {
+      "id": 190,
+      "label": "section-title",
+      "text": "4.1.2。 Output Levels：",
+      "parent_id": 190,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "4.2 Theory of Ope ration：",
+      "parent_id": 199,
+      "order": 6
+    },
+    {
+      "id": 201,
+      "label": "section-title",
+      "text": "5.0 Output Converter：",
+      "parent_id": 201,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "5.1 Tabulated S p ecifications： (Electrical)；",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 224,
+      "label": "section-title",
+      "text": "5.2 T he o r y of Oper at ion ：",
+      "parent_id": 224,
+      "order": 6
+    },
+    {
+      "id": 234,
+      "label": "section-title",
+      "text": "6.0 Video Amplifler：",
+      "parent_id": 234,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "6.1。 Tabulated Specifications：",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 248,
+      "label": "section-title",
+      "text": "6.3 Video Amplifier lests：",
+      "parent_id": 248,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "section-title",
+      "text": "7.0 M o de l VIII Tracking Filter：",
+      "parent_id": 254,
+      "order": 6
+    },
+    {
+      "id": 266,
+      "label": "section-title",
+      "text": "7.1。 Tabulated Operational Specifications：",
+      "parent_id": 266,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "7.2。 Modifications：",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 278,
+      "label": "section-title",
+      "text": "8.0 Counter-Commmitator and Modifications to Hewlett-Packard Model 524C Counter",
+      "parent_id": 278,
+      "order": 6
+    },
+    {
+      "id": 279,
+      "label": "section-title",
+      "text": "8.1。 Iwo modifications have been incorporated in the Hewlett-Packard Counter which control its operations for a special purpose。",
+      "parent_id": 279,
+      "order": 6
+    },
+    {
+      "id": 293,
+      "label": "section-title",
+      "text": "9.0。 Digital Clock",
+      "parent_id": 293,
+      "order": 6
+    },
+    {
+      "id": 294,
+      "label": "section-title",
+      "text": "9.1.. Theory of Operation",
+      "parent_id": 294,
+      "order": 6
+    },
+    {
+      "id": 305,
+      "label": "section-title",
+      "text": "10.0。 StaircaseConverter",
+      "parent_id": 305,
+      "order": 6
+    },
+    {
+      "id": 306,
+      "label": "section-title",
+      "text": "10.1。 Theory of Operation",
+      "parent_id": 306,
+      "order": 6
+    },
+    {
+      "id": 313,
+      "label": "section-title",
+      "text": "10.2 Ad.justment Procedure",
+      "parent_id": 313,
+      "order": 6
+    },
+    {
+      "id": 316,
+      "label": "section-title",
+      "text": "10.3 Power Requirements",
+      "parent_id": 316,
+      "order": 6
+    },
+    {
+      "id": 321,
+      "label": "section-title",
+      "text": "10.4。 Modifications；",
+      "parent_id": 321,
+      "order": 6
+    },
+    {
+      "id": 328,
+      "label": "section-title",
+      "text": "11.0 H tt-Packard 560A Printer",
+      "parent_id": 328,
+      "order": 6
+    },
+    {
+      "id": 332,
+      "label": "section-title",
+      "text": "12.0。 R-220 Receiver Modifications",
+      "parent_id": 332,
+      "order": 6
+    },
+    {
+      "id": 347,
+      "label": "section-title",
+      "text": "13.0 Installation Instructions for Stations Getting P-14 Receiving Systems。",
+      "parent_id": 347,
+      "order": 6
+    },
+    {
+      "id": 353,
+      "label": "section-title",
+      "text": "13.1。 Detailed Instructions for Installation：",
+      "parent_id": 353,
+      "order": 6
+    },
+    {
+      "id": 360,
+      "label": "section-title",
+      "text": "13.2。 Phase Noise Measurements in the P-14 System",
+      "parent_id": 360,
+      "order": 6
+    },
+    {
+      "id": 362,
+      "label": "section-title",
+      "text": "13.2.2。 Detailed Instructions：",
+      "parent_id": 362,
+      "order": 6
+    },
+    {
+      "id": 384,
+      "label": "section-title",
+      "text": "14.0 P-14 Precautions to Insure Positive Tracking Filter Lock-on to CarrierFrequencyInsteadofSSide-Bands.",
+      "parent_id": 384,
+      "order": 6
+    },
+    {
+      "id": 399,
+      "label": "section-title",
+      "text": "15.0. AdditionalNotes：",
+      "parent_id": 399,
+      "order": 6
+    },
+    {
+      "id": 403,
+      "label": "section-title",
+      "text": "RUBIDIUM 87 MAGNETOMETER FREQUENCY",
+      "parent_id": 403,
+      "order": 6
+    },
+    {
+      "id": 406,
+      "label": "section-title",
+      "text": "16.0， P-14 System Checkout Procedure：",
+      "parent_id": 406,
+      "order": 6
+    },
+    {
+      "id": 413,
+      "label": "section-title",
+      "text": "APPENDIX 1。 P-14 CHECKOUT DATA",
+      "parent_id": 413,
+      "order": 6
+    },
+    {
+      "id": 433,
+      "label": "section-title",
+      "text": "APPENDIX 1. 一 Continued",
+      "parent_id": 433,
+      "order": 6
+    },
+    {
+      "id": 438,
+      "label": "section-title",
+      "text": "TEST CONDITIONS：",
+      "parent_id": 438,
+      "order": 6
+    },
+    {
+      "id": 449,
+      "label": "section-title",
+      "text": "TESTCONDIMIONSs-Contimied",
+      "parent_id": 449,
+      "order": 6
+    },
+    {
+      "id": 461,
+      "label": "section-title",
+      "text": "TESTCONDINIONS-Contimed",
+      "parent_id": 461,
+      "order": 6
+    },
+    {
+      "id": 463,
+      "label": "section-title",
+      "text": "Telemetry Receiver Channel",
+      "parent_id": 463,
+      "order": 6
+    },
+    {
+      "id": 465,
+      "label": "section-title",
+      "text": "b。 Doppl er Receive r Cha nne l",
+      "parent_id": 465,
+      "order": 6
+    },
+    {
+      "id": 476,
+      "label": "section-title",
+      "text": "TESI CONDITEONS-Contimied",
+      "parent_id": 476,
+      "order": 6
+    },
+    {
+      "id": 491,
+      "label": "section-title",
+      "text": "Distribution List：",
+      "parent_id": 491,
+      "order": 6
+    }
+  ]
+}

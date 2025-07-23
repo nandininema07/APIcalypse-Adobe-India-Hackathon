@@ -1,0 +1,305 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "News Feed today: A guide for news publishers",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "First, the basics",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "How News Feed works",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "What is and isn’t permitted",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "What signals we use in News Feed",
+      "parent_id": 40,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Signals that connect people with meaningful content",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Signals for videos",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Signals to reduce problematic content",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Reducing false news Learn more",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Click-gap Learn more",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Clickbait Learn more",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "Engagement bait Learn more",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Sensationalized health content Learn more",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Low-quality web experiences Learn more",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Deceptive actions Learn more",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Limited originality content Learn more",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Signals for news content",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "News content and news publishers are identified through two primary methods.",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Reducing news content that doesn’t have transparent authorship",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "Prioritizing original reporting and analysis",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "Prioritizing informative news",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "Prioritizing local news",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "How news publishers use Facebook",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Three key points about news in News Feed:",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "How news publishers make money on Facebook",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "Referral traffic",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "Instant Articles",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "Subscriptions",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "Facebook video& in-stream ads",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "Branded content",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "Facebook Ads",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "Facebook Audience Network",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "Correcting the record:News Feed and news publishers",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "MYTH#1: Facebook takes publisher content.",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "MYTH#2: Most publisher traffic comes from social media.",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "MYTH#3: Publishers share their revenue with Facebook.",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "MYTH#4: Facebook isn’t interested in building products that help publishers.",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "MYTH#5: Facebook doesn’t respect paywalls.",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "MYTH#6: Instant Articles are given preference in News Feed ranking.",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "MYTH#7: Facebook only cares about large publishers.",
+      "parent_id": 187,
+      "order": 6
+    },
+    {
+      "id": 193,
+      "label": "section-title",
+      "text": "MYTH#8: Facebook does not share data with publishers.",
+      "parent_id": 193,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "Connecting people to the content that matter most to them",
+      "parent_id": 199,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "Supporting a sustainable news ecosystem",
+      "parent_id": 210,
+      "order": 6
+    }
+  ]
+}

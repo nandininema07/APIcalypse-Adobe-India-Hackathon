@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "员工手册",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "title",
+      "text": "序言",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "第一章、劳动关系管理",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "一、招聘原则",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "二、招聘程序",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "三、劳动合同",
+      "parent_id": 38,
+      "order": 5
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "四、试用期、转正及续约",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "5、晋升/加薪",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "6、工作岗位与职务调整",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "7、劳动保护和劳动条件",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "8、劳动合同的终止与续签",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "9、辞职、辞退及离职手续",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "(1)辞职",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "(2)辞退",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "(3)辞职手续",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "(4)辞退手续",
+      "parent_id": 91,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "如刘豫波从华西协合大学看中国文化有的被誉为\"经学大师\"如廖平如龚道耕均为当时所谓的\"蜀学宿儒\"。在教会学校中的地位",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "早期的中国气象",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "二中国文化地位提升的背景与条件",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "三中国文化地位的确定",
+      "parent_id": 29,
+      "order": 3
+    }
+  ]
+}

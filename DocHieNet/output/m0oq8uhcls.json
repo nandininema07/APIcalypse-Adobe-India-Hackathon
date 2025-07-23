@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Scalar Quantization as Sparse Least Square Optimization ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1. Intro duction ",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2. Related Work ",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3. Quantization Algorithms ",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "3.1. Problem Setup ",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3.2. Quantization as Sparse Least Square and Algorithms with l1 Regularization ",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3.2.1. Convergence of the Optimization Target ",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.3. l1 + l2 Regularization Algorithm and l0 Regularization Algorithm ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "3.4. Iterative Quantization with l1 Regularization ",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "3.5. Clustering-based Least Square Sparse Optimization ",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "3.6. Time Complexity Analysis ",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "4. Experimental Results ",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "4.1. Neural Network Weight Matrix ",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "4.2. MNIST Image Quantization ",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "4.3. Artificially-Generated Data with Specific Distributions ",
+      "parent_id": 124,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "5. Conclusion ",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "6. Acknowledgement ",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "7. Declaration of interest ",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 150,
+      "order": 6
+    }
+  ]
+}

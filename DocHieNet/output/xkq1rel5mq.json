@@ -1,0 +1,333 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "EXCELSIOR",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Contents",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "To our shareholders, stakeholders, employees and friends:",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "2021: A year when opportunity knocked, we pushed through obstacles, and we answered.",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "First Bank Proflie",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Before we discuss our prospects moving forward, I’d like to provide a little more detail regarding our 2021 fniancial results",
+      "parent_id": 31,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "So, how did those developments impact proftiability in 2021?",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2022: First Bank is poised to take advantage of a rising interest rate environment, as we continue to seek new commercial lending niches and M&A opportunities to enhance our growth",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Performance Highlights",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Strategic Objectives",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "EXPAND COMMERCIAL LENDING INTO NEW, NICHE AREAS TO DRIVE GROWTH",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Excelsior: Ever Upward",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "SAFE-HARBOR STATEMENT",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "Performance Overview",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Selected FinancialInformation IN T HOUSANDS， EXCE P T COMMON SHARE DA T A",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Increased Momentum in Growing Deposits",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "A Focused Approach to Lending",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "Top Tier Customer Service Builds Lasting Relationships",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "Consistent Strategy Driving Enhanced Results",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "Investment Proflie AT 12-31-21",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "First Bank Common Stock",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 212,
+      "label": "section-title",
+      "text": "Sincerest Appreciation",
+      "parent_id": 212,
+      "order": 6
+    },
+    {
+      "id": 223,
+      "label": "section-title",
+      "text": "Executive Management Team",
+      "parent_id": 223,
+      "order": 6
+    },
+    {
+      "id": 240,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 240,
+      "order": 6
+    },
+    {
+      "id": 241,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 241,
+      "order": 6
+    },
+    {
+      "id": 260,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 260,
+      "order": 6
+    },
+    {
+      "id": 307,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 307,
+      "order": 6
+    },
+    {
+      "id": 314,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 314,
+      "order": 6
+    },
+    {
+      "id": 415,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 415,
+      "order": 6
+    },
+    {
+      "id": 435,
+      "label": "section-title",
+      "text": "First Bank Locations",
+      "parent_id": 435,
+      "order": 6
+    },
+    {
+      "id": 436,
+      "label": "section-title",
+      "text": "ADMINISTRATIVE",
+      "parent_id": 436,
+      "order": 6
+    },
+    {
+      "id": 439,
+      "label": "section-title",
+      "text": "NEW JERSEY",
+      "parent_id": 439,
+      "order": 6
+    },
+    {
+      "id": 452,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 452,
+      "order": 6
+    },
+    {
+      "id": 455,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 455,
+      "order": 6
+    },
+    {
+      "id": 460,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 460,
+      "order": 6
+    },
+    {
+      "id": 467,
+      "label": "section-title",
+      "text": "Corporate and Shareholder Information",
+      "parent_id": 467,
+      "order": 6
+    },
+    {
+      "id": 468,
+      "label": "section-title",
+      "text": "CORPORATE HEADQUARTERS",
+      "parent_id": 468,
+      "order": 6
+    },
+    {
+      "id": 470,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 470,
+      "order": 6
+    },
+    {
+      "id": 473,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 473,
+      "order": 6
+    },
+    {
+      "id": 478,
+      "label": "section-title",
+      "text": "STOCK REGISTRAR AND TRANSFER AGENT",
+      "parent_id": 478,
+      "order": 6
+    },
+    {
+      "id": 479,
+      "label": "section-title",
+      "text": "FIRST CLASS/REGISTERED/",
+      "parent_id": 479,
+      "order": 6
+    },
+    {
+      "id": 481,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 481,
+      "order": 6
+    },
+    {
+      "id": 483,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 483,
+      "order": 6
+    },
+    {
+      "id": 485,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 485,
+      "order": 6
+    },
+    {
+      "id": 487,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 487,
+      "order": 6
+    },
+    {
+      "id": 489,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 489,
+      "order": 6
+    }
+  ]
+}

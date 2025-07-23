@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "CRIMINAL LAW:PROPERTY CRIMES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "GOALS",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "OBJECTIVES",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "SOURCES",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "ESTIMATED TIME",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "PREPARED BY",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "RECEIVING STOLEN PROPERTY",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "SITUATION#1",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "SITUATION#2",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "SITUATION#3",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "SHOPLIFTING",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "LARCENY V. SHOPLIFTING",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "title",
+      "text": "It’s shoplifting if a person takes merchandise(an item offered for sale) in a store. What charge if a person stole cash from a cash register?",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "CRIMINAL DAMAGE TO PROPERTY",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "title",
+      "text": "UNAUTHORIZED GRAFFITI ON PERSONAL OR REAL PROPERTY",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "CONCLUSION",
+      "parent_id": 132,
+      "order": 6
+    }
+  ]
+}

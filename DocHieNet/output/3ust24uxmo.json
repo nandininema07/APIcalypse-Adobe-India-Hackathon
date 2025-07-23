@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Recommendations for Medical Management of Adult Lead Exposure",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Health Effects at Low Dose",
+      "parent_id": 33,
+      "order": 1
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Medical Surveillance for Lead-Exposed Workers",
+      "parent_id": 62,
+      "order": 2
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Lead Exposure during Pregnancy and Lactation",
+      "parent_id": 69,
+      "order": 3
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Medical Treatment of Elevated Blood Lead Concentration and Overt Lead Intoxication",
+      "parent_id": 73,
+      "order": 4
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Additional Management Considerations",
+      "parent_id": 87,
+      "order": 5
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Interpretative Guidance for Clinical Laboratory Report Forms",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "REFERENCES",
+      "parent_id": 97,
+      "order": 6
+    }
+  ]
+}

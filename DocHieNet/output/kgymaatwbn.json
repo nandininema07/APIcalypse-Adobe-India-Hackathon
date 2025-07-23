@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "透视体育课程中的生命教育",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "Exploring life education in physical education curriculum",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1体育课程和生命教育的关系",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2体育课程实施生命教育的特殊价值",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2.1顺应自然天性，解放儿童生命",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.2社会发展水平和需求作为体育教学内容的考虑首要条增强生命活力，感受生命之美",
+      "parent_id": 35,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.3培养积极态度，学会健康生活",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.4塑造体育精神，养成崇高人格",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "3体育课程实施生命教育的基本原则",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "3.1体验性原则",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.2发展性原则",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3.3个性化原则",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "1)尊重并适应个体的差异。",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "2)尊重学生的自主选择性。",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "3)开展多元化、发展性和综合性评价。",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "3.4生活化原则",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "1)体育课程的教学要从生活中来，到生活中去。",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "2)体育课程教学要引导学生追求美好的生活。",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "4结论",
+      "parent_id": 75,
+      "order": 6
+    }
+  ]
+}

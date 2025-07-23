@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "HEARING BEFORE THE SUBCOMMITTEE ON GENERAL FARM COMMODITIES AND RISK MANAGEMENT OF THE COMMITTEE ON AGRICULTURE HOUSE OF REPRESENTATIVES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "COMMITTEE ON AGRICULTURE",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "SUBCOMMITTEE ON GENERAL FARM COMMODITIES AND RISK MANAGEMENT",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "title",
+      "text": "IMPLEMENTING THE AGRICULTURAL ACT OF2014: COMMODITY POLICY AND CROP INSURANCE",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "Implementation of the 2014 Farm Bill",
+      "parent_id": 114,
+      "order": 4
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 130,
+      "order": 5
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "Disaster Assistance",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "ARC/PLC",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 168,
+      "label": "section-title",
+      "text": "Dairy, NAP, CRP",
+      "parent_id": 168,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "Credit",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "Improving Efficiency",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 183,
+      "label": "section-title",
+      "text": "Reaching Beginning and Under-Served Producers",
+      "parent_id": 183,
+      "order": 6
+    }
+  ]
+}

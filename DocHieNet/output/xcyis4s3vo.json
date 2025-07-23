@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "title",
+      "text": "AMENDED AND RESTATED OPEN-END MORTGAGE， SECURITY AGREEMENT， ASSIGNMENT OF LEASES AND RENTS， FINANCING STATEMENT AND FIXTURE FILING (SECURES FUTURE ADVANCES)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "AMENDED AND RESTATED OPEN-END MORTGAGE， SECURITY AGREEMENT， ASSIGNMENT OF LEASES AND RENTS， FINANCING STATEMENT AND FIXTURE FILING (SECURES FUTURE ADVANCES)",
+      "parent_id": 21,
+      "order": 1
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Ba ckground",
+      "parent_id": 23,
+      "order": 2
+    },
+    {
+      "id": 34,
+      "label": "title",
+      "text": "E. In accordance with the terms of the Assignment Agreement， Assignor assigned the Original Mortgage to Assignee.",
+      "parent_id": 34,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "G r anting Cla uses",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Terms and Conditions",
+      "parent_id": 65,
+      "order": 5
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": "Ex h ibit A D escription of the Mortgage",
+      "parent_id": 230,
+      "order": 6
+    }
+  ]
+}

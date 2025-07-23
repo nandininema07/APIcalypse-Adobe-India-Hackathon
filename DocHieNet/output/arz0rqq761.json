@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Vocational education and training and higher education",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1. Introduction",
+      "parent_id": 30,
+      "order": 1
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "[EMPTY]",
+      "parent_id": 46,
+      "order": 2
+    }
+  ]
+}

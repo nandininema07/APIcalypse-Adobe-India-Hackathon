@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Joseph William Morgan",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "ENTREPRENEURIAL EXECUTIVE Cross-Functional Experience& Cross-Industry Expertise",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Leadership Summary",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Core Competencies",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "PROFESSIONAL EXPERIENCE",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Successes& Solutions",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Successes& Solutions :",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "Successes& Solutions :",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Successes& Solutions :",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "President 1998-2002",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Successes& Solutions :",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "Executive Vice President, Strategic Planning 1995 – 1998",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "Assistant General Counsel 1992 – 1995",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "EDUCATION& BOARD MEMBERSHIP",
+      "parent_id": 113,
+      "order": 6
+    }
+  ]
+}

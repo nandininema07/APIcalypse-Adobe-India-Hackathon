@@ -1,0 +1,151 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Implications of Climate Change for the U.S. Army",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Study Authors(in alphabetical order)",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Executive Summary Implications of Climate Change for the U.S. Army",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "1. THE ARMY OPERATING ENVIRONMENT",
+      "parent_id": 35,
+      "order": 3
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "1. THE ARMY INSTITUTION",
+      "parent_id": 45,
+      "order": 4
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "1.1 Problem: The Lack of a Culture of Environmen- tal Stewardship",
+      "parent_id": 46,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "1.2 Problem: Potential disruptions to readiness due to restrictions on fuel use.",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2. THE JOINT FORCE AND DoD",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3. NATIONAL CONTEXT",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "3.1 Problem: Power Grid Vulnerabilities",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "3.2 Problem: Climate Change and Threats to Nucle- ar Weapons Infrastructure",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "Part 1: The Challenge of Climate Change",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "Challenge 1: Climate Change and the Physical Environment",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "Rising Seas and Changing Coastal Geography",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "Opening the Arctic",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "Increased Range of Insect-Borne Diseases",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "Decreased Fresh Water Availability and Increased Demand",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 191,
+      "label": "section-title",
+      "text": "Decreased Food Security and Food System Stability",
+      "parent_id": 191,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "Increased Incidence of Extreme Weather",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "Stress to the Power Grid",
+      "parent_id": 245,
+      "order": 6
+    }
+  ]
+}

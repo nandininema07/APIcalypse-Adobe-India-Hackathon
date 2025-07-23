@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "GUIDELINE ON THE NON-CLINICAL STUDIES REQUIRED BEFORE FIRST CLINICAL USE OF GENE THERAPY MEDICINAL PRODUCTS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "title",
+      "text": "GUIDELINE ON THE NON-CLINICAL STUDIES REQUIRED PRIOR TO CLINICAL USE OF GENE THERAPY MEDICINAL PRODUCTS",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "EXECUTIVE SUMMARY",
+      "parent_id": 26,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1. INTRODUCTION (background)",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2. SCOPE",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3. LEGAL BASIS",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "4. MAIN GUIDELINE TEXT",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "4.1General principles",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "4.2 Minimal requirements for non-clinical studies on GTMP before first use in human subjects",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Pharmacodynamic \"proof of concept\"in non-clinical model(s)",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Biodistribution",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Studies to establish dose",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Toxicity studies",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Integration studies",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Germline transmission",
+      "parent_id": 76,
+      "order": 6
+    }
+  ]
+}

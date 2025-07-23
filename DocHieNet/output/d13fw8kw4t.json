@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "天津力神电池股份有限公司呆滞材料库存竞价销售公告(2021-05-1次)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "一、竞价销售内容简介",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "二、竞价规则",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 71,
+      "label": "title",
+      "text": "附件A：法人代表授权委托书",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 72,
+      "label": "title",
+      "text": "法人代表授权委托书",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 87,
+      "label": "title",
+      "text": "附件B：报价函",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

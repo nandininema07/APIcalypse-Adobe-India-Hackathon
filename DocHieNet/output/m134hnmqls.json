@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "title",
+      "text": "SUBJECT： Implementing Guidelines for Fourmula One for Health as Framework for He alth Reforms",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1. Background and Rationale",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Scope and Coverage",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "I. Over-all Goals and Objectives",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Over-all Goals：",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "A. General Objective：",
+      "parent_id": 31,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "B. Specific Objectives",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "IV. General Guidelines：",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "V. FOURmula ONE for Health Component-Specific Objectives and Strategies",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "A. HEA LTH FI NANCING",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "B. H EA L T H RE GULATION",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "C. HEALTH SERVICE DELIVERY",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "D. GOOD GOVERNAN C E IN HEA L TH",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "VI. Operational Framework for Fourmula One Reform I mplementation",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "A. Functional Management Arrangements",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "B. Roles and Responsibilities",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "VI. Financing Mechanisms and Strategies",
+      "parent_id": 255,
+      "order": 6
+    },
+    {
+      "id": 273,
+      "label": "section-title",
+      "text": "VIII. Timetable of Implementation",
+      "parent_id": 273,
+      "order": 6
+    },
+    {
+      "id": 290,
+      "label": "section-title",
+      "text": "IX. Repealing Clause",
+      "parent_id": 290,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "X. Effectivity",
+      "parent_id": 292,
+      "order": 6
+    }
+  ]
+}

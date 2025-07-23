@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "HEARING BEFORE THE SUBCOMMITTEE ON TRANSPORTATION SAFETY, INFRASTRUCTURE SECURITY, AND WATER QUALITY OF THE COMMITTEE ON ENVIRONMENT AND PUBLIC WORKS UNITED STATES SENATE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "SUBCOMMITTEE ON TRANSPORTATION SAFETY, INFRASTRUCTURE SECURITY, AND WATER QUALITY",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "QUALITY AND ENVIRONMENTAL IMPACTS OF BOTTLED WATER",
+      "parent_id": 56,
+      "order": 4
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "OPENING STATEMENT OF HON. FRANK LAUTENBERG, U.S. SENATOR FROM THE STATE OF NEW JERSEY",
+      "parent_id": 61,
+      "order": 5
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "STATEMENT OF EMILY LLOYD, COMMISSIONER, NEW YORK CITY DEPARTMENT OF ENVIRONMENTAL PROTECTION",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Dirksen Senate Office Building, Washington,D.C. Wednesday,September 10, 2008",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "OPENING STATEMENT OF HON. JAMES M. INHOFE, U.S. SENATOR FROM THE STATE OF OKLAHOMA",
+      "parent_id": 136,
+      "order": 6
+    }
+  ]
+}

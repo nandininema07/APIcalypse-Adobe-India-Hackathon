@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Testing the system size dependence of hydrodynamical expansion and thermal ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "particle production with π, K, p, and ϕ in Xe–Xe and Pb–Pb collisions with ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "ALICE ",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "2. Testing hydrodynamics with identified hadron data ",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "3. Identified hadron yields and thermal model fit to the 5.02 TeV Pb–Pb data ",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 34,
+      "order": 6
+    }
+  ]
+}

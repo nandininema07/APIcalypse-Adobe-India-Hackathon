@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "On rectifying slant helices in Euclidean ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "3-space ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2 Preliminaries ",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3 Rectifying Slant Helices in E 3 ",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 74,
+      "order": 6
+    }
+  ]
+}

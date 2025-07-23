@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "VERIFIED COMPLAINT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "PARTIES",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "JURISDICTION AND VENUE",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "FACTUAL BACKGROUND",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "FIRST CAUSE OF ACTION",
+      "parent_id": 60,
+      "order": 4
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "VERIFICATION OF COMPLAINT",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Visual Analytics of Movement Pattern Based on ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Time-Spatial Data: A Neural Net Approach ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2 Related Work ",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2.1 Clustering and Aggregation ",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "2.2 Feature Learning ",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "3 A Dynamic to Static Data Model ",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "4 Neural Net Based Feature Extraction Algorithms ",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "4.1 Self-organizing Map based Clustering ",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "4.2 Deep Learning based Prediction ",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "5 Experiment ",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "5.1 Visual Analytics for Mobile User Commercial Promotion ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Data Set ",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Outstanding User Detection ",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Station Usage Prediction ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "5.2 Pattern Analysis for a Nature Preserve ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Abnormal Pattern Detection ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Traffic Pattern Prediction ",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "6 Conclusion and Future Work ",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 84,
+      "order": 6
+    }
+  ]
+}

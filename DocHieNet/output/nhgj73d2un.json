@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Challenges and Distinctiveness of Media Tort in China：An Empirical Study of 800 Cases1",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Data Sources and Methodology",
+      "parent_id": 0,
+      "order": 3
+    }
+  ]
+}

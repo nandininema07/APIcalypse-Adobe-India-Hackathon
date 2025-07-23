@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "AN EYE-TRACKING DATASET FOR ANIMAL-CENTRIC PASCAL OBJECT CLASSES ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "ABSTRACT ",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1. INTRODUCTION ",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "2. RELATED WORK ",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "3. MATERIALS AND METHODS ",
+      "parent_id": 30,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "4. FREE-VIEWING VS VISUAL SEARCH ",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.1. Fixation density maps and overall statistics ",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "4.2. Per-fixation durations ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "4.3. MultiMatch and Recurrence Quantification analysis ",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "4.4. Discussion ",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "5. GAZE-ASSISTED OBJECT CLASSIFICATION ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "6. CONCLUSIONS ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "7. REFERENCES ",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

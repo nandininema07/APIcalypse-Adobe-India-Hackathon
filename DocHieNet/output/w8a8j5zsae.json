@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Potential Issues for Congress",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Estimates of Military Construction Funding, FY2001-FY2005",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Bases Receiving or Targeted for Largest Amounts of Funding",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Limited Information on Military Construction Requests",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Congressional Action on DOD’s FY2005 Emergency Supplemental Request",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "Standard Authorities Governing Military Construction",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Emergency Authorities",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "Additional Flexibility Provided for Military Construction Since 9/11 attacks",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "Congressional Concerns",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "Appendix. Statutory Authorities Governing Military Construction",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

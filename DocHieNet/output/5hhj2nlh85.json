@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "美国推进快速全球打击计划",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "快速全球打击概念的演变",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "概念的形成与发展",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "快速全球打击的能力需求",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "推进快速全球打击的举措",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "加强计划的统一管理",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "加大经费支持力度",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "制定相关作战条令",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "快速全球打击武器备选方案",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "高超声速助推一滑翔式导弹",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "高超声速巡航导弹",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "X-37B轨道试验飞行器",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "\"常规三叉戟改装\"计划",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "后核武器时代的战略杀手",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "快速全球打击是一种非核战略威慑手段",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "未来的发展存在不确定性",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "可能引发新一轮军备竞赛",
+      "parent_id": 78,
+      "order": 6
+    }
+  ]
+}

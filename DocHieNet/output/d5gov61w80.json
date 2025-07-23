@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "公司高管的劳动者身份判定及其法律规则",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "一、公司高管的法律地位及\"雇员\"身份的识别",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "二、公司高管雇员与普通雇员的差异",
+      "parent_id": 57,
+      "order": 2
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "(二)公司高管劳动法特殊规则的适用对象范围",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "四、结论与延伸",
+      "parent_id": 78,
+      "order": 4
+    }
+  ]
+}

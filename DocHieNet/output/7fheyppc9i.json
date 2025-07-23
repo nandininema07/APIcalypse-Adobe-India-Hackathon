@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "FACTUAL RESUME",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "EL E ME N TS OF THE O F FENSE",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "STIPULATE D FACTS",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "Defendant Medical Directors Did Not Provide Patient Care",
+      "parent_id": 40,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Re c ruitment of Physicians",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "Pa t ient Ref e rrals from Assisted Living F a cilities",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Kickbacks to Patients",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Falsification of Hospice Face-to-Face Evaluation Forms",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Falsification of C2 Prescription Forms",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Fraudulent Use of“Continuous Care”",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Falsification of“Do Not Resuscitate”Forms",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 88,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Bivariate Extensions of Abramov’s Algorithm ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "for Rational Summation ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Dedicated to Professor Sergei A. Abramov on the occasion of his 70th birthday ",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2 Residues and reduced forms ",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3 Exactness criteria ",
+      "parent_id": 48,
+      "order": 5
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "4 Conclusion ",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 94,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "THE USE AND ABUSE OF VERTICAL DEFLECTIONS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "THE DEFLECTION OF THE VERTICAL",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Vertical Deflection at the Geoid",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Vertical Deflection at the Earth's Surface",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Curvature of the Plumbline",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

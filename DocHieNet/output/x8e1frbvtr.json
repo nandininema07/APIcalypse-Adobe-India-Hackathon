@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "文章编号：1671-8860(2009)04-0414-04文献标志码：A",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "title",
+      "text": "基于高分辨率遥感影像的DSM建筑物点的提取研究",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1采用决策树分类方法对非房屋点粗分类",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2采用小面积消除方法去除\"零散部分\"非建筑物点",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3DSM中建筑物点的边缘平滑",
+      "parent_id": 53,
+      "order": 4
+    },
+    {
+      "id": 75,
+      "label": "title",
+      "text": "Research on Extracting Building Points from the DSM Data Combining the High-resolution Remote Sensing Image",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

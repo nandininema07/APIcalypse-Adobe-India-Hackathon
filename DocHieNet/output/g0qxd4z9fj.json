@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "西安电子科技大学关于报送2017~2018学年度信息公开工作年度报告的报告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "西安电子科技大学2017~2018学年知情权、参与权与监督权的同时，也为全校师生员工更加实质性地参与学校管理、实施民主监督提供了重要渠道和平台。信息公开工作年度报告",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "一、概述",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "(一)高度重视，持续推进信息公开工作",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "(二)重点关注，着力推动重大决策过程信息公开",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "(三)持续发力，着力推动重点关切事项信息公开",
+      "parent_id": 24,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "二、主动公开情况",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "(一)主动公开信息形式及数量",
+      "parent_id": 32,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "PURPOSE",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "PRODUCT",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "WHAT IS THE PRODUCT?",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "TYPE",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "OBJECTIVES",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "INTENDED RETAIL INVESTOR",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "TERM",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "WHAT HAPPENS IF THE FUND IS UNABLE TO PAY OUT?",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "WHAT ARE THE COSTS?",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "COSTS OVER TIME",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "HOW LONG SHOULD I HOLD IT AND CAN I TAKE MY MONEY OUT EARLY?",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "REQUIRED MINIMUM HOLDING PERIOD: 10 years",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "The Fund is a closed-ended fund,meaning that sharesmay not be redeemed at the request of the investors prior to the liquidation of the Fund. The requiredminimum holding period, in principle, is 10 years starting on the Last Closing date of the Fund as further described under the “Term” heading.",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "HOW CAN I COMPLAIN?",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "OTHER RELEVANT INFORMATION",
+      "parent_id": 77,
+      "order": 6
+    }
+  ]
+}

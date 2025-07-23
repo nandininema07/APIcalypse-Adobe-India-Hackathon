@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "DO HARD SAT-RELATED REASONING TASKS BECOME EASIER IN ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "THE KROM FRAGMENT? ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 29,
+      "label": "title",
+      "text": "DO HARD SAT-RELATED REASONING TASKS BECOME EASIER IN THE KROM FRAGMENT? 3 ",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2. Preliminaries ",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3. ∆2 P- and Θ2 P-completeness ",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 42,
+      "label": "title",
+      "text": "DO HARD SAT-RELATED REASONING TASKS BECOME EASIER IN THE KROM FRAGMENT? 5 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "title",
+      "text": "DO HARD SAT-RELATED REASONING TASKS BECOME EASIER IN THE KROM FRAGMENT? 7 ",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "4. Θ2 P-complete variants of SAT ",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "5. Applications: Belief Revision and Abduction ",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "6. Complete Classification of CardMinSat ",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "section-title",
+      "text": "7. Conclusion ",
+      "parent_id": 195,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "Acknowledgments ",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 206,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 206,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "[EMPTY]",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "前言",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1背景概述",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1.1巡检记录发展和不足",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1.2二维码发展趋势",
+      "parent_id": 15,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2需求分析",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "2.1电梯巡检行业需求",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2.2行业需求应对",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2.3案例展示",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.4草料方案概述",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2.5价值优势",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "海量实践经验",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "领先行业技术",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "衔接上下游产业",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "兼容主流扫码软件",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "灵活安全部署",
+      "parent_id": 67,
+      "order": 6
+    }
+  ]
+}

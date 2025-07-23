@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 21,
+      "label": "title",
+      "text": "BEFORE THE COUNCIL OF THE CITY OF NEW ORLEANS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "ENTERGY NEW ORLEANS, LLC’S 2019 RELIABILITY PLAN",
+      "parent_id": 32,
+      "order": 1
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "I. ENO’s 2019 Distribution Reliability Plan",
+      "parent_id": 34,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "A. Baseline Reliability Programs",
+      "parent_id": 35,
+      "order": 3
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "1. FOCUS Program",
+      "parent_id": 44,
+      "order": 4
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 48,
+      "order": 5
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "2. Fix-It-Now(“FIN”) Inspection Program",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "3. Pole Program",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "4. Distribution Automation(“DA”) Program",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "5. Underground Cable Renewal Program",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "6. Equipment Inspection Program",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "7. Internal Program",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "8. Vegetation Management",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "B. Grid Modernization",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "C. Quanta Technology, LLC Recommendations",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "D. Overview of 2018 Reliability Plan Performance",
+      "parent_id": 162,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,886 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Proﬁle",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 32,
+      "label": "title",
+      "text": "To be an\"Only One\" company in Asia with global management expertise, we are accelerating growth and promoting the development of new businesses in Asia.",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "■ Overview of Fiscal 2013",
+      "parent_id": 36,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Strong sales both internationally and in Japan plus a favorable exchange rate have contributed to record net sales and income.",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "■ Overview of MP-10 and the Drafting of MP-11",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "● MP-10 Targets Attained",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "● Starting to Take Action for MP-11 and Beyond",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "● Major Changes in Asia",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "● An\"Only One\" Company in Asia with Global Management Expertise",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "■ Overview of MP-11",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "■ Forecast for Fiscal 2014",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "■ Closing Remarks",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "■ Features of Mandom's Overseas Business",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "□ Business Development",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "□ Core Business:",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "□ Ordinary Consumers Are",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "The Start of Mandom's Overseas Business and Building of Its Business Model (1958 on)",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "□ Entering Categories That Match the\"Wants\" of Local Consumers",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "□ Building a Wide Distribution Network",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "□ Products Adapted for Local Consumers",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "Mandom's History in Overseas Business",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "Establishment of Sales Subsidiaries and Strengthening of Group Management (1988 on)",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "□ In-Store Retailing",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "□ Establishing a Three-Base System in Asia",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "□ Merchandising in Various Countries",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "Toward Further Growth (2011 on)",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "□ Expanding Throughout Asia",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "□ Strengthening the System of Production",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "□ Improving Our Marketing and Production Strategies",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "□ Building Human Resources",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "Economic Climate",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "section-title",
+      "text": "Cosmetics Market Environment",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "Mandom's Strengths in the Market",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 182,
+      "label": "section-title",
+      "text": "Performance for Fiscal 2013",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "Men's Grooming Business",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 188,
+      "label": "section-title",
+      "text": "Market Environment",
+      "parent_id": 188,
+      "order": 6
+    },
+    {
+      "id": 193,
+      "label": "section-title",
+      "text": "Initiatives in Fiscal 2013",
+      "parent_id": 193,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "Future Initiatives",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 225,
+      "label": "section-title",
+      "text": "Women's Cosmetics Business",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": "Market Environment",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "Initiatives in Fiscal 2013",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "Future Initiatives",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 242,
+      "label": "section-title",
+      "text": "Women's Cosmetries Business",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 243,
+      "label": "section-title",
+      "text": "Market Environment",
+      "parent_id": 243,
+      "order": 6
+    },
+    {
+      "id": 246,
+      "label": "section-title",
+      "text": "Initiatives in Fiscal 2013",
+      "parent_id": 246,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "section-title",
+      "text": "Future Initiatives",
+      "parent_id": 254,
+      "order": 6
+    },
+    {
+      "id": 270,
+      "label": "section-title",
+      "text": "Econom i c Cl i m ate",
+      "parent_id": 270,
+      "order": 6
+    },
+    {
+      "id": 272,
+      "label": "section-title",
+      "text": "Cosmetics Market Environment",
+      "parent_id": 272,
+      "order": 6
+    },
+    {
+      "id": 274,
+      "label": "section-title",
+      "text": "Mandom's Strength in the Market",
+      "parent_id": 274,
+      "order": 6
+    },
+    {
+      "id": 276,
+      "label": "section-title",
+      "text": "Performance for F i scal 2013",
+      "parent_id": 276,
+      "order": 6
+    },
+    {
+      "id": 279,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 280,
+      "label": "section-title",
+      "text": "Market Environment",
+      "parent_id": 280,
+      "order": 6
+    },
+    {
+      "id": 284,
+      "label": "section-title",
+      "text": "Initiat i ves in Fiscal 2013",
+      "parent_id": 284,
+      "order": 6
+    },
+    {
+      "id": 294,
+      "label": "section-title",
+      "text": "Future Initiatives",
+      "parent_id": 294,
+      "order": 6
+    },
+    {
+      "id": 296,
+      "label": "section-title",
+      "text": "Women's Cosme t ics Business",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 297,
+      "label": "section-title",
+      "text": "Market Env i ronment",
+      "parent_id": 297,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "Initiatives in Fiscal 2013",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 306,
+      "label": "section-title",
+      "text": "Future In it iatives",
+      "parent_id": 306,
+      "order": 6
+    },
+    {
+      "id": 314,
+      "label": "section-title",
+      "text": "Women's Cosmetries Business",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 315,
+      "label": "section-title",
+      "text": "Market Environment",
+      "parent_id": 315,
+      "order": 6
+    },
+    {
+      "id": 317,
+      "label": "section-title",
+      "text": "Initiatives in Fiscal 2013",
+      "parent_id": 317,
+      "order": 6
+    },
+    {
+      "id": 322,
+      "label": "section-title",
+      "text": "Future Initiatives",
+      "parent_id": 322,
+      "order": 6
+    },
+    {
+      "id": 323,
+      "label": "section-title",
+      "text": "We will further develop the new Glazelle series under the Pucelle brand to extend the target from the original teen segment to women in their 20s, aimed at expanding the customer base.",
+      "parent_id": 323,
+      "order": 6
+    },
+    {
+      "id": 326,
+      "label": "section-title",
+      "text": "Market Environment",
+      "parent_id": 326,
+      "order": 6
+    },
+    {
+      "id": 330,
+      "label": "section-title",
+      "text": "Performance for Fiscal 2013",
+      "parent_id": 330,
+      "order": 6
+    },
+    {
+      "id": 333,
+      "label": "section-title",
+      "text": "China",
+      "parent_id": 333,
+      "order": 6
+    },
+    {
+      "id": 336,
+      "label": "section-title",
+      "text": "GATSBY 杰士派 加强定型",
+      "parent_id": 336,
+      "order": 6
+    },
+    {
+      "id": 338,
+      "label": "section-title",
+      "text": "Mainland Southeast Asia",
+      "parent_id": 338,
+      "order": 6
+    },
+    {
+      "id": 347,
+      "label": "section-title",
+      "text": "India",
+      "parent_id": 347,
+      "order": 6
+    },
+    {
+      "id": 366,
+      "label": "section-title",
+      "text": "Analysis of Operating Results",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 367,
+      "label": "section-title",
+      "text": "1. Summary",
+      "parent_id": 367,
+      "order": 6
+    },
+    {
+      "id": 370,
+      "label": "section-title",
+      "text": "2. Net Sales and Cost of Sales",
+      "parent_id": 370,
+      "order": 6
+    },
+    {
+      "id": 373,
+      "label": "section-title",
+      "text": "3. Selling, General and Administrative(SG&A) Expenses and Operating Income",
+      "parent_id": 373,
+      "order": 6
+    },
+    {
+      "id": 377,
+      "label": "section-title",
+      "text": "4. Non-Operating Profit, Extraordinary Profit, Ordinary Income and Income before Income Taxes and Minority Interests",
+      "parent_id": 377,
+      "order": 6
+    },
+    {
+      "id": 380,
+      "label": "section-title",
+      "text": "5. Corporate and Other Taxes, Minority Interests and Net Income",
+      "parent_id": 380,
+      "order": 6
+    },
+    {
+      "id": 383,
+      "label": "section-title",
+      "text": "Analysis of Financial Position and Cash Flows",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 384,
+      "label": "section-title",
+      "text": "1. Assets, Liabilities and Net Assets",
+      "parent_id": 384,
+      "order": 6
+    },
+    {
+      "id": 388,
+      "label": "section-title",
+      "text": "2. Status of Cash Flows",
+      "parent_id": 388,
+      "order": 6
+    },
+    {
+      "id": 391,
+      "label": "section-title",
+      "text": "(Cash Flows from Operating Activities)",
+      "parent_id": 391,
+      "order": 6
+    },
+    {
+      "id": 393,
+      "label": "section-title",
+      "text": "(Cash Flows from Investing Activities)",
+      "parent_id": 393,
+      "order": 6
+    },
+    {
+      "id": 395,
+      "label": "section-title",
+      "text": "(Cash Flows from Financing Activities)",
+      "parent_id": 395,
+      "order": 6
+    },
+    {
+      "id": 397,
+      "label": "section-title",
+      "text": "Important Factors Influencing Consolidated Operating Results",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 398,
+      "label": "section-title",
+      "text": "1. Factors Influencing Profitability",
+      "parent_id": 398,
+      "order": 6
+    },
+    {
+      "id": 403,
+      "label": "section-title",
+      "text": "2. Foreign Exchange and Resource Price Fluctuations",
+      "parent_id": 403,
+      "order": 6
+    },
+    {
+      "id": 413,
+      "label": "section-title",
+      "text": "Business and Others Risks",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 414,
+      "label": "section-title",
+      "text": "1. Consumer Alignment Risk",
+      "parent_id": 414,
+      "order": 6
+    },
+    {
+      "id": 416,
+      "label": "section-title",
+      "text": "2. Partner Dependence Risk",
+      "parent_id": 416,
+      "order": 6
+    },
+    {
+      "id": 419,
+      "label": "section-title",
+      "text": "3. Regulatory Risk",
+      "parent_id": 419,
+      "order": 6
+    },
+    {
+      "id": 421,
+      "label": "section-title",
+      "text": "4. Foreign Exchange Risk",
+      "parent_id": 421,
+      "order": 6
+    },
+    {
+      "id": 423,
+      "label": "section-title",
+      "text": "5. Overseas Business Development Risk",
+      "parent_id": 423,
+      "order": 6
+    },
+    {
+      "id": 425,
+      "label": "section-title",
+      "text": "Challenges to be Addressed",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 426,
+      "label": "section-title",
+      "text": "1. Maintaining and Expanding the Men’s Grooming Business, Reinforcing Female-Oriented Business",
+      "parent_id": 426,
+      "order": 6
+    },
+    {
+      "id": 429,
+      "label": "section-title",
+      "text": "2. Bolstering Personnel Development as the Foundation of Group Business",
+      "parent_id": 429,
+      "order": 6
+    },
+    {
+      "id": 432,
+      "label": "section-title",
+      "text": "3. Bolstering Corporate Social Responsibility Activities",
+      "parent_id": 432,
+      "order": 6
+    },
+    {
+      "id": 434,
+      "label": "section-title",
+      "text": "Management’s View of Challenges and Policy Going Forward",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 437,
+      "label": "section-title",
+      "text": "1. Current Management Strategies and Outlook",
+      "parent_id": 437,
+      "order": 6
+    },
+    {
+      "id": 448,
+      "label": "section-title",
+      "text": "2. Financial Policies",
+      "parent_id": 448,
+      "order": 6
+    },
+    {
+      "id": 463,
+      "label": "section-title",
+      "text": "Corporate Governance",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 464,
+      "label": "section-title",
+      "text": "Corporate Governance Structure",
+      "parent_id": 464,
+      "order": 6
+    },
+    {
+      "id": 465,
+      "label": "section-title",
+      "text": "1) Summary of corporate governance structure",
+      "parent_id": 465,
+      "order": 6
+    },
+    {
+      "id": 468,
+      "label": "section-title",
+      "text": "2) Reasons for adopting this governance structure",
+      "parent_id": 468,
+      "order": 6
+    },
+    {
+      "id": 471,
+      "label": "section-title",
+      "text": "3) Internal control system",
+      "parent_id": 471,
+      "order": 6
+    },
+    {
+      "id": 475,
+      "label": "section-title",
+      "text": "4) Risk management structure",
+      "parent_id": 475,
+      "order": 6
+    },
+    {
+      "id": 478,
+      "label": "section-title",
+      "text": "5) Limitation of liability for damages",
+      "parent_id": 478,
+      "order": 6
+    },
+    {
+      "id": 488,
+      "label": "section-title",
+      "text": "Consolidated Balance Sheets",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 492,
+      "label": "section-title",
+      "text": "Consolidated Balance Sheets",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 502,
+      "label": "section-title",
+      "text": "Consolidated Statement of Income",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 507,
+      "label": "section-title",
+      "text": "Consolidated Statement of Comprehensive Income",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 511,
+      "label": "section-title",
+      "text": "Consolidated Statement of Changes in Equity",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 525,
+      "label": "section-title",
+      "text": "Consolidated Statement of Cash Flows",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 529,
+      "label": "section-title",
+      "text": "1. BASIS OF PRESENTATION OF CONSOLIDATED FINANCIAL STATEMENTS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 533,
+      "label": "section-title",
+      "text": "2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 570,
+      "label": "section-title",
+      "text": "n. New Accounting Pronouncements",
+      "parent_id": 570,
+      "order": 6
+    },
+    {
+      "id": 572,
+      "label": "section-title",
+      "text": "Major changes are as follows:",
+      "parent_id": 572,
+      "order": 6
+    },
+    {
+      "id": 573,
+      "label": "section-title",
+      "text": "(a) Treatment in the balance sheet",
+      "parent_id": 573,
+      "order": 6
+    },
+    {
+      "id": 576,
+      "label": "section-title",
+      "text": "(b) Treatment in the statement of income and the statement of comprehensive income",
+      "parent_id": 576,
+      "order": 6
+    },
+    {
+      "id": 583,
+      "label": "section-title",
+      "text": "3. SHORT-TERM INVESTMENTS AND INVESTMENT SECURITIES",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 587,
+      "label": "section-title",
+      "text": "4. INVENTORIES",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

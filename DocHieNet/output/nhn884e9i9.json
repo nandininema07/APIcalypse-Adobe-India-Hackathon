@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Talking Paper#2: Health Insurance at the University of Minnesota",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Affordable Care Act Insures the Uninsured",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "New Taxes Intended to Reduce Cost of Care",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "U Officials Say New Taxes Could Amount to$48 Million Over 5 Years",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Workers Pay More So U Doesn’t Have To",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "All Employees Would Face Increased Out-of-Pocket Costs",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "New Network – Affordable Care Organization",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "All Employees Deserve Affordable Premiums, Out-of-Pockets",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Questions Remain – What’s the Bottom Line?",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "But Isn’t Our Insurance Better Than What Most Minnesotans Have?",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Next Steps",
+      "parent_id": 45,
+      "order": 6
+    }
+  ]
+}

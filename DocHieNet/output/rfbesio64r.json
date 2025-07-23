@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "主播，也可能存在直播平台聘用的职业或娱乐主播。在著作权法框架下，就网络游戏直播而言，需要网络游戏直播的法律关系解析",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "一、游戏整体画面的性质和游戏玩家的角色",
+      "parent_id": 16,
+      "order": 1
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "二、创造性的体现与承载：作品或表演",
+      "parent_id": 45,
+      "order": 2
+    }
+  ]
+}

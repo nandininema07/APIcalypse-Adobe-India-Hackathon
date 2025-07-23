@@ -1,0 +1,872 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Bantleon Return",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Bantleon Yield",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Bantleon Strategie",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Bantleon Trend",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Bantleon Dynamic",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "1 . The Fund",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2 . Investment Policy",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Bantleon Return",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Bantleon Yield",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Bantleon Strategie",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Bantleon Trend",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "Bantleon Dynamic",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3 . Risk Warning",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "General",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Risk Management",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Leverage",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Market Risk",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Interest Rate Risk",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Credit Risk",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Counter Party Risk",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Concentration Risk",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Country or Transfer Risk",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Custody Risk",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Political Risk/ Regulatory Risk",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "Infaltion Risk",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Key Persons Risk",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "Change in Investment Policy",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "Change of Management Regulations; Dissolution or Merger",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "Liquidity Risk",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "Risks Associated with Derivative Transactions",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "Risk of Increased Sales",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "4 . Investor Proflie",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "5 . The Management Company",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "6 . The Depositary Bank",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "7. Management and Transfer Agent",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "8 . Prevention of Money Laundering",
+      "parent_id": 128,
+      "order": 6
+    },
+    {
+      "id": 135,
+      "label": "section-title",
+      "text": "9 . Shares",
+      "parent_id": 135,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "10 . Share Prices",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "11 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "Shares of the classes »PA« and »PT«",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "Shares of the classes »IA« and »IT«",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "12. Charges and Fees",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "13 . Further Notes",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "14 . Publications and Information",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "15 . The Management Regulations",
+      "parent_id": 187,
+      "order": 6
+    },
+    {
+      "id": 189,
+      "label": "section-title",
+      "text": "16 . Combating Market Timing and Late Trading Activities",
+      "parent_id": 189,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "section-title",
+      "text": "FUND OVERVIEW",
+      "parent_id": 195,
+      "order": 6
+    },
+    {
+      "id": 198,
+      "label": "section-title",
+      "text": "MANAGEMENT AND ADMINISTRATION",
+      "parent_id": 198,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "Management Company",
+      "parent_id": 199,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "Investment Manager",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "Depositary Bank",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "section-title",
+      "text": "Management and Transfer Agent",
+      "parent_id": 215,
+      "order": 6
+    },
+    {
+      "id": 217,
+      "label": "section-title",
+      "text": "Auditor of the Management Company and the Fund",
+      "parent_id": 217,
+      "order": 6
+    },
+    {
+      "id": 219,
+      "label": "section-title",
+      "text": "Paying Agents",
+      "parent_id": 219,
+      "order": 6
+    },
+    {
+      "id": 228,
+      "label": "section-title",
+      "text": "Distributors",
+      "parent_id": 228,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "I . MANAGEMENT/ORGANISATION",
+      "parent_id": 238,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "1. The Fund",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "2 . The Management Company",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 248,
+      "label": "section-title",
+      "text": "3. The Investment Manager",
+      "parent_id": 248,
+      "order": 6
+    },
+    {
+      "id": 252,
+      "label": "section-title",
+      "text": "4 . The Depositary Bank",
+      "parent_id": 252,
+      "order": 6
+    },
+    {
+      "id": 260,
+      "label": "section-title",
+      "text": "5 . Management and Transfer Agent",
+      "parent_id": 260,
+      "order": 6
+    },
+    {
+      "id": 263,
+      "label": "section-title",
+      "text": "I .GENERALINVESTMENT POLICY GUIDEL I NES",
+      "parent_id": 263,
+      "order": 6
+    },
+    {
+      "id": 264,
+      "label": "section-title",
+      "text": "1 . Investment Objective",
+      "parent_id": 264,
+      "order": 6
+    },
+    {
+      "id": 266,
+      "label": "section-title",
+      "text": "2 . Listed Securities",
+      "parent_id": 266,
+      "order": 6
+    },
+    {
+      "id": 268,
+      "label": "section-title",
+      "text": "3 . Unlisted Securities and Other Securitised Rights",
+      "parent_id": 268,
+      "order": 6
+    },
+    {
+      "id": 270,
+      "label": "section-title",
+      "text": "4 . New Issuers",
+      "parent_id": 270,
+      "order": 6
+    },
+    {
+      "id": 272,
+      "label": "section-title",
+      "text": "5 . Investment Limits",
+      "parent_id": 272,
+      "order": 6
+    },
+    {
+      "id": 276,
+      "label": "section-title",
+      "text": "6 . Interest Rate Futures",
+      "parent_id": 276,
+      "order": 6
+    },
+    {
+      "id": 281,
+      "label": "section-title",
+      "text": "7 . Liquid Assets",
+      "parent_id": 281,
+      "order": 6
+    },
+    {
+      "id": 283,
+      "label": "section-title",
+      "text": "8 . Further Investment Restrictions",
+      "parent_id": 283,
+      "order": 6
+    },
+    {
+      "id": 288,
+      "label": "section-title",
+      "text": "9 . Loans and Encumbrance Prohibitions",
+      "parent_id": 288,
+      "order": 6
+    },
+    {
+      "id": 291,
+      "label": "section-title",
+      "text": "I I I.ISSUES AND REDEMPTIONS, FURTHER CONDITIONS",
+      "parent_id": 291,
+      "order": 6
+    },
+    {
+      "id": 292,
+      "label": "section-title",
+      "text": "1 . Shares in the Sub-Funds",
+      "parent_id": 292,
+      "order": 6
+    },
+    {
+      "id": 295,
+      "label": "section-title",
+      "text": "2 . Issue of Shares",
+      "parent_id": 295,
+      "order": 6
+    },
+    {
+      "id": 298,
+      "label": "section-title",
+      "text": "3. Calculation of the Net Asset Value per Share",
+      "parent_id": 298,
+      "order": 6
+    },
+    {
+      "id": 309,
+      "label": "section-title",
+      "text": "4 . Suspension of Calculation of the NAV per Share",
+      "parent_id": 309,
+      "order": 6
+    },
+    {
+      "id": 314,
+      "label": "section-title",
+      "text": "5 . Redemption of Shares",
+      "parent_id": 314,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "6 . Exchange of Shares",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 320,
+      "label": "section-title",
+      "text": "7 . Dividend Distributions",
+      "parent_id": 320,
+      "order": 6
+    },
+    {
+      "id": 322,
+      "label": "section-title",
+      "text": "8 . Duration and Closing of the Fund and the Sub-Funds and the Merger of Funds or Sub-Funds",
+      "parent_id": 322,
+      "order": 6
+    },
+    {
+      "id": 334,
+      "label": "section-title",
+      "text": "9. Fees, Charges",
+      "parent_id": 334,
+      "order": 6
+    },
+    {
+      "id": 337,
+      "label": "section-title",
+      "text": "10 . Fiscal Year and Audit of Annual Accounts",
+      "parent_id": 337,
+      "order": 6
+    },
+    {
+      "id": 340,
+      "label": "section-title",
+      "text": "11 . Statute of Limitations",
+      "parent_id": 340,
+      "order": 6
+    },
+    {
+      "id": 342,
+      "label": "section-title",
+      "text": "12 . Amendments",
+      "parent_id": 342,
+      "order": 6
+    },
+    {
+      "id": 344,
+      "label": "section-title",
+      "text": "13 . Publications",
+      "parent_id": 344,
+      "order": 6
+    },
+    {
+      "id": 348,
+      "label": "section-title",
+      "text": "14 . Applicable Law, Jurisdiction and Language of Contract",
+      "parent_id": 348,
+      "order": 6
+    },
+    {
+      "id": 352,
+      "label": "section-title",
+      "text": "15 . Entry into Force",
+      "parent_id": 352,
+      "order": 6
+    },
+    {
+      "id": 358,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 358,
+      "order": 6
+    },
+    {
+      "id": 367,
+      "label": "section-title",
+      "text": "2 . Interest Rate Futures",
+      "parent_id": 367,
+      "order": 6
+    },
+    {
+      "id": 371,
+      "label": "section-title",
+      "text": "3 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 371,
+      "order": 6
+    },
+    {
+      "id": 376,
+      "label": "section-title",
+      "text": "4 . Charges and Fees",
+      "parent_id": 376,
+      "order": 6
+    },
+    {
+      "id": 379,
+      "label": "section-title",
+      "text": "5 . Dividend Distributions",
+      "parent_id": 379,
+      "order": 6
+    },
+    {
+      "id": 381,
+      "label": "section-title",
+      "text": "6 . Term/ Entry into Force",
+      "parent_id": 381,
+      "order": 6
+    },
+    {
+      "id": 389,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 389,
+      "order": 6
+    },
+    {
+      "id": 400,
+      "label": "section-title",
+      "text": "2. Interest Rate Futures",
+      "parent_id": 400,
+      "order": 6
+    },
+    {
+      "id": 404,
+      "label": "section-title",
+      "text": "3. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 404,
+      "order": 6
+    },
+    {
+      "id": 409,
+      "label": "section-title",
+      "text": "4. Charges and Fees",
+      "parent_id": 409,
+      "order": 6
+    },
+    {
+      "id": 412,
+      "label": "section-title",
+      "text": "5 . Dividend Distributions",
+      "parent_id": 412,
+      "order": 6
+    },
+    {
+      "id": 416,
+      "label": "section-title",
+      "text": "6 . Term/ Entry into Force",
+      "parent_id": 416,
+      "order": 6
+    },
+    {
+      "id": 424,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 424,
+      "order": 6
+    },
+    {
+      "id": 433,
+      "label": "section-title",
+      "text": "2 . Interest Rate Futures",
+      "parent_id": 433,
+      "order": 6
+    },
+    {
+      "id": 436,
+      "label": "section-title",
+      "text": "3 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 436,
+      "order": 6
+    },
+    {
+      "id": 441,
+      "label": "section-title",
+      "text": "4 . Charges and Fees",
+      "parent_id": 441,
+      "order": 6
+    },
+    {
+      "id": 444,
+      "label": "section-title",
+      "text": "5 . Dividend Distributions",
+      "parent_id": 444,
+      "order": 6
+    },
+    {
+      "id": 446,
+      "label": "section-title",
+      "text": "6 . Term/ Entry into Force",
+      "parent_id": 446,
+      "order": 6
+    },
+    {
+      "id": 453,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 453,
+      "order": 6
+    },
+    {
+      "id": 462,
+      "label": "section-title",
+      "text": "2 . Interest Rate Futures",
+      "parent_id": 462,
+      "order": 6
+    },
+    {
+      "id": 466,
+      "label": "section-title",
+      "text": "3. Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 466,
+      "order": 6
+    },
+    {
+      "id": 471,
+      "label": "section-title",
+      "text": "4 . Charges and Fees",
+      "parent_id": 471,
+      "order": 6
+    },
+    {
+      "id": 474,
+      "label": "section-title",
+      "text": "5 . Dividend Distributions",
+      "parent_id": 474,
+      "order": 6
+    },
+    {
+      "id": 476,
+      "label": "section-title",
+      "text": "6 . Term/ Entry into Force",
+      "parent_id": 476,
+      "order": 6
+    },
+    {
+      "id": 484,
+      "label": "section-title",
+      "text": "1 . Investment Policy",
+      "parent_id": 484,
+      "order": 6
+    },
+    {
+      "id": 493,
+      "label": "section-title",
+      "text": "2 . Interest Rate Futures",
+      "parent_id": 493,
+      "order": 6
+    },
+    {
+      "id": 496,
+      "label": "section-title",
+      "text": "3 . Acquisition, Redemption and Exchange of Shares, Purchase Price Payment",
+      "parent_id": 496,
+      "order": 6
+    },
+    {
+      "id": 501,
+      "label": "section-title",
+      "text": "4 . Charges and Fees",
+      "parent_id": 501,
+      "order": 6
+    },
+    {
+      "id": 504,
+      "label": "section-title",
+      "text": "5 . Dividend Distributions",
+      "parent_id": 504,
+      "order": 6
+    },
+    {
+      "id": 506,
+      "label": "section-title",
+      "text": "6. Term/ Entry into Force",
+      "parent_id": 506,
+      "order": 6
+    },
+    {
+      "id": 511,
+      "label": "section-title",
+      "text": "I. ISSUERS",
+      "parent_id": 511,
+      "order": 6
+    },
+    {
+      "id": 536,
+      "label": "section-title",
+      "text": "Asset Management",
+      "parent_id": 536,
+      "order": 6
+    },
+    {
+      "id": 542,
+      "label": "section-title",
+      "text": "Depositary Bank",
+      "parent_id": 542,
+      "order": 6
+    },
+    {
+      "id": 546,
+      "label": "section-title",
+      "text": "Management Company",
+      "parent_id": 546,
+      "order": 6
+    },
+    {
+      "id": 551,
+      "label": "section-title",
+      "text": "Fund Sales and Marketing",
+      "parent_id": 551,
+      "order": 6
+    },
+    {
+      "id": 557,
+      "label": "section-title",
+      "text": "Internet",
+      "parent_id": 557,
+      "order": 6
+    }
+  ]
+}

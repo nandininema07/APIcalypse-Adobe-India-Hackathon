@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "对外贸易、经济增长与产业结构升级",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "一、研究回顾",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1.对外贸易对经济增长的作用",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2.对外贸易对产业结构的作用",
+      "parent_id": 15,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "(1)产业结构决定对外贸易",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "(2)对外贸易对产业结构有巨大的反作用力",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "二、六个国家(或地区)对外贸易、经济增长与产业结构的实证分析",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "1.数据及国家选取",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.各国(地区)贸易依存度状况",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.亚洲\"四小龙\"的对外贸易、经济增长和产业结构的实证分析",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "(1)香港和新加坡",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "(2)中国台湾地区和韩国",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "4.中国、印度的对外贸易、经济增长和产业结构的实证分析",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

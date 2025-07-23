@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "党组织议事规则、中共山东煤矿安全监察局党组、\"三重一大\"事项决策、请示报告等制度要求方面的风险点。关于深入开展廉政风险排查和防控工作的通知",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、目标任务",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "二、排查重点",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "三、工作步骤",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "四、工作要求",
+      "parent_id": 27,
+      "order": 4
+    }
+  ]
+}

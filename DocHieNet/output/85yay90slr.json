@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "In the United States Court of Appeals For the Seventh Circuit",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "I",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "A",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "B",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "C",
+      "parent_id": 45,
+      "order": 4
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "II",
+      "parent_id": 51,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "A",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "B",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "III",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "IV",
+      "parent_id": 85,
+      "order": 6
+    }
+  ]
+}

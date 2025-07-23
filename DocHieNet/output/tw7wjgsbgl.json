@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Probability-weighted ensembles of U.S. county-level climate projections for climate risk ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "analysis ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "A B ST R ACT ",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2. Methods ",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1) A PRIORI CO MPARIS ON O F TH E APPR OACHES ",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "a. Global mean temperature ",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "b. Pattern fitting ",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "c. Probability weighting ",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "1) EQUAL-WEIG H T ED C MI P 5 E NS EM BL E ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2) SU RRO GAT E /MOD E L M I XED ENSE MB LE (SM M E) MET H O D ",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3) M O N TE C A R L O PAT TERN/RE S I D UA L ( MCPR) M ETH O D ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3. Results ",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "a. Temperature projections ",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "b. Precipitation projections ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "c. Sources of projection uncertainty ",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "d. Projection uncertainty due to unforced variability ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "4. Discussion ",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "5. Conclusion ",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 92,
+      "order": 6
+    }
+  ]
+}

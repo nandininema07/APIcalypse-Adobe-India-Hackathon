@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Society of Allied Weight Engineers， Incorporated",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Appendices：",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "These instructions provide information you need to prepare a technical paper and make a presentation of it at the Annual International Conference of the Society of Allied Weight Engineers， Inc. The instructions are organized in six parts：",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "CALENDAR OF EVENTS FOR SAWE AUTHORS64th SAWE InternationalConference Annapolis， Maryland USA",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Or mail your paper on a CD to the SAWE c/o：",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "For additional information contact the Vice President-Technical Director：",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "REQUIRED FORMAT FOR A TECHNICAL PAPER",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Physical Size",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Binding",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Cover Page",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "The Printed Page",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Table ofContents",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Use ofFootnotes",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Appendices",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "Dual Unit Usage",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "Biography",
+      "parent_id": 83,
+      "order": 6
+    }
+  ]
+}

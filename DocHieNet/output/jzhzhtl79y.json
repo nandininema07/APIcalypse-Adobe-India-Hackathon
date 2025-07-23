@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "阜教防控办[2020〕1号",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "阜阳市教育系统新型冠状病毒感染肺炎疫情防控工作领导小组关于加强疫情防控期间中小学线上教学管理工作的通知",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、分类开展线上教学",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "二、加强线上教学管理",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(一)督查形式。",
+      "parent_id": 11,
+      "order": 4
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "(二)督查内容。",
+      "parent_id": 13,
+      "order": 5
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "三、相关要求",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "title",
+      "text": "附件",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "title",
+      "text": "科教材主要知识点，适合高三学生复习使用。国家教育资源公共服务平台、安徽基础教育资源应用平台相关资源简介",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "一、国家教育资源公共服务平台",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1.一师一优课、一课一名师",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2.其他资源",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "二、安徽基础教育资源应用平台",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "1.一师一优课、一课一名师",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.专递课堂",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "4.幼儿园、义务教育微课",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "5.学科资源及教师个人空间资源",
+      "parent_id": 44,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "STATE OF MICHIGAN IN THE CIRCUIT COURT FOR THE COUNTY OF WAYNE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "DETROIT PREP'S BRIEF IN OPPOSITIONTO DE FENDANT'S MO TI ON FOR SUMMARY DISPOSITION",
+      "parent_id": 15,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "I NTROD U CT I ON",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "FA CTS",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "A. P urchase of Joyce Elementary School.",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "B. Mi chigan Law Bars Deed Restrictions That Prohibit Educationa l Use.",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "C. The A ct Creates a Statutory Cause of Action Against Defendan t DPSCD.",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "D. D efendant DPSCD is in Noncompliance With the Act .",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "ARGUMENT",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "A. Detroit Prep Has a Statutory Cause of Action Under the Act",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "B. Defenda n t's Deed Restriction Ca nn ot Bar Standing .",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "C. Defendant's False Claims Regarding Third Party P Property Int erests Are Irrelevant to Any Standing Analysis.",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "CONCLUSI O N",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "CERTIFICATE OF SERVICE",
+      "parent_id": 105,
+      "order": 6
+    }
+  ]
+}

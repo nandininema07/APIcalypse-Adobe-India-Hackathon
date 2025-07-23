@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Equality，Development and Sharing：Progress of Women's Cause in 7o Years Since New China's Founding",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Preface",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "I. Women's Cause Remains High Priority and Is Actively Promoted in China",
+      "parent_id": 23,
+      "order": 2
+    }
+  ]
+}

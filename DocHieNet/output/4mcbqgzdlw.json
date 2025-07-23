@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "地转化成新媒介，而新媒介转化成旧媒介的情形也多媒介的文学传播与互文阅读",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "一、多媒介的文学传播",
+      "parent_id": 14,
+      "order": 1
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "二、互文阅读",
+      "parent_id": 32,
+      "order": 2
+    }
+  ]
+}

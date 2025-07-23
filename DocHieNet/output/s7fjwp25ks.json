@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "渝北区住房保障中心采购公告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "竞争性比选文件",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "一、邀标函",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "1、项目内容：",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "一、投标须知",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 40,
+      "label": "title",
+      "text": "二、投标须知",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

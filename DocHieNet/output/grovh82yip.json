@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "TWO YEARS INTO PANDEMIC HOSPITALITY INDUSTRY CONTINUES TO FACE CHALLENGES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Highlights and Key Takeaways from Survey",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "For more information, contact:",
+      "parent_id": 48,
+      "order": 2
+    }
+  ]
+}

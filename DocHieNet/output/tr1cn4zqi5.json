@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": " Press freedom. More particularly：VERITAS DRAFT MEDIA FREEDOM AND TRANSPARENCY BILL，2012",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Freedom ofExpression and Media Freedom",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "The ACHPR Declaration states the following：",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Governmental Transparency and Access to Information",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Provisions ofthe Bill",
+      "parent_id": 27,
+      "order": 4
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Part I (Preliminary)",
+      "parent_id": 29,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Part II (Provisions Relating to Zimbabwe Media Commission)terms of office and the Board's procedures (including its power to appoint committees) are set",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Part III (Media Council ofZimbabwe)",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "PartIV(Codes ofMedia Practice)",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Part V (Resolution ofComplaints Against Media)",
+      "parent_id": 73,
+      "order": 6
+    }
+  ]
+}

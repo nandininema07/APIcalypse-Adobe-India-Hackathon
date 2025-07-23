@@ -1,0 +1,312 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Operating nstructions",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Extending recording and playback",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Multi-motion playback without picture disturbance",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Wireless remote control for arm chair convenience",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "BLANK DETECT Button",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "REMAINING TIME Button",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Video Add Function",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Stereophonic sound",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Camera Input Terminal",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Dolby NR circuitry",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "I NSP E CTION O F YOUR VCR",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "OP T IONA L ACCESSOR I ES",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "CAUTION：",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "P RECAU T IONS",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "A WORD ABOUT THE CASSETTE",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "■ 1 Typ es of Video Cassette",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "■ Notes for Video Cassette Use",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "■ V Video Cassette Storage",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "■ Insert Video Cassette Correctly",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "Accidental Erasure Prevension",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "CONTROLS AND COM P ONEN T S",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "FRON T",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "BACK",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "INSTALLATION",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 201,
+      "label": "section-title",
+      "text": "CO NNE CTION O F T H E U N IT W IT H A TV MO N I T O R",
+      "parent_id": 201,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "BASIC OPERATION",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": "P L AY B ACK AN D MULTI - MOTION P L AYBACK",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "CAMERA RECORDING",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 264,
+      "label": "section-title",
+      "text": "AUDIO DUBB I NG",
+      "parent_id": 264,
+      "order": 6
+    },
+    {
+      "id": 284,
+      "label": "section-title",
+      "text": "RE-RECORDING",
+      "parent_id": 284,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 301,
+      "label": "section-title",
+      "text": "DOLBY NR SWITCH",
+      "parent_id": 301,
+      "order": 6
+    },
+    {
+      "id": 308,
+      "label": "section-title",
+      "text": "FUNCT I ONAL CHAR T FOR AUDIO",
+      "parent_id": 308,
+      "order": 6
+    },
+    {
+      "id": 310,
+      "label": "section-title",
+      "text": "INDEX SELECT Button",
+      "parent_id": 310,
+      "order": 6
+    },
+    {
+      "id": 337,
+      "label": "section-title",
+      "text": "BLANK DETECT Button",
+      "parent_id": 337,
+      "order": 6
+    },
+    {
+      "id": 344,
+      "label": "section-title",
+      "text": "REMAINING TIME Button",
+      "parent_id": 344,
+      "order": 6
+    },
+    {
+      "id": 358,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 358,
+      "order": 6
+    },
+    {
+      "id": 361,
+      "label": "section-title",
+      "text": "BATTERYREPLACEMENT CAUT I ON",
+      "parent_id": 361,
+      "order": 6
+    },
+    {
+      "id": 380,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 380,
+      "order": 6
+    },
+    {
+      "id": 393,
+      "label": "section-title",
+      "text": "B E FO R E RE QUEST IN G S E RVIC E",
+      "parent_id": 393,
+      "order": 6
+    },
+    {
+      "id": 397,
+      "label": "section-title",
+      "text": "CLEANING CARE FOR THE RECORDING HEAD. ..",
+      "parent_id": 397,
+      "order": 6
+    },
+    {
+      "id": 403,
+      "label": "section-title",
+      "text": "SPECIFICATIONS",
+      "parent_id": 403,
+      "order": 6
+    }
+  ]
+}

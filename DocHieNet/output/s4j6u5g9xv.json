@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "基于分割相似度的异源图像匹配算法*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "Multi-sensor image matching based on segmentation similarity",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1现有图像分割算法的问题",
+      "parent_id": 28,
+      "order": 2
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2基于分割的异源图像匹配算法",
+      "parent_id": 32,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.1算法步骤",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.2评价指标",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "2.2.1最大区域重合度",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "2.2.22最小新增边缘",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "3实验结果",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "4结论",
+      "parent_id": 86,
+      "order": 6
+    }
+  ]
+}

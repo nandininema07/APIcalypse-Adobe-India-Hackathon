@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "A lameda County Superior Court",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "BASIC INFORMATION ABOUT THIS LAWSUIT",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 35,
+      "order": 2
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "THE SETTLEMENT-WHAT YOU GET AND WHAT YOu GIVE UP",
+      "parent_id": 52,
+      "order": 3
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "THE LAWYERS REPRESENTING YOU",
+      "parent_id": 99,
+      "order": 4
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 104,
+      "order": 5
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "OBJECTING TO THE SETTLEMENT",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "IF YOu Do NOTHING",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "THE COURT'S FAIRNESS HEARING",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "GETTING MORE INFORMATION",
+      "parent_id": 151,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "土地集约化利用与经济增长关系面板数据分析*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1精明增长理念与土地集约化利用程度的概述",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "2我国土地利用现状",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "3我国城市土地集约化利用与经济增长关系的实证检验",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "3.1计量模型建立与数据处理",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "3.1.1模型设定",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "3.1.2.数据来源与处理",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3.2模型的面板数据分析",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "3.2.1面板数据的单位根检验",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "3.2.2面板模型选择",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3.2.3计量结果分析",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "4进一步提高土地集约化利用程度的政策建议",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "4.1合理调整用地结构",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "4.2运用科学规划，提高土地利用的综合效益",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "4.3强调土地使用功能的适当混合",
+      "parent_id": 55,
+      "order": 6
+    }
+  ]
+}

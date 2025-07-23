@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Geometric explanation of the rich-club phenomenon ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "in complex networks ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "ABSTRACT ",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Introduction ",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Results ",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "Number of bridge nodes ",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Diameter, clustering and degree distribution ",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Rich-club coefficient ",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Discussion ",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Methods ",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Recursive estimation of the number of bridge nodes ",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Data Availability ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "Author contributions statement ",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Additional information ",
+      "parent_id": 101,
+      "order": 6
+    }
+  ]
+}

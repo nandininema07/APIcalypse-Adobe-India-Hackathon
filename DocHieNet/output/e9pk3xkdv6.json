@@ -1,0 +1,417 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "WE GET IT.",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "WE ASSESS IT. WE DESIGN IT. WE IMPLEMENT IT. WE SUPPORT IT.",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "title",
+      "text": "CustomHealthcare Promotion s",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Quality in the Continuum of Care",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Feature s",
+      "parent_id": 44,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "28 Mobile Medicine",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "31 MDx and Chronic Disease",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Covidien Patient Monitoring Technolog y",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "Features",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "33 The Reality of Virtual Payment Systems",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Department s",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "9 Guest Editorial",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "10 Eye on Qual i ty",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Features",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "What Does a Healthcare CEO Do?",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Healthcare Marketing Practices Gone in the Blink of an Eye",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Improving Quality Across the Care Continuum",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "The Elusive Keys to a Healthier Nation， Part 1",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "Advertising Policy",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "This is just the tip of the iceberg...",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "Support the companies that support your profession.",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "INDUSTRY ADVISORY BOARD MEMBERS",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "EDITORIAL ADVISORY BOARD",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 235,
+      "label": "section-title",
+      "text": "Editorial",
+      "parent_id": 235,
+      "order": 6
+    },
+    {
+      "id": 240,
+      "label": "section-title",
+      "text": "Design",
+      "parent_id": 240,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "Marketing",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "Administration",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 253,
+      "label": "section-title",
+      "text": "Media& Marketing Opportunities",
+      "parent_id": 253,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "Display Advertising",
+      "parent_id": 255,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "Education Opportunities",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 261,
+      "label": "section-title",
+      "text": "Custom Promotions",
+      "parent_id": 261,
+      "order": 6
+    },
+    {
+      "id": 272,
+      "label": "title",
+      "text": "A Clinician’s Perspective on Big Data",
+      "parent_id": 272,
+      "order": 6
+    },
+    {
+      "id": 283,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 283,
+      "order": 6
+    },
+    {
+      "id": 290,
+      "label": "section-title",
+      "text": "Leading for Excellence",
+      "parent_id": 290,
+      "order": 6
+    },
+    {
+      "id": 295,
+      "label": "section-title",
+      "text": "ELEMENTS OF SUCCESS",
+      "parent_id": 295,
+      "order": 6
+    },
+    {
+      "id": 309,
+      "label": "section-title",
+      "text": "RANKINGS OF QUALITY PROGRAMS",
+      "parent_id": 309,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 321,
+      "label": "title",
+      "text": "Leading in a Time of Technology Transition",
+      "parent_id": 321,
+      "order": 6
+    },
+    {
+      "id": 330,
+      "label": "section-title",
+      "text": "Q: oWrghaatn’isz daitfifoenrse nint aabn oeurt al ewahdeinn gt epcrohvniodleorgy is changing everything?",
+      "parent_id": 330,
+      "order": 6
+    },
+    {
+      "id": 336,
+      "label": "section-title",
+      "text": "Q: What would you list as the top two or three challenges facing for leading provider organizations?",
+      "parent_id": 336,
+      "order": 6
+    },
+    {
+      "id": 346,
+      "label": "section-title",
+      "text": "Q: tWo haadtd arrees ssiongm te hoef steh ec hbaelslte nagpeprso?aches",
+      "parent_id": 346,
+      "order": 6
+    },
+    {
+      "id": 350,
+      "label": "section-title",
+      "text": "Q: THoodwa yd toe lcehandoilnogg py rios vriadpeird olyr gcahnainzagtiinogn.s stay current without sacrificing quality while still making cost-effective decisions?",
+      "parent_id": 350,
+      "order": 6
+    },
+    {
+      "id": 354,
+      "label": "section-title",
+      "text": "Q: cHhoawn igse sM icn Kteescshonno laodgdyr?essing",
+      "parent_id": 354,
+      "order": 6
+    },
+    {
+      "id": 357,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 357,
+      "order": 6
+    },
+    {
+      "id": 360,
+      "label": "section-title",
+      "text": "For more information on McKesson and their enterprise solutions, visit www.mckesson.com\\ConnectedEnterprise.",
+      "parent_id": 360,
+      "order": 6
+    },
+    {
+      "id": 367,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 367,
+      "order": 6
+    },
+    {
+      "id": 369,
+      "label": "section-title",
+      "text": "STANDARDIZATION IS KEY",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 373,
+      "label": "section-title",
+      "text": "STREAMLINED APPROACH",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 377,
+      "label": "section-title",
+      "text": "INTERNAL BUSINESS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 383,
+      "label": "title",
+      "text": "Effciiency in Healthcare Delivery",
+      "parent_id": 383,
+      "order": 6
+    },
+    {
+      "id": 392,
+      "label": "section-title",
+      "text": "OUT WITH THE OLD?",
+      "parent_id": 392,
+      "order": 6
+    },
+    {
+      "id": 402,
+      "label": "section-title",
+      "text": "HHS AND CFPB WARNING SHOTS FIRED: 3 STEPS TO PREP YOUR HEALTH SYSTEM",
+      "parent_id": 402,
+      "order": 6
+    },
+    {
+      "id": 431,
+      "label": "section-title",
+      "text": "MEDICINE’S DIGITAL FRONTIER",
+      "parent_id": 431,
+      "order": 6
+    },
+    {
+      "id": 440,
+      "label": "section-title",
+      "text": "CONVENIENCE DRIVES CAPACITY UTILIZATION",
+      "parent_id": 440,
+      "order": 6
+    },
+    {
+      "id": 443,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 443,
+      "order": 6
+    },
+    {
+      "id": 448,
+      "label": "section-title",
+      "text": "ON THE WEB",
+      "parent_id": 448,
+      "order": 6
+    },
+    {
+      "id": 453,
+      "label": "section-title",
+      "text": "Improved Productivity in Healthcare Delivery",
+      "parent_id": 453,
+      "order": 6
+    },
+    {
+      "id": 461,
+      "label": "section-title",
+      "text": "STAFFING INITIATIVES ADDRESS TIME SAVINGS, SKILL LEVEL",
+      "parent_id": 461,
+      "order": 6
+    }
+  ]
+}

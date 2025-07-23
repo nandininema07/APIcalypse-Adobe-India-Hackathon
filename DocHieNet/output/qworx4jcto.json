@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "GRAIN GROWTH IN THE CIRCUMSTELLAR DISKS OF THE YOUNG STARS CY TAU AND DOAR 25 ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1. INTRODUCTION ",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2. OBSERVATIONS ",
+      "parent_id": 38,
+      "order": 2
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.1. CARMA Observations ",
+      "parent_id": 40,
+      "order": 3
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "2.2. VLA Observations ",
+      "parent_id": 50,
+      "order": 4
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2.2.1. High Frequency ",
+      "parent_id": 51,
+      "order": 5
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "2.2.2. Low Frequency ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "2.2.3. VLA data acquisition and calibration ",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "2.3. SMA Observations ",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "2.4. Averaging of interferometric data ",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "3. OBSERVATIONAL RESULTS ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "3.1. CY Tau ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "3.2. DoAr 25 ",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "3.3. Brightness temperature and optical depth of the emission ",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "3.4. De-projected visibility profiles ",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "4. MODELING OF THE DISK EMISSION ",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "5. MODELING RESULTS ",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "5.1. CY Tau and DoAr 25 disk structure constraints ",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "5.2. Radial variations of the dust opacity ",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "5.3. Radial variation of the dust opacity under the assumption of grain growth ",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 171,
+      "label": "section-title",
+      "text": "6. DISCUSSION ",
+      "parent_id": 171,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "6.1. Comparison with theory ",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 189,
+      "label": "section-title",
+      "text": "6.2. Comparison with other disks ",
+      "parent_id": 189,
+      "order": 6
+    },
+    {
+      "id": 202,
+      "label": "section-title",
+      "text": "7. CONCLUSIONS ",
+      "parent_id": 202,
+      "order": 6
+    },
+    {
+      "id": 209,
+      "label": "section-title",
+      "text": "REFERENCES ",
+      "parent_id": 209,
+      "order": 6
+    }
+  ]
+}

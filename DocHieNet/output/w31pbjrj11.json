@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "霍邱县环境保护能力建设--监管能力提升政府采购项目",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "项目编号：HQCGZX-2019028",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "第一部分招标文件",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "一、霍邱县环境保护能力建设--监管能力提升政府采购项目公开招标公告",
+      "parent_id": 39,
+      "order": 3
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "一、项目名称及内容",
+      "parent_id": 41,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "二、投标供应商资格",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "三、招标文件的获取：",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "四、开标时间及地点",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "五、投标截止时间",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "六、其它事项说明",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "七：联系方法",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "八、投标保证金缴纳账户",
+      "parent_id": 87,
+      "order": 6
+    }
+  ]
+}

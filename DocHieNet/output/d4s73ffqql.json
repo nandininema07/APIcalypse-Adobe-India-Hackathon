@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "A MULTI-LAYER APPROACH TO SUPERPIXEL-BASED HIGHER-ORDER CONDITIONAL ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "RANDOM FIELD FOR SEMANTIC IMAGE SEGMENTATION ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "ABSTRACT ",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1. INTRODUCTION ",
+      "parent_id": 12,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2. PRELIMINARIES ",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2.1. Conditional Random Fields [13] ",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2.2. Superpixel-based Higher-order CRFs ",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "3. THE PROPOSED METHODS ",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3.1. Important Observations ",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "3.2. The First Layer: Segmentation as Input CRF (SaI) ",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.3. SaI-based Multi-layer CRFs Framework ",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3.4. The Application of SaI and SM-CRF on Fully Con- nected CRF Models ",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "4. EXPERIMENTS ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "4.1. Experimental Setup ",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "4.2. Evaluation with DenseCRF on MSRC-21 ",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "4.3. Evaluation with CRF-RNN on PASCAL VOC 2012 ",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "5. CONCLUSIONS ",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "6. REFERENCES ",
+      "parent_id": 95,
+      "order": 6
+    }
+  ]
+}

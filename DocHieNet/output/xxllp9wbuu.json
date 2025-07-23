@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "COURT FILE NUMBER",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "COURT",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "JUDICIAL CENTRE",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "PLAINTIFFS",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "DEFENDANTS",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "DOCUMENT",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "ADDRESS FOR SERVICE",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "AND CONTACT",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "INFORMATION OF PARTY FILING THIS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "DOCUMENT",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "NOTICE TO DEFENDANTS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Statement of facts relied on：",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "A. By MacKechnie：",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "B. By the Crown：",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "C. As to both Plaintiffs：",
+      "parent_id": 83,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Information Architecture and Design",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1. Course description",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "2. Course objectives",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "3.Texts",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "3.1 Required texts",
+      "parent_id": 22,
+      "order": 4
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3.2 Recommended text",
+      "parent_id": 26,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "4.Policies",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "4.1 Policies concerning assignments",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "4.2 Policies on class attendance and participation",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "5. Grading",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "5.1 Grading scale",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "5.2 Grading rubric for presentations in the class",
+      "parent_id": 53,
+      "order": 6
+    }
+  ]
+}

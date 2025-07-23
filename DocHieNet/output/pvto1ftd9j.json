@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "FINANCE AUTHORITY OF MAINE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1. Eligible Projects",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "2. Application. In order to provide the Authority with a basis to make the determinations required by the Act and these regulations， an applicant shall make an application， in one or more parts， which will include the following：",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3. Additional Information for Certain Applications. With respect to certain types of projects， the Act requires the Authority to make additional determinations. Those projects include major business expansion projects， relocation of certain facilities， recycling and waste reduction projects， paper industry job retention projects， transmission facilities projects， pollution control facilities， energy generating system projects， energy distribution system projects and certain hydroelectric facilities. In these cases， the application must provide such information as the Authority may reasonably require as a basis for such determinations.",
+      "parent_id": 37,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "4. Public Hearing. Prior to issuing a certificate of approval， the chief executive officer of the Authority shall convene and conduct a public hearing with respect to the application. As required by the Act， the applicant shall notify any businesses identified pursuant to section 2， subsection J of the date， time and place of the hearing and provide the Authority with a copy of each notice. The chief executive officer may require such other or further notice as may be necessary or desirable to provide adequate notice to affected businesses.",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "5. Contribution. In determining whether or not to issue a certificate of approval for a project， the chief executive officer shall consider whether economic growth will be enhanced， jobs will be retained， pollution will be reduced or the health， welfare or safety of the inhabitants of the State will be improved.",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "6. Detriment. No certificate of approval will be issued for any project where the chief executive officer finds that implementation of the project is likely to cause economic detriment to one or more existing businesses， which detriment is substantial and would have a material adverse impact on such business. In determining whether or not to issue a certificate of approval， the chief executive officer shall consider whether the project serves a new market segment or a market segment not serviced by existing business in the State. In determining whether， as a result of the project， there will not be sufficient demand within the market area of the State to be served by the project to employ the efficient capacity of existing business， the chief executive officer shall consider whether the market is growing and whether the project would be likely to cause a significant， adverse change in the market shares of existing enterprises. For purposes of this section， \"efficient capacity\" means that part of the quantity of production or supply of services which is produced or supplied by businesses employing well-designed structures， equipment or techniques that are comparable to current practices.",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "7. Creditworthiness. In deciding whether to issue any securities for a project， the chief executive officer shall determine， on the basis of available information， that it is reasonable to expect that the applicant and any guarantor will be able to pay debt service upon the securities， or that adequate security is being provided to assure repayment of the securities. Where Authority credit enhancement is being provided， the following credit criteria shall apply in addition to those criteria set forth in Chapter 101 of the Rules of the Authority， as applicable：",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "8. Fees， Expenses and Interest Rate",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "8-A.[Section repealed May 15，1990]",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "9. Housing. The Authority will not provide financing from proceeds of revenue obligation securities issued by the Authority for any housing which is eligible for financing by the Maine State Housing Authority except with respect to property which the Authority has acquired or may acquire on account or in anticipation of imminent or actual default under the mortgage insurance programs.",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "10. Major Business Expansion Projects. No application for a major business expansion project will be approved unless the Authority determines that the applicant is creditworthy and there is a strong likelihood that the revenue obligation securities will be repaid through the revenues of the project and any other sources of revenues and collateral pledged to the repayment of those",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "securities. In order to make this determination， the Authority shall consider those factorscommission， including any findings and conclusions pertaining to the need for necessary to measure and evaluate the sufficiency of the pledged revenues to repay the the project and the financial viability of the project； and obligations， including：",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "10-A. Energy Distribution System Projects. In addition to any other applicable requirements of this rule， no Energy Distribution System Project will be approved unless the following conditions are met：",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "A. In the case of an energy distribution system project regulated by the Public Utilities Commission with respect to rates or terms of service or that requires， for construction or operation， authorization or certification from the commission：",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "B. The Authority has determined that the applicant is creditworthy and that there is a reasonable likelihood that the revenue obligation securities will be repaid through the revenues of the project and any other sources of revenues and collateral pledged to the repayment of those securities. In order to make these determinations， the authority shall consider such factors as it considers necessary and appropriate in light of the special purpose or other nature of the business entity owning the project and the specific purposes of the project to measure and evaluate the project and the sufficiency of the pledged revenues to repay the obligations， including， but not limited to：",
+      "parent_id": 85,
+      "order": 6
+    }
+  ]
+}

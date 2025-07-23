@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "A Monte Carlo Simulation Approach for Quantitatively ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Evaluating Keyboard Layouts for Gesture Input ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1. Introduction ",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "2. Modeling Swipe Input ",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "2.1. Input Vectors and Interpolations ",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "2.2. Lexicon ",
+      "parent_id": 35,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3. Gesture Clarity and Recognition Error Rate ",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "3.1. Gesture Input Recognition ",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "3.1.1. Euclidean Distance ",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3.1.2. Feature Set ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.1.3. Artificial Neural Network Classifier ",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "3.2. Monte Carlo Error Rate Evaluation ",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "3.2.1. Radix Tree Pruning ",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "4. Results ",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "4.1. Optimizing Keyboards to Minimize the Error Rate ",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "4.2. Evaluating Existing Virtual Keyboard Layouts ",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "5. Discussion ",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "6. Conclusions ",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 145,
+      "order": 6
+    }
+  ]
+}

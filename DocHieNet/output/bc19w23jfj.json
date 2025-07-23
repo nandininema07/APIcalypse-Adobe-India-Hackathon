@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "文章编号：11001-4675(2007)05-0723-05产项目进行申报.这对于创建我国世界自然遗产保护",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "喀纳斯世界遗产价值分析与保护开发",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1世界自然遗产的概念及评选标准",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1.11自然遗产的概念",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1.2世界自然遗产评选标准",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1.3中国的世界自然遗产",
+      "parent_id": 18,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2喀纳斯区域概况",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "3喀纳斯的世界遗产价值分析",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "3.1喀纳斯与\"金山阿尔泰\"世界自然遗产地对比",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "32!喀纳斯符合世界自然遗产的标准",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "4喀纳斯申报世界遗产的意义",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "4.1喀纳斯遗产资源的多重价值",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "4.2 世界遗产\"真实性、完整性\"的准则",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "4.3建立中俄阿尔泰山世界遗产地",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "5小\\结",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "title",
+      "text": "Analysis on the Value of W orld Nature Her itage in Kanas and Study on Its Conservation and Developm en t",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

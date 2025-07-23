@@ -1,0 +1,235 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Arhuaco: Deep Learning and Isolation Based Security for Distributed ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "title",
+      "text": "High-Throughput Computing ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2 Related work ",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2.1 Security by Isolation in Grid Computing ",
+      "parent_id": 32,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "2.2 Intrusion Detection ",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.3 Methods used in Grid related Intrusion Detection ",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.4 Grid IDS related datasets ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.5 Malware Detection ",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3 Background ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3.1 Security by Isolation ",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "3.2 Linux Containers ",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "3.3 Machine Learning for data classification ",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "3.4 Support Vector Machines (SVM) ",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.5 Deep Learning ",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "3.6 Generative Models ",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "4 System design ",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "4.1 Linux Containers for Isolation ",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "4.2 Deep Learning for Grid job classification ",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "4.3 Feature extraction ",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "4.4 Convolutional Neural Network ",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "4.5 Recurrent Neural Network (RNN) for training data generation ",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "4.6 Arhuaco design architecture ",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "5 Implementation ",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "6 Evaluation ",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "6.1 Evaluation methods ",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 156,
+      "label": "section-title",
+      "text": "6.2 Performance impact results ",
+      "parent_id": 156,
+      "order": 6
+    },
+    {
+      "id": 170,
+      "label": "section-title",
+      "text": "6.3 Supervised classification results ",
+      "parent_id": 170,
+      "order": 6
+    },
+    {
+      "id": 194,
+      "label": "section-title",
+      "text": "6.4 Generative model results ",
+      "parent_id": 194,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "7 Discusion and future work ",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 209,
+      "label": "section-title",
+      "text": "8 Conclusions ",
+      "parent_id": 209,
+      "order": 6
+    },
+    {
+      "id": 212,
+      "label": "section-title",
+      "text": "Datasets and software ",
+      "parent_id": 212,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 215,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "TH E REP OR T OF THE MA C KENZIE VALLEY P IPELINE INQUIRY",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Bac k g r oun d",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Sc o pe of t t he Hearing s",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "R e c ommen dat ions",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Theprincipal recommendations are：",
+      "parent_id": 11,
+      "order": 4
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "I M PE RIA L' S VI E WPOINT",
+      "parent_id": 17,
+      "order": 5
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Mora to r iu ma nd N ativ e La nd C 1aims",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "The \"Corridor\"Concept",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "L a nd 1C a ndWil dlif e",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "c h er H eari ngs",
+      "parent_id": 31,
+      "order": 6
+    }
+  ]
+}

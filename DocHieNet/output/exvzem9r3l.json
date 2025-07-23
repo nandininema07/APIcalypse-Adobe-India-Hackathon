@@ -1,0 +1,179 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "AMAZON.COM ANNOUNCES THIRD QUARTER RESULTS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Highlights",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Innovating for Our Retail Customers",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "Entertainment",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Amazon Devices and Services",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Amazon Web Services",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Investing in Employees and Our Workplace",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Supporting Local Communities, Small Businesses, and the Economy",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "Protecting the Planet",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Financial Guidance",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "About Amazon",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "AMAZON.COM, INC. Consolidated Statements of Cash Flows",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "AMAZON.COM, INC. Consolidated Statements of Operations",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "AMAZON.COM, INC. Consolidated Statements of Comprehensive Income",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "AMAZON.COM, INC. Segment Information",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "AMAZON.COM, INC. Consolidated Balance Sheets",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "title",
+      "text": "AMAZON.COM, INC. Supplemental Financial Information and Business Metrics",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "AMAZON.COM, INC. Supplemental Financial Information and Business Metrics",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "AMAZON.COM, INC. Supplemental Financial Information and Business Metrics",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "Amazon.com, Inc. Certain Definitions",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "Customer Accounts",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "Seller Accounts",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "AWS Customers",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "Units",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "Contacts:",
+      "parent_id": 146,
+      "order": 6
+    }
+  ]
+}

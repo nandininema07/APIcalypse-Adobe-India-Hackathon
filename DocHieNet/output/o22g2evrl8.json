@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "2021-2027年中国商用中央空调行业研究分析及市场前景预测报告",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "一、基本信息",
+      "parent_id": 15,
+      "order": 1
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "二、内容介绍",
+      "parent_id": 29,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2019-2025年中国商用中央空调行业研究分析及市场前景预测报告",
+      "parent_id": 30,
+      "order": 3
+    }
+  ]
+}

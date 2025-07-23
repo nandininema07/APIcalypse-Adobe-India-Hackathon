@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Jerry Speziale",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Career Objective",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Professional Experience",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "NY NJ Port Authority Police Department， New York， New York 10024",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Passaic County Sheriff's Office， Wayne， New Jersey 07470",
+      "parent_id": 13,
+      "order": 4
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Bergen County Sheriff’s Office, Hackensack, New Jersey 07601",
+      "parent_id": 21,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "New Hope Police Department, New Hope, Pennsylvania 10790",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "New York City Police Department, New York, New York 10013",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "US Department of Justice, FBI-DEA Special Operations Division, Chantilly, VA 22022",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "Fairleigh Dickinson University, Teaneck, NJ 07602",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Education",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Professional Development/Education",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

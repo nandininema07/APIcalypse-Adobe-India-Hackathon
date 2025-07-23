@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "新媒体环境下品牌传播的态势",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "一、研究背景与相关概念阐释",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "二、品牌传播中新媒体的比较优势",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "(一)新媒体迎合品牌传播的精准化要求_，将目标群体转变为购买力客户",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "(二)新媒体与受众深度沟通、互动迎合消费者个性化消费需求",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "(三)新媒体为中国传媒产业规模的迅速扩张提供了强大的动力",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "(四)新媒体具有信息接收的强制性",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "三、新媒体在品牌传播中的影响",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "(一)新媒体改变了品牌传播的媒介生态环境",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "(二)新媒体改变了品牌传播的信息结构为品牌传播者提供了创新平台",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "(三)新媒体使受众从大众走向碎片化消费者成为品牌建设的参与者",
+      "parent_id": 44,
+      "order": 6
+    }
+  ]
+}

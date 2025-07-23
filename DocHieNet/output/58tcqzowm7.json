@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Rainwater harvesting： the key to sustainable rural development in Gansu， China",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Drinking water quality",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Rainwater harvesting for supplementary irrigation",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Rainwater harvesting for income generation",
+      "parent_id": 44,
+      "order": 3
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Box 1. Lanzhou International Training Course on Rainwater Harvesting and Utilization",
+      "parent_id": 46,
+      "order": 4
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "National and international technical dissemination",
+      "parent_id": 62,
+      "order": 5
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Acknowledgements",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "About the author",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "title",
+      "text": "conference call",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Rainwater as an additional water supply",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

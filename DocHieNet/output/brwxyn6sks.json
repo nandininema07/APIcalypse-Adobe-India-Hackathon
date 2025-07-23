@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "贵州政务服务网",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "\"企业经营异常名录管理里(移出)\"事项网上申请操作手册",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "第一步：进入网站",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "第二步：进入首页",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "第三步：选择对应地区的站点和部门(以省级为例)",
+      "parent_id": 12,
+      "order": 4
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "第四步：在线申请",
+      "parent_id": 17,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "第五步：信息完善并提交",
+      "parent_id": 32,
+      "order": 6
+    }
+  ]
+}

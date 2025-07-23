@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "关于加强药品和医用耗材集中采购工作的意见",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、基本原则",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "二、完善药品和医用耗材挂网方式",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "三、推进药品和医用耗材带量采购",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "四、完善采购平台服务功能",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "五、强化采购供应综合保障",
+      "parent_id": 24,
+      "order": 5
+    }
+  ]
+}

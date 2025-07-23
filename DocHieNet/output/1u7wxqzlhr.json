@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "福建生态工程职业技术学校汽车运用与维修专业人才培养方案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、专业名称及代码",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "二、入学要求",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "三、修业年限",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "四、职业面向",
+      "parent_id": 11,
+      "order": 4
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "五、培养目标与培养规格",
+      "parent_id": 13,
+      "order": 5
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1.职业素养。",
+      "parent_id": 16,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2.专业知识和技能。",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "3.专业(技能)方向——汽车机械维修。",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "4.专业(技能)方向——汽车性能检测。",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "5.专业(技能)方向——汽车维修业务接待。",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "六、课程设置及要求",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "1.专业核心课。",
+      "parent_id": 76,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "成都金牡丹工程管理咨询有限公司CHENGDU JINMUDAN ENGINEERING MANAGEMENT CONSULTING CO. LTD.",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "一、项目概况",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "二、技术要求、服务内容及范围",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "包1：中学课程服务",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "(一)服务要求",
+      "parent_id": 7,
+      "order": 4
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1、人工智能教育课程服务",
+      "parent_id": 8,
+      "order": 5
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "①教学记录表",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "②课程评价表",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "2、人工智能教育师资培训",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "②师资培训平台及线上课程",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "③校本应用实践活动",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "3、课程软硬件环境要求",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "★(1)人工智能配套硬件要求",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "(2)人工智能教学平台要求",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "(二)商务要求",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "1、服务期及地点",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "★2、付款方式",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "(三)验收要求",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "(四)其他要求",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "人工智能及创新教育项目实施情况评价表",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

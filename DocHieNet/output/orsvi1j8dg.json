@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "干旱胁迫对转CpHRD基因烟草的影响及车轴草(Trifolium alexandrinum) 中过表达， 可降",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "Influence of Drought Stress on Transgenic CpHRD Gene in Tobacco",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "材料与方法",
+      "parent_id": 23,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "1材料",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "2试剂",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3方法",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "3.1载体构建",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3.2转基因烟草的获得和鉴定",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "3.3转基因烟草的抗旱性测定",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "实验结果",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "1转基因烟草的获得和鉴定",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2自然干旱对转基因烟草生理指标的影响",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3转基因烟草的形态和气孔的观察",
+      "parent_id": 66,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Directed collective motion of bacteria under channel confinement ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "INTRODUCTION ",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "MATERIALS AND METHODS ",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Exp eriments ",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Measuring the bacterial orientation ",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Mo delling and Simulations ",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "RESULTS ",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Confinement stabilises a bacterial stream ",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Bacterial flow patterns under confinement ",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Boundaries and fluid flow drive the bacterial circulation ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Spatial and temporal variations in bacterial flow patterns ",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "DISCUSSION ",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "Acknowledgments ",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 107,
+      "order": 6
+    }
+  ]
+}

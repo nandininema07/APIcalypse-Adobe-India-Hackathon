@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "权风险的基础上，愿意按标的债权现状整体受让标的债权。不良金融资产转让合同(适用于批量转让)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "第一条定义",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "第二条风险揭示",
+      "parent_id": 28,
+      "order": 2
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "第三条转让的标的债权",
+      "parent_id": 38,
+      "order": 3
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "第四条转让价款及支付方式",
+      "parent_id": 40,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "4.1转让价款",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "4.2支付方式",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "第五条标的债权的转移、交付与公告",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "5.1标的债权的转移",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "5.2文件的交付",
+      "parent_id": 56,
+      "order": 6
+    }
+  ]
+}

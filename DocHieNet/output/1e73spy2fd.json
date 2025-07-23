@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "培训和实操培训两部分，具体收费标准详见附表2。内蒙古自治区发展改革委、财政厅、人力资源和社会保障厅关于规范内蒙古自治区职业技能培训和鉴定收费标准等有关问题的通知",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、收费项目及标准",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "(一)职业技能培训",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(二)职业技能鉴定",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "二、补贴范围和补贴标准牌的职业(工种)，培训补贴标准可上浮10%。",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "(一)职业技能培训",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "1.职业技能培训补贴范围",
+      "parent_id": 23,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2.就业技能培训补贴标准",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "3.劳动预备制培训补贴标准",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "4.企业新录用人员培训补贴标准",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "5.创业培训补贴标准",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "6.技师、高级技师培训项目补贴标准",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "(二)职业技能鉴定",
+      "parent_id": 39,
+      "order": 6
+    }
+  ]
+}

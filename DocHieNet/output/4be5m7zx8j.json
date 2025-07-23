@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "态系统(Eastern Boundary Upwelling Ecosystems)气候变化与全球海洋：影响副热带涡旋(Sub-Tropical Gyres)和深海(Deep Sea，适应和脆弱性评估之解读>1000m)等7个亚区域，如图1所示[1]。极地海域及其他涉海的部分分别由\"极地区域\"(第28章)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "引言",
+      "parent_id": 18,
+      "order": 1
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "1全球海洋的7个亚区域",
+      "parent_id": 21,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2影响与风险",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3适应和脆弱性",
+      "parent_id": 51,
+      "order": 4
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "4结论与讨论",
+      "parent_id": 71,
+      "order": 5
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "4.1结论",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "4.2讨论",
+      "parent_id": 75,
+      "order": 6
+    }
+  ]
+}

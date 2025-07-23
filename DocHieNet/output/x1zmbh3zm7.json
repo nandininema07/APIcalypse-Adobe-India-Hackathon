@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "Clearing the Air: A Review of the Effects of Particulate Matter Air Pollution on Human Health",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 16,
+      "order": 1
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Methods",
+      "parent_id": 30,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "PM and Cardiovascular Health Effects",
+      "parent_id": 35,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Cardiovascular Mechanisms",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "Long-Term Effects",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Short-Term Effects",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "PM and Respiratory Health Effects",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "Respiratory Mechanisms",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Respiratory Symptoms and Medication Usage",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "PM and Pulmonary Function",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "PM and Respiratory-Related Healthcare Utilization",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "PM and Respiratory Mortality",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "PM and Cerebrovascular Health Effects",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Recommendations and Conclusions",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "Clinical Recommendations",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 118,
+      "order": 6
+    }
+  ]
+}

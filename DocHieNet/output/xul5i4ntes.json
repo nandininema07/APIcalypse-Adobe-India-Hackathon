@@ -1,0 +1,242 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Armed Officer's Training Manual",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "Section 3： USE OF FORCE",
+      "parent_id": 2,
+      "order": 1
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "OREGON LAW",
+      "parent_id": 4,
+      "order": 2
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Definitions",
+      "parent_id": 6,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Statutes",
+      "parent_id": 10,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "It is very important to understand that Oregon law places restrictions on the use of DEADLY PHYSICAL FORCE",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Becoming the Aggressor",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Being the AGGRESSOR means using EXCESSIVE or UNJUSTIFIED FORCE.",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Oregon Department of Public Safety Standards and Training ARMED PRIVATE SECURITY PROFESSIONAL",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Types of Criminal Homicide：",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Civil Penalties for Use of Deadly Physical Force",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "Section 3： Review",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "title",
+      "text": "Armed Officer's Training Manual",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "Section 4： Decision Making Responsibilities",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "The Decision-Making Process",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "Understand the Armed Mission",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Know the Facts",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "Obtain Information",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "Review Past Experience ... *",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "Understand MEANS， OPPORTUNITY and INTENT",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "1. The MEANS exist for person to cause you or another person serious physical injury or death.",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "2. The OPPORTUNITY exists for another person to cause you or another person serious physical injury or death.",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "3. You reasonably believe that a person has the INTENT to seriously injure or kill you or another.",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "Consider the Totality of the Circumstances",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 135,
+      "label": "section-title",
+      "text": "Give the Threat Clear， Understandable Commands",
+      "parent_id": 135,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "Examine Alternatives to Force",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "Section 4： Review",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "title",
+      "text": "Armed Officer's Training Manual",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "Section 5： After Using Deadly Physical Force",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "The Immediate Aftermath",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 164,
+      "label": "section-title",
+      "text": "Recommended Post-Shooting Actions",
+      "parent_id": 164,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "Section 5： Review",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "title",
+      "text": "Armed Officer's Training Manual",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "Section 6： Decision-Making Scenarios",
+      "parent_id": 178,
+      "order": 6
+    }
+  ]
+}

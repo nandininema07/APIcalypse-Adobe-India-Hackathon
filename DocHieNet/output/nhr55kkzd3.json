@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "消防验收和消防验收备案业务档案管理要点",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "一、适用范围",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "二、归档内容",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "三、归档要求",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "(一)基本要求",
+      "parent_id": 10,
+      "order": 4
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "(二)纸质文件要求",
+      "parent_id": 16,
+      "order": 5
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "(三)签字要求",
+      "parent_id": 20,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "(四)签章要求",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "(五)表格填写要求",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "(六)电子文件要求",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "四、立卷及编目要求",
+      "parent_id": 47,
+      "order": 6
+    }
+  ]
+}

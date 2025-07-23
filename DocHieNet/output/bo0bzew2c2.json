@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "E-COMMERCE INFRASTRUCTURE FOR THE DEVELOPMENT OF TECHNOLOGY AND COMMUNICATION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1. Introduction：",
+      "parent_id": 15,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "1.1 Objectives",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "II. LITERATURE REVIEW",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.1E-Commerce in increasing Countries：",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.3 RESEARCH MODEL AND THEORY",
+      "parent_id": 48,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "2.3.1. Explore Mode",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2.3.2 Control and Privacy",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "2.3.4Isolation Cost：",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "2.2E-Commerce in Iran & UAE",
+      "parent_id": 57,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 7,
+      "label": "title",
+      "text": "The Effect of Human Resource Ethics on Financial Reporting Implications for Good Government Governance (Survey of Related Sub-units in State-owned Enterprises in SUMSEL)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2.HUMAN RESOURCE ETHICS",
+      "parent_id": 30,
+      "order": 2
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2.1.Utilitarianism",
+      "parent_id": 36,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "2.2. Individual Right",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.3.Distributive Justice",
+      "parent_id": 40,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.4.Responsibility",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.5.Accountability",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.6.Obligations",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "3.FINANCIAL REPORTING",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "3.1.Accountability",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.2. Management",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.3. Transparency",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3.4.Intergenerational Equity",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "4. GOOD GOVERNMENT GOVERNANCE",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "4.1. Effect of Human Resource Ethics on Financial Reporting",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "中国农村水利发展状况与科技需求",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "0引言",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1农村水利发展的主要内容",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "1.1农村饮水安全工程建设",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "一体的技术成果少；推广体系不健全、针对农民的培训1.2病险水库、病险水闸除险加固工作",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "宣传力度及效果不够等。病险水库、病险水闸除险加固工作是保证灌溉水源的重要工作。当前对该工作的部署看，国务院批复实施的《全国病险水库除险加固专项规划》内6240座大中型和重点小型病险水库、《东部地区重点小型病险水库除险加固规划》确定的1116座，可确保2010年完成除险加固任务，并将统筹安排其余病险水库除险加固。按照《中共中央国务院关于加大统筹城乡发展力度进一步夯实农业农村发展基础的若干意见》(中发【2010】1号)提出\"在科学规划论证基础上，启动大中型病险水闸除险加固\"的要求，根据近期完成的全国大中型病险水闸除险加固专项规划初步成果，计划2010-2015年对2666座病险水闸实施除险加固。",
+      "parent_id": 32,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "1.3大中型灌区节水改造和大型排灌泵站更新改造",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "1.4小型农田水利工程建设",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "1.5发展节水灌溉",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2农村水利科技发展概况",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "2.1近期节水灌溉技术研究进展",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "2.1.11宏观战略研究和规划编制",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "2.1.22技术基础理论研究",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "2.1.33不同尺度条件下灌溉水高效利用研究",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.1.4全力做好国家\"十一五\"科技支撑计划立项的节水灌溉重大课题研究",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "2.22农村饮水技术研究进展",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "2.2.1.技术政策和规划编制",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "2.2.2开展了一批专题研究",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "2.2.3搞好国家\"十一五\"科技支撑计划农村饮水安全重大课题研究",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "2.3集成、推广的部分新技术",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "2.3.11现代灌区管理快速评价及软件开发",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "2.3.2以蒸发蒸腾量管理理念为核心的水资源管理",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "3未来农村水利发展对科技需求探讨",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "3.1农村水利科技的综合集成特点",
+      "parent_id": 90,
+      "order": 6
+    }
+  ]
+}

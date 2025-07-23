@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "UNITED STATES’ MOTION TO REVOKE RELEASE ORDER",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "I. The Defendant’s Arrest, Charges and Release Conditions",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "II. Evidence of The Defendant’s Possession of Firearms and a Destructive Device in Violation of his Pre-trial Release Conditions and 18 U.S.C. § 922(n)",
+      "parent_id": 39,
+      "order": 3
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "A. Robertson’s Yahoo, Gunbroker.com, and Venmo Accounts",
+      "parent_id": 40,
+      "order": 4
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "B.The Search of Defendant Robertson’s Home on June 29, 2021",
+      "parent_id": 87,
+      "order": 5
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "III. Argument in Support of Pre-trial Detention",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "A. Relevant Legal Standards",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "B.Discussion",
+      "parent_id": 111,
+      "order": 6
+    }
+  ]
+}

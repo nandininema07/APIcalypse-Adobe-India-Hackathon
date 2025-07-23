@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "I. Compensators vs. Regulators",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Toleration and Resistance",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "III Phenotypic Plasticity and Phenotypic Flexibility",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "I. Energy",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "II. Le Temperature",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "1.Definitions",
+      "parent_id": 52,
+      "order": 5
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "I. Gaseous Environment",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "IV. Water Balance",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "V. Toxins",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "特岗常见问题参考答案",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、公告类",
+      "parent_id": 5,
+      "order": 1
+    }
+  ]
+}

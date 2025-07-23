@@ -1,0 +1,389 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "O N 7 TH E RIGHT PAT H",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "YELLOW- BLOODEDPEOPLE",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "OUR VALUES",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "ON THE RIGHTTPATH",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "GROWTH",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "AGILITY",
+      "parent_id": 28,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "LEAN",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "CORPORATE SOCIAL RESPONSIBILITY",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "FINALLY…",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "ADVENTURE BY DESIGN",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "A stand-alone company since 2003",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Company overview",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "OUR PRODUCT LINES",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "POWERSPORTS YEAR-ROUNDPPRODUCTS",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "CAN-AM",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Can-Am On-Road",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Can-Am Off-Road",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "CSR",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "POWERSPORTS SEASONALPRODUCTS",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "SKI-D0O",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "SEA-D0O",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "CSR",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "SKI-DOO",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "LYNX",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "SEA-DOO",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "POWERSPORTSPAC ANDOEMENGINES",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "POWERSPORTS PAC",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 135,
+      "label": "section-title",
+      "text": "ROTAX",
+      "parent_id": 135,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "CSR",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "MARINE",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "EVINRUDE",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "ALUMACRAFT",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "MANITOU",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 175,
+      "label": "section-title",
+      "text": "CSR",
+      "parent_id": 175,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "section-title",
+      "text": "EVINRUDE",
+      "parent_id": 176,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "ALUMACRAFT",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 180,
+      "label": "section-title",
+      "text": "MANITOU",
+      "parent_id": 180,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "CORPORATE SOCIAL RESPONSIBILITY",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 192,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 192,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "FINANCIAL SECTION",
+      "parent_id": 199,
+      "order": 6
+    },
+    {
+      "id": 202,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 202,
+      "order": 6
+    },
+    {
+      "id": 216,
+      "label": "section-title",
+      "text": "INFORMATION FOR INVESTORS",
+      "parent_id": 216,
+      "order": 6
+    },
+    {
+      "id": 217,
+      "label": "section-title",
+      "text": "Stock Exchange Information",
+      "parent_id": 217,
+      "order": 6
+    },
+    {
+      "id": 219,
+      "label": "section-title",
+      "text": "Dividend Payments for FY2019",
+      "parent_id": 219,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "Research Coverage1",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 224,
+      "label": "section-title",
+      "text": "Fiscal Year 2020 Tentative Earnings Calendar",
+      "parent_id": 224,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "Issued and Outstanding Shares",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "Annual Shareholders’ Meeting",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 233,
+      "label": "section-title",
+      "text": "Information Requests",
+      "parent_id": 233,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": "Shareholder Services",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "For more information",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 243,
+      "label": "section-title",
+      "text": "FORWARD-LOOKING STATEMENTS",
+      "parent_id": 243,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "KEY ASSUMPTIONS",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "NON-IFRS MEASURES",
+      "parent_id": 249,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "title",
+      "text": "SECTION 1. Ministerial Foreword",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 26,
+      "label": "title",
+      "text": "SECTION 2. Overview and where we are now",
+      "parent_id": 26,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Where we are now",
+      "parent_id": 35,
+      "order": 3
+    },
+    {
+      "id": 48,
+      "label": "title",
+      "text": "SECTION 3. Our Priorities",
+      "parent_id": 48,
+      "order": 4
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Priority Group Milestones and Markers",
+      "parent_id": 56,
+      "order": 5
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "PRIORITY GROUP MILESTONES",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "• Milestone 1 – by mid February – cohorts 1- 4.",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "• Milestone 2 – by the Spring –priority cohorts 5 – 9.",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "• Milestone 3 – by the autumn",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Markers",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Supply",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "title",
+      "text": "SECTION 4. Our Vaccination Infrastructures-Where and How to Get Vaccinated",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "The vaccination delivery model",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Making appointments-Welsh Immunisation System",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "Workforce – the military, utilising our wider public sector and volunteers",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "title",
+      "text": "COVID-19 VACCINATION CENTRES",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "title",
+      "text": "SECTION 5: Keeping up to date on the vaccination programme",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "title",
+      "text": "ANNEX 1",
+      "parent_id": 126,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "DIGITRLES ARCHIU",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "Pricing in oil market and using probit model for analysis of stock market effects",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Provided in Cooperation with：",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "This Version is available at：",
+      "parent_id": 8,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Kontakt/Contact",
+      "parent_id": 10,
+      "order": 4
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Standard-Nutzungsbedingungen：",
+      "parent_id": 12,
+      "order": 5
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "Terms of use：",
+      "parent_id": 14,
+      "order": 6
+    },
+    {
+      "id": 23,
+      "label": "title",
+      "text": "International Journal of Energy Economics and Policy",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "title",
+      "text": "Pricing in Oil Market and Using Probit Model for Analysis of Stock Market Effects",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "1.INTRODUCTION",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "2.LITERATURE REVIEW",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "3.METHODS",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "4.RESULTS",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "5.CONCLUSION",
+      "parent_id": 102,
+      "order": 6
+    }
+  ]
+}

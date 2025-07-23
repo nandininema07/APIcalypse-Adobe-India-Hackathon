@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "FIRST ADDENDUM TO GATEWAY MORTGAGE GROUP，LLC OKLAHOMA QUALITY JOBS PROGRAM .... OKLAHOMA DEPARTMENT OF COMMERCE OKLAHOMA QUALITY JOBS AGRELMENT CONTRACT DATED EFFECTIVE JULY 1，2016",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 22,
+      "label": "title",
+      "text": "OKLAHOMA QUALITY JOBS PROGRAM DEPARTMENT OF COMMERCE",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "WITNESSETH：",
+      "parent_id": 29,
+      "order": 2
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "ARTICLE I. OKL AHO M A QUALITY JOBS PRO G R AM",
+      "parent_id": 33,
+      "order": 3
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "A RTICLE II. CO MPA NY'S OBLIGATION S",
+      "parent_id": 43,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "COMPANY'S OBLIGATIONS",
+      "parent_id": 44,
+      "order": 5
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "A rticle III. ADDITIONAL T E RMS",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "A RTICLE IV. MISCELLANEO US",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "title",
+      "text": "OKLAHOMA QUALITY JOBS PROGRAM DEPARTMENT OF COMMERCE MANAGER'S CERTIFICATE",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

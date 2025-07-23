@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "EXPERTISE AS A DRIVING FORCE OF POLICY-MAKING：The case of pension reform in Kazakhstan",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Executive Summary",
+      "parent_id": 45,
+      "order": 1
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "1. Introduction",
+      "parent_id": 50,
+      "order": 2
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "辽宁科技大学网上商城采购实施细则",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "第六条网上商城采购流程",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(一)申请与审批",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "(二)采购实施",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "(三)供货与验收",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "(四)固定资产入库",
+      "parent_id": 19,
+      "order": 5
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "(五)付款与报销",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "title",
+      "text": "辽宁省政府采购网上商城采购目录",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

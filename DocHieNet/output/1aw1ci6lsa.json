@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "文章编号：1000-8462(2008) 04-0569-04",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "title",
+      "text": "中俄石油现状及合作",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "1中俄石油资源现状",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "1.1中国石油资源现状",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "1.22俄罗斯石油资源现状",
+      "parent_id": 42,
+      "order": 4
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2中俄石油合作可行性分析",
+      "parent_id": 51,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "2.1地理邻近，政策一致",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "2.2资源互补，市场匹配",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "2.3可望实现双赢\"",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "3中俄石油合作前景",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "3.1合作基础",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "3.2前景预测",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "4结论",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "title",
+      "text": "ANANALYSIS ON THE OIL PRESENT SIT UATION AND COOPERATION OF CHINA AND RUSSIAN",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

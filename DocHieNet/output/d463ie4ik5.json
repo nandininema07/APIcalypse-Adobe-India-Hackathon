@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "title",
+      "text": "公约全球实施进展情况——一摘要",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "引言",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "公约实施方面的总体进展",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "当前实施状况1",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "不同报告周期的实施进展比较",
+      "parent_id": 35,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "有时限的措施",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "突出成就和创新方法",
+      "parent_id": 50,
+      "order": 6
+    }
+  ]
+}

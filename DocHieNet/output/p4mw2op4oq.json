@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "关于\"龙龙\"的英译名修改问题",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "一、龙不应该翻译为dragon",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1、龙和dragon在本质上完全不同",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2、在西方的神话和传说中，dragon是恶魔的象征",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "3.中国被比喻成Red Dragon， 但red dragon是基督教传说中最初也是最大的恶魔",
+      "parent_id": 42,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "4、西方媒介用dragon象征恐怖主义势力",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "5、在西方电影里，dragon被描述为未来世界的毁灭者",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "6、在虚拟的电子游戏世界里，dragon也是恶魔",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "7、把中国的象征\"龙\"翻译为dragon， 不利于树立中国正面的国际形象",
+      "parent_id": 78,
+      "order": 6
+    }
+  ]
+}

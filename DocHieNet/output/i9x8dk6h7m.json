@@ -1,0 +1,221 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Question",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Declaration",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Referral",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "1.0 Site Location and Description",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2.0 The Question",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "3.0 Planning Authority Declaration",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3.1. Declaration",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "3.2. Planning Authority Reports",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3.2.1. Planning Reports",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "3.2.2. Other Technical Reports",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "4.0 Planning History",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "5.0 Policy Context",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "5.1. Development Plan",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "5.2. Natural Heritage Designations",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "6.0 The Referral",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "6.1. Referrer’s Case",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "6.2. Planning Authority Response",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "7.0 Statutory Provisions",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "7.1. Planning and Development Act, 2000(as amended)",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "7.2. Planning and Development Regulations, 2001",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "• Article 5(1)",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "• Article 10(1&2)",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "• Schedule 2 Part 1: Exempted Development – General",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "7.3. Relevant Precedents and Case Law",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "7.4. Referrals",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "7.5. Case Law",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "8.0 Assessment",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "8.3. Is or is not development",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "8.11. Is or is not exempted development",
+      "parent_id": 169,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "9.0 Recommendation",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

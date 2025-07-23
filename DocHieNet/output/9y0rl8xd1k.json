@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "分子生态毒理学研究进展及其在水环境保护中的意义",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "title",
+      "text": "THE ADVANCES OF MOLECULAR ECOTOXICOLOGY AND ITS SIGNIFICANCE IN WATER ENVIRONMENT PROTECTION",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.酶作为水污染指标的研究",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "1.1乙酰胆碱酯酶作为有机磷农药污染的指标",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "1.2水生生物腺三磷酶作为多种水污染物协迫的指标",
+      "parent_id": 30,
+      "order": 4
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "1.3用鱼血清的多种酶作为水环境污染的指标",
+      "parent_id": 32,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1.4蛋白磷酸酶作为促肿瘤物的检测指标",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2.解毒系统的诱导I——有机污染物与鱼体非生物物质代谢酶",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.1MFO作用、组成及特性",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "2.2水污染物对鱼P450的诱导作用",
+      "parent_id": 50,
+      "order": 6
+    }
+  ]
+}

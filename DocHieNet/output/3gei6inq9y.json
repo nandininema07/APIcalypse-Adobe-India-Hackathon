@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "BEE COLONY OPTIMIZATION-A COOPERATIVE LEARNING APPROACH TO COMPLEX TRANSPORTATION PROBLEMS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "1.Introduction",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2.The Bee Colony Optimization： The new computational paradigm",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "2.1. Bees in the Nature",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2.2.The Bee Colony Optimization Metaheuristic",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "2.3. The Fuzzy Bee System",
+      "parent_id": 44,
+      "order": 5
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "2.3.1.Calculating the solution component attractiveness and choice of the next solution component to be added to the partial solution",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "2.3.2. Bee's partial solutions comparison mechanism",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "2.3.3. Bee's decision about recruiting the nestmates",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "2.3.4.Calculating the number of bees changing the path",
+      "parent_id": 75,
+      "order": 6
+    }
+  ]
+}

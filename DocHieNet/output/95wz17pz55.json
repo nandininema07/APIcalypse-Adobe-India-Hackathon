@@ -1,0 +1,186 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Cubical Assemblies, a Univalent and Impredicative ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Universe and a Failure of Propositional Resizing ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1 Intro duction ",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "2 The Orton-Pitts Axioms ",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "3 Modeling Cubical Type Theory ",
+      "parent_id": 56,
+      "order": 5
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "3.1 The Face Lattice and Systems ",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "3.2 Fibrations ",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "3.3 Path Types and Identity Typ es ",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "3.4 Universes and Gluing ",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "4 Presheaf Models ",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "4.1 Lifting Universes ",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "4.2 Intervals ",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "4.3 Decidable Subobject Classifier ",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "4.4 Categories of Cub es ",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "section-title",
+      "text": "4.5 Constant and Codiscrete Presheaves ",
+      "parent_id": 160,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "5 A Failure of Propositional Resizing in Cubical Assemblies ",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "5.1 Prop ositional Resizing ",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "5.2 Uniform Objects ",
+      "parent_id": 187,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "section-title",
+      "text": "5.3 The Counterexample ",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 207,
+      "label": "section-title",
+      "text": "6 Conclusion and Future Work ",
+      "parent_id": 207,
+      "order": 6
+    },
+    {
+      "id": 215,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 215,
+      "order": 6
+    },
+    {
+      "id": 266,
+      "label": "section-title",
+      "text": "A Details of Comp osition for Gluing and Universe ",
+      "parent_id": 266,
+      "order": 6
+    },
+    {
+      "id": 270,
+      "label": "section-title",
+      "text": "A.1 Some Derived Notions and Op erations ",
+      "parent_id": 270,
+      "order": 6
+    },
+    {
+      "id": 276,
+      "label": "section-title",
+      "text": "A.2 Gluing ",
+      "parent_id": 276,
+      "order": 6
+    },
+    {
+      "id": 279,
+      "label": "section-title",
+      "text": "A.3 Universes ",
+      "parent_id": 279,
+      "order": 6
+    }
+  ]
+}

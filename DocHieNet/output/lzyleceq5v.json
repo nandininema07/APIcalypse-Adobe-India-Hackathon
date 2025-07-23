@@ -1,0 +1,235 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "SOFTWARE MAINTENANCE & SUPPORT AGREEMENT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "A. INCORPORATION OF DOCUMENTS",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "B. COVERAGE",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "B.1. SCOPE OF SERVICES；",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "B.2. DESCRIPTION OF SERVICES：",
+      "parent_id": 15,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "C. COMPENSATION",
+      "parent_id": 47,
+      "order": 5
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "C.1. FEES：",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "D. EXCLUSIONS OF LIABILITY",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "E. INSURANCE & LICENSES",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "E.1 WORKER'S COMPENSATION INSURANCE：",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "E.2. GENERAL LIABILITY：",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "E.3. LICENSES：",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "F. TERM AND TERMINATION",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "F.1. TERM：",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "F.2. TERMINATION：",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "G. ADDITIONAL PROVISIONS",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "G.1. CLIENT REFERENCES：",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "G.2. INDEPENDENT CONTRACTOR：",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "G.3. DESIGNATED CONTRACT REPRESENTATIVES：",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "G.4. ENTIRE AGREEMENT：",
+      "parent_id": 86,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "G，5. ATTORNEY'S FEES：",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "G.6. APPLICABLE LAW：",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "G.7. BINDING ON SUCCESSORS：",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "G.8. SEVERABILITY：",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "G.9. DUE AUTHORITY：",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "G.10. AGREEMENT AS OFFER：",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "EX HI BIT A COVERED SITES， SOFTWARE MODULES AND CONFIGURATION",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "A. COVERED SITES",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "B. COVERED SOFTWARE MODULES",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "C. COVERED CONFIGURATION",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "EXHIBIT B S ERVICES AN D FEE S",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "F EE SCHEDUL E",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "A.On-site Training",
+      "parent_id": 140,
+      "order": 6
+    }
+  ]
+}

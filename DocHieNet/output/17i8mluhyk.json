@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "论因事实行为导致的物权变动",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "一、因事实行为导致物权变动的立法例",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "二、因事实行为导致物权变动的理论基础",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "三、能够导致物权变动的事实行为的类型",
+      "parent_id": 38,
+      "order": 3
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "(一)能够导致物权变动的事实行为应具备的条件",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "(二)不法行为能否导致物权变动",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "(三)导致物权变动的事实行为的具体形态",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "1.劳动生产",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "2.拾得遗失物、发现埋藏物",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "3.先占、添附",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "四、因事实行为导致物权变动的形态和时间",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "(一)因事实行为导致的物权变动的形态",
+      "parent_id": 86,
+      "order": 6
+    }
+  ]
+}

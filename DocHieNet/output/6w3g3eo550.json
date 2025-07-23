@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "杭州市人民政府文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "关于印发杭州市基本医疗保障办法的通知",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "title",
+      "text": "杭州市基本医疗保障办法",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "第一章总则",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "第二章职工医保",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "第三章城乡居民医保",
+      "parent_id": 88,
+      "order": 5
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "第四章大病保险",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "第五章医疗困难救助",
+      "parent_id": 128,
+      "order": 6
+    }
+  ]
+}

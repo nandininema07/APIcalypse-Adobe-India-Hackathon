@@ -1,0 +1,39 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "AGRICULTUREDEVELOPMENTBOARD[CCADB]",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Property Information",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "PINELANDS FARMS ONLY",
+      "parent_id": 42,
+      "order": 2
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Property Owner(s) Information",
+      "parent_id": 49,
+      "order": 3
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "Current Use",
+      "parent_id": 55,
+      "order": 4
+    }
+  ]
+}

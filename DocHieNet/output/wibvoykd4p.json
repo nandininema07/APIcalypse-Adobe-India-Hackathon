@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Boat-Building and Seamanship in Classic PhilippineSociety.",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "PLANK-BUILT BOATS IN THE PHILIPPINES1",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "THE PLANK-BUILT MAN-O-WAR",
+      "parent_id": 30,
+      "order": 2
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "CONSTRUCTION OF THE PLANK-BUILT BOAT",
+      "parent_id": 57,
+      "order": 3
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "SEVENTEENTH-CENTURY FILIPINO SEAMANSHIP",
+      "parent_id": 97,
+      "order": 4
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "THE ROLE OF BOATS IN PHILIPPINE SOCIETY",
+      "parent_id": 124,
+      "order": 5
+    },
+    {
+      "id": 164,
+      "label": "section-title",
+      "text": "SUMMARY",
+      "parent_id": 164,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "FOOTNOTE",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "12 . Anon. Relacion， p.463.",
+      "parent_id": 179,
+      "order": 6
+    }
+  ]
+}

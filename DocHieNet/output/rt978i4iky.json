@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "永续债进行比较研究。截至2017年12永续债的发行与会计确认探究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "一、永续债的发展现状",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "(一)存量永续债的总体规模",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "(二)永续债发行特征分析",
+      "parent_id": 14,
+      "order": 3
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "二、永续债的特殊性",
+      "parent_id": 26,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "(一)永续债的特殊条款",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "(二)特殊条款设置的作用",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "三、永续债的会计确认",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "(一)永续债的认定依据",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "(二)永续债发行条款设计与会计确认",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "(三)上市公司发行可续期公司债的特殊要求",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "四、我国永续债发展建议",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "(一)支持金融创新，助力市场发展，完善制度指引，去除灰色地带",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "(二)落实监管政策，细化条款设计，提高认定依据，规避错报风险",
+      "parent_id": 73,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "关于支票的若干法律问题",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "一、支票丧失的救济",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "二、对空头支票的法律制裁",
+      "parent_id": 25,
+      "order": 2
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "..三、空白支票的法律保护和限制",
+      "parent_id": 36,
+      "order": 3
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "the site of interest termed the hazard curve TheSTUDY ON PROBABILISTIC SEISMIC HAZARD MAPS OF probability of exceeding ground motion amplitude in a given period of time is related to annual frequency TAIWANAFTER CHI-CHI EARTHQUAKE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1.INTRODUCTION",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "2. PSHA METHODOLOGY",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2.1 Basics of PSHA Methodology",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.2Procedure of PSHA",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "3. TECTONIC SETTING AND SEISMICITY",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "3.1Tectonic Setting",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.2Taiwan Seismicity",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "4. SEISMIC SOURCES",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "4.1Regional Sources",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "4.2Crustal Faults Sources",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "4.3S Subduction Plate Intraslab Sources",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "4.4!S predicted median PGA from Table 2， and the attenua- Subduction Plate Interface Sources",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "5. GROUND MOTION ATTENUATION",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "6. PSHA RESULT",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "7.DISCUSSION",
+      "parent_id": 119,
+      "order": 6
+    }
+  ]
+}

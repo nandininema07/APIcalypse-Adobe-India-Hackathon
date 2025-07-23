@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "2019年5月12398 能源监管热线投诉举报群众反映的问题主要集中在分布式光伏发电项目上网电费结算、发电量补贴转付等方面。处理情通报",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "一、基本情况",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "二、分类情况",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "三、分布情况",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "四、主要问题",
+      "parent_id": 24,
+      "order": 4
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "五、处理结果",
+      "parent_id": 28,
+      "order": 5
+    }
+  ]
+}

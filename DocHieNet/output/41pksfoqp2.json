@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "中国南方电网有限责任公司电子式互感器型号审查实施细则",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1适用对象",
+      "parent_id": 28,
+      "order": 1
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2型号审查要求",
+      "parent_id": 43,
+      "order": 2
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.1供应商提交申请",
+      "parent_id": 45,
+      "order": 3
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.1.1供应商提交申请资料",
+      "parent_id": 46,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "2.1.2供应商提交申请资料审查",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.1.3供应商提交申请审查结论",
+      "parent_id": 54,
+      "order": 6
+    }
+  ]
+}

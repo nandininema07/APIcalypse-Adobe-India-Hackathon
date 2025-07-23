@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "The Lancet · Saturday 28 January 1989",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "PLACEBO-CONTROLLED，RANDOMISED TRIAL OF WARFARIN AND ASPIRIN FOR PREVENTION OF THROMBOEMBOLIC COMPLICATIONS IN CHRONIC ATRIAL FIBRILLATION",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Patients and Methods",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Statistical Analysis",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Results",
+      "parent_id": 31,
+      "order": 5
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "Discussion",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "CASE-CONTROL STUDY OF SERUM IMMUNOGLOBULIN-E ANTIBODIES REACTIVE WITH SOYBEAN IN EPIDEMIC ASTHMA",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "Patients and Methods",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "THE COPENHAGEN AFASAK STUDY： REFEREN C ES",
+      "parent_id": 86,
+      "order": 6
+    }
+  ]
+}

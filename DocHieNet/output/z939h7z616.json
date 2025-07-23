@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "虚拟样机技术在地质工程机械领域的应用研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "Application Study on Virtual Prototyping Technology in the Field of Geological Engineering Machinery/QU Ye-gao'1， BU Chang-gen1，LI Jin-feng2(1. School of Engineering and Technology， China University of Geosciences， Beijing100083，China；2. Inner Mongolia Brigade of Geological Surveying Center for Chinese Building Material Industry ，Hohhot Inner Mongolia 010070，China)",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "1虚拟样机技术",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1.1虚拟样机技术内涵",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "1.2虚拟样机技术实现平台",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2虚拟样机技术应用干地质工程机械研发过程的必要性及其实现策略",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.1实施虚拟样机技术的必要性",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "2.2地质工程机械实施虚拟样机技术的策略",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3虚拟样机技术的应用",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "4结语",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 86,
+      "label": "section-title",
+      "text": "5结语",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

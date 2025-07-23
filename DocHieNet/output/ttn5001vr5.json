@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Workspace Aware Online Grasp Planning ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "I. Introduction ",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "II. Related Work ",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "III. Offline Reachability Space Generation ",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "A. Reachability Space Representation ",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "B. Reachability Space Generation ",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "IV. Online Reachability-Aware Grasp Planning ",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "A. Simulated Annealing for Grasp Planning ",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "B. Novel Grasp Energy Formulation ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "C. Embedding Obstacles in the Reachability Space ",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "V. Experiments ",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "A. Evaluation Metrics ",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "B. Grasp Planning with Dynamic Obstacles Experiment ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "C. Real Robot Crowded Scene Experiment ",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "VI. Conclusion and Future Work ",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 91,
+      "order": 6
+    }
+  ]
+}

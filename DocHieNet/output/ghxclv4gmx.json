@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": " various machine types， such as wind turbines， internalThe State of the Art in Research into the Condition Monitoring of Industrial combustion engines， cutting tools， and industrial robots， Machinery",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1.Introduction",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2. Condition monitoring of rotating machines",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3. Condition monitoring of cutting tools",
+      "parent_id": 66,
+      "order": 4
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "4. Applications of condition monitoring techniques in industrial robots",
+      "parent_id": 79,
+      "order": 5
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "5.Artificial1intelligence techniques ffor r condition monitoring",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "5. 1 Artificial Neural Network (ANN)",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "5.2 Fuzzy Logic",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "5.3 Genetic Algorithm(GA)",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "5.4 Support Vector Machines (SVM)",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "5.5 Hybrid systems",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "5.5.1 Neural-fuzzy and fuzzy-neural systems",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 169,
+      "label": "section-title",
+      "text": "5.5.2 Genetic algorithm-fuzzy system",
+      "parent_id": 169,
+      "order": 6
+    }
+  ]
+}

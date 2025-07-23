@@ -1,0 +1,18 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "CURRICULUM VITAE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "Proposed role in the project：",
+      "parent_id": 2,
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "高校师生双向视角心理契约相互责任的实证研究*",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "一、引言",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "二、师生心理契约基本模型与理论假设",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "一是心理契约的\"当事人\"必须是两个主体，单独一方的期望或信念都构不成心理契约。其中所说的当事人不仅可以是个体，也可以是群体和组织。",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "二是心理契约这种隐性协议也是\"当事人\"的合意，若各自的期望或信念未让对方感知且得到对方的认可，那只是单方面的一厢情愿。",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "(1)构建师生心理契约的期望是两个主体互为期望对象的双向期望，师生双方的相互期望是可能达成师生心理契约关系的基础。",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "(2)师生双方的相互期望是否能达成心理契约，不仅取决于是否让对方感知到了各自的期望，还取决于各自自我期望的水平。教师与学生对对方各项期望的期望值相对于各自的自我期望来说，过高和过低都不会被对方认同，只有对对方的各项期望与其自我期望没有显著差异而被认同的部分，才构成双方心理契约的内容。",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "(3)师生之间部分相互期望被认同而达成心理契约后，这部分期望便转化为双方心理契约中各自应该为对方",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "履行的义务，亦即对方在契约关系中应享有的权利。",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "(4)师生之间就某些相互期望达成心理契约之后，各自履约意向和行为不但与对方履约的情况是互动的，而且还会受到其它多种中介因素的影响。",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "假设1：师生相互之间对对方的各项期望只有部分与对方的自我期望达成默契。",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "假设2：在师生心理契约关系中，教师责任与学生责任的履行二者相互关联。",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "假设3：虽然师生心理契约确定了双方的相互责任，但未必都能如约充分履行。",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "三、问卷设计与数据采集",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "1.预试问卷的设计",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2.问卷的信、效度检验",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3.正式的问卷调查与数据采集",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "四、数据分析与假设验证",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "1.师生心理契约的相互责任",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "2.师生履行心理契约责任的相关性分析",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "3.师生心理契约责任履行情况分析",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "(1)合并25项教师对学生期望和学生自我期望的数据并求均值，得到一套25项有关学生期望的均值。",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "(2)合并教师和学生分别评价学生这25项责任做得如何的数据并求均值，得到一套25项有关学生责任履行的均值。",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "(3)用上述履行均值减去期望均值，得到一个差值a。",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "五、讨论及后续研究",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "《陕西教育》(高教)征稿",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

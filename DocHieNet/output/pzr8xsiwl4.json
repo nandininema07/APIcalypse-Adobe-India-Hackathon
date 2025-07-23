@@ -1,0 +1,151 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Porcelain-berry",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "NATIVE RANGE",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "DESCRIPTION",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "ECOLOGICAL THREAT",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "DISTRIBUTION IN THE UNITED STATES",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "HABITAT IN THE UNITED STATES",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "BACKGROUND",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "BIOLOGY& SPREAD",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "MANAGEMENT OPTIONS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Manual",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Chemical",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Foliar applications",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Basal bark applications",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "CONTACT",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "SUGGESTED ALTERNATIVE PLANTS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "OTHER LINKS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "AUTHOR",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "EDITOR",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "REVIEWERS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "PHOTOGRAPHS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "REFERENCES",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

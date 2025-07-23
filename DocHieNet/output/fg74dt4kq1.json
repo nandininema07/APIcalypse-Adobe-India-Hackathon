@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "I. PURPOSE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "II. SCOPE",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "III. DISCUSSION",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "IV. POLICY(CFA 17.02, 21.01)",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "V. PROCEDURES",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "A. ORGANIZATION AND DUTIES",
+      "parent_id": 11,
+      "order": 5
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "B. QUALIFICATIONS OF K-9 HANDLERS/ CANINE",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "C. TRAINING OF CANINE TEAMS",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "D. LAW ENFORCEMENT CANINE APPLICATIONS(CFA 17.02, 17.11, 21.01)",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "E. PASSIVE ALERT K-9",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "F. METHODS OF CANINE OPERATION",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "G. DUTIES OF PATROL OFFICERS",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "H. EMERGENCY HANDLING OF POLICE DOGS",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 177,
+      "label": "section-title",
+      "text": "I. OBTAINING CONTROLLED SUBSTANCES FOR CANINE TRAINING(CFA 17.12)",
+      "parent_id": 177,
+      "order": 6
+    },
+    {
+      "id": 192,
+      "label": "section-title",
+      "text": "J. CANINE(K-9) VEHICLES(CFA 17.02)",
+      "parent_id": 192,
+      "order": 6
+    },
+    {
+      "id": 201,
+      "label": "section-title",
+      "text": "K. DISPOSITION OF CANINE",
+      "parent_id": 201,
+      "order": 6
+    }
+  ]
+}

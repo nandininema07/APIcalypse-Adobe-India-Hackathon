@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "关于进一步明确地价评估工作要求的通知",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "一、实行差别化工业用地地价管理政策",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "二、专项服务产业项目用地出让地价评估",
+      "parent_id": 23,
+      "order": 2
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "三、自行改造项目涉及补缴地价评估",
+      "parent_id": 48,
+      "order": 3
+    }
+  ]
+}

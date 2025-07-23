@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Key Escrow fromaSafe Distance Looking Back at the Clipper Chip",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1. CARROTS,STICKS&ENCRYPTION",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2. BLOWINGTHELEAF",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "2.1 TheAT&TConnection",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.2 Oracles and Rogues",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "2.3 NoSuch Thing AsBadPR?",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "3. POSTSCRIPT",
+      "parent_id": 71,
+      "order": 6
+    }
+  ]
+}

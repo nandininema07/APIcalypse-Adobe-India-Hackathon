@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "盈余管理动机、监管环境与会计操纵",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "摘要",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "一、引言",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "二、理论分析与研究假说",
+      "parent_id": 35,
+      "order": 3
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "H1：长期资产减值的计提与转回受盈余管理动机的影响。",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "H2：长期资产减值的\"其他原因转出数\"也被用于实现盈余管理目标。",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

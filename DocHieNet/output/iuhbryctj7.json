@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "多重不确定下的2020年全球信用风险展望",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 15,
+      "label": "title",
+      "text": "多重不确定性下的2020年全球信用风险展望",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "摘要",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "一、全球信用风险综述",
+      "parent_id": 23,
+      "order": 3
+    }
+  ]
+}

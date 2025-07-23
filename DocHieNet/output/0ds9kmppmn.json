@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Cost or energy efficiency?Criteria in design of a reinforced concrete",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1Introduction",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "plates closing a perpendicular gridwork ribs resulted2 Problem Formulation",
+      "parent_id": 20,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2.1.1 Description of the e general al structural requests",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.2 Suitable slab solutions",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "2.3 Probable winner infrastructure solutions",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3 Cost and energy efficiency analysis of the structural solutions",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "3.1 Cost analysis of the possible structural solutions",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "3.2 Energy efficiency analysis of the possible structural solutions",
+      "parent_id": 82,
+      "order": 6
+    }
+  ]
+}

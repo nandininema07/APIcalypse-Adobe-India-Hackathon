@@ -1,0 +1,193 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Congress i onal Budge t Offic e",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "The Congressional Budget Ofcfe’is Work in 2018:A Report to the Congress",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Information Provided to the Congress in 2018",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Formal Cost Estimates and Mandate Statements",
+      "parent_id": 27,
+      "order": 3
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Background Information and Technical Assistance",
+      "parent_id": 43,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Scorekeeping Tabulations",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Testimony and Answers to Questions for the Record",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Reports and Working Papers About the Budget and Economy",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "PROJECTIONS AND BUDGET ISSUES IN MAJOR RECURRING REPORTS",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "BUDGET ISSUES",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "EDUCATION",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "EMPLOYMENT AND LABOR MARKETS",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "FINANCE",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "HEALTH CARE",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "INCOME DISTRIBUTION",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "INFRASTRUCTURE AND TRANSPORTATION",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "MACROECONOMIC ANALYSIS",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "NATIONAL SECURITY",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "RETIREMENT AND TAXES",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "Other Publications",
+      "parent_id": 161,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "INFOGRAPHICS",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 170,
+      "label": "section-title",
+      "text": "INTERACTIVES",
+      "parent_id": 170,
+      "order": 6
+    },
+    {
+      "id": 174,
+      "label": "section-title",
+      "text": "LETTERS ANSWERING QUESTIONS FROM MEMBERS OF CONGRESS",
+      "parent_id": 174,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "SLIDE DECKS",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "PODCASTS",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 201,
+      "label": "section-title",
+      "text": "REPORTS ON CBO’S OPERATIONS",
+      "parent_id": 201,
+      "order": 6
+    },
+    {
+      "id": 206,
+      "label": "section-title",
+      "text": "Internal Operations in 2018",
+      "parent_id": 206,
+      "order": 6
+    }
+  ]
+}

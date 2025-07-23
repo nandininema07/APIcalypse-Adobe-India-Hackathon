@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "历史风貌建筑的评估、改造利用和保护",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1历史文化风貌区和历史风貌建筑",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2历史风貌建筑现状",
+      "parent_id": 17,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "2.1建筑功能欠佳",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2.2结构安全隐患",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "2.3配套设施落后并老化",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "2.4能耗居高不下",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "2.5维护维修不到位",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "3历史风貌建筑的评估",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "3.1保护价值",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "3.2建筑功能",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "3.3建筑环境",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "3.4结构安全",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.5配套设备设施",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "4历史风貌建筑的改造利用",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "5历史风貌建筑的保护",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "6结语",
+      "parent_id": 88,
+      "order": 6
+    }
+  ]
+}

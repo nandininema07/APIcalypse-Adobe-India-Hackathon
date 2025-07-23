@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "LEASE AGREEMENT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "LEASE AGREEMENT",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "ARTICLEI Leased Premises",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "ARTICLEII Term",
+      "parent_id": 103,
+      "order": 3
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "ARTICLE II Base Rent， Security Deposit and Guaranty",
+      "parent_id": 115,
+      "order": 4
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "ARTICLE IV Use and Conduct of Business in Premises",
+      "parent_id": 137,
+      "order": 5
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "4.1 Use.",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "4.2 H azardous Mater ial s .",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "ARTICLEV Real Estate Taxes",
+      "parent_id": 150,
+      "order": 6
+    },
+    {
+      "id": 161,
+      "label": "section-title",
+      "text": "ARTICLE VI Landlord’s Work； Delivery of Possession； Commencement Date； Tenant’s Installations",
+      "parent_id": 161,
+      "order": 6
+    }
+  ]
+}

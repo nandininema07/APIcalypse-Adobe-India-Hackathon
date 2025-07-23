@@ -1,0 +1,186 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Fairness and Accountability Design Needs for Algorithmic ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Support in High-Stakes Public Sector Decision-Making ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "ABSTRACT ",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "INTRODUCTION ",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "BACKGROUND AND MOTIVATION ",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "METHOD ",
+      "parent_id": 41,
+      "order": 5
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "FINDINGS ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Internal actors and machine learning–driven decisions ",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Getting individual and organisational buy-in ",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "Over-reliance, under-reliance and discretion ",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Augmenting models with additional knowledge ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Gaming by decision-support users ‘Gaming’ or manipulation of data-driven systems, and the con- cern of this occurring if greater transparency is introduced, is often raised as an issue in relation to the targets of algorithmic decisions. This will be discussed in a following section. Yet types of internal gaming within organisations have received considerably less treatment by those concerned about value- laden challenges around algorithmically informed decisions. This is despite how internal gaming is extensively highlighted in the public administration literature in relation to targets and the rise of New Public Management [7], a broad movement to- wards ‘rationalisation’ in the public sector that clearly affected informants around the world. ",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "External actors and machine learning–driven decisions ",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "Shar ing models and pushing practices ",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Accountability to decision subjects ",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Discriminating between decision-subjects ",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Gaming by decision-subjects ",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "ISSUES AHEAD ",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "‘The probability of being correct tanked’: Data changes ",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "‘Always a person involved’: Augmenting outputs ",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "‘When it aligns with intuition’: Understanding discretion ",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "‘I’m called the single point of failure’: Moving practices ",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "‘Looks like we’ve 100% accuracy’: Talking performance ",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "CONCLUDING REMARKS ",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "ACKNOWLEDGMENTS ",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "REFERENCES ",
+      "parent_id": 134,
+      "order": 6
+    }
+  ]
+}

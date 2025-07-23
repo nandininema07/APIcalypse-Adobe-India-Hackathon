@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "经济(政府商事)合同研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "一、概述：经济(政府商事)合同的提出",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "(一)政府商事合同或经济合同",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "(二)政府采购",
+      "parent_id": 36,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "1.政府采购概念及其特征",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "2.我国既有政府采购制度的弊端与制度转轨",
+      "parent_id": 43,
+      "order": 5
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "3.制度转轨的必要性和现实性",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "二、政府采购的目标、特性和法律原则",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "(一)政府采购的政策目标",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "2)联邦采购系统应当：",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "(二)政府采购的制度特性",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "(三)政府采购法的原则",
+      "parent_id": 111,
+      "order": 6
+    }
+  ]
+}

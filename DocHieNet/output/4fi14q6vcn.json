@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "industry， economics， social issues， politics， languages， religions， and other pertinent fields in East Asia.GEOG 465/465(G) Geography of East Asia (Summer 2011)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "REQUIRED TEXT in the world.",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "RECOMMENDED TEXT AND READINGS",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "COURSE DESCRIPTION",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "COURSE OBJECTIVE",
+      "parent_id": 29,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "CLASS WEBSITE",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "EVALUATION AND GRADING",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "PLAGIARISM POLICY",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "COURSE WITHDRAWAL POLICY：",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "SPECIAL ACCOMMODATIONS",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "OTHER POLICIES：",
+      "parent_id": 64,
+      "order": 6
+    }
+  ]
+}

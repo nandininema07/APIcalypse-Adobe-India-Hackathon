@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "JournalofOralBiologyandCraniofacialResearch",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "FeasibilityofDentascaninplanningofimplantsurgeryinposterior maxillaandmandible",
+      "parent_id": 10,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "A AR R T T I I C C L LE E I I N N F FO O",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1.Introduction",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2.Materialandmethods",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "3.Results",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "4.Discussion",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 87,
+      "order": 6
+    }
+  ]
+}

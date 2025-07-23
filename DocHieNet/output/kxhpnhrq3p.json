@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "NOTE FROM ANDREW TYRIE TO THE INTELLIGENCE AND SECURITY COMMITTEE",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1) Is Extraordinary Rendition taking place?",
+      "parent_id": 16,
+      "order": 1
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "2) To what extent is the UK involved?",
+      "parent_id": 45,
+      "order": 2
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "3) Do we support the policy of rendition?",
+      "parent_id": 71,
+      "order": 3
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "List of questions",
+      "parent_id": 97,
+      "order": 4
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "Policy issues",
+      "parent_id": 99,
+      "order": 5
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "Political oversight of the policy",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Bisher Al-Rawi and Jamil El-Banna",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "Binyam Mohammed",
+      "parent_id": 124,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "2019年经管学院研究生国家奖学金评审实施细则(试行)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "第一章总则",
+      "parent_id": 2,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "第二章奖励标准与申请条件",
+      "parent_id": 5,
+      "order": 2
+    }
+  ]
+}

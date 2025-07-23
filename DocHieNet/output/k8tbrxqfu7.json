@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "A Review on Bacterial Degradation of Textile Dyes",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "ABSTRACT",
+      "parent_id": 9,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "REVIEW OF LITERATURES",
+      "parent_id": 23,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Aerobic Decolorization Process",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": " degrading azo dyes started in the 1970s withTable 1. Different physical and chemical methods for dye removal from textile effluent with its reports of a Bacillus subtilis37. followed by advantages and disad vantages.28(Robinson et al， 2002b)",
+      "parent_id": 43,
+      "order": 5
+    }
+  ]
+}

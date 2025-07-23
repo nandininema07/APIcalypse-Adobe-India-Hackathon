@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "[EMPTY]",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1. CAREER MANAGEMENT",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "2. RESEARCH SKILLS",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "3. PERSONAL AND INTERPERSONAL",
+      "parent_id": 26,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "Yourself",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "With others",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "5. MANAGEMENT SKILLS",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Manage your relationships with other",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "Manage resources you need",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Apply and manage processes and practices",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "6.TEACHING AND LEARNING",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "7. COMMERCIALISATION， KNOWLEDGE TRANSFER AND EXCHANGE",
+      "parent_id": 70,
+      "order": 6
+    }
+  ]
+}

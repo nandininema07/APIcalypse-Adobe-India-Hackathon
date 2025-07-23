@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "课题组进行的典型调查。从资料来源看，非法非正常收入的数据规模和质量还是比较可靠的。非法非正常收入对居民收入差别的影响及其经济学解释",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "一、若干概念、方法及资料的说明",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "二、非法非正常收入是导致我国居民收入差别非正常扩大的根本因素",
+      "parent_id": 31,
+      "order": 2
+    }
+  ]
+}

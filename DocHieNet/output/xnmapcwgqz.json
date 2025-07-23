@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "A mo del for neural activity in the absence of ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "external stimuli ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 5,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1 Intro duction ",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "2 Mo del definition and main results ",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3 Pro of of Theorem 2.3 ",
+      "parent_id": 54,
+      "order": 5
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "4 Pro of of Theorem 2.4 ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "5 Final discussion ",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "6 Acknowledgments ",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 128,
+      "order": 6
+    }
+  ]
+}

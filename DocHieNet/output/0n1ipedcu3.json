@@ -1,0 +1,172 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "关于政府融资平台及园区改革组合大纲",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 14,
+      "label": "title",
+      "text": "说明",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "一、目的",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "二、逻辑思路",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "三、写稿经过",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "四、特别说明",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 33,
+      "label": "title",
+      "text": "开发区(工业园、文化园)运营改革大纲",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "第一部分导论",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "一、(本大纲)开发区(工业园、文化园)运营改革的含义",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "二、园区运营改革的方向",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "三、园区运营改革有助于解决地方债务问题",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "第二部分园区运营改革概述",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "一、园区的开发建设",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "1.园区开发建设的异同",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "(1)产品概念",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "(2)市场及利润驱动",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "2.园区开发建设流程及分析",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "(1)获取土地资源",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "(2)规划",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "(3)建设",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "(4)企业建设",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "二、园区的招商",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "1.招商的内涵",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "2.专业",
+      "parent_id": 81,
+      "order": 6
+    }
+  ]
+}

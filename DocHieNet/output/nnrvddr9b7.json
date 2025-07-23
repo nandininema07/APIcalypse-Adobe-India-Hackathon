@@ -1,0 +1,438 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "The Regional Income Tax Agency (RITA)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Instructions for Form 37",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "General Information",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Filing Requirements",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "When to File",
+      "parent_id": 16,
+      "order": 4
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Extensions of Time to File",
+      "parent_id": 18,
+      "order": 5
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "Penalty and Interest",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Refund or Credit",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "Tax Refunds",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Taxable Income",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Non-Taxable Income",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "Change of Address",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Name(s), Address and Social Security",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Number(s)",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "Amended Returns",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Rounding Off to Whole Dollars",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Required Documentation",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Section A: Wage and Other W-2 Income",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Signature(s):",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Payment:",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Section B: Tax Calculation",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Line 1a",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "Total W-2 Wages",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Line 1b",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "Business Income from Schedule J",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Line 3",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Line 4a",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "Tax Withheld for Workplace Municipality",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Line 4b",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "Direct Payments from Schedule K",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "Line 5b",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Credit Rate",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "Line 5c",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "Line 6",
+      "parent_id": 111,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "Line 7a",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "Tax Withheld for Resident Municipality",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "Line 7b",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "Tax Paid by Partnership/ S-Corporations",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "Line 8",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "Line 9",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "Lines 10 and 11",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "Line 12",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "Total Tax Due RITA",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "Line 13",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "Estimated Payments",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "Line 14",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "Credit from Prior Year",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "Line 16",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "Balance Due",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "Line 17",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "Overpayments",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "Lines 18 and 19",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "Credits and Refunds",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "Line 20a",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "Estimated Taxes",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "Worksheet 2: Estimated Tax Computation",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "Line 20b",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 156,
+      "label": "section-title",
+      "text": "Estimated Taxes Due With Return",
+      "parent_id": 156,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "Schedule J Instructions",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 172,
+      "label": "section-title",
+      "text": "Line 26 – Add Lines 23, 24, 25 for each column.",
+      "parent_id": 172,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "Schedule K Instructions",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "INDIVIDUAL SPECIAL NOTES",
+      "parent_id": 185,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "label": "title",
+      "text": "ROENTGEN-GREAT DISCOVERER",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 52,
+      "label": "title",
+      "text": "HOW X-RAYS ARE PRODUCED",
+      "parent_id": 0,
+      "order": 2
+    }
+  ]
+}

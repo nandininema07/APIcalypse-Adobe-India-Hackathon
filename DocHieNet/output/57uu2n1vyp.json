@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "中国农业发展的结构性矛盾及其政策转型",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "一、引言",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "二、当前中国农业发展面临的结构性矛盾",
+      "parent_id": 16,
+      "order": 2
+    }
+  ]
+}

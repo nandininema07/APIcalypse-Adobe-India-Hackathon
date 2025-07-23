@@ -1,0 +1,102 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "崇洋媚外特别是目前一些人对韩国影视明星的追崇等心理，打出所谓\"无痛\"、\"无创\"、\"最先进的\"、\"进口材料\"、\"引进美容外科的道德规范与医疗美容纠纷防范",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1美容外科的现状",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "2：美容外科的特点及局限性",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "2.1美容外科的特点",
+      "parent_id": 17,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "2.2美容外科的局限性",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "3医疗美容纠纷产生的原因",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "3.11法律法规不完善",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "3.22医疗美容从业人员水平不齐",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "3.3弄虚作假宣传误导",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "4医疗美容纠纷的防范",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "4.11完善法律法规",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.2提高美容外科医师的素质",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "4.3规范医疗市场(行业)行为",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "4.44细化美容外科道德规范",
+      "parent_id": 44,
+      "order": 6
+    }
+  ]
+}

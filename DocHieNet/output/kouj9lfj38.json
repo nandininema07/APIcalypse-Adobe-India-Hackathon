@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Abstract",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "IDENTIFICATION OF THE ACTIVE AGENT IN SMOKE",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "UPTAKE OF KARRIKINOLIDE IN THE SEED",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "USE OF KARRIKINOLIDE IN WEED CONTROL",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "DELIVERY SYSTEMS FOR KARRIKINOLIDE",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "MODE OF ACTION OF KARRIKINOLIDE",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "EVOLUTION AND DEVELOPMENT OF THE GERMINATION RESPONSE TO(van Staden et al.， 1995) and desert annuals (Merritt et al.， 2006) can be replaced by the KARRIKINOLIDE karrikinolide remains to be seen.",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Literature Cited",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

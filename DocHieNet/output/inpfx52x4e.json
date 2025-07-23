@@ -1,0 +1,256 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "IN THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF ILLINOIS EASTERN DIVISION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "ANSWER TO COMPLAINT, AFFIRMATIVE DEFENSES, AND COUNTERCLAIMS",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "PARTIES",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 24,
+      "order": 5
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "JURISDICTION AND VENUE",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "PATENT INFRINGEMENT COUNTS",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 44,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "COUNT I INFRINGEMENT OF U.S. PATENT NO. 5,789,411",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "COUNT II INFRINGMENT OF U.S. PATENT NO. 6,004,962",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 74,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "DEMAND FOR JURY TRIAL",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "ANSWER:",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "AFFIRMATIVE DEFENSES",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "COUNTERCLAIMS FOR DECLARATORY RELIEF",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "PARTIES",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "JURISDICTION AND VENUE",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "COUNTERCLAIM I(Declaration of Noninfringement of the ‘411 Patent)",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "COUNTERCLAIM II(Declaration of Noninfringement of the ‘962 Patent)",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "COUNTERCLAIM III(Declaration of Invalidity of the ‘411 Patent)",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "COUNTERCLAIM IV(Declaration of Invalidity of the ‘962 Patent)",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "PRAYER FOR RELIEF",
+      "parent_id": 124,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "CERTIFICATE OF SERVICE",
+      "parent_id": 143,
+      "order": 6
+    }
+  ]
+}

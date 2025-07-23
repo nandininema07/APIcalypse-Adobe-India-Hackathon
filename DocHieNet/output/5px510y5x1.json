@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "招标需求文件",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "一、项目概况",
+      "parent_id": 28,
+      "order": 1
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "1.1项目名称",
+      "parent_id": 29,
+      "order": 2
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "1.2项目地点",
+      "parent_id": 31,
+      "order": 3
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "1.3招标范围及内容",
+      "parent_id": 33,
+      "order": 4
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "1.3.1项目背景及现状",
+      "parent_id": 34,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "1.3.2项目招标范围及内容",
+      "parent_id": 37,
+      "order": 6
+    }
+  ]
+}

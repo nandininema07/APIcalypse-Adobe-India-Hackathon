@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "州萧山国际机场翔越路综合服务楼园区招标中心，逾期无效；若采用投递方式的，杭州萧山国际机场航站楼无障碍坡道改造项目招标请于2021年4月12日9时30分(北京时间)前投递至杭州萧山国际机场招标公告中心，快递面单上注明是：杭州萧山国际机场航站楼无障碍坡道改造项目投标文",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "一、招标内容件，逾期无效。",
+      "parent_id": 2,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "二、、资格要求",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "三、评标办法",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "四、招标文件获取",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "五、踏勘现场",
+      "parent_id": 16,
+      "order": 5
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "六、投标文件的递交",
+      "parent_id": 18,
+      "order": 6
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "七、发布公告的媒介",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "八、联系方式",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "title",
+      "text": "附件一：投标文件格式",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "title",
+      "text": "投标函",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "1.我方已仔细研究了          (项目名称)施工询价文件的全部内容，愿意以人民币(大写)         元(￥           )的投标总报价，工期      日历天，按合同约定实施和完成承包工程，修补工程中的任何缺陷，工程质量达到一次验收合格。",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "2.我方承诺在投标有效期内不修改、撤销投标文件。",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "3.如我方中标：",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.我方在此声明，所递交的投标文件及有关资料内容完整、真实和准确。",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "title",
+      "text": "附件二：工程量清单",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "title",
+      "text": "航站楼无障碍坡道改造项目工程量清单",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "title",
+      "text": "附件三：技术要求",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "title",
+      "text": "附件四合同条款及格式",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

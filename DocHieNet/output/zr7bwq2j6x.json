@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "系统重要性金融机构识别方法综述",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "一、问题的提出",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "二、系统重要性金融机构的识别方法",
+      "parent_id": 19,
+      "order": 2
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "(一)指标法",
+      "parent_id": 22,
+      "order": 3
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "(二)市场法",
+      "parent_id": 38,
+      "order": 4
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "1.边际预期差额法云(Marginal Expected Shortfall)",
+      "parent_id": 40,
+      "order": 5
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2.沙普利值法(Shapley Value)，",
+      "parent_id": 46,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "3.在险值协方差法(CoVaR)",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "4.信贷违约互换价差法 (CDS spread)",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "5.极端值法 (Extreme Value Theory)",
+      "parent_id": 53,
+      "order": 6
+    }
+  ]
+}

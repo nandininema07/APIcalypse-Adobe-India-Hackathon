@@ -1,0 +1,18 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "门头沟2020-2021学年第一学期期末考试初一政治试卷",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "第一部分选择题(共48分)",
+      "parent_id": 4,
+      "order": 1
+    }
+  ]
+}

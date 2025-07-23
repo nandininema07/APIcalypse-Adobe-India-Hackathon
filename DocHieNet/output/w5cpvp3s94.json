@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "研究生招生网络笔试指导意见(学院端)：信号良好且能满足笔试要求，应具备有线宽带、WIFI、4G/5G网络等",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "一、笔试准备",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "二、设备、环境要求",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "三、设备、环境调试演示",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "四、笔试流程",
+      "parent_id": 19,
+      "order": 4
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "五、其他注意事项",
+      "parent_id": 33,
+      "order": 5
+    },
+    {
+      "id": 37,
+      "label": "title",
+      "text": "研究生招生网络笔试指导意见(学生端)：",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "一、笔试前准备",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "二、笔试流程",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "title",
+      "text": "研究生招生网络远程面试指导意见(学院端)",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

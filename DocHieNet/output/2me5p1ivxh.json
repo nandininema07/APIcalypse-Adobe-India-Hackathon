@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "SSIMLayer: Towards Robust Deep Representation ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Learning via Nonlinear Structural Similarity ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "2 Structural Similarity Index SSIMLayer ",
+      "parent_id": 25,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2.1 Mathematical Formulation ",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "2.2 Gradient Based Learning for SSIM Parameters ",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "3 Experimental Results ",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "3.1 Training Details ",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "3.2 SSIM for Image Classification ",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "3.3 SSIM Nonlinearity ",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "3.4 Robustness to Adversarial Examples ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "3.4.1 Higher Resolution CIFAR-10 ",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "4 Conclusion ",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 87,
+      "order": 6
+    }
+  ]
+}

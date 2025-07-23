@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "REGULATING",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Pesticides",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "COMMITTEE ON PROTOTYPE EXPLICIT ANALYSES FOR PESTICIDES",
+      "parent_id": 38,
+      "order": 2
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "ENVIRONMENTAL STUDIES BOARD",
+      "parent_id": 58,
+      "order": 3
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "COMMISSION ON NATURAL RESOURCES",
+      "parent_id": 78,
+      "order": 4
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "Preface",
+      "parent_id": 107,
+      "order": 5
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "ACKNOWLEDGMENTS",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "Summary and1 Major",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 153,
+      "label": "section-title",
+      "text": "INTRODUCTION",
+      "parent_id": 153,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "SUMMARY AND MAJOR RECOMMENDATIONS",
+      "parent_id": 181,
+      "order": 6
+    },
+    {
+      "id": 183,
+      "label": "section-title",
+      "text": "CHAPTER 3",
+      "parent_id": 183,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "CHAPTERR 4",
+      "parent_id": 199,
+      "order": 6
+    }
+  ]
+}

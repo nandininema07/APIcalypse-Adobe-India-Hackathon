@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "No dIO, a JavaScript framework for ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "title",
+      "text": "volunteer-based evolutionary algorithms : first ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "results ",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 7,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "1 Introduction ",
+      "parent_id": 10,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "2 No dIO architecture ",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "3 Baseline Exp eriments ",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "3.1 Tests with a floating-point hard optimization problem ",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "4 Conclusion ",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 109,
+      "label": "section-title",
+      "text": "Acknowledgment ",
+      "parent_id": 109,
+      "order": 6
+    },
+    {
+      "id": 111,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 111,
+      "order": 6
+    }
+  ]
+}

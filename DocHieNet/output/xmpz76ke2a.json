@@ -1,0 +1,67 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Business Pla n 20 1 6 - 20 1 7",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Message from the Minister",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Section l - Department Mandat e",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Section I I - Linking to Government's Priorities: People, Innovation , Education",
+      "parent_id": 25,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Goals and Objectives for 2016-201 7",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Priority Activities:",
+      "parent_id": 38,
+      "order": 5
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Performance Measures",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "We will measure our progress by",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "Departmental Expenses Summary",
+      "parent_id": 52,
+      "order": 6
+    }
+  ]
+}

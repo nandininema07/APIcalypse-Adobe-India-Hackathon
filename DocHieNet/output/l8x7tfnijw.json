@@ -1,0 +1,718 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Credit Suisse Equity Fund(Lux)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1. Information for Prospective Investors",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "2. Credit Suisse Equity Fund(Lux) – Summary of Unit Classes(1)",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "3. The Fund",
+      "parent_id": 47,
+      "order": 3
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "4. Investment Principles",
+      "parent_id": 59,
+      "order": 4
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Investment Objective",
+      "parent_id": 60,
+      "order": 5
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "Investment Policy",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "General Investment Suitability",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "Risk Profile",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Reference Currency",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "Country and Regional Funds – “Developed Markets”",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) European Blue Chips Aberdeen",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Italy",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Japan Megatrend Aberdeen",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) USA",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Country and Regional Funds – “Small and Mid Caps”",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Small and Mid Cap Germany",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Small and Mid Cap Europe",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Small Cap Japan Aberdeen",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Small Cap USA",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "Global and Regional Funds – “Developing Markets”",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Asian Tigers Aberdeen",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Brazil",
+      "parent_id": 108,
+      "order": 6
+    },
+    {
+      "id": 110,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Convergence Europe Aberdeen",
+      "parent_id": 110,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Eastern Europe Aberdeen",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Emerging Markets Aberdeen",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Greater China Aberdeen",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Latin America Aberdeen",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Russia Explorer Aberdeen",
+      "parent_id": 124,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "Global Sector Funds",
+      "parent_id": 128,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Future Energy Aberdeen",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Global Biotech Aberdeen",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Global Communications Aberdeen",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Global InfoTech Aberdeen",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 152,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Global Prestige",
+      "parent_id": 152,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Global Resources Aberdeen",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 158,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Infrastructure Aberdeen",
+      "parent_id": 158,
+      "order": 6
+    },
+    {
+      "id": 162,
+      "label": "section-title",
+      "text": "Real estate equity funds",
+      "parent_id": 162,
+      "order": 6
+    },
+    {
+      "id": 165,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Asian Property Aberdeen",
+      "parent_id": 165,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) European Property",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "Other Equity Funds",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 180,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Dividend Europe Aberdeen",
+      "parent_id": 180,
+      "order": 6
+    },
+    {
+      "id": 187,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Global Security",
+      "parent_id": 187,
+      "order": 6
+    },
+    {
+      "id": 194,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Leading Brands Aberdeen",
+      "parent_id": 194,
+      "order": 6
+    },
+    {
+      "id": 201,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Style Invest Europe",
+      "parent_id": 201,
+      "order": 6
+    },
+    {
+      "id": 208,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) USA Value",
+      "parent_id": 208,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Global Value",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "section-title",
+      "text": "Investments in Convertible and Warrant Bonds",
+      "parent_id": 220,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": "Equity-Linked Notes",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 224,
+      "label": "section-title",
+      "text": "Structured products(certificates)",
+      "parent_id": 224,
+      "order": 6
+    },
+    {
+      "id": 229,
+      "label": "section-title",
+      "text": "Use of Derivatives",
+      "parent_id": 229,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "section-title",
+      "text": "Liquid Assets",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 234,
+      "label": "section-title",
+      "text": "Securities Lending",
+      "parent_id": 234,
+      "order": 6
+    },
+    {
+      "id": 237,
+      "label": "section-title",
+      "text": "5. Investment in Credit Suisse Equity Fund(Lux)",
+      "parent_id": 237,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "i. General Information on the Units",
+      "parent_id": 238,
+      "order": 6
+    },
+    {
+      "id": 258,
+      "label": "section-title",
+      "text": "ii. Purchase of Units",
+      "parent_id": 258,
+      "order": 6
+    },
+    {
+      "id": 269,
+      "label": "section-title",
+      "text": "iii. Redemption of Units",
+      "parent_id": 269,
+      "order": 6
+    },
+    {
+      "id": 281,
+      "label": "section-title",
+      "text": "iv. Conversion of Units",
+      "parent_id": 281,
+      "order": 6
+    },
+    {
+      "id": 286,
+      "label": "section-title",
+      "text": "v. Market Timing",
+      "parent_id": 286,
+      "order": 6
+    },
+    {
+      "id": 288,
+      "label": "section-title",
+      "text": "vi. Suspension of Calculation of the Net Asset Value and of the Purchase, Redemption and Conversion of Units",
+      "parent_id": 288,
+      "order": 6
+    },
+    {
+      "id": 296,
+      "label": "section-title",
+      "text": "vii. Measures to Combat Money-Laundering",
+      "parent_id": 296,
+      "order": 6
+    },
+    {
+      "id": 302,
+      "label": "section-title",
+      "text": "6. Investment Restrictions",
+      "parent_id": 302,
+      "order": 6
+    },
+    {
+      "id": 393,
+      "label": "section-title",
+      "text": "7. Risk Factors",
+      "parent_id": 393,
+      "order": 6
+    },
+    {
+      "id": 401,
+      "label": "section-title",
+      "text": "Equities",
+      "parent_id": 401,
+      "order": 6
+    },
+    {
+      "id": 406,
+      "label": "section-title",
+      "text": "Small to Mid-Cap Companies",
+      "parent_id": 406,
+      "order": 6
+    },
+    {
+      "id": 408,
+      "label": "section-title",
+      "text": "REITs",
+      "parent_id": 408,
+      "order": 6
+    },
+    {
+      "id": 410,
+      "label": "section-title",
+      "text": "Concentration in Certain Countries",
+      "parent_id": 410,
+      "order": 6
+    },
+    {
+      "id": 416,
+      "label": "section-title",
+      "text": "Illiquid Assets",
+      "parent_id": 416,
+      "order": 6
+    },
+    {
+      "id": 418,
+      "label": "section-title",
+      "text": "Use of Derivatives",
+      "parent_id": 418,
+      "order": 6
+    },
+    {
+      "id": 424,
+      "label": "section-title",
+      "text": "Investments in Emerging Countries/ Developing Markets",
+      "parent_id": 424,
+      "order": 6
+    },
+    {
+      "id": 434,
+      "label": "section-title",
+      "text": "Investments in Russia",
+      "parent_id": 434,
+      "order": 6
+    },
+    {
+      "id": 440,
+      "label": "section-title",
+      "text": "Private Equity Investments",
+      "parent_id": 440,
+      "order": 6
+    },
+    {
+      "id": 447,
+      "label": "section-title",
+      "text": "8. Net Asset Value",
+      "parent_id": 447,
+      "order": 6
+    },
+    {
+      "id": 451,
+      "label": "section-title",
+      "text": "The assets of each Subfund shall be valued as follows:",
+      "parent_id": 451,
+      "order": 6
+    },
+    {
+      "id": 467,
+      "label": "section-title",
+      "text": "9. Expenses and Taxes",
+      "parent_id": 467,
+      "order": 6
+    },
+    {
+      "id": 468,
+      "label": "section-title",
+      "text": "i. Taxes",
+      "parent_id": 468,
+      "order": 6
+    },
+    {
+      "id": 476,
+      "label": "section-title",
+      "text": "ii. Expenses",
+      "parent_id": 476,
+      "order": 6
+    },
+    {
+      "id": 489,
+      "label": "section-title",
+      "text": "iii. Performance Fee",
+      "parent_id": 489,
+      "order": 6
+    },
+    {
+      "id": 491,
+      "label": "section-title",
+      "text": "Credit Suisse Equity Fund(Lux) Style Invest Europe",
+      "parent_id": 491,
+      "order": 6
+    },
+    {
+      "id": 501,
+      "label": "section-title",
+      "text": "10. Accounting Year",
+      "parent_id": 501,
+      "order": 6
+    },
+    {
+      "id": 503,
+      "label": "section-title",
+      "text": "11. Appropriation of the Net Income and Capital Gains Capital-growth Units",
+      "parent_id": 503,
+      "order": 6
+    },
+    {
+      "id": 505,
+      "label": "section-title",
+      "text": "Distribution Units",
+      "parent_id": 505,
+      "order": 6
+    },
+    {
+      "id": 510,
+      "label": "section-title",
+      "text": "General Remarks",
+      "parent_id": 510,
+      "order": 6
+    },
+    {
+      "id": 513,
+      "label": "section-title",
+      "text": "12. Life of the Fund, Liquidation and Merging of Subfunds",
+      "parent_id": 513,
+      "order": 6
+    },
+    {
+      "id": 522,
+      "label": "section-title",
+      "text": "13. Information for Unitholders",
+      "parent_id": 522,
+      "order": 6
+    },
+    {
+      "id": 528,
+      "label": "section-title",
+      "text": "14. Management Company",
+      "parent_id": 528,
+      "order": 6
+    },
+    {
+      "id": 534,
+      "label": "section-title",
+      "text": "15. The Investment Advisers",
+      "parent_id": 534,
+      "order": 6
+    },
+    {
+      "id": 586,
+      "label": "section-title",
+      "text": "16. Custodian Bank",
+      "parent_id": 586,
+      "order": 6
+    },
+    {
+      "id": 590,
+      "label": "section-title",
+      "text": "17. Central Administration",
+      "parent_id": 590,
+      "order": 6
+    },
+    {
+      "id": 592,
+      "label": "section-title",
+      "text": "18. Main Parties",
+      "parent_id": 592,
+      "order": 6
+    },
+    {
+      "id": 593,
+      "label": "section-title",
+      "text": "Management Company",
+      "parent_id": 593,
+      "order": 6
+    },
+    {
+      "id": 595,
+      "label": "section-title",
+      "text": "Board of Directors",
+      "parent_id": 595,
+      "order": 6
+    },
+    {
+      "id": 604,
+      "label": "section-title",
+      "text": "Custodian Bank",
+      "parent_id": 604,
+      "order": 6
+    },
+    {
+      "id": 606,
+      "label": "section-title",
+      "text": "The Independent Statutory Auditor to the Fund",
+      "parent_id": 606,
+      "order": 6
+    },
+    {
+      "id": 608,
+      "label": "section-title",
+      "text": "Selling Agents",
+      "parent_id": 608,
+      "order": 6
+    },
+    {
+      "id": 612,
+      "label": "section-title",
+      "text": "Central Administration",
+      "parent_id": 612,
+      "order": 6
+    },
+    {
+      "id": 614,
+      "label": "section-title",
+      "text": "19. Distribution",
+      "parent_id": 614,
+      "order": 6
+    },
+    {
+      "id": 615,
+      "label": "section-title",
+      "text": "Distribution of units in Switzerland",
+      "parent_id": 615,
+      "order": 6
+    },
+    {
+      "id": 625,
+      "label": "section-title",
+      "text": "Distribution of units in Germany",
+      "parent_id": 625,
+      "order": 6
+    },
+    {
+      "id": 638,
+      "label": "section-title",
+      "text": "Distribution of units in Austria",
+      "parent_id": 638,
+      "order": 6
+    },
+    {
+      "id": 644,
+      "label": "section-title",
+      "text": "Distribution of units in Liechtenstein",
+      "parent_id": 644,
+      "order": 6
+    },
+    {
+      "id": 648,
+      "label": "section-title",
+      "text": "CREDIT SUISSE EQUITY FUND MANAGEMENT COMPANY",
+      "parent_id": 648,
+      "order": 6
+    }
+  ]
+}

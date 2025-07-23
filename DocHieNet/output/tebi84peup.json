@@ -1,0 +1,732 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "CARMIGNAC INVESTISSEMENT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1. GENERAL CHARACTERISTICS",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "Structure of the Fund",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Name",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Legal form and Member State in which the Fund was established",
+      "parent_id": 13,
+      "order": 4
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Creation date and intended lifetime",
+      "parent_id": 15,
+      "order": 5
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Fund overview",
+      "parent_id": 17,
+      "order": 6
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "Address at which the latest annual and semi-annual reports can be obtained",
+      "parent_id": 20,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2. DIRECTORY",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "Management Company",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Custodian",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Centralisation of subscription and redemption requests",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Institutions responsible for ensuring compliance with the centralisation cut-off time",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Registrars",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Statutory Auditors",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Promoter",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "Accounting delegated to",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "3. MANAGEMENT AND ADMINISTRATION PROCEDURES",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "GENERAL CHARACTERISTICS",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "Characteristics of the units and shares",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Year-end",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "Tax regime",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "At Fund level",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "At unitholder level:",
+      "parent_id": 63,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "Redemption of units followed by a subscription",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "SPECIFIC PROVISIONS",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "ISIN codes",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 76,
+      "label": "section-title",
+      "text": "Classification",
+      "parent_id": 76,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "Investment objective",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Performance indicator",
+      "parent_id": 80,
+      "order": 6
+    },
+    {
+      "id": 83,
+      "label": "section-title",
+      "text": "Investment strategies",
+      "parent_id": 83,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Strategies used",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "Description of performance drivers",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Equities",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "Currencies",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "Debt securities and money market instruments",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "Derivatives",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "Securities with embedded derivatives",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "UCITS, investment funds, trackers or Exchange Traded Funds(ETF)",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "Deposits and cash",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "Cash borrowings",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "Temporary purchase and sale of securities",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "Risk profile",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "Target subscribers",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 154,
+      "label": "section-title",
+      "text": "The FCP may be used within unit-linked life insurance policies.",
+      "parent_id": 154,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "Allocation of income",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "section-title",
+      "text": "Characteristics of the units",
+      "parent_id": 160,
+      "order": 6
+    },
+    {
+      "id": 164,
+      "label": "section-title",
+      "text": "Frequency of distributions",
+      "parent_id": 164,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "Subscription and redemption procedures",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 168,
+      "label": "section-title",
+      "text": "Date and frequency of the net asset value",
+      "parent_id": 168,
+      "order": 6
+    },
+    {
+      "id": 170,
+      "label": "section-title",
+      "text": "Terms and conditions of subscriptions and redemptions",
+      "parent_id": 170,
+      "order": 6
+    },
+    {
+      "id": 176,
+      "label": "section-title",
+      "text": "Institutions responsible for ensuring compliance with the centralisation cut-off time",
+      "parent_id": 176,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "Place and methods of publication or communication of the NAV",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 185,
+      "label": "section-title",
+      "text": "Fees and expenses",
+      "parent_id": 185,
+      "order": 6
+    },
+    {
+      "id": 186,
+      "label": "section-title",
+      "text": "Subscription and redemption fees",
+      "parent_id": 186,
+      "order": 6
+    },
+    {
+      "id": 189,
+      "label": "section-title",
+      "text": "Management and administration fees",
+      "parent_id": 189,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "section-title",
+      "text": "Calculation and distribution of the proceeds of temporary purchases and sales of securities",
+      "parent_id": 195,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "Payments in kind",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "Choice of intermediaries",
+      "parent_id": 199,
+      "order": 6
+    },
+    {
+      "id": 202,
+      "label": "section-title",
+      "text": "4. COMMERCIAL INFORMATION",
+      "parent_id": 202,
+      "order": 6
+    },
+    {
+      "id": 203,
+      "label": "section-title",
+      "text": "Publication of information about the Fund",
+      "parent_id": 203,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "Place and means of publication of the net asset value",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 214,
+      "label": "section-title",
+      "text": "5. INVESTMENT RULES",
+      "parent_id": 214,
+      "order": 6
+    },
+    {
+      "id": 216,
+      "label": "section-title",
+      "text": "6. OVERALL RISK",
+      "parent_id": 216,
+      "order": 6
+    },
+    {
+      "id": 218,
+      "label": "section-title",
+      "text": "7. ASSET VALUATION RULES",
+      "parent_id": 218,
+      "order": 6
+    },
+    {
+      "id": 219,
+      "label": "section-title",
+      "text": "Methods used for the valuation of balance sheet items and futures and options",
+      "parent_id": 219,
+      "order": 6
+    },
+    {
+      "id": 220,
+      "label": "section-title",
+      "text": "Investments in securities",
+      "parent_id": 220,
+      "order": 6
+    },
+    {
+      "id": 222,
+      "label": "section-title",
+      "text": " French securities",
+      "parent_id": 222,
+      "order": 6
+    },
+    {
+      "id": 226,
+      "label": "section-title",
+      "text": " Foreign securities",
+      "parent_id": 226,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": " The UCITS are valued at the latest redemption price or the latest net asset value available.",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": " Transferable debt securities and synthetic assets composed of a money market instrument backed by one or more interest rate and/or currency swaps(“asset swaps”).",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 236,
+      "label": "section-title",
+      "text": " Temporary purchases and sales of securities in accordance with the terms and conditions provided for in the agreement",
+      "parent_id": 236,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": " Futures and options transactions",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 242,
+      "label": "section-title",
+      "text": "Transactions on regulated markets",
+      "parent_id": 242,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "Transactions on over-the-counter markets",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 250,
+      "label": "section-title",
+      "text": " Backed or non-backed transactions:",
+      "parent_id": 250,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "The commitment is calculated as follows:",
+      "parent_id": 255,
+      "order": 6
+    },
+    {
+      "id": 258,
+      "label": "section-title",
+      "text": " Other transactions on over-the-counter markets",
+      "parent_id": 258,
+      "order": 6
+    },
+    {
+      "id": 261,
+      "label": "section-title",
+      "text": "Method used to record interest and income",
+      "parent_id": 261,
+      "order": 6
+    },
+    {
+      "id": 263,
+      "label": "section-title",
+      "text": "Calculation of management and performance fees",
+      "parent_id": 263,
+      "order": 6
+    },
+    {
+      "id": 266,
+      "label": "section-title",
+      "text": "Transaction fees",
+      "parent_id": 266,
+      "order": 6
+    },
+    {
+      "id": 269,
+      "label": "section-title",
+      "text": "Dividend policy",
+      "parent_id": 269,
+      "order": 6
+    },
+    {
+      "id": 274,
+      "label": "section-title",
+      "text": "MANAGEMENT REGULATIONS OF THE CARMIGNAC INVESTISSEMENT FCP",
+      "parent_id": 274,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "TITLE 1: ASSETS AND UNITS",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 276,
+      "label": "section-title",
+      "text": "ARTICLE 1 – CO-OWNERSHIP UNITS",
+      "parent_id": 276,
+      "order": 6
+    },
+    {
+      "id": 280,
+      "label": "section-title",
+      "text": "The different classes of units may:",
+      "parent_id": 280,
+      "order": 6
+    },
+    {
+      "id": 291,
+      "label": "section-title",
+      "text": "ARTICLE 2- MINIMUM AMOUNT OF ASSETS",
+      "parent_id": 291,
+      "order": 6
+    },
+    {
+      "id": 293,
+      "label": "section-title",
+      "text": "ARTICLE 3- ISSUE AND REDEMPTION OF UNITS",
+      "parent_id": 293,
+      "order": 6
+    },
+    {
+      "id": 304,
+      "label": "section-title",
+      "text": "ARTICLE 4- CALCULATION OF THE NET ASSET VALUE",
+      "parent_id": 304,
+      "order": 6
+    },
+    {
+      "id": 307,
+      "label": "section-title",
+      "text": "TITLE 2: MANAGEMENT OF THE FUND",
+      "parent_id": 307,
+      "order": 6
+    },
+    {
+      "id": 308,
+      "label": "section-title",
+      "text": "ARTICLE 5- THE MANAGEMENT COMPANY",
+      "parent_id": 308,
+      "order": 6
+    },
+    {
+      "id": 311,
+      "label": "section-title",
+      "text": "ARTICLE 5A – OPERATING RULES",
+      "parent_id": 311,
+      "order": 6
+    },
+    {
+      "id": 315,
+      "label": "section-title",
+      "text": "ARTICLE 6- THE CUSTODIAN",
+      "parent_id": 315,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "ARTICLE 7 – THE STATUTORY AUDITOR",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 330,
+      "label": "section-title",
+      "text": "ARTICLE 8- THE FINANCIAL STATEMENTS AND THE MANAGEMENT REPORT",
+      "parent_id": 330,
+      "order": 6
+    },
+    {
+      "id": 334,
+      "label": "section-title",
+      "text": "TITLE 3: DISTRIBUTION POLICY",
+      "parent_id": 334,
+      "order": 6
+    },
+    {
+      "id": 335,
+      "label": "section-title",
+      "text": "ARTICLE 9- DISTRIBUTABLE INCOME",
+      "parent_id": 335,
+      "order": 6
+    },
+    {
+      "id": 337,
+      "label": "section-title",
+      "text": "Distributable income is made up of:",
+      "parent_id": 337,
+      "order": 6
+    },
+    {
+      "id": 343,
+      "label": "section-title",
+      "text": "TITLE 4: MERGER – SPLIT – DISSOLUTION – LIQUIDATION",
+      "parent_id": 343,
+      "order": 6
+    },
+    {
+      "id": 344,
+      "label": "section-title",
+      "text": "ARTICLE 10- MERGER- SPLIT",
+      "parent_id": 344,
+      "order": 6
+    },
+    {
+      "id": 347,
+      "label": "section-title",
+      "text": "ARTICLE 11- DISSOLUTION- EXTENSION",
+      "parent_id": 347,
+      "order": 6
+    },
+    {
+      "id": 355,
+      "label": "section-title",
+      "text": "ARTICLE 12- LIQUIDATION",
+      "parent_id": 355,
+      "order": 6
+    },
+    {
+      "id": 358,
+      "label": "section-title",
+      "text": "TITLE 5: DISPUTES",
+      "parent_id": 358,
+      "order": 6
+    },
+    {
+      "id": 359,
+      "label": "section-title",
+      "text": "ARTICLE 13 – JURISDICTION – ADDRESS FOR SERVICE",
+      "parent_id": 359,
+      "order": 6
+    }
+  ]
+}

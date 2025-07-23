@@ -1,0 +1,130 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "title",
+      "text": "Indications and expectations for neuropsychological assessment in epilepsy surgery in children and adults",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "Methods",
+      "parent_id": 33,
+      "order": 1
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "PRE-SURGICAL EVALUATION",
+      "parent_id": 36,
+      "order": 2
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "Baseline assessment for outcome comparison",
+      "parent_id": 53,
+      "order": 3
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "Contribution to seizure characterization and lateralization/localization",
+      "parent_id": 59,
+      "order": 4
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Identification of cognitive risk and prediction of cognitive outcome following surgery",
+      "parent_id": 73,
+      "order": 5
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Amnesic risk",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Neuropsychological feedback and education (patient and family)",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "POSTOPERATIVE ASSESSMENT",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 107,
+      "label": "section-title",
+      "text": "Evaluating psychosocial outcomes",
+      "parent_id": 107,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "Behavioural， mood and adjustment difficulties following surgery",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "Neuropsychological intervention following epilepsy surgery",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "Consideration of special populations",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "Children",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "People with intellectual disability/learning disability",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 146,
+      "label": "section-title",
+      "text": "Conclusion",
+      "parent_id": 146,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "Acknowledgements and disclosures.",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "References",
+      "parent_id": 151,
+      "order": 6
+    }
+  ]
+}

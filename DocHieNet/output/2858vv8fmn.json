@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": " pervasive as the Internet (see Chapter 1， this volume).The Internet and Social Transformation： Reconfiguring Access",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "The Internet and Society",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "[FIGURES 1 AND 2 ABOUT HERE (SEE SEPARATE 'DUTTON_FIGURES'FILES)] The Role of the Internet in Reconfiguring Access",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "ITABLE1 ABOUT HERE]",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "How Digital Choices Reconfigure Access",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "Social Factors Shaping Digital Choices",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

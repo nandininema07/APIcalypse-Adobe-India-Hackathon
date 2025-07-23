@@ -1,0 +1,158 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "<unk>",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Shareholder Letter",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "FINANCIAL PERFORMANCE",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "SHAREHOLDER VALUE",
+      "parent_id": 34,
+      "order": 4
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "PUTTING PEOPLE FIRST",
+      "parent_id": 36,
+      "order": 5
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "COMMUNITY SUPPORT",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "BOOK VALUE PER SHARE",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "ANNUAL DIVIDENDS PAID PER SHARE",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "CHANGES TO OUR BOARD",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "FUTURE FOCUS",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Honoring the legacy of our former chairman.",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Building a blossoming relationship with a beloved local barber.",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "Fueling a full-service real estate group’s full potential.",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "SELECTED FINANCIAL DATA",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "SELECTED FINANCIAL CONDITION DATA",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "SELECTED OPERATING DATA",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "INVESTMENT RATIONALE",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 156,
+      "label": "section-title",
+      "text": "SHAREHOLDER INFORMATION",
+      "parent_id": 156,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "BUSINESS PROFILE",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 188,
+      "label": "section-title",
+      "text": "CAUTIONARY STATEMENT",
+      "parent_id": 188,
+      "order": 6
+    }
+  ]
+}

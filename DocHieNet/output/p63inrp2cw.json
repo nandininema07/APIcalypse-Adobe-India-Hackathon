@@ -1,0 +1,186 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Two-lo cal qubit Hamiltonians: when are they sto quastic? ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "1 Intro duction and Motivation ",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "1.1 Definitions ",
+      "parent_id": 22,
+      "order": 2
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "1.2 Summary of Results ",
+      "parent_id": 36,
+      "order": 3
+    },
+    {
+      "id": 46,
+      "label": "section-title",
+      "text": "2 Warm-Up: Two Qubit Hamiltonians ",
+      "parent_id": 46,
+      "order": 4
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "2.1 A Convenient Representation of 2-qubit Hamiltonians ",
+      "parent_id": 55,
+      "order": 5
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "2.2 Clifford Rotations and Beyond ",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "2.3 Deciding Realness With Makhlin Invariants ",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "2.4 Reducing the Two-Qubit Sto quastic Deci- sion Problem to Polynomial Inequalities ",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "3 The Stoquastic Problem for 2-local Hamiltonians ",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "3.1 Finding a Decomp osition in a Fixed Basis ",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "3.2 Uniform Bipartite Graphs ",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "3.3 Efficient Algorithm for XYZ Heisenberg Mo dels ",
+      "parent_id": 126,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "3.3.1 Preliminaries and Proof Outline ",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 144,
+      "label": "section-title",
+      "text": "3.3.2 Definitions ",
+      "parent_id": 144,
+      "order": 6
+    },
+    {
+      "id": 167,
+      "label": "section-title",
+      "text": "3.3.3 The Algorithm ",
+      "parent_id": 167,
+      "order": 6
+    },
+    {
+      "id": 211,
+      "label": "section-title",
+      "text": "3.3.4 Correctness of the algorithm ",
+      "parent_id": 211,
+      "order": 6
+    },
+    {
+      "id": 252,
+      "label": "section-title",
+      "text": "4 Discussion ",
+      "parent_id": 252,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "5 Funding ",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 261,
+      "label": "section-title",
+      "text": "6 Acknowledgements ",
+      "parent_id": 261,
+      "order": 6
+    },
+    {
+      "id": 263,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 263,
+      "order": 6
+    },
+    {
+      "id": 295,
+      "label": "section-title",
+      "text": "A Symmetric Z-Matrix Cone in Cd2 ",
+      "parent_id": 295,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "B Pro of of Theorem 7 ",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 339,
+      "label": "section-title",
+      "text": "C Polynomial Inequalities for Sto quas- ticity of a 2-qubit Hamiltonian ",
+      "parent_id": 339,
+      "order": 6
+    },
+    {
+      "id": 360,
+      "label": "section-title",
+      "text": "D Proof of Lemma 21 ",
+      "parent_id": 360,
+      "order": 6
+    },
+    {
+      "id": 394,
+      "label": "section-title",
+      "text": "E Pro of of Theorem 5 ",
+      "parent_id": 394,
+      "order": 6
+    }
+  ]
+}

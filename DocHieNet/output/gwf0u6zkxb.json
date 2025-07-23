@@ -1,0 +1,95 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "广州市校服采购合同(2021版)",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "广州市校服采购合同",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "一、校服材质、数量、单价等明细",
+      "parent_id": 11,
+      "order": 2
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "二、单个学生校服的总价",
+      "parent_id": 13,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "三、质量要求",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "四、校服的样式与封样",
+      "parent_id": 23,
+      "order": 5
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "五、校服的生产加工与送检",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "六、交货时间、地点及货物包装",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "七、校服验收",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "八、售后服务与附加服务",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "九、付款日期与方式(请在□内打√)",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "十、履约保证金",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "十一、违约责任",
+      "parent_id": 55,
+      "order": 6
+    }
+  ]
+}

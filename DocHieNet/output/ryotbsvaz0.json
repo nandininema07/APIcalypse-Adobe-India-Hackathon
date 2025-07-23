@@ -1,0 +1,88 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "COMMUNICABLE DISEASES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Why GAO Did This Study",
+      "parent_id": 13,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "What GAO Recommends",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "title",
+      "text": "AIR TRAVEL AND COMMUNICABLE DISEASES",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 23,
+      "label": "section-title",
+      "text": "What GAO Found",
+      "parent_id": 23,
+      "order": 4
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 39,
+      "order": 5
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "Absence of a Remains Insufficiently to Communicable",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "FAA Has Taken Steps to Improve Its R&D Portfolio Management, but Has Conducted Limited Research on Disease Transmission in Aircraft and Airports",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "Improve the Formulation and Management of its R&D Portfolio Based on GAO Recommendations",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "Disease Transmission Research Has Received Limited FAA Focus in Recent Years",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "Some Technologies Could Be Useful to Reduce the Risks of Communicable Disease in Air Travel",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 108,
+      "label": "section-title",
+      "text": "GAO Contact and Staff Acknowledgments",
+      "parent_id": 108,
+      "order": 6
+    }
+  ]
+}

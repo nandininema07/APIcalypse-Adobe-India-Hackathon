@@ -1,0 +1,634 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "《Excel、PPT在企业管理中的高级应用》",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "开课信息",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "-课程目的",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "课程板块",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "课程对象",
+      "parent_id": 18,
+      "order": 4
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "课程亮点",
+      "parent_id": 20,
+      "order": 5
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "课程大纲",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "一、Excel小技巧",
+      "parent_id": 24,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "1.快速输入今天的日期",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "2.使用智能填充实现自定义填充功能",
+      "parent_id": 27,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3.使用定位进行高效数据整理",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "4.使用数据分列实现数据格式转换",
+      "parent_id": 29,
+      "order": 6
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "5.使用照相机工具实现 Dashboard的制作",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "6.使用自定义格式实现数字格式的灵活定义",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "7.使Excel更加安全的技巧",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "二、Excel函数(可以根据客户需求定制)",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "1.数据的引用(绝对引用、相对引用、混合引用)",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2.使用VLOOKUP实现精确查找",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "3.使用VLOOKUP实现模糊查找",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "4.使用日期函数WEEKDAY与NETWORKDAYS计算工作日",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 48,
+      "label": "section-title",
+      "text": "5.使用OFFSET实现二维查找",
+      "parent_id": 48,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "6.使用MID、DATE、DATEDIF等函数实现员工身份证信息提取",
+      "parent_id": 49,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "三、Excel数据透视表",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "1.数据、业务流程与执行力的关系",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "2.数据透视表原始数据要求",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "3.数据透视表结构介绍",
+      "parent_id": 55,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "4.制作基本的数据透视表",
+      "parent_id": 56,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "5.结构百分比、环比、环比百分比报表的制作",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "6.报表筛选工具的使用",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 59,
+      "label": "section-title",
+      "text": "7.使用计算字段与计算项工具挖掘数据深层次关系",
+      "parent_id": 59,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "8.动态数据透视表的制作",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 62,
+      "label": "section-title",
+      "text": "四、Excel图表(可以根据客户需求定制)",
+      "parent_id": 62,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "1.Excel图表组成要素概述",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "2.Excel柱状图",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "3.Excel双坐标图",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "4.Excel气泡图",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "5.Excel饼图",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "6.Excel雷达图",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "7.Excel瀑布图",
+      "parent_id": 70,
+      "order": 6
+    },
+    {
+      "id": 71,
+      "label": "section-title",
+      "text": "8.Excel甘特图",
+      "parent_id": 71,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "五、Excel条件格式",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "1.使用条件格式工具实现应收账款管理",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "2..使用条件格式标示出特征数据，实现高效数据分析",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "PPT部分",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "一、正确认识PPT",
+      "parent_id": 85,
+      "order": 6
+    },
+    {
+      "id": 88,
+      "label": "section-title",
+      "text": "2.PPT的类型",
+      "parent_id": 88,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "(1)信息传递类PPT",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "(2)说服类PPT",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 91,
+      "label": "section-title",
+      "text": "(3)激励类PPT",
+      "parent_id": 91,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "3.PPT的常见6种缺陷分析",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "(1)缺陷1：自我- 没有以听众为中心",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "(2)缺陷2：迷茫—目的不清",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "(3)缺陷3：混乱-—逻辑思路不清",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "(4)缺陷4：枯燥-——内容素材不生动",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "(5)缺陷5：粗糙-诊一设计不专业不精美",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "(6)缺陷6：青涩—— 演讲技能不够熟练",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "4.PPT设计与好莱坞电影工程类比一PPT的设计流程",
+      "parent_id": 99,
+      "order": 6
+    },
+    {
+      "id": 100,
+      "label": "section-title",
+      "text": "(1)谋篇布局",
+      "parent_id": 100,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "(2)视觉设计",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "(3)演绎互动设计",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 103,
+      "label": "section-title",
+      "text": "二、PPT谋篇布局",
+      "parent_id": 103,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "1.明确PPT的目的",
+      "parent_id": 105,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "2.PPT的听众分析方法",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "3.PPT演讲场景分析",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "4. PPT结构设计",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 116,
+      "label": "section-title",
+      "text": "(1)PPT的要点化",
+      "parent_id": 116,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "(2)将PPT的要点按照MECE法则归类",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "(3)PPT的故事线设计：自上而下、自下而上",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "2.说理的逻辑顺序-归纳型与演绎型",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "3.分析的宽度—MECE分类原则",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "4.分析的深度—五步分析法",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 122,
+      "label": "section-title",
+      "text": "5.说服类PPT的结构特征",
+      "parent_id": 122,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "6.信息告知类PPT的结构特征",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 124,
+      "label": "section-title",
+      "text": "7.培训类PPT的结构特征",
+      "parent_id": 124,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "三、使用母版规划PPT",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "1.母版视图",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 128,
+      "label": "section-title",
+      "text": "2.使用母版对PPT进行整体规划",
+      "parent_id": 128,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "3.使用母版实现PPT快速修改",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 130,
+      "label": "section-title",
+      "text": "4.使用母版设置PPT调色盘",
+      "parent_id": 130,
+      "order": 6
+    },
+    {
+      "id": 131,
+      "label": "section-title",
+      "text": "四、PPT的文字、图片技巧",
+      "parent_id": 131,
+      "order": 6
+    },
+    {
+      "id": 133,
+      "label": "section-title",
+      "text": "1.PPT的文字使用规范与技巧",
+      "parent_id": 133,
+      "order": 6
+    },
+    {
+      "id": 134,
+      "label": "section-title",
+      "text": "(1)字体的选择",
+      "parent_id": 134,
+      "order": 6
+    },
+    {
+      "id": 135,
+      "label": "section-title",
+      "text": "(2)字号的选择",
+      "parent_id": 135,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "(3)文字的要点化与段落化",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 137,
+      "label": "section-title",
+      "text": "2.PPT文字的层次关系",
+      "parent_id": 137,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "3.PPT的图片处理技巧—裁剪、变色、去水印、去背景技巧等",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 139,
+      "label": "section-title",
+      "text": "4.各种图形的制作技巧—一绘制、剪除、组合等",
+      "parent_id": 139,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "5.使用文字与图片组合提升PPT美感",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "(1)蒙版的使用",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "(2)用图形使得PPT页面保持平衡感",
+      "parent_id": 142,
+      "order": 6
+    }
+  ]
+}

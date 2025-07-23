@@ -1,0 +1,25 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Minnesota Department of Agriculture",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "REQUEST FOR COMMENTS",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Public Comment Instructions",
+      "parent_id": 0,
+      "order": 2
+    }
+  ]
+}

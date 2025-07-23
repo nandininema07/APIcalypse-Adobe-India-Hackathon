@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "DIVISION OF INTERCOLLEGIATE ATHLETICS FULL-TIME HEAD FOOTBALL COACH EMPLOYMENT CONTRACT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "TERM",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "III . COMPENSATION",
+      "parent_id": 10,
+      "order": 2
+    },
+    {
+      "id": 53,
+      "label": "section-title",
+      "text": "IV . DUTIES AND RESPONSIBILITIES",
+      "parent_id": 53,
+      "order": 3
+    },
+    {
+      "id": 63,
+      "label": "section-title",
+      "text": "V . CAMPS AND CLINICS",
+      "parent_id": 63,
+      "order": 4
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "VI.ASSISTANT COACHES",
+      "parent_id": 69,
+      "order": 5
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "VII . OUTSIDE ACTIVITIES AND PROGRAMS",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 78,
+      "label": "section-title",
+      "text": "VIII . COMPLIANCE",
+      "parent_id": 78,
+      "order": 6
+    },
+    {
+      "id": 89,
+      "label": "section-title",
+      "text": "IX. DISCIPLINE AND TERMINATION",
+      "parent_id": 89,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "A. FOR CAUSE",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 96,
+      "label": "section-title",
+      "text": "B. TERMINATION WITHOUT CAUSE",
+      "parent_id": 96,
+      "order": 6
+    },
+    {
+      "id": 102,
+      "label": "section-title",
+      "text": "C . DEATH OR DISABILITY",
+      "parent_id": 102,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "D. TERMINATION BY HEAD COACH",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "E . NOTIFICATION REQUIRED PRIOR TO DISCU S SION WITH OTHER EMPLOYERS",
+      "parent_id": 112,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "X.MISCELLANEOUS",
+      "parent_id": 114,
+      "order": 6
+    }
+  ]
+}

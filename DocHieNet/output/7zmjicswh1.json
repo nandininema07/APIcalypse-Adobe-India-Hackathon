@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "政务服务一张网\"\"旗舰店\"普通用户简易操作手册",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "【文档说明】",
+      "parent_id": 4,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "【注册、登录】",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "【预约事项】",
+      "parent_id": 41,
+      "order": 3
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "【申报事项】",
+      "parent_id": 54,
+      "order": 4
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "【查询事项】",
+      "parent_id": 69,
+      "order": 5
+    }
+  ]
+}

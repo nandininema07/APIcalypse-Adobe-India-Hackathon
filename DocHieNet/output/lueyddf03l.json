@@ -1,0 +1,263 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "EMPLOYEE RELOCATION",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Why GAO Did This Study",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "What GAO Recommends",
+      "parent_id": 15,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "title",
+      "text": "EMPLOYEE RELOCATION",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "What GAO Found",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Abbreviations",
+      "parent_id": 32,
+      "order": 5
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Home Sale Assistance",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "GSA’s Role",
+      "parent_id": 81,
+      "order": 6
+    },
+    {
+      "id": 97,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 97,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "Federal Agencies’and VA’s AVO Home Sale Count and Expenditures Varied",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "Most Agencies with an Operational AVO Rely on Two Key Types of Internal Controls and Two Shared Lessons Learned",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 155,
+      "label": "section-title",
+      "text": "VA Strengthened Its Controls over AVO but Is Not Tracking Data on Whether AVO Improves Recruitment and Retention",
+      "parent_id": 155,
+      "order": 6
+    },
+    {
+      "id": 156,
+      "label": "section-title",
+      "text": "VA Strengthened the Administration of AVO by Implementing New Policies That Include Internal Controls",
+      "parent_id": 156,
+      "order": 6
+    },
+    {
+      "id": 179,
+      "label": "section-title",
+      "text": "VA Is Not Tracking Data on Whether Use of AVO Improves Recruitment and Retention",
+      "parent_id": 179,
+      "order": 6
+    },
+    {
+      "id": 188,
+      "label": "section-title",
+      "text": "Conclusions",
+      "parent_id": 188,
+      "order": 6
+    },
+    {
+      "id": 195,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 195,
+      "order": 6
+    },
+    {
+      "id": 197,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 197,
+      "order": 6
+    },
+    {
+      "id": 204,
+      "label": "title",
+      "text": "Appendix I: Objectives, Scope, and Methodology Methodology",
+      "parent_id": 204,
+      "order": 6
+    },
+    {
+      "id": 231,
+      "label": "title",
+      "text": "Appendix II: AVO Questionnaire Sent to Agencies Agencies",
+      "parent_id": 231,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 238,
+      "label": "section-title",
+      "text": "AVO and Policies operational?",
+      "parent_id": 238,
+      "order": 6
+    },
+    {
+      "id": 257,
+      "label": "section-title",
+      "text": "Section 3: Results and Lessons Learned",
+      "parent_id": 257,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 288,
+      "label": "title",
+      "text": "oAfp Vpeetnedriaxn IsII :A fCfoaimrsments from the Department Department of Veterans Affairs",
+      "parent_id": 288,
+      "order": 6
+    },
+    {
+      "id": 289,
+      "label": "section-title",
+      "text": "DEPARTMENT OF VETERANS AFFAIRS",
+      "parent_id": 289,
+      "order": 6
+    },
+    {
+      "id": 312,
+      "label": "title",
+      "text": "Appendix IV: GAO Contact and Staff Acknowledgments Acknowledgments",
+      "parent_id": 312,
+      "order": 6
+    },
+    {
+      "id": 313,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 313,
+      "order": 6
+    },
+    {
+      "id": 315,
+      "label": "section-title",
+      "text": "Acknowledgments",
+      "parent_id": 315,
+      "order": 6
+    },
+    {
+      "id": 318,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 318,
+      "order": 6
+    },
+    {
+      "id": 320,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 320,
+      "order": 6
+    },
+    {
+      "id": 322,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 322,
+      "order": 6
+    },
+    {
+      "id": 326,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 326,
+      "order": 6
+    },
+    {
+      "id": 328,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 328,
+      "order": 6
+    },
+    {
+      "id": 332,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 332,
+      "order": 6
+    },
+    {
+      "id": 334,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 334,
+      "order": 6
+    },
+    {
+      "id": 336,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 336,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "contents": [
+    {
+      "id": 6,
+      "label": "title",
+      "text": "SECTION 16130TABLE BOXES FOR ELECTRICAL SYSTEMS",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "PART 1-GENERAL",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "PART 2-PRODUCTS",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 55,
+      "label": "section-title",
+      "text": "PART 3- EXECUTION",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "[EMPTY]",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "Legrand/Wiremold",
+      "parent_id": 0,
+      "order": 5
+    }
+  ]
+}

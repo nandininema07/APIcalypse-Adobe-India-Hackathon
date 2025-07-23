@@ -1,0 +1,123 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Internet of Things (IOT)： Research Challenges and Future Applications",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "1. INTRODUCTION",
+      "parent_id": 6,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "II. POTENTIAL APPLICATION DOMAINS OF IOT",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "A. Smart Cities",
+      "parent_id": 18,
+      "order": 3
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "B. Healthcare",
+      "parent_id": 21,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "C. Smart Agriculture and Water Management",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "D. Retail and Logistics",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "E. Smart Living",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "F. Smart Environment",
+      "parent_id": 41,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "III. RESEARCH CHALLENGES",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 51,
+      "label": "section-title",
+      "text": "A. Privacy and Security",
+      "parent_id": 51,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "B. Processing， Analysis and Management ofData",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 58,
+      "label": "section-title",
+      "text": "C. Monitoring and Sensing",
+      "parent_id": 58,
+      "order": 6
+    },
+    {
+      "id": 60,
+      "label": "section-title",
+      "text": "D. M2M (Machine to Machine) Communication and Communication Protocols",
+      "parent_id": 60,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "E. Blockchain of Things (BCoT)： Fusion ofBlockchainand Internet of Things",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "F. Interoperability",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 70,
+      "label": "section-title",
+      "text": "IV. CONCLUSION",
+      "parent_id": 70,
+      "order": 6
+    }
+  ]
+}

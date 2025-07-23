@@ -1,0 +1,32 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "布的应急机制。湖南省实施《突发公共卫生事件应急条例》办法",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "第一章总则",
+      "parent_id": 5,
+      "order": 1
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "第二章预防与应急准备",
+      "parent_id": 27,
+      "order": 2
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "第三章监测与报告",
+      "parent_id": 52,
+      "order": 3
+    }
+  ]
+}

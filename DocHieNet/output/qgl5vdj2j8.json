@@ -1,0 +1,151 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "Government Response to",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Government Response to the Report of the Social Services Select Committee on its Inquiry into the Quality of Care and Services Provision for People with Disabilities",
+      "parent_id": 7,
+      "order": 1
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1The Government welcomes the Social Services Select Committee's report on its \"Inquiry into the Quality of Care and Services Provision for People with Disabilities'. The report is the result of a considerable amount of work by the Select Committee over a long period of time， and represents a major contribution to the development of policy in this important butchallenging area.The Government responds to the report in accordance with Standing Order 248.",
+      "parent_id": 8,
+      "order": 2
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "2The Government tsupports the underlying intention of the Select Committee's recommendations of adopting a citizenship-based model for disability supports that is based on improving disabled people's ability to live everyday lives through giving them increased choice and control over the supports they receive and the lives they lead.",
+      "parent_id": 9,
+      "order": 3
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "3There are two broad approaches to the Government's response. For the majority of recommendations the response indicates that  further work is S required before the Government can make decisions on the particular steps it will take， as the recommendations are wide ranging and have significant implications for a range of government agencies and disabled people. The Government's ability to respond to some of these recommendations is also affected by the need to consider the results of consultation processes before taking decisions. This particularly affects the recommendations relating to the Health and Disability Commissioner and the Health and Disability Services (Safety) Act 2001. In other cases， however， the Government has already implemented several responses that are consistent with the Select Committee's recommendations， or is expanding and modifying its existing work programmes so that they are consistent with the Select Committee's recommendations.",
+      "parent_id": 10,
+      "order": 4
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "4The Government expects to progress the substantial work programme outlined in this response during 2009. The scope of issues to be considered， however， means that the Government will need to prioritise the order in which it considers issues. In doing so， the focus will be on steps that make the biggest difference to disabled people through enabling them to live an everyday life and to have increased control and choice over what they do. The current fiscal climate means that the immediate focus must be on using existing resources in more cost-effective ways rather than on major structural change or increased levels of funding.",
+      "parent_id": 11,
+      "order": 5
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "5The Government acknowledges that the Select Committee considers that there should be ongoing monitoring of the Government's progress in implementing some of the Select Committee's recommendations. The Government suggests that this ongoing monitoring take place as part of a regular， annual examination - such as through reviewing the annual report on the implementation of the New Zealand Disability Strategy - rather than as part of an ad hoc process. This would avoid the additional and resource intensive work that can result from ad hoc monitoring arrangements. Options for doing this will be examined in the further work outlined under Theme One below.",
+      "parent_id": 12,
+      "order": 6
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "6The response below is presented under seven themes， with each theme covering one or more recommendations.. These themes largely reflect the way in which the issues are presented in the Select Committee's report. The responses should be treated as relating to all the recommendations in a particular theme unless it is clearly indicated that it relates to particular recommendations.",
+      "parent_id": 13,
+      "order": 6
+    },
+    {
+      "id": 15,
+      "label": "section-title",
+      "text": "Recommendations and government response",
+      "parent_id": 15,
+      "order": 6
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1Enhancing leadership and accountability structures (this section covers recommendations 1， 2， 3 and 4)",
+      "parent_id": 16,
+      "order": 6
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Response",
+      "parent_id": 21,
+      "order": 6
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "7The Government acknowledges that improvements can be made to the leadership of， and accou ability structures for， disability services. As an initial step， the Government ha nas decided that it will improve Ministerial-level collaboration on disability issues through establishing a Ministerial Committee on Disability Issues， chaired by the Minister for Disability Issues.5. The Government has also directed officials to further examine the two broad issues raised by these recommendations：",
+      "parent_id": 22,
+      "order": 6
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "8The Government does not， however， favour establishing new agencies， such as establishing a Disability Commission. Such significant structural changes are likely to be costly and distract officials from carrying out the substantial work programme that is outlined in this response.",
+      "parent_id": 25,
+      "order": 6
+    },
+    {
+      "id": 26,
+      "label": "section-title",
+      "text": "9The Government has also asked officials to consider， as part of the work they already have underway to improve the monitoring of the New Zealand Disability Strategy and to monitor the United Nations Convention on the Rights of Persons with Disabilities， how progress on the work programme outlined in this response might also be monitored (recommendation 4).",
+      "parent_id": 26,
+      "order": 6
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "2Changing the way that people access the disability support system (this section covers recommendations 5，6 and 12)",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 32,
+      "label": "section-title",
+      "text": "Response",
+      "parent_id": 32,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "107The Government is committed to an approach to accessing the disability support system that gives disabled people greater control over their lives and supports participation in the community. Consistent with this， the Government acknowledges that evidence from some other jurisdictions suggests that Local Area Coordination is valued by many disabled peopleand is more cost-effective than some alternative approaches. Accordingly， it has directed officials to investigate how Local Area Coordination-type processes might be implemented in New Zealand， and the desirability and feasibility of doing so (recommendations 5 and 6). That investigation will include the following types of issues：",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "11The Government agrees that improvements can be made to processes for accessing basic， low cost equipment and modifications (recommendation 12). Consistent with this， the Ministry of Health is working with its contracted Equipment Management Service providers to improve the speed with which people can get basic equipment through， for example， expanding the range of people and providers who can assess people's need for basic equipment， and improving the distribution arrangements for equipment. The investigation of Local Area Coordination-type processes will also consider whether it is possible to streamline the delivery of other low-cost supports.",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "3Increasing choice and flexibility in disability supports (this section covers recommendations 7 and 8)",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "Response",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "12The Government supports an approach that empowers disabled people to manage their own personal support services and gives them greater choice and control over their lives， including through providing better access to supported independent living [in which services are wrapped around a person to enable them to meet their goals] and individualised funding[also known as direct funding， in which people directly manage the support services they receive] (recommendation 7). Consistent with the Government's direction to officials to implement such an approach the Ministry of Health， in consultation with other government agencies and within available resources， is：",
+      "parent_id": 44,
+      "order": 6
+    }
+  ]
+}

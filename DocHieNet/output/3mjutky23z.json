@@ -1,0 +1,158 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "OVERVIEW",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Introduction",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 7,
+      "label": "section-title",
+      "text": "Teh North-west Corner Building: Trench F",
+      "parent_id": 7,
+      "order": 2
+    },
+    {
+      "id": 21,
+      "label": "section-title",
+      "text": "Teh Steep Outer Bailey: Trench G",
+      "parent_id": 21,
+      "order": 3
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "Teh Southern Mound: Trench H",
+      "parent_id": 31,
+      "order": 4
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Teh Cellar Building: Trench I",
+      "parent_id": 42,
+      "order": 5
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "Teh 18th Century Smallholding: Finds and Surface Observations",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Trenching for Bridge Posts on the Lake-shore",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Summary: Main Findings",
+      "parent_id": 73,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "title",
+      "text": "TECHNICAL AND ADMINISTRATIVE DATA",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 82,
+      "label": "section-title",
+      "text": "Administrativia",
+      "parent_id": 82,
+      "order": 6
+    },
+    {
+      "id": 84,
+      "label": "section-title",
+      "text": "Location",
+      "parent_id": 84,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Fieldwork",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Staff",
+      "parent_id": 92,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Post-Excavation Specialists",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "Funding",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 105,
+      "label": "title",
+      "text": "TRENCHES AND STRATIGRAPHIC CONTEXT DESCRIPTIONS",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "Trench F",
+      "parent_id": 106,
+      "order": 6
+    },
+    {
+      "id": 120,
+      "label": "section-title",
+      "text": "Trench G",
+      "parent_id": 120,
+      "order": 6
+    },
+    {
+      "id": 135,
+      "label": "section-title",
+      "text": "Trench H",
+      "parent_id": 135,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "Trench I",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 181,
+      "label": "section-title",
+      "text": "Lake-shore Trench",
+      "parent_id": 181,
+      "order": 6
+    }
+  ]
+}

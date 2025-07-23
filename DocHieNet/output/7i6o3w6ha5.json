@@ -1,0 +1,886 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Sales Prospectus with Management Regulation.",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "Selli n g restr i ctions",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Supplementary s h eet",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "I. Sales Prospectus",
+      "parent_id": 20,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "1 . The Fund",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Deka-EuroStocks",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2. The Manageme n t Company",
+      "parent_id": 36,
+      "order": 6
+    },
+    {
+      "id": 54,
+      "label": "section-title",
+      "text": "3. The Custodian Bank",
+      "parent_id": 54,
+      "order": 6
+    },
+    {
+      "id": 57,
+      "label": "section-title",
+      "text": "4 I n vestme n t policy",
+      "parent_id": 57,
+      "order": 6
+    },
+    {
+      "id": 66,
+      "label": "section-title",
+      "text": "5. Techn iqu e s a n d instruments",
+      "parent_id": 66,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "6 . Not i ce of risk",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 114,
+      "label": "section-title",
+      "text": "7.Pe r formanc e",
+      "parent_id": 114,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "section-title",
+      "text": "8. Investor pr ofil e",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "9. Taxes",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "10. Costs",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "Calc u lation:",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 159,
+      "label": "section-title",
+      "text": "Explanation:",
+      "parent_id": 159,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "11. Unit value calculation",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 168,
+      "label": "section-title",
+      "text": "12 . Purchase, redem p t i on , a nd exchange of units",
+      "parent_id": 168,
+      "order": 6
+    },
+    {
+      "id": 178,
+      "label": "section-title",
+      "text": "13 . Information for unit hold e rs",
+      "parent_id": 178,
+      "order": 6
+    },
+    {
+      "id": 188,
+      "label": "section-title",
+      "text": "14. Dist r ibution i n t h e Federal Republic of G e rm a ny",
+      "parent_id": 188,
+      "order": 6
+    },
+    {
+      "id": 199,
+      "label": "section-title",
+      "text": "15 . Overv i ew of the Fund",
+      "parent_id": 199,
+      "order": 6
+    },
+    {
+      "id": 200,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 200,
+      "order": 6
+    },
+    {
+      "id": 205,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 205,
+      "order": 6
+    },
+    {
+      "id": 210,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 210,
+      "order": 6
+    },
+    {
+      "id": 213,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 213,
+      "order": 6
+    },
+    {
+      "id": 218,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 218,
+      "order": 6
+    },
+    {
+      "id": 219,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 219,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 227,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 227,
+      "order": 6
+    },
+    {
+      "id": 230,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 230,
+      "order": 6
+    },
+    {
+      "id": 232,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 232,
+      "order": 6
+    },
+    {
+      "id": 233,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 233,
+      "order": 6
+    },
+    {
+      "id": 237,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 237,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 249,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 249,
+      "order": 6
+    },
+    {
+      "id": 250,
+      "label": "section-title",
+      "text": "Basic Reg u la t ion",
+      "parent_id": 250,
+      "order": 6
+    },
+    {
+      "id": 252,
+      "label": "section-title",
+      "text": "Article 1 Scope of application and def i nitions",
+      "parent_id": 252,
+      "order": 6
+    },
+    {
+      "id": 254,
+      "label": "section-title",
+      "text": "2. T h e f ol l ow in g d e f in i t i o n s a p p l y:",
+      "parent_id": 254,
+      "order": 6
+    },
+    {
+      "id": 255,
+      "label": "section-title",
+      "text": "\"valuation date\"",
+      "parent_id": 255,
+      "order": 6
+    },
+    {
+      "id": 257,
+      "label": "section-title",
+      "text": "\"CSSF \" :",
+      "parent_id": 257,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "“de r ivatives \":",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 261,
+      "label": "section-title",
+      "text": "\" no n -Member State \" :",
+      "parent_id": 261,
+      "order": 6
+    },
+    {
+      "id": 263,
+      "label": "section-title",
+      "text": "\"mon ey market inst r uments\" :",
+      "parent_id": 263,
+      "order": 6
+    },
+    {
+      "id": 265,
+      "label": "section-title",
+      "text": "\"Law of 2010\":",
+      "parent_id": 265,
+      "order": 6
+    },
+    {
+      "id": 267,
+      "label": "section-title",
+      "text": "\"Member State\":",
+      "parent_id": 267,
+      "order": 6
+    },
+    {
+      "id": 269,
+      "label": "section-title",
+      "text": "\"net assets of the Fund\":",
+      "parent_id": 269,
+      "order": 6
+    },
+    {
+      "id": 271,
+      "label": "section-title",
+      "text": "\"UCI\" :",
+      "parent_id": 271,
+      "order": 6
+    },
+    {
+      "id": 273,
+      "label": "section-title",
+      "text": "\"UCITS\" :",
+      "parent_id": 273,
+      "order": 6
+    },
+    {
+      "id": 275,
+      "label": "section-title",
+      "text": "\"O T C der i vat i ves\":",
+      "parent_id": 275,
+      "order": 6
+    },
+    {
+      "id": 277,
+      "label": "section-title",
+      "text": "\"transferable securities\" :",
+      "parent_id": 277,
+      "order": 6
+    },
+    {
+      "id": 281,
+      "label": "section-title",
+      "text": "Article 2 Th e Fund",
+      "parent_id": 281,
+      "order": 6
+    },
+    {
+      "id": 294,
+      "label": "section-title",
+      "text": "Ar ti cle 3 T h e Management Company",
+      "parent_id": 294,
+      "order": 6
+    },
+    {
+      "id": 299,
+      "label": "section-title",
+      "text": "Article 4 Th e Custodian Ba n k",
+      "parent_id": 299,
+      "order": 6
+    },
+    {
+      "id": 303,
+      "label": "section-title",
+      "text": "4. T o t he ex t e nt l ega ll y per m i ss i bl e , th e C u st od i a n Ba n k i s au t h o r ise d a n d r eq ui r e d to p e r fo r m th e fo l l owi n g i n it s own n ame:",
+      "parent_id": 303,
+      "order": 6
+    },
+    {
+      "id": 310,
+      "label": "section-title",
+      "text": "Article 5 Inve s tment s",
+      "parent_id": 310,
+      "order": 6
+    },
+    {
+      "id": 311,
+      "label": "section-title",
+      "text": "1 . T h e F un d m ay h o ld inv es tments i n the fol l o wi n g a ssets :",
+      "parent_id": 311,
+      "order": 6
+    },
+    {
+      "id": 317,
+      "label": "section-title",
+      "text": "e ) u n i ts o f U C IT S a ut h or i sed acco r d in g t o D i r e ct i ve 20 09/65/EC a n d / o r ot h e r U CIs w i t hi n t he m ea ni n g o f Ar t i c le 1 p a r agr a ph 2 l e t t e r s a ) a n d b) of D i r ec t i ve 20 0 9 /65 / EC , p rovid e d th at",
+      "parent_id": 317,
+      "order": 6
+    },
+    {
+      "id": 324,
+      "label": "section-title",
+      "text": "g ) d e ri vatives, i n c lud in g e q ui va l e nt c ash- sett l ed in st r u me nt s , t r ad e d on a r eg ula ted ma rk et r eferred t o i n l e t t ers a), b) an d c) , a n d / o r OTC der i v a t i ves, prov id e d t ha t",
+      "parent_id": 324,
+      "order": 6
+    },
+    {
+      "id": 328,
+      "label": "section-title",
+      "text": "h) mo n ey m ar k e t i n st r u m ent s ot h er t han th ose t r aded o n a r eg ul ated m a r k e t a nd w hich fa ll u n der A r ti c l e 1 pa r a g r a ph 2 , if th e i s s u e or t he i ssu er o f su c h i n str u me nt s is i t se l f r eg ul ated f o r th e p u r p o s e o f p r otecti ng i n ves t ors a nd savi n g s, an d prov id ed t hat th e y a r e",
+      "parent_id": 328,
+      "order": 6
+    },
+    {
+      "id": 336,
+      "label": "section-title",
+      "text": "4 . N ei t h e r t h e Ma n a ge m e n t C o m p any n o r t h e Cus tod i a n Bank ma y p e r f or m t he f ol l owin g f o r t h e accou nt of t h e Fun d :",
+      "parent_id": 336,
+      "order": 6
+    },
+    {
+      "id": 342,
+      "label": "section-title",
+      "text": "Article 6 Investment limits",
+      "parent_id": 342,
+      "order": 6
+    },
+    {
+      "id": 365,
+      "label": "section-title",
+      "text": "Article 7 Issuer l i mits",
+      "parent_id": 365,
+      "order": 6
+    },
+    {
+      "id": 367,
+      "label": "section-title",
+      "text": "2 . Mo r eove r , the F un d m ay acq u ir e n o more t ha n:",
+      "parent_id": 367,
+      "order": 6
+    },
+    {
+      "id": 373,
+      "label": "section-title",
+      "text": "3 . P a r a g r ap hs 1 a nd 2 a r e waived as r e g a r d s",
+      "parent_id": 373,
+      "order": 6
+    },
+    {
+      "id": 379,
+      "label": "section-title",
+      "text": "Art i cle 8 Techn iq ues and inst r uments",
+      "parent_id": 379,
+      "order": 6
+    },
+    {
+      "id": 388,
+      "label": "section-title",
+      "text": "Art i cle 9 Sec u rit i es l oans",
+      "parent_id": 388,
+      "order": 6
+    },
+    {
+      "id": 393,
+      "label": "section-title",
+      "text": "4. T he F un d m a y b or r ow sec uriti es i n c onn ect i o n wi t h t h e se ttl eme n t o f s e c urit i es t r a n sa c t ion s u nde r t h e f o ll ow in g co n d i t i o ns :",
+      "parent_id": 393,
+      "order": 6
+    },
+    {
+      "id": 399,
+      "label": "section-title",
+      "text": "Art i cle 10 Securitie s sal e and r epurchase ag r eements",
+      "parent_id": 399,
+      "order": 6
+    },
+    {
+      "id": 404,
+      "label": "section-title",
+      "text": "Article 11 Units",
+      "parent_id": 404,
+      "order": 6
+    },
+    {
+      "id": 408,
+      "label": "section-title",
+      "text": "Article 12 Unit valu e calculat i on",
+      "parent_id": 408,
+      "order": 6
+    },
+    {
+      "id": 411,
+      "label": "section-title",
+      "text": "2 . Th e va l ue o f t he n e t asse t s of t h e F und is c alc ul ated acco r d in g t o t he fol l ow i n g p r i n ci pl es:",
+      "parent_id": 411,
+      "order": 6
+    },
+    {
+      "id": 424,
+      "label": "section-title",
+      "text": "3. If uni t c l a s s e s ha v e be e n e stab l i s h e d fo r t h e F u n d, th e f ol l owi ng spec i a l co n si der a t i ons a p pl y t o th e c a lc ul a t i on o f uni t va lu e:",
+      "parent_id": 424,
+      "order": 6
+    },
+    {
+      "id": 431,
+      "label": "section-title",
+      "text": "6. T h e M a na gemen t Com p any h a s t h e ri g h t t o t e m p o r a ri l y s us p end ca l c ula t i on o f t he u ni t va l u e, i f a n d fo r as l o n g as c i r c u msta nc e s exist w h ic h m ak e t hi s s u s p e nsi o n n e ces s a r y , a nd i f t h e s u s p e n sio n i s jus t i f ie d i n t h e i n te r es t s of uni t h o l d e rs, i n pa r t i c u l a r :",
+      "parent_id": 431,
+      "order": 6
+    },
+    {
+      "id": 436,
+      "label": "section-title",
+      "text": "Artic l e 13 Issue of u n its",
+      "parent_id": 436,
+      "order": 6
+    },
+    {
+      "id": 443,
+      "label": "section-title",
+      "text": "Article 14 Redemp t ion of units",
+      "parent_id": 443,
+      "order": 6
+    },
+    {
+      "id": 448,
+      "label": "section-title",
+      "text": "3 . Th e M a na gem en t Co m p a n y i s a u t h o r is ed to t em p o r ar il y s u s p en d uni t r ede m p t i on wi t h pr i or a pp r ova l f rom t h e C u s t od i a n B ank. I n p a r t i c ul a r , su s pensio n i s p oss i b l e in t h e fo l l ow i n g s i t u a t i o ns :",
+      "parent_id": 448,
+      "order": 6
+    },
+    {
+      "id": 457,
+      "label": "section-title",
+      "text": "Artic l e 1 5 Ut i l i sation of earni n gs",
+      "parent_id": 457,
+      "order": 6
+    },
+    {
+      "id": 462,
+      "label": "section-title",
+      "text": "Art i cle 16 Merger of the Fund or subfund s",
+      "parent_id": 462,
+      "order": 6
+    },
+    {
+      "id": 468,
+      "label": "section-title",
+      "text": "Article 17 General cost s",
+      "parent_id": 468,
+      "order": 6
+    },
+    {
+      "id": 469,
+      "label": "section-title",
+      "text": "1 . In a d di t i o n t o t h e cost s l i sted i n t h e Spec i a l R e g ul a t i o n of th e F u nd , t h e fol l owi n g cos t s m ay a l so b e c h a r ged t o t h e Fu n d :",
+      "parent_id": 469,
+      "order": 6
+    },
+    {
+      "id": 481,
+      "label": "section-title",
+      "text": "Article 18 P u bl i cations",
+      "parent_id": 481,
+      "order": 6
+    },
+    {
+      "id": 487,
+      "label": "section-title",
+      "text": "Art i cle 19 L i q u idation",
+      "parent_id": 487,
+      "order": 6
+    },
+    {
+      "id": 488,
+      "label": "section-title",
+      "text": "1 . Th e Ma na geme nt Com p a n y ca n d i sso l ve t h e F und or a su bf un d wh i l e appro p r i at e ly ta k i n g i nt o accou n t t he i nte r es t s o f u ni t h old e rs . Dissol ut i o n of t h e Fu n d or a su bf un d i s co m p u l so r y in th e cases p rov i d e d f or b y l aw, i n p a r t icul a r ;",
+      "parent_id": 488,
+      "order": 6
+    },
+    {
+      "id": 499,
+      "label": "section-title",
+      "text": "Special R eg ul at i on Deka-EuroStock s",
+      "parent_id": 499,
+      "order": 6
+    },
+    {
+      "id": 501,
+      "label": "section-title",
+      "text": "Article 1 The Fund",
+      "parent_id": 501,
+      "order": 6
+    },
+    {
+      "id": 503,
+      "label": "section-title",
+      "text": "Article 2 Investme n t policy",
+      "parent_id": 503,
+      "order": 6
+    },
+    {
+      "id": 508,
+      "label": "section-title",
+      "text": "Artic l e 3 Units",
+      "parent_id": 508,
+      "order": 6
+    },
+    {
+      "id": 512,
+      "label": "section-title",
+      "text": "Artic l e 4 Fu n d currency, issui n g and redemption of u n its",
+      "parent_id": 512,
+      "order": 6
+    },
+    {
+      "id": 517,
+      "label": "section-title",
+      "text": "Art i cle 5 Uti l isation of earnings",
+      "parent_id": 517,
+      "order": 6
+    },
+    {
+      "id": 521,
+      "label": "section-title",
+      "text": "Article 6 Costs",
+      "parent_id": 521,
+      "order": 6
+    },
+    {
+      "id": 534,
+      "label": "section-title",
+      "text": "Article 7 F i nancial ye ar",
+      "parent_id": 534,
+      "order": 6
+    },
+    {
+      "id": 537,
+      "label": "section-title",
+      "text": "Your partners in the Sparkassen-Finanzgruppe",
+      "parent_id": 537,
+      "order": 6
+    },
+    {
+      "id": 538,
+      "label": "section-title",
+      "text": "Management Company",
+      "parent_id": 538,
+      "order": 6
+    },
+    {
+      "id": 540,
+      "label": "section-title",
+      "text": "Equity capit al ( a s a t 3 1 De cember 2 010)",
+      "parent_id": 540,
+      "order": 6
+    },
+    {
+      "id": 544,
+      "label": "section-title",
+      "text": "Sup erv i so ry Board of the Management C o mpany",
+      "parent_id": 544,
+      "order": 6
+    },
+    {
+      "id": 545,
+      "label": "section-title",
+      "text": "C h airman",
+      "parent_id": 545,
+      "order": 6
+    },
+    {
+      "id": 547,
+      "label": "section-title",
+      "text": "Deputy C h airman",
+      "parent_id": 547,
+      "order": 6
+    },
+    {
+      "id": 549,
+      "label": "section-title",
+      "text": "Memb er",
+      "parent_id": 549,
+      "order": 6
+    },
+    {
+      "id": 551,
+      "label": "section-title",
+      "text": "Management",
+      "parent_id": 551,
+      "order": 6
+    },
+    {
+      "id": 554,
+      "label": "section-title",
+      "text": "Custodi a n Ba n k and Paymen t Ag e n t ,",
+      "parent_id": 554,
+      "order": 6
+    },
+    {
+      "id": 558,
+      "label": "section-title",
+      "text": "Au d itor for th e Fund and Management C omp a ny",
+      "parent_id": 558,
+      "order": 6
+    },
+    {
+      "id": 560,
+      "label": "section-title",
+      "text": "Payment and Information Agent in the F e dera l Republic of Germany",
+      "parent_id": 560,
+      "order": 6
+    },
+    {
+      "id": 564,
+      "label": "section-title",
+      "text": "The Manageme n t Company manages the following fu nd s:",
+      "parent_id": 564,
+      "order": 6
+    },
+    {
+      "id": 565,
+      "label": "section-title",
+      "text": "1. I n vestme n t funds unde r Par t l of the Luxembourg Law of 17 Decembe r 2 010 on undertakings for col l ect i ve",
+      "parent_id": 565,
+      "order": 6
+    },
+    {
+      "id": 670,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 670,
+      "order": 6
+    },
+    {
+      "id": 711,
+      "label": "section-title",
+      "text": "2. Investment funds under Part ll o f the Luxembourg Law of 17 Decembe r 2010 on undertaking s for collec t ive i n vestment",
+      "parent_id": 711,
+      "order": 6
+    },
+    {
+      "id": 712,
+      "label": "section-title",
+      "text": "Deka - C a s h",
+      "parent_id": 712,
+      "order": 6
+    },
+    {
+      "id": 760,
+      "label": "section-title",
+      "text": "Only offered by s peci a l dis t ribution par t ners",
+      "parent_id": 760,
+      "order": 6
+    },
+    {
+      "id": 791,
+      "label": "section-title",
+      "text": "IV. Synopsis of German tax regulations",
+      "parent_id": 791,
+      "order": 6
+    },
+    {
+      "id": 792,
+      "label": "section-title",
+      "text": "General taxation framework",
+      "parent_id": 792,
+      "order": 6
+    },
+    {
+      "id": 802,
+      "label": "section-title",
+      "text": "Taxation of curre n t income from investment funds",
+      "parent_id": 802,
+      "order": 6
+    },
+    {
+      "id": 805,
+      "label": "section-title",
+      "text": "Foreig n wi th h oldi ng ta x",
+      "parent_id": 805,
+      "order": 6
+    },
+    {
+      "id": 808,
+      "label": "section-title",
+      "text": "Publ i c a t io n o f ta x b ase s",
+      "parent_id": 808,
+      "order": 6
+    },
+    {
+      "id": 811,
+      "label": "section-title",
+      "text": "Ta x a t ion o f un i t s he l d a s p e r so n a l a ss e ts",
+      "parent_id": 811,
+      "order": 6
+    },
+    {
+      "id": 814,
+      "label": "section-title",
+      "text": "T axatio n of u n i ts he l d as business assets",
+      "parent_id": 814,
+      "order": 6
+    },
+    {
+      "id": 818,
+      "label": "section-title",
+      "text": "Redemption o f investment uni t s",
+      "parent_id": 818,
+      "order": 6
+    },
+    {
+      "id": 820,
+      "label": "section-title",
+      "text": "Taxa t i on of u nits held a s pe rso n al assets",
+      "parent_id": 820,
+      "order": 6
+    },
+    {
+      "id": 827,
+      "label": "section-title",
+      "text": "T axation o f un its he l d as b us i ness assets",
+      "parent_id": 827,
+      "order": 6
+    },
+    {
+      "id": 834,
+      "label": "section-title",
+      "text": "German i nvestment in c ome tax",
+      "parent_id": 834,
+      "order": 6
+    },
+    {
+      "id": 846,
+      "label": "section-title",
+      "text": "Ge r man i n ves tm en t fu nd s",
+      "parent_id": 846,
+      "order": 6
+    },
+    {
+      "id": 849,
+      "label": "section-title",
+      "text": "For eig n i n vestment fun d s",
+      "parent_id": 849,
+      "order": 6
+    },
+    {
+      "id": 853,
+      "label": "section-title",
+      "text": "EU Savings T ax D i rective (German Interes t Information Regulation)",
+      "parent_id": 853,
+      "order": 6
+    },
+    {
+      "id": 858,
+      "label": "section-title",
+      "text": "Legal notice",
+      "parent_id": 858,
+      "order": 6
+    },
+    {
+      "id": 861,
+      "label": "section-title",
+      "text": "C h ang e s due to the German Account i n g Law Mod e rnis a tio n Act (BilMoG) : Special disclosures for i n vestme n t funds i n the notes (5 285 no. 26 HGB as ame n ded; 5 314 parag rap h 1 no . 18 HGB as amended)",
+      "parent_id": 861,
+      "order": 6
+    },
+    {
+      "id": 874,
+      "label": "section-title",
+      "text": "Deka International S.A.",
+      "parent_id": 874,
+      "order": 6
+    }
+  ]
+}

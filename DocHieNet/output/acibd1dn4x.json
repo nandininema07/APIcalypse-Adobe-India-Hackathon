@@ -1,0 +1,60 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "title",
+      "text": "西北内陆干旱区水资源承载能力研究",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1水资源承载力的主要研究内容及其特性",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "1.1主要研究内容",
+      "parent_id": 12,
+      "order": 2
+    },
+    {
+      "id": 29,
+      "label": "section-title",
+      "text": "1.2水资源承载力的特性",
+      "parent_id": 29,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2影响区域水资源承载能力的主要因素",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "3水资源承载能力指标体系",
+      "parent_id": 49,
+      "order": 5
+    },
+    {
+      "id": 67,
+      "label": "section-title",
+      "text": "4水资源承载能力计算流程",
+      "parent_id": 67,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "5承载能力分析的边界条件",
+      "parent_id": 69,
+      "order": 6
+    }
+  ]
+}

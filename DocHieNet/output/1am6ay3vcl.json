@@ -1,0 +1,109 @@
+{
+  "contents": [
+    {
+      "id": 3,
+      "label": "title",
+      "text": "Briefing for the Incoming Minister for Small Business",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "SuccessfulsmallbusinessesarecriticaltoNewZealand’seconomic growth…",
+      "parent_id": 17,
+      "order": 1
+    },
+    {
+      "id": 73,
+      "label": "section-title",
+      "text": "Number of New Zealand employees in enterprises that employ 1-19 staff, by industry",
+      "parent_id": 73,
+      "order": 2
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "New Zealand Ranks:",
+      "parent_id": 81,
+      "order": 3
+    },
+    {
+      "id": 103,
+      "label": "title",
+      "text": "…and brings the small business perspective into policy and regulation making processes.",
+      "parent_id": 103,
+      "order": 4
+    },
+    {
+      "id": 105,
+      "label": "section-title",
+      "text": "15. The interventions in the Small Business portfolio include:",
+      "parent_id": 105,
+      "order": 5
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "Your responsibilities",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "Portfolio functions and responsibilities",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 141,
+      "label": "section-title",
+      "text": "Legislative responsibilities",
+      "parent_id": 141,
+      "order": 6
+    },
+    {
+      "id": 143,
+      "label": "section-title",
+      "text": "Crown entities",
+      "parent_id": 143,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "Other State agencies",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "Statutory or advisory bodies",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "Funds and appropriations",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 184,
+      "label": "section-title",
+      "text": "Key MBIE officials",
+      "parent_id": 184,
+      "order": 6
+    },
+    {
+      "id": 209,
+      "label": "section-title",
+      "text": "International Events",
+      "parent_id": 209,
+      "order": 6
+    }
+  ]
+}

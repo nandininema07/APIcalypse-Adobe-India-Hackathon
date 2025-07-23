@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "section-title",
+      "text": "Selected Participants in the Pioneer ACO ModelDecember 19，2011",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "label": "section-title",
+      "text": "Description of Selected ACOs",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "Allina Hospitals & Clinics",
+      "parent_id": 0,
+      "order": 2
+    },
+    {
+      "id": 18,
+      "label": "section-title",
+      "text": "Atrius Health Services",
+      "parent_id": 0,
+      "order": 3
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "Banner Health Network",
+      "parent_id": 0,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "Bellin-ThedaCare Healthcare Partners",
+      "parent_id": 0,
+      "order": 5
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "Beth Israel Deaconess Physician Organization",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Bronx Accountable Healthcare Network (BAHN)",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "Brown & Toland Physicians",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 56,
+      "label": "section-title",
+      "text": "Dartmouth-Hitchcock ACO",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "Eastern Maine Healthcare Systems",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Fairview Health Services",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 74,
+      "label": "section-title",
+      "text": "Franciscan Health System",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 80,
+      "label": "section-title",
+      "text": "Genesys PHO",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 85,
+      "label": "section-title",
+      "text": "HealthCare Partners of Nevada",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 92,
+      "label": "section-title",
+      "text": "Heritage California ACO",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 99,
+      "label": "section-title",
+      "text": "JSA Medical Group",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 106,
+      "label": "section-title",
+      "text": "Michigan Pioneer ACO",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 112,
+      "label": "section-title",
+      "text": "Monarch Healthcare",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "contents": [
+    {
+      "id": 8,
+      "label": "title",
+      "text": "BANKING ACT",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "CHAPTER I GENERAL PROVISIONS",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "CHAPTER II AUTHORIZATION, ETC. OF BANKING BUSINESS",
+      "parent_id": 65,
+      "order": 2
+    },
+    {
+      "id": 126,
+      "label": "section-title",
+      "text": "CHAPTER III HOLDING LIMITS, ETC. OF BANK'S STOCKS",
+      "parent_id": 126,
+      "order": 3
+    },
+    {
+      "id": 266,
+      "label": "section-title",
+      "text": "CHAPTER IV GOVERNANCE",
+      "parent_id": 266,
+      "order": 4
+    },
+    {
+      "id": 283,
+      "label": "section-title",
+      "text": "CHAPTER V BANKING SERVICES",
+      "parent_id": 283,
+      "order": 5
+    },
+    {
+      "id": 407,
+      "label": "section-title",
+      "text": "CHAPTER VI MAINTAINING SOUND MANAGEMENT",
+      "parent_id": 407,
+      "order": 6
+    }
+  ]
+}

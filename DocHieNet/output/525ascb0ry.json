@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "impact projections for the agricultural sector.AgMIP (The Agricultural Model Intercomparison and Improvement Project) East Asia Regional Workshop： East Asia Regional Integrated Assessment",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "section-title",
+      "text": "Time and venue",
+      "parent_id": 3,
+      "order": 1
+    },
+    {
+      "id": 6,
+      "label": "section-title",
+      "text": "Sponsored by",
+      "parent_id": 6,
+      "order": 2
+    },
+    {
+      "id": 10,
+      "label": "section-title",
+      "text": "Organized by",
+      "parent_id": 10,
+      "order": 3
+    },
+    {
+      "id": 17,
+      "label": "section-title",
+      "text": "Background",
+      "parent_id": 17,
+      "order": 4
+    },
+    {
+      "id": 25,
+      "label": "section-title",
+      "text": "Conference Themes",
+      "parent_id": 25,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Scientific Committee",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 35,
+      "label": "section-title",
+      "text": "Honorary Chairs",
+      "parent_id": 35,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "Chairs",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Members (the names are listed in alphabetical order)",
+      "parent_id": 42,
+      "order": 6
+    }
+  ]
+}

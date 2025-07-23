@@ -1,0 +1,81 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "The Professionalization of Sport in the Scandinavian Countries1",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "label": "section-title",
+      "text": "Two paradoxes",
+      "parent_id": 12,
+      "order": 1
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "The starting-point - societal conditions in general",
+      "parent_id": 14,
+      "order": 2
+    },
+    {
+      "id": 19,
+      "label": "section-title",
+      "text": "Sport model characteristics",
+      "parent_id": 19,
+      "order": 3
+    },
+    {
+      "id": 20,
+      "label": "section-title",
+      "text": "1. The popular movement model",
+      "parent_id": 20,
+      "order": 4
+    },
+    {
+      "id": 22,
+      "label": "section-title",
+      "text": "2. The amateur ideology",
+      "parent_id": 22,
+      "order": 5
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "3. A different form of professionalization",
+      "parent_id": 30,
+      "order": 6
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "4. Public commitment",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "Democratic fostering",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 44,
+      "label": "section-title",
+      "text": "Competition fostering",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "Conclusion： a reasonable balance",
+      "parent_id": 0,
+      "order": 6
+    }
+  ]
+}

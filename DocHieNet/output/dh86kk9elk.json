@@ -1,0 +1,396 @@
+{
+  "contents": [
+    {
+      "id": 5,
+      "label": "title",
+      "text": "MAREEBA-DIMBULAH IRRIGATION PROJECT AS OUTLINED IN SPEECHES",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "label": "title",
+      "text": "Ministe r for L a nd s a n d I r r i g atio n ： H ON. T . A. FO L E Y， M.L .A.",
+      "parent_id": 11,
+      "order": 1
+    },
+    {
+      "id": 18,
+      "label": "title",
+      "text": "MAREEBA-DIMBULAHIRRIGATIONPROJECT",
+      "parent_id": 18,
+      "order": 2
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "CO M MI TTE E .",
+      "parent_id": 24,
+      "order": 3
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "High Yields of High Quality.",
+      "parent_id": 28,
+      "order": 4
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "AIlIGood d Land Not 十 Adjacent to Water.",
+      "parent_id": 30,
+      "order": 5
+    },
+    {
+      "id": 34,
+      "label": "section-title",
+      "text": "Nullinga. Nullinga—Original Site on the Walsh River.",
+      "parent_id": 34,
+      "order": 6
+    },
+    {
+      "id": 38,
+      "label": "section-title",
+      "text": "Tinaroo Possibilities .",
+      "parent_id": 38,
+      "order": 6
+    },
+    {
+      "id": 40,
+      "label": "section-title",
+      "text": "Alternative Proposals .",
+      "parent_id": 40,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "E c on omic Comp a rison .",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "Advantages of Tinaroo Dam over Nullinga.",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 53,
+      "label": "title",
+      "text": "Storage duringDam construction.",
+      "parent_id": 53,
+      "order": 6
+    },
+    {
+      "id": 65,
+      "label": "section-title",
+      "text": "Wi l l Not Hin de r Works in O t her Parts.",
+      "parent_id": 65,
+      "order": 6
+    },
+    {
+      "id": 68,
+      "label": "section-title",
+      "text": "Commissioner Recommends： Defer Nullinga",
+      "parent_id": 68,
+      "order": 6
+    },
+    {
+      "id": 72,
+      "label": "section-title",
+      "text": "Incidental Jobs to Proceed contemporaneously.",
+      "parent_id": 72,
+      "order": 6
+    },
+    {
+      "id": 75,
+      "label": "section-title",
+      "text": "R commendations Correspond with Report.",
+      "parent_id": 75,
+      "order": 6
+    },
+    {
+      "id": 87,
+      "label": "section-title",
+      "text": "Storage Capacity.",
+      "parent_id": 87,
+      "order": 6
+    },
+    {
+      "id": 90,
+      "label": "section-title",
+      "text": "Area tO be Submerged； Some atPresent in Use.",
+      "parent_id": 90,
+      "order": 6
+    },
+    {
+      "id": 93,
+      "label": "section-title",
+      "text": "Number of Farms .",
+      "parent_id": 93,
+      "order": 6
+    },
+    {
+      "id": 95,
+      "label": "section-title",
+      "text": "Subdivision of Resumed Land.",
+      "parent_id": 95,
+      "order": 6
+    },
+    {
+      "id": 98,
+      "label": "section-title",
+      "text": "Total Cropping.",
+      "parent_id": 98,
+      "order": 6
+    },
+    {
+      "id": 101,
+      "label": "section-title",
+      "text": "W at e r r Delivery to Farms.",
+      "parent_id": 101,
+      "order": 6
+    },
+    {
+      "id": 104,
+      "label": "section-title",
+      "text": "Total Annual Production.",
+      "parent_id": 104,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "Annual Value ofMain Crops.",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 115,
+      "label": "section-title",
+      "text": "Saving on Imports",
+      "parent_id": 115,
+      "order": 6
+    },
+    {
+      "id": 117,
+      "label": "title",
+      "text": "Walshh River Weir WillGive Early Relief .",
+      "parent_id": 117,
+      "order": 6
+    },
+    {
+      "id": 121,
+      "label": "section-title",
+      "text": "No Ne w Farm Suppl y Unt i l Tinar o o Wat e r Comes.",
+      "parent_id": 121,
+      "order": 6
+    },
+    {
+      "id": 123,
+      "label": "section-title",
+      "text": "Timetable Ad v anced.",
+      "parent_id": 123,
+      "order": 6
+    },
+    {
+      "id": 125,
+      "label": "section-title",
+      "text": "Es t imated Ca p i ta l C os t .",
+      "parent_id": 125,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "E s timated Annua l E x penditure .",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 129,
+      "label": "section-title",
+      "text": "Annual Revenue",
+      "parent_id": 129,
+      "order": 6
+    },
+    {
+      "id": 136,
+      "label": "section-title",
+      "text": "Annual Balance Outstanding.",
+      "parent_id": 136,
+      "order": 6
+    },
+    {
+      "id": 138,
+      "label": "section-title",
+      "text": "Precedent Established.",
+      "parent_id": 138,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "Nation al Work.",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "I nc r e a sedRev e n u e ： I ncre a sed P op ula t io n .",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 145,
+      "label": "section-title",
+      "text": "Estimated Indirect Revent",
+      "parent_id": 145,
+      "order": 6
+    },
+    {
+      "id": 147,
+      "label": "section-title",
+      "text": "12 % o f Cap i t al C o st.",
+      "parent_id": 147,
+      "order": 6
+    },
+    {
+      "id": 149,
+      "label": "section-title",
+      "text": "3 5 0 %Po pula t i o n I n c r e a se.",
+      "parent_id": 149,
+      "order": 6
+    },
+    {
+      "id": 151,
+      "label": "section-title",
+      "text": "De fence.",
+      "parent_id": 151,
+      "order": 6
+    },
+    {
+      "id": 157,
+      "label": "section-title",
+      "text": "I mp r o ve d L i vi ngS tanda r ds.",
+      "parent_id": 157,
+      "order": 6
+    },
+    {
+      "id": 160,
+      "label": "section-title",
+      "text": "Feeding a Nation.",
+      "parent_id": 160,
+      "order": 6
+    },
+    {
+      "id": 163,
+      "label": "section-title",
+      "text": "Large r Storagess Preferred.",
+      "parent_id": 163,
+      "order": 6
+    },
+    {
+      "id": 166,
+      "label": "section-title",
+      "text": "Staff T r ebled.",
+      "parent_id": 166,
+      "order": 6
+    },
+    {
+      "id": 173,
+      "label": "section-title",
+      "text": "Ministerial R R eply to Debate.",
+      "parent_id": 173,
+      "order": 6
+    },
+    {
+      "id": 191,
+      "label": "section-title",
+      "text": "A Complete Picture.",
+      "parent_id": 191,
+      "order": 6
+    },
+    {
+      "id": 214,
+      "label": "section-title",
+      "text": "Parliament Fully Apprised.",
+      "parent_id": 214,
+      "order": 6
+    },
+    {
+      "id": 218,
+      "label": "section-title",
+      "text": "Larger S t o ragesM o re Economi ca l .",
+      "parent_id": 218,
+      "order": 6
+    },
+    {
+      "id": 221,
+      "label": "section-title",
+      "text": "Irrigation Essential to Expansion.",
+      "parent_id": 221,
+      "order": 6
+    },
+    {
+      "id": 227,
+      "label": "section-title",
+      "text": "C o met Ri v e r .",
+      "parent_id": 227,
+      "order": 6
+    },
+    {
+      "id": 239,
+      "label": "section-title",
+      "text": "MinisterialAssurance.",
+      "parent_id": 239,
+      "order": 6
+    },
+    {
+      "id": 245,
+      "label": "section-title",
+      "text": "Importance of Proper Planning.",
+      "parent_id": 245,
+      "order": 6
+    },
+    {
+      "id": 251,
+      "label": "section-title",
+      "text": "Other Projects.",
+      "parent_id": 251,
+      "order": 6
+    },
+    {
+      "id": 259,
+      "label": "section-title",
+      "text": "Southern Q u u eensland.",
+      "parent_id": 259,
+      "order": 6
+    },
+    {
+      "id": 269,
+      "label": "section-title",
+      "text": "Thumbnail Sketch.",
+      "parent_id": 269,
+      "order": 6
+    },
+    {
+      "id": 296,
+      "label": "section-title",
+      "text": "<unk>",
+      "parent_id": 296,
+      "order": 6
+    },
+    {
+      "id": 306,
+      "label": "section-title",
+      "text": "Motion Approved.",
+      "parent_id": 306,
+      "order": 6
+    }
+  ]
+}

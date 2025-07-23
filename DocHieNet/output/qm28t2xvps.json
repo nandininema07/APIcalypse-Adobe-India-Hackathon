@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": 2,
+      "label": "title",
+      "text": "Optimal ridge penalty for real-world high-dimensional data ",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "label": "title",
+      "text": "can be zero or negative due to the implicit ridge regularization ",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 13,
+      "label": "section-title",
+      "text": "Abstract ",
+      "parent_id": 13,
+      "order": 2
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "1. Intro duction ",
+      "parent_id": 16,
+      "order": 3
+    },
+    {
+      "id": 36,
+      "label": "section-title",
+      "text": "2. Results ",
+      "parent_id": 36,
+      "order": 4
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "2.1 A case study of ridge regression in high dimensions ",
+      "parent_id": 37,
+      "order": 5
+    },
+    {
+      "id": 42,
+      "label": "section-title",
+      "text": "2.2 Minimum-norm OLS estimator ",
+      "parent_id": 42,
+      "order": 6
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "2.3 Simulation using spiked covariance mo del ",
+      "parent_id": 50,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "2.4 Implicit ridge regularization provided by random low-variance predictors ",
+      "parent_id": 69,
+      "order": 6
+    },
+    {
+      "id": 94,
+      "label": "section-title",
+      "text": "2.5 Mathematical analysis for the spiked covariance model ",
+      "parent_id": 94,
+      "order": 6
+    },
+    {
+      "id": 113,
+      "label": "section-title",
+      "text": "2.6 Implicit over-regularization using random Fourier features on MNIST ",
+      "parent_id": 113,
+      "order": 6
+    },
+    {
+      "id": 118,
+      "label": "section-title",
+      "text": "3. Discussion ",
+      "parent_id": 118,
+      "order": 6
+    },
+    {
+      "id": 119,
+      "label": "section-title",
+      "text": "Summary and related work ",
+      "parent_id": 119,
+      "order": 6
+    },
+    {
+      "id": 127,
+      "label": "section-title",
+      "text": "Augmenting the samples vs. augmenting the predictors ",
+      "parent_id": 127,
+      "order": 6
+    },
+    {
+      "id": 132,
+      "label": "section-title",
+      "text": "Minimum-norm estimators in other statistical methods ",
+      "parent_id": 132,
+      "order": 6
+    },
+    {
+      "id": 140,
+      "label": "section-title",
+      "text": "Minimum-norm estimator with kernel trick ",
+      "parent_id": 140,
+      "order": 6
+    },
+    {
+      "id": 142,
+      "label": "section-title",
+      "text": "Minimum-norm estimator via gradient descent ",
+      "parent_id": 142,
+      "order": 6
+    },
+    {
+      "id": 148,
+      "label": "section-title",
+      "text": "Acknowledgements ",
+      "parent_id": 148,
+      "order": 6
+    },
+    {
+      "id": 150,
+      "label": "section-title",
+      "text": "References ",
+      "parent_id": 150,
+      "order": 6
+    }
+  ]
+}

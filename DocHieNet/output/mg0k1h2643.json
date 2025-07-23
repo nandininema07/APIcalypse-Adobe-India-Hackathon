@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 4,
+      "label": "section-title",
+      "text": "Testimony",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "label": "title",
+      "text": "DRUG CONTROL",
+      "parent_id": 0,
+      "order": 1
+    },
+    {
+      "id": 16,
+      "label": "section-title",
+      "text": "Results in Brief",
+      "parent_id": 16,
+      "order": 2
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "The Drug Threat From Mexico Continues to Be a Major Problem",
+      "parent_id": 30,
+      "order": 3
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "Progress in Mexico Is Hampered by Numerous Problems",
+      "parent_id": 37,
+      "order": 4
+    },
+    {
+      "id": 50,
+      "label": "section-title",
+      "text": "U.S. Counternarcotics Programs in Mexico Have Declined in Recent Years",
+      "parent_id": 50,
+      "order": 5
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "Recent Efforts to Address Bilateral Drug Control Issues",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 77,
+      "label": "section-title",
+      "text": "Ordering Information",
+      "parent_id": 77,
+      "order": 6
+    },
+    {
+      "id": 79,
+      "label": "section-title",
+      "text": "Orders by mail:",
+      "parent_id": 79,
+      "order": 6
+    },
+    {
+      "id": 81,
+      "label": "section-title",
+      "text": "or visit:",
+      "parent_id": 81,
+      "order": 6
+    }
+  ]
+}

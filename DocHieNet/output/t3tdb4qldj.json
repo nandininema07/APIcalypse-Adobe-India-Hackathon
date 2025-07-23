@@ -1,0 +1,74 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "individuals as necessary or whenever an LEP or Deaf/HOH person requests language(ORGANIZATION NAME) LANGUAGE ACCESS PLAN & PROTOCOL",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "label": "section-title",
+      "text": "I. GENERAL POLICY",
+      "parent_id": 2,
+      "order": 1
+    },
+    {
+      "id": 24,
+      "label": "section-title",
+      "text": "II. DATA COLLECTION & CASE MANAGEMENT SYSTEM",
+      "parent_id": 24,
+      "order": 2
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "III. LANGUAGE ACCESS PROTOCOL",
+      "parent_id": 28,
+      "order": 3
+    },
+    {
+      "id": 30,
+      "label": "section-title",
+      "text": "A. Walk-in， Telephone Inquiries & Intake",
+      "parent_id": 30,
+      "order": 4
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "B. Case Handling",
+      "parent_id": 45,
+      "order": 5
+    },
+    {
+      "id": 52,
+      "label": "section-title",
+      "text": "C. Meeting with and Representing Clients who are LEP and Deaf/HOH",
+      "parent_id": 52,
+      "order": 6
+    },
+    {
+      "id": 61,
+      "label": "section-title",
+      "text": "D. PAl/Pro Bono Referred Cases",
+      "parent_id": 61,
+      "order": 6
+    },
+    {
+      "id": 64,
+      "label": "section-title",
+      "text": "IV.TRANSLATION",
+      "parent_id": 64,
+      "order": 6
+    },
+    {
+      "id": 69,
+      "label": "section-title",
+      "text": "V. QUALITY ASSURANCE OF LANGUAGE SERVICES",
+      "parent_id": 69,
+      "order": 6
+    }
+  ]
+}

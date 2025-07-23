@@ -1,0 +1,116 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "label": "title",
+      "text": "从而降低了能耗和二氧化碳排放，符合低碳经济的要求和可持续发展的模式。建设低碳社区，推动发展方式转变",
+      "parent_id": 0,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "label": "section-title",
+      "text": "1低碳社区与发展方式转变",
+      "parent_id": 8,
+      "order": 1
+    },
+    {
+      "id": 9,
+      "label": "section-title",
+      "text": "1.1低碳社区的概念",
+      "parent_id": 9,
+      "order": 2
+    },
+    {
+      "id": 11,
+      "label": "section-title",
+      "text": "1.2低碳社区建设对于发展方式转变的促进作用",
+      "parent_id": 11,
+      "order": 3
+    },
+    {
+      "id": 14,
+      "label": "section-title",
+      "text": "2国外低碳社区建设及低碳发展的特点",
+      "parent_id": 14,
+      "order": 4
+    },
+    {
+      "id": 27,
+      "label": "section-title",
+      "text": "3我国低碳社区建设典型经验及存在问题",
+      "parent_id": 27,
+      "order": 5
+    },
+    {
+      "id": 28,
+      "label": "section-title",
+      "text": "3.1杭州市积极推动低碳城市和低碳社区建设",
+      "parent_id": 28,
+      "order": 6
+    },
+    {
+      "id": 31,
+      "label": "section-title",
+      "text": "3.2深圳着力打造低碳生态城市",
+      "parent_id": 31,
+      "order": 6
+    },
+    {
+      "id": 33,
+      "label": "section-title",
+      "text": "3.3我国低碳社区建设存在的问题",
+      "parent_id": 33,
+      "order": 6
+    },
+    {
+      "id": 37,
+      "label": "section-title",
+      "text": "4进一步推动低碳社区建设的若干建议",
+      "parent_id": 37,
+      "order": 6
+    },
+    {
+      "id": 39,
+      "label": "section-title",
+      "text": "4.1政府统筹协调，公众广泛参与",
+      "parent_id": 39,
+      "order": 6
+    },
+    {
+      "id": 41,
+      "label": "section-title",
+      "text": "4.2研究出台低碳社区建设标准和规范",
+      "parent_id": 0,
+      "order": 6
+    },
+    {
+      "id": 43,
+      "label": "section-title",
+      "text": "4.3鼓励开发新能源，节约循环使用水资源",
+      "parent_id": 43,
+      "order": 6
+    },
+    {
+      "id": 45,
+      "label": "section-title",
+      "text": "4.4倡导绿色出行，实现\"零距离换乘\"",
+      "parent_id": 45,
+      "order": 6
+    },
+    {
+      "id": 47,
+      "label": "section-title",
+      "text": "4.5用地功能适度混合，公共设施合理配置",
+      "parent_id": 47,
+      "order": 6
+    },
+    {
+      "id": 49,
+      "label": "section-title",
+      "text": "4.6按照循环经济理念，打造资源循环链",
+      "parent_id": 49,
+      "order": 6
+    }
+  ]
+}
