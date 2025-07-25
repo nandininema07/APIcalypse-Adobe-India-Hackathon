@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.8576470613479614,
+    "text": "Parsippany -Troy Hills STEM Pathways",
+    "gt_text": "",
+    "box": [
+      80.3275,
+      92.12564057889995,
+      511.5127598399999,
+      106.13149067890004
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 2,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.8091756105422974,
+    "text": "Mission Statement: To provide PTHSD high school students with the opportunity to",
+    "gt_text": "",
+    "box": [
+      80.3275047,
+      108.74646399999995,
+      504.8040274199995,
+      120.75126399999999
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 5,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7623887062072754,
+    "text": "experiences through project work, conferences and presentations to enhance their high school",
+    "gt_text": "",
+    "box": [
+      80.3275047,
+      151.5135640000001,
+      136.83409830000002,
+      163.51836400000013
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 7,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7004935145378113,
+    "text": "Goals:",
+    "gt_text": "",
+    "box": [
+      41.3845,
+      210.809029658,
+      341.39988282844945,
+      222.7783374500001
+    ],
+    "page": 0,
+    "heading_level": "h2"
+  },
+  {
+    "id": 13,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7687541842460632,
+    "text": "STEM careers.",
+    "gt_text": "",
+    "box": [
+      39.68204,
+      292.33228765000007,
+      331.50293660195075,
+      303.84123745000005
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 22,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7418385744094849,
+    "text": "setting, and self-direction.",
+    "gt_text": "",
+    "box": [
+      240.1787,
+      441.92589824,
+      365.13921008,
+      457.23405824
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 25,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7465195655822754,
+    "text": "● 4 credits of Math - At least one math",
+    "gt_text": "",
+    "box": [
+      74.7816,
+      497.930909035,
+      520.1098930615,
+      513.440792535
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 27,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8277124762535095,
+    "text": "● 4 credits of Math",
+    "gt_text": "",
+    "box": [
+      74.781574,
+      511.439909035,
+      505.6018870009165,
+      526.949792535
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  },
+  {
+    "id": 28,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7541244626045227,
+    "text": "● 4 credits of Science- At least one",
+    "gt_text": "",
+    "box": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "page": 0,
+    "heading_level": "h1"
+  },
+  {
+    "id": 29,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8258973360061646,
+    "text": "● 4 credits of Science",
+    "gt_text": "",
+    "box": [
+      74.781574,
+      524.948909035,
+      501.9919877220001,
+      540.458792535
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  },
+  {
+    "id": 31,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8156237006187439,
+    "text": "● 4 credits of STEM-designated electives",
+    "gt_text": "",
+    "box": [
+      74.781574,
+      538.4579090350001,
+      415.74779389800005,
+      553.967792535
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  },
+  {
+    "id": 32,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7624674439430237,
+    "text": "Science class.",
+    "gt_text": "",
+    "box": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 33,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8389938473701477,
+    "text": "● Maintain an overall 2.85 GPA",
+    "gt_text": "",
+    "box": [
+      74.781574,
+      551.966909035,
+      536.1817649715001,
+      567.476792535
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  },
+  {
+    "id": 34,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7763968706130981,
+    "text": "● 4 credits of STEM-designated electives",
+    "gt_text": "",
+    "box": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "page": 0,
+    "heading_level": "h1"
+  },
+  {
+    "id": 35,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8293124437332153,
+    "text": "● Participate in a minimum of 3 STEM",
+    "gt_text": "",
+    "box": [
+      99.43775049999999,
+      565.475909035,
+      475.6518138050001,
+      580.985792535
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  },
+  {
+    "id": 39,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8323747515678406,
+    "text": "with a required minimum total of 12",
+    "gt_text": "",
+    "box": [
+      99.43775049999999,
+      592.493909035,
+      481.56280262174954,
+      608.003792535
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 40,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8074520230293274,
+    "text": "● Maintain an overall 3.5 GPA",
+    "gt_text": "",
+    "box": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "page": 0,
+    "heading_level": "h1"
+  },
+  {
+    "id": 42,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.802078127861023,
+    "text": "● Participate in a minimum of 3 STEM",
+    "gt_text": "",
+    "box": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "page": 0,
+    "heading_level": "h1"
+  },
+  {
+    "id": 43,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8748376369476318,
+    "text": "the 4 years. *",
+    "gt_text": "",
+    "box": [
+      74.78232450000002,
+      619.5119090349999,
+      539.8927711109999,
+      635.021792535
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 45,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8205820322036743,
+    "text": "● Join and actively participate in a",
+    "gt_text": "",
+    "box": [
+      99.438501,
+      633.0209090349999,
+      484.83283844400006,
+      648.5307925349999
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  },
+  {
+    "id": 46,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8013337850570679,
+    "text": "required minimum total of 12",
+    "gt_text": "",
+    "box": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 50,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8529678583145142,
+    "text": "the 4 years.",
+    "gt_text": "",
+    "box": [
+      320.777375,
+      673.547909035,
+      501.3552212775,
+      684.555492535
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 51,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7942970991134644,
+    "text": "● Join and actively participate in a",
+    "gt_text": "",
+    "box": [
+      345.43355149999996,
+      687.056909035,
+      535.5455261284999,
+      698.064492535
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  },
+  {
+    "id": 54,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7577000856399536,
+    "text": "● Either participate in an internship or",
+    "gt_text": "",
+    "box": [
+      345.43430199999995,
+      727.5839090349999,
+      518.495529787,
+      738.5914925349999
+    ],
+    "page": 0,
+    "heading_level": "h3"
+  }
+]

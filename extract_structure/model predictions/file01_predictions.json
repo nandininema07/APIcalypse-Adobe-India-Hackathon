@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7592616081237793,
+    "text": "Application form for grant of LTC advance",
+    "gt_text": ""
+  },
+  {
+    "id": 2,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7890236973762512,
+    "text": "1. Name of the Government Servant",
+    "gt_text": ""
+  },
+  {
+    "id": 4,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8548694252967834,
+    "text": "2.",
+    "gt_text": ""
+  },
+  {
+    "id": 6,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8103037476539612,
+    "text": "3.",
+    "gt_text": ""
+  },
+  {
+    "id": 8,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7328885793685913,
+    "text": "4. PAY + SI + NPA",
+    "gt_text": ""
+  },
+  {
+    "id": 10,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.758007824420929,
+    "text": "5.",
+    "gt_text": ""
+  },
+  {
+    "id": 13,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7919360399246216,
+    "text": "7.",
+    "gt_text": ""
+  },
+  {
+    "id": 17,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8265523314476013,
+    "text": "8.",
+    "gt_text": ""
+  },
+  {
+    "id": 20,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8128364682197571,
+    "text": "9. India, the place to be visited.",
+    "gt_text": ""
+  },
+  {
+    "id": 21,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.753821849822998,
+    "text": "(b) Block for which to be availed.",
+    "gt_text": ""
+  },
+  {
+    "id": 24,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7960659861564636,
+    "text": "10.",
+    "gt_text": ""
+  },
+  {
+    "id": 28,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.9117234349250793,
+    "text": "1.",
+    "gt_text": ""
+  },
+  {
+    "id": 29,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.9158086180686951,
+    "text": "2.",
+    "gt_text": ""
+  },
+  {
+    "id": 30,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8534414172172546,
+    "text": "11. 3.",
+    "gt_text": ""
+  },
+  {
+    "id": 31,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8629994988441467,
+    "text": "4.",
+    "gt_text": ""
+  },
+  {
+    "id": 32,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8524988889694214,
+    "text": "5.",
+    "gt_text": ""
+  },
+  {
+    "id": 33,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.855503499507904,
+    "text": "6.",
+    "gt_text": ""
+  },
+  {
+    "id": 34,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7478211522102356,
+    "text": "Amount of advance required. Rs.",
+    "gt_text": ""
+  },
+  {
+    "id": 35,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8903903365135193,
+    "text": "12.",
+    "gt_text": ""
+  },
+  {
+    "id": 38,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7035611271858215,
+    "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of",
+    "gt_text": ""
+  },
+  {
+    "id": 39,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7997689247131348,
+    "text": "advance, I undertake to refund the entire advance in one lump sum.",
+    "gt_text": ""
+  },
+  {
+    "id": 40,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.8286578059196472,
+    "text": "Date",
+    "gt_text": ""
+  }
+]

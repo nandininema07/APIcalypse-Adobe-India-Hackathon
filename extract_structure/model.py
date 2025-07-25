@@ -181,6 +181,7 @@ for fname in os.listdir(test_pdf_dir):
                 print(f"No compression needed for {fname}")
         out_json = os.path.join(test_output_dir, os.path.splitext(fname)[0] + ".json")
         doc = extract_paragraphs_with_ocr(in_pdf)
+        os.makedirs(os.path.dirname(out_json), exist_ok=True)  # <-- Add this line
         with open(out_json, "w", encoding="utf-8") as f:
             json.dump(doc, f, indent=2, ensure_ascii=False)
         print(f"Processed: {fname} -> {out_json}")

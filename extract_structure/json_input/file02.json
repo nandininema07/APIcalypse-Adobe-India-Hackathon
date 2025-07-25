@@ -1,0 +1,3400 @@
+{
+  "contents": [
+    {
+      "box": [
+        252.65,
+        192.308,
+        359.28200000000004,
+        216.308
+      ],
+      "text": "Overview",
+      "page": 0,
+      "id": 0,
+      "order": 0
+    },
+    {
+      "box": [
+        139.346,
+        247.53200000000004,
+        472.6844000000001,
+        271.53200000000004
+      ],
+      "text": "Foundation Level Extensions",
+      "page": 0,
+      "id": 1,
+      "order": 1
+    },
+    {
+      "box": [
+        275.69,
+        383.774,
+        336.482,
+        395.774
+      ],
+      "text": "Version 1.0",
+      "page": 0,
+      "id": 2,
+      "order": 2
+    },
+    {
+      "box": [
+        103.34,
+        467.716,
+        508.4120000000001,
+        485.716
+      ],
+      "text": "International Software Testing Qualifications Board",
+      "page": 0,
+      "id": 3,
+      "order": 3
+    },
+    {
+      "box": [
+        70.944,
+        653.4017200000001,
+        144.91692,
+        663.36172
+      ],
+      "text": "Copyright Notice",
+      "page": 0,
+      "id": 4,
+      "order": 4
+    },
+    {
+      "box": [
+        70.944,
+        664.92544,
+        482.22227999999984,
+        674.88544
+      ],
+      "text": "This document may be copied in its entirety, or extracts made, if the source is acknowledged.",
+      "page": 0,
+      "id": 5,
+      "order": 5
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 1,
+      "id": 6,
+      "order": 6
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 1,
+      "id": 7,
+      "order": 7
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 1,
+      "id": 8,
+      "order": 8
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 1,
+      "id": 9,
+      "order": 9
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.07128,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 1,
+      "id": 10,
+      "order": 10
+    },
+    {
+      "box": [
+        70.944,
+        121.48172,
+        480.4782839999999,
+        131.44172000000003
+      ],
+      "text": "Copyright © International Software Testing Qualifications Board (hereinafter called ISTQB®).",
+      "page": 1,
+      "id": 11,
+      "order": 11
+    },
+    {
+      "box": [
+        76.58136,
+        720.1175600000001,
+        530.073108,
+        730.0775600000001
+      ],
+      "text": "Version 2014 Page 2 of 12 May 31, 2014",
+      "page": 1,
+      "id": 12,
+      "order": 12
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 1,
+      "id": 13,
+      "order": 13
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 2,
+      "id": 14,
+      "order": 14
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 2,
+      "id": 15,
+      "order": 15
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 2,
+      "id": 16,
+      "order": 16
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 2,
+      "id": 17,
+      "order": 17
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.0712800000001,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 2,
+      "id": 18,
+      "order": 18
+    },
+    {
+      "box": [
+        70.944,
+        110.72371999999996,
+        197.09184,
+        126.68372
+      ],
+      "text": "Revision History",
+      "page": 2,
+      "id": 19,
+      "order": 19
+    },
+    {
+      "box": [
+        74.424,
+        140.56172000000004,
+        320.83076,
+        150.52172000000007
+      ],
+      "text": "Version Date Remarks",
+      "page": 2,
+      "id": 20,
+      "order": 20
+    },
+    {
+      "box": [
+        74.424,
+        152.92172000000005,
+        336.99584,
+        162.8817200000001
+      ],
+      "text": "0.1 18 JUNE 2013 Initial version",
+      "page": 2,
+      "id": 21,
+      "order": 21
+    },
+    {
+      "box": [
+        74.424,
+        165.16171999999995,
+        404.72384,
+        175.12171999999998
+      ],
+      "text": "0.2 23 JULY 2013 WG reviewed and confirmed",
+      "page": 2,
+      "id": 22,
+      "order": 22
+    },
+    {
+      "box": [
+        74.424,
+        177.40171999999995,
+        427.50236,
+        187.36172
+      ],
+      "text": "0.3 6 NOV 2013 amended population and diagram",
+      "page": 2,
+      "id": 23,
+      "order": 23
+    },
+    {
+      "box": [
+        74.424,
+        189.64171999999996,
+        519.4051600000001,
+        199.60172
+      ],
+      "text": "0.7 11 DEC 2013 Amended Business Outcomes and Chapters matching",
+      "page": 2,
+      "id": 24,
+      "order": 24
+    },
+    {
+      "box": [
+        74.424,
+        201.88171999999997,
+        412.74868,
+        211.84172
+      ],
+      "text": "0.8 20 DEC 2013 Working group updates on 0.7",
+      "page": 2,
+      "id": 25,
+      "order": 25
+    },
+    {
+      "box": [
+        74.424,
+        214.12171999999998,
+        414.73568,
+        224.08172000000002
+      ],
+      "text": "1.0 31 MAY 2014 GA release for Agile Extension",
+      "page": 2,
+      "id": 26,
+      "order": 26
+    },
+    {
+      "box": [
+        76.584,
+        720.1218,
+        530.0757480000001,
+        730.0818
+      ],
+      "text": "Version 2014 Page 3 of 12 May 31, 2014",
+      "page": 2,
+      "id": 27,
+      "order": 27
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 2,
+      "id": 28,
+      "order": 28
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 3,
+      "id": 29,
+      "order": 29
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 3,
+      "id": 30,
+      "order": 30
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 3,
+      "id": 31,
+      "order": 31
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 3,
+      "id": 32,
+      "order": 32
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.07128,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 3,
+      "id": 33,
+      "order": 33
+    },
+    {
+      "box": [
+        70.944,
+        110.72371999999996,
+        204.32172,
+        126.68372
+      ],
+      "text": "Table of Contents",
+      "page": 3,
+      "id": 34,
+      "order": 34
+    },
+    {
+      "box": [
+        70.944,
+        145.84172,
+        540.7173600000001,
+        155.80172000000005
+      ],
+      "text": "Revision History .......................................................................................................................................... 3",
+      "page": 3,
+      "id": 35,
+      "order": 35
+    },
+    {
+      "box": [
+        70.94400000000002,
+        163.24184000000002,
+        540.7173600000001,
+        173.20184000000006
+      ],
+      "text": "Table of Contents ........................................................................................................................................ 4",
+      "page": 3,
+      "id": 36,
+      "order": 36
+    },
+    {
+      "box": [
+        70.94400000000002,
+        180.76148,
+        540.7173600000001,
+        190.72148000000004
+      ],
+      "text": "1. Introduction to the Foundation Level Extensions ............................................................................ 6",
+      "page": 3,
+      "id": 37,
+      "order": 37
+    },
+    {
+      "box": [
+        70.94400000000002,
+        198.28112,
+        540.7173600000001,
+        208.24112000000002
+      ],
+      "text": "2. Introduction to Foundation Level Agile Tester Extension ............................................................... 7",
+      "page": 3,
+      "id": 38,
+      "order": 38
+    },
+    {
+      "box": [
+        80.904,
+        215.92027999999993,
+        540.7173600000001,
+        225.88027999999997
+      ],
+      "text": "2.1 Intended Audience ..................................................................................................................... 7",
+      "page": 3,
+      "id": 39,
+      "order": 39
+    },
+    {
+      "box": [
+        80.904,
+        227.44399999999996,
+        540.7273200000001,
+        237.404
+      ],
+      "text": "2.2 Career Paths for Testers ............................................................................................................ 7",
+      "page": 3,
+      "id": 40,
+      "order": 40
+    },
+    {
+      "box": [
+        80.91395999999997,
+        238.87807999999995,
+        540.7273200000001,
+        248.83808
+      ],
+      "text": "2.3 Learning Objectives ................................................................................................................... 7",
+      "page": 3,
+      "id": 41,
+      "order": 41
+    },
+    {
+      "box": [
+        80.91395999999997,
+        250.40179999999998,
+        540.7273200000001,
+        260.3618
+      ],
+      "text": "2.4 Entry Requirements ................................................................................................................... 8",
+      "page": 3,
+      "id": 42,
+      "order": 42
+    },
+    {
+      "box": [
+        80.91395999999997,
+        261.92552,
+        540.7273200000001,
+        271.88552000000004
+      ],
+      "text": "2.5 Structure and Course Duration................................................................................................... 8",
+      "page": 3,
+      "id": 43,
+      "order": 43
+    },
+    {
+      "box": [
+        80.91395999999997,
+        273.44924000000003,
+        540.7273200000001,
+        283.40924
+      ],
+      "text": "2.6 Keeping It Current...................................................................................................................... 9",
+      "page": 3,
+      "id": 44,
+      "order": 44
+    },
+    {
+      "box": [
+        70.95396,
+        290.84936000000005,
+        540.599832,
+        300.8392400000001
+      ],
+      "text": "3. Overview of the Foundation Level Extension – Agile Tester Syllabus......................................... 10",
+      "page": 3,
+      "id": 45,
+      "order": 45
+    },
+    {
+      "box": [
+        80.904,
+        308.48852000000005,
+        540.599832,
+        318.44852000000003
+      ],
+      "text": "3.1 Business Outcomes ................................................................................................................. 10",
+      "page": 3,
+      "id": 46,
+      "order": 46
+    },
+    {
+      "box": [
+        80.904,
+        319.89272000000005,
+        540.599832,
+        329.85272000000003
+      ],
+      "text": "3.2 Content.................................................................................................................................... 10",
+      "page": 3,
+      "id": 47,
+      "order": 47
+    },
+    {
+      "box": [
+        70.94399999999996,
+        337.29284000000007,
+        540.599832,
+        347.25284000000005
+      ],
+      "text": "4. References .......................................................................................................................................... 12",
+      "page": 3,
+      "id": 48,
+      "order": 48
+    },
+    {
+      "box": [
+        80.904,
+        354.9320000000001,
+        540.6097920000001,
+        364.89200000000005
+      ],
+      "text": "4.1 Trademarks ............................................................................................................................. 12",
+      "page": 3,
+      "id": 49,
+      "order": 49
+    },
+    {
+      "box": [
+        80.91396000000009,
+        366.4557200000001,
+        540.6097920000001,
+        376.4157200000001
+      ],
+      "text": "4.2 Documents and Web Sites....................................................................................................... 12",
+      "page": 3,
+      "id": 50,
+      "order": 50
+    },
+    {
+      "box": [
+        76.60128000000009,
+        720.1452800000001,
+        530.0930280000002,
+        730.1052800000001
+      ],
+      "text": "Version 2014 Page 4 of 12 May 31, 2014",
+      "page": 3,
+      "id": 51,
+      "order": 51
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 3,
+      "id": 52,
+      "order": 52
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 4,
+      "id": 53,
+      "order": 53
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 4,
+      "id": 54,
+      "order": 54
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 4,
+      "id": 55,
+      "order": 55
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 4,
+      "id": 56,
+      "order": 56
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.07128,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 4,
+      "id": 57,
+      "order": 57
+    },
+    {
+      "box": [
+        70.944,
+        110.72371999999996,
+        209.30124000000004,
+        126.68372
+      ],
+      "text": "Acknowledgements",
+      "page": 4,
+      "id": 58,
+      "order": 58
+    },
+    {
+      "box": [
+        70.944,
+        145.96172,
+        515.6749319999998,
+        155.92172000000005
+      ],
+      "text": "This document was produced by a team from the International Software Testing Qualifications Board",
+      "page": 4,
+      "id": 59,
+      "order": 59
+    },
+    {
+      "box": [
+        70.944,
+        157.36591999999996,
+        220.2244800000001,
+        167.32592
+      ],
+      "text": "Foundation Level Working Group.",
+      "page": 4,
+      "id": 60,
+      "order": 60
+    },
+    {
+      "box": [
+        70.944,
+        180.40339999999992,
+        539.6516399999996,
+        190.36339999999996
+      ],
+      "text": "The Agile Extension team thanks the review team and the National Boards for their suggestions and input.",
+      "page": 4,
+      "id": 61,
+      "order": 61
+    },
+    {
+      "box": [
+        70.944,
+        203.44087999999988,
+        527.02236,
+        213.40087999999992
+      ],
+      "text": "At the time the Foundation Level Agile Extension Syllabus was completed, the Agile Extension Working",
+      "page": 4,
+      "id": 62,
+      "order": 62
+    },
+    {
+      "box": [
+        70.944,
+        214.84507999999983,
+        503.5277159999998,
+        224.80507999999986
+      ],
+      "text": "Group had the following membership: Rex Black (Chair), Bertrand Cornanguer (Vice Chair), Gerry",
+      "page": 4,
+      "id": 63,
+      "order": 63
+    },
+    {
+      "box": [
+        70.944,
+        226.36879999999985,
+        540.1097999999998,
+        236.3287999999999
+      ],
+      "text": "Coleman (Learning Objectives Lead), Debra Friedenberg (Exam Lead), Alon Linetzki (Business Outcomes",
+      "page": 4,
+      "id": 64,
+      "order": 64
+    },
+    {
+      "box": [
+        70.944,
+        237.9223999999998,
+        478.7751239999998,
+        247.88239999999985
+      ],
+      "text": "and Marketing Lead), Tauhida Parveen (Editor), and Leo van der Aalst (Development Lead).",
+      "page": 4,
+      "id": 65,
+      "order": 65
+    },
+    {
+      "box": [
+        70.944,
+        260.95987999999977,
+        506.77367999999973,
+        270.9198799999998
+      ],
+      "text": "Authors: Rex Black, Anders Claesson, Gerry Coleman, Bertrand Cornanguer, Istvan Forgacs, Alon",
+      "page": 4,
+      "id": 66,
+      "order": 66
+    },
+    {
+      "box": [
+        70.944,
+        272.4835999999998,
+        389.1062400000001,
+        282.4435999999998
+      ],
+      "text": "Linetzki, Tilo Linz, Leo van der Aalst, Marie Walsh, and Stephan Weber.",
+      "page": 4,
+      "id": 67,
+      "order": 67
+    },
+    {
+      "box": [
+        70.944,
+        295.4015599999998,
+        483.9204599999999,
+        305.36155999999977
+      ],
+      "text": "Internal Reviewers: Mette Bruhn-Pedersen, Christopher Clements, Alessandro Collino, Debra",
+      "page": 4,
+      "id": 68,
+      "order": 68
+    },
+    {
+      "box": [
+        70.944,
+        306.9252799999998,
+        524.6419199999998,
+        316.8852799999998
+      ],
+      "text": "Friedenberg, Kari Kakkonen, Beata Karpinska, Sammy Kolluru, Jennifer Leger, Thomas Mueller, Tuula",
+      "page": 4,
+      "id": 69,
+      "order": 69
+    },
+    {
+      "box": [
+        70.944,
+        318.44899999999984,
+        526.7643959999999,
+        328.4089999999998
+      ],
+      "text": "Pääkkönen, Meile Posthuma, Gabor Puhalla, Lloyd Roden, Marko Rytkönen, Monika Stoecklein-Olsen,",
+      "page": 4,
+      "id": 70,
+      "order": 70
+    },
+    {
+      "box": [
+        70.944,
+        329.97271999999987,
+        327.07336800000013,
+        339.93271999999985
+      ],
+      "text": "Robert Treffny, Chris Van Bael, and Erik van Veenendaal.",
+      "page": 4,
+      "id": 71,
+      "order": 71
+    },
+    {
+      "box": [
+        70.944,
+        352.89067999999986,
+        524.4526799999998,
+        362.85067999999984
+      ],
+      "text": "The team thanks also the following persons, from the National Boards and the Agile expert community,",
+      "page": 4,
+      "id": 72,
+      "order": 72
+    },
+    {
+      "box": [
+        70.944,
+        364.4143999999999,
+        540.09984,
+        374.37444
+      ],
+      "text": "who participated in reviewing, commenting, and balloting of the Foundation Agile Extension Syllabus: Dani",
+      "page": 4,
+      "id": 73,
+      "order": 73
+    },
+    {
+      "box": [
+        70.944,
+        375.93816000000004,
+        523.6140479999997,
+        385.89816
+      ],
+      "text": "Almog, Richard Berns, Stephen Bird, Monika Bögge, Afeng Chai, Josephine Crawford, Tibor Csöndes,",
+      "page": 4,
+      "id": 74,
+      "order": 74
+    },
+    {
+      "box": [
+        70.944,
+        387.4818,
+        528.9645599999999,
+        397.4418
+      ],
+      "text": "Huba Demeter, Arnaud Foucal, Cyril Fumery, Kobi Halperin, Inga Hansen, Hanne Hinz, Jidong Hu, Phill",
+      "page": 4,
+      "id": 75,
+      "order": 75
+    },
+    {
+      "box": [
+        70.944,
+        399.00552000000005,
+        537.8707919999998,
+        408.96552
+      ],
+      "text": "Isles, Shirley Itah, Martin Klonk, Kjell Lauren, Igal Levi, Rik Marselis, Johan Meivert, Armin Metzger, Peter",
+      "page": 4,
+      "id": 76,
+      "order": 76
+    },
+    {
+      "box": [
+        70.944,
+        410.55912000000006,
+        534.10392,
+        420.5191200000001
+      ],
+      "text": "Morgan, Ninna Morin, Ingvar Nordstrom, Chris O’Dea, Klaus Olsen, Ismo Paukamainen, Nathalie Phung,",
+      "page": 4,
+      "id": 77,
+      "order": 77
+    },
+    {
+      "box": [
+        70.94400000000002,
+        421.9334400000001,
+        519.031452,
+        431.89344000000006
+      ],
+      "text": "Helmut Pichler, Salvatore Reale, Stuart Reid, Hans Rombouts, Petri Säilynoja, Soile Sainio, Lars-Erik",
+      "page": 4,
+      "id": 78,
+      "order": 78
+    },
+    {
+      "box": [
+        70.94400000000002,
+        433.4571600000001,
+        508.69695599999994,
+        443.4171600000001
+      ],
+      "text": "Sandberg, Dakar Shalom, Jian Shen, Marco Sogliani, Lucjan Stapp, Yaron Tsubery, Sabine Uhde,",
+      "page": 4,
+      "id": 79,
+      "order": 79
+    },
+    {
+      "box": [
+        70.94400000000002,
+        444.9808800000001,
+        532.90872,
+        454.9408800000001
+      ],
+      "text": "Stephanie Ulrich, Tommi Välimäki, Jurian Van de Laar, Marnix Van den Ent, António Vieira Melo, Wenye",
+      "page": 4,
+      "id": 80,
+      "order": 80
+    },
+    {
+      "box": [
+        70.94400000000002,
+        456.50460000000015,
+        450.16103999999984,
+        466.46460000000013
+      ],
+      "text": "Xu, Ester Zabar, Wenqiang Zheng, Peter Zimmerer, Stevan Zivanovic, and Terry Zuo.",
+      "page": 4,
+      "id": 81,
+      "order": 81
+    },
+    {
+      "box": [
+        70.94400000000002,
+        479.42252,
+        523.5154439999998,
+        489.3825600000001
+      ],
+      "text": "This document was formally approved for release by the General Assembly of the ISTQB® on May 31,",
+      "page": 4,
+      "id": 82,
+      "order": 82
+    },
+    {
+      "box": [
+        70.944,
+        490.94624000000005,
+        95.792208,
+        500.90624
+      ],
+      "text": "2014.",
+      "page": 4,
+      "id": 83,
+      "order": 83
+    },
+    {
+      "box": [
+        76.58136,
+        720.17564,
+        530.073108,
+        730.1356400000001
+      ],
+      "text": "Version 2014 Page 5 of 12 May 31, 2014",
+      "page": 4,
+      "id": 84,
+      "order": 84
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 4,
+      "id": 85,
+      "order": 85
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 5,
+      "id": 86,
+      "order": 86
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 5,
+      "id": 87,
+      "order": 87
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 5,
+      "id": 88,
+      "order": 88
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 5,
+      "id": 89,
+      "order": 89
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.0712800000001,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 5,
+      "id": 90,
+      "order": 90
+    },
+    {
+      "box": [
+        70.944,
+        124.76371999999992,
+        461.58255600000024,
+        140.72371999999996
+      ],
+      "text": "1. Introduction to the Foundation Level Extensions",
+      "page": 5,
+      "id": 91,
+      "order": 91
+    },
+    {
+      "box": [
+        70.944,
+        147.40171999999995,
+        541.2034079999996,
+        157.36172
+      ],
+      "text": "This overview document is intended for anyone with an interest in the ISTQB Foundation Level",
+      "page": 5,
+      "id": 92,
+      "order": 92
+    },
+    {
+      "box": [
+        70.944,
+        158.92543999999998,
+        541.0101840000003,
+        168.88544000000002
+      ],
+      "text": "Extensions who wants a high-level introduction to the leading principles and an overview of the individual",
+      "page": 5,
+      "id": 93,
+      "order": 93
+    },
+    {
+      "box": [
+        70.94399999999999,
+        170.44916,
+        146.90892,
+        180.40916000000004
+      ],
+      "text": "extension syllabi.",
+      "page": 5,
+      "id": 94,
+      "order": 94
+    },
+    {
+      "box": [
+        70.94399999999999,
+        193.36712,
+        541.1944439999996,
+        203.32712000000004
+      ],
+      "text": "From time to time, ISTQB will update this document to reflect any additional extensions that shall be",
+      "page": 5,
+      "id": 95,
+      "order": 95
+    },
+    {
+      "box": [
+        70.94399999999999,
+        204.89084000000003,
+        541.3239239999997,
+        214.85084000000006
+      ],
+      "text": "introduced for the Foundation Level, or to reflect major changes in existing ones. Publications of the",
+      "page": 5,
+      "id": 96,
+      "order": 96
+    },
+    {
+      "box": [
+        70.94399999999999,
+        216.41456000000005,
+        329.2864800000001,
+        226.3745600000001
+      ],
+      "text": "updated document will be available on the ISTQB website.",
+      "page": 5,
+      "id": 97,
+      "order": 97
+    },
+    {
+      "box": [
+        70.94399999999999,
+        239.48192000000006,
+        541.1665559999998,
+        249.4419200000001
+      ],
+      "text": "The ISTQB Foundation and Advanced Level syllabi have been defined and have been on the market for",
+      "page": 5,
+      "id": 98,
+      "order": 98
+    },
+    {
+      "box": [
+        70.94399999999999,
+        250.88612,
+        541.3099799999998,
+        260.84612000000004
+      ],
+      "text": "some time. New topics emerge due to technology and methodology changes in the market which often",
+      "page": 5,
+      "id": 99,
+      "order": 99
+    },
+    {
+      "box": [
+        70.94399999999999,
+        262.40984000000003,
+        541.2014160000001,
+        272.36984000000007
+      ],
+      "text": "are brought into the ISTQB program as new Expert Level syllabi. However, not all topics are suited for the",
+      "page": 5,
+      "id": 100,
+      "order": 100
+    },
+    {
+      "box": [
+        70.94399999999996,
+        273.93356000000006,
+        541.1506199999995,
+        283.89356000000004
+      ],
+      "text": "Expert Level. For this reason, the extension syllabi are established at the Foundation Level to expand the",
+      "page": 5,
+      "id": 101,
+      "order": 101
+    },
+    {
+      "box": [
+        70.94399999999996,
+        285.4572800000001,
+        540.9235319999998,
+        295.41728000000006
+      ],
+      "text": "ISTQB program to incorporate new or updated knowledge. New extensions shall be discussed and",
+      "page": 5,
+      "id": 102,
+      "order": 102
+    },
+    {
+      "box": [
+        70.94399999999996,
+        296.9810000000001,
+        541.1615760000001,
+        306.9410000000001
+      ],
+      "text": "introduced by the ISTQB periodically. Extensions may be established at the Advanced Level as well, but",
+      "page": 5,
+      "id": 103,
+      "order": 103
+    },
+    {
+      "box": [
+        70.94399999999996,
+        308.50472000000013,
+        258.07248000000004,
+        318.4647200000001
+      ],
+      "text": "that is beyond the scope of this document.",
+      "page": 5,
+      "id": 104,
+      "order": 104
+    },
+    {
+      "box": [
+        70.94399999999996,
+        331.4226800000001,
+        382.7617200000002,
+        341.3826800000001
+      ],
+      "text": "The following Foundation Level Extension syllabus has been released:",
+      "page": 5,
+      "id": 105,
+      "order": 105
+    },
+    {
+      "box": [
+        88.95167999999997,
+        343.6635200000001,
+        160.26527999999996,
+        353.71316000000013
+      ],
+      "text": " Agile Tester",
+      "page": 5,
+      "id": 106,
+      "order": 106
+    },
+    {
+      "box": [
+        70.95395999999997,
+        366.5814800000001,
+        541.0968359999997,
+        376.5414800000001
+      ],
+      "text": "In this document, each Foundation Level Extension syllabus is summarized and the associated Business",
+      "page": 5,
+      "id": 107,
+      "order": 107
+    },
+    {
+      "box": [
+        70.95395999999997,
+        378.10520000000014,
+        540.9693479999996,
+        388.0652000000001
+      ],
+      "text": "Outcomes are stated. The Business Outcomes communicate what can be expected from a person who",
+      "page": 5,
+      "id": 108,
+      "order": 108
+    },
+    {
+      "box": [
+        70.95395999999997,
+        389.6488400000001,
+        541.2940439999996,
+        399.6088400000001
+      ],
+      "text": "achieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and",
+      "page": 5,
+      "id": 109,
+      "order": 109
+    },
+    {
+      "box": [
+        70.95395999999997,
+        401.17256000000015,
+        541.1725319999998,
+        411.1325600000001
+      ],
+      "text": "will outline the benefits for companies that are considering the development of specific testing skills at this",
+      "page": 5,
+      "id": 110,
+      "order": 110
+    },
+    {
+      "box": [
+        70.95395999999997,
+        412.6962800000002,
+        94.11095999999996,
+        422.65628000000015
+      ],
+      "text": "level.",
+      "page": 5,
+      "id": 111,
+      "order": 111
+    },
+    {
+      "box": [
+        76.59131999999997,
+        720.1614800000002,
+        530.083068,
+        730.1214800000002
+      ],
+      "text": "Version 2014 Page 6 of 12 May 31, 2014",
+      "page": 5,
+      "id": 112,
+      "order": 112
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 5,
+      "id": 113,
+      "order": 113
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 6,
+      "id": 114,
+      "order": 114
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 6,
+      "id": 115,
+      "order": 115
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 6,
+      "id": 116,
+      "order": 116
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 6,
+      "id": 117,
+      "order": 117
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.0712800000001,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 6,
+      "id": 118,
+      "order": 118
+    },
+    {
+      "box": [
+        70.944,
+        124.76371999999992,
+        518.6299800000003,
+        140.72371999999996
+      ],
+      "text": "2. Introduction to Foundation Level Agile Tester Extension",
+      "page": 6,
+      "id": 119,
+      "order": 119
+    },
+    {
+      "box": [
+        70.944,
+        147.40171999999995,
+        541.1615760000001,
+        157.39159999999993
+      ],
+      "text": "The certification for Foundation Level Extension – Agile Tester is designed for professionals who are",
+      "page": 6,
+      "id": 120,
+      "order": 120
+    },
+    {
+      "box": [
+        70.94399999999999,
+        158.92543999999998,
+        541.0251239999996,
+        168.88544000000002
+      ],
+      "text": "working within Agile environments. It is also for professionals who are planning to start implementing",
+      "page": 6,
+      "id": 121,
+      "order": 121
+    },
+    {
+      "box": [
+        70.94399999999999,
+        170.44916,
+        541.1157600000001,
+        180.40916000000004
+      ],
+      "text": "Agile methods in the near future, or are working within companies that plan to do so, The certification",
+      "page": 6,
+      "id": 122,
+      "order": 122
+    },
+    {
+      "box": [
+        70.95396000000005,
+        181.97288000000003,
+        541.3229279999999,
+        191.93288000000007
+      ],
+      "text": "provides an advantage for those who would like to know the required Agile activities, roles, methods, and",
+      "page": 6,
+      "id": 123,
+      "order": 123
+    },
+    {
+      "box": [
+        70.95396000000005,
+        193.37707999999998,
+        227.54308800000013,
+        203.33708000000001
+      ],
+      "text": "methodologies specific to their role.",
+      "page": 6,
+      "id": 124,
+      "order": 124
+    },
+    {
+      "box": [
+        70.944,
+        218.9262799999999,
+        214.813284,
+        232.96627999999998
+      ],
+      "text": "2.1 Intended Audience",
+      "page": 6,
+      "id": 125,
+      "order": 125
+    },
+    {
+      "box": [
+        70.944,
+        241.99172,
+        538.8897,
+        251.98159999999996
+      ],
+      "text": "The Foundation Level Extension – Agile Tester qualification is aimed at four main groups of professionals:",
+      "page": 6,
+      "id": 126,
+      "order": 126
+    },
+    {
+      "box": [
+        88.94171999999998,
+        253.51544,
+        540.7203480000002,
+        263.47544000000005
+      ],
+      "text": "1. Professionals who have achieved in-depth testing experience in traditional methods and would",
+      "page": 6,
+      "id": 127,
+      "order": 127
+    },
+    {
+      "box": [
+        106.93943999999999,
+        265.03916000000004,
+        270.4179000000001,
+        274.9991600000001
+      ],
+      "text": "like to get an Agile Tester Certificate.",
+      "page": 6,
+      "id": 128,
+      "order": 128
+    },
+    {
+      "box": [
+        88.94171999999999,
+        276.56288000000006,
+        541.3259159999999,
+        286.52288000000004
+      ],
+      "text": "2. Junior professional testers who are just starting in the testing profession, have received the",
+      "page": 6,
+      "id": 129,
+      "order": 129
+    },
+    {
+      "box": [
+        106.93943999999999,
+        288.0866000000001,
+        541.073928,
+        298.0764800000001
+      ],
+      "text": "Foundation Level certificate, and would like to know more about the tester’s role in an Agile",
+      "page": 6,
+      "id": 130,
+      "order": 130
+    },
+    {
+      "box": [
+        106.94939999999997,
+        299.4908000000001,
+        164.678556,
+        309.4508000000001
+      ],
+      "text": "environment.",
+      "page": 6,
+      "id": 131,
+      "order": 131
+    },
+    {
+      "box": [
+        88.95167999999997,
+        311.0145200000001,
+        541.018152,
+        320.9745200000001
+      ],
+      "text": "3. Professionals who are relatively new to testing and are required to implement test approaches,",
+      "page": 6,
+      "id": 132,
+      "order": 132
+    },
+    {
+      "box": [
+        106.95935999999996,
+        322.53824000000014,
+        389.94786000000016,
+        332.4982400000001
+      ],
+      "text": "methods and techniques in their day to day job in Agile projects.",
+      "page": 6,
+      "id": 133,
+      "order": 133
+    },
+    {
+      "box": [
+        88.96163999999996,
+        334.06196000000017,
+        541.0589879999998,
+        344.02196000000015
+      ],
+      "text": "4. Professionals who are experienced in their role (including unit testing) and need more",
+      "page": 6,
+      "id": 134,
+      "order": 134
+    },
+    {
+      "box": [
+        106.95935999999996,
+        345.5856800000002,
+        541.3169519999997,
+        355.5456800000002
+      ],
+      "text": "understanding and knowledge about how to perform and manage testing on all levels in Agile",
+      "page": 6,
+      "id": 135,
+      "order": 135
+    },
+    {
+      "box": [
+        106.95935999999996,
+        357.1094000000002,
+        144.72767999999996,
+        367.0694000000002
+      ],
+      "text": "projects.",
+      "page": 6,
+      "id": 136,
+      "order": 136
+    },
+    {
+      "box": [
+        70.96391999999996,
+        380.0273600000002,
+        541.2113760000001,
+        389.9873600000002
+      ],
+      "text": "These professionals include people who are in roles such as testers, test analysts, test engineers, test",
+      "page": 6,
+      "id": 137,
+      "order": 137
+    },
+    {
+      "box": [
+        70.97388000000012,
+        391.5710000000002,
+        419.5131240000002,
+        401.5310000000002
+      ],
+      "text": "consultants, test managers, user acceptance testers, and software developers.",
+      "page": 6,
+      "id": 138,
+      "order": 138
+    },
+    {
+      "box": [
+        70.97388000000012,
+        414.6084800000002,
+        540.9803040000003,
+        424.59836000000024
+      ],
+      "text": "This Foundation Level Extension – Agile Tester certification may also be appropriate for anyone who",
+      "page": 6,
+      "id": 139,
+      "order": 139
+    },
+    {
+      "box": [
+        70.97388000000012,
+        426.13220000000024,
+        541.1107799999997,
+        436.0922000000002
+      ],
+      "text": "wants a deeper understanding of software testing in the Agile world, such as project managers, quality",
+      "page": 6,
+      "id": 140,
+      "order": 140
+    },
+    {
+      "box": [
+        70.97388000000012,
+        437.53640000000024,
+        541.0560000000002,
+        447.4964000000002
+      ],
+      "text": "managers, software development managers, business analysts, IT directors, and management",
+      "page": 6,
+      "id": 141,
+      "order": 141
+    },
+    {
+      "box": [
+        70.97388000000018,
+        449.06012000000027,
+        124.32960000000017,
+        459.02012000000025
+      ],
+      "text": "consultants.",
+      "page": 6,
+      "id": 142,
+      "order": 142
+    },
+    {
+      "box": [
+        70.944,
+        486.09628000000004,
+        251.25972000000004,
+        500.13628
+      ],
+      "text": "2.2 Career Paths for Testers",
+      "page": 6,
+      "id": 143,
+      "order": 143
+    },
+    {
+      "box": [
+        70.944,
+        509.13172,
+        541.0420559999997,
+        519.0917199999999
+      ],
+      "text": "Building on the Foundation Level, the Agile Tester Extension supports the definition of career paths for",
+      "page": 6,
+      "id": 144,
+      "order": 144
+    },
+    {
+      "box": [
+        70.944,
+        520.65544,
+        540.8876759999996,
+        530.61544
+      ],
+      "text": "professional testers. A person with the Agile Tester certificate has extended the broad understanding of",
+      "page": 6,
+      "id": 145,
+      "order": 145
+    },
+    {
+      "box": [
+        70.944,
+        532.17916,
+        541.2054,
+        542.13916
+      ],
+      "text": "testing acquired at the Foundation Level to enable him or her to work effectively as a professional tester in",
+      "page": 6,
+      "id": 146,
+      "order": 146
+    },
+    {
+      "box": [
+        70.95395999999988,
+        543.58336,
+        142.72571999999988,
+        553.54336
+      ],
+      "text": "an Agile project.",
+      "page": 6,
+      "id": 147,
+      "order": 147
+    },
+    {
+      "box": [
+        70.96391999999989,
+        566.65072,
+        541.074924,
+        576.6406
+      ],
+      "text": "People possessing an ISTQB Foundation Level Extension – Agile Tester certificate may use the Certified",
+      "page": 6,
+      "id": 148,
+      "order": 148
+    },
+    {
+      "box": [
+        70.96391999999986,
+        578.17444,
+        266.46876,
+        588.13444
+      ],
+      "text": "Tester Foundation Level acronym CTFL-AT.",
+      "page": 6,
+      "id": 149,
+      "order": 149
+    },
+    {
+      "box": [
+        70.944,
+        615.24628,
+        221.69288400000002,
+        629.28628
+      ],
+      "text": "2.3 Learning Objectives",
+      "page": 6,
+      "id": 150,
+      "order": 150
+    },
+    {
+      "box": [
+        70.944,
+        638.28172,
+        541.0340879999997,
+        648.24172
+      ],
+      "text": "In general, the Foundation Level syllabus is examinable at a K1 level, i.e., the candidate will recognize,",
+      "page": 6,
+      "id": 151,
+      "order": 151
+    },
+    {
+      "box": [
+        70.944,
+        649.80544,
+        431.11752000000007,
+        659.76544
+      ],
+      "text": "remember and recall terms and concepts stated in the Foundation Level syllabus.",
+      "page": 6,
+      "id": 152,
+      "order": 152
+    },
+    {
+      "box": [
+        70.94400000000002,
+        672.7234,
+        541.1406599999999,
+        682.6834
+      ],
+      "text": "In addition, all Foundation Level syllabus learning objectives are examinable at the same K- level in an",
+      "page": 6,
+      "id": 153,
+      "order": 153
+    },
+    {
+      "box": [
+        70.94400000000002,
+        684.23716,
+        143.61216000000005,
+        694.19716
+      ],
+      "text": "extension exam.",
+      "page": 6,
+      "id": 154,
+      "order": 154
+    },
+    {
+      "box": [
+        76.58136000000002,
+        720.1230400000001,
+        530.0731080000002,
+        730.08304
+      ],
+      "text": "Version 2014 Page 7 of 12 May 31, 2014",
+      "page": 6,
+      "id": 155,
+      "order": 155
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 6,
+      "id": 156,
+      "order": 156
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 7,
+      "id": 157,
+      "order": 157
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 7,
+      "id": 158,
+      "order": 158
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 7,
+      "id": 159,
+      "order": 159
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 7,
+      "id": 160,
+      "order": 160
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.0712800000001,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 7,
+      "id": 161,
+      "order": 161
+    },
+    {
+      "box": [
+        70.944,
+        109.96172000000001,
+        541.0281120000002,
+        119.92172000000005
+      ],
+      "text": "That said, each extension level exam focuses on the learning objectives defined in that extension",
+      "page": 7,
+      "id": 162,
+      "order": 162
+    },
+    {
+      "box": [
+        70.94399999999999,
+        121.48544000000004,
+        540.8438519999996,
+        131.44544000000008
+      ],
+      "text": "syllabus. The relevant learning objectives at K1, K2, and K3 levels are provided at the beginning of each",
+      "page": 7,
+      "id": 163,
+      "order": 163
+    },
+    {
+      "box": [
+        70.94399999999999,
+        133.00916000000007,
+        288.0421200000001,
+        142.9691600000001
+      ],
+      "text": "chapter within each particular extension syllabus.",
+      "page": 7,
+      "id": 164,
+      "order": 164
+    },
+    {
+      "box": [
+        70.944,
+        158.56628,
+        221.72658000000004,
+        172.60628000000008
+      ],
+      "text": "2.4 Entry Requirements",
+      "page": 7,
+      "id": 165,
+      "order": 165
+    },
+    {
+      "box": [
+        70.944,
+        181.60172,
+        541.1844840000002,
+        191.59159999999997
+      ],
+      "text": "To be able to participate in a Foundation Level Extension – Agile Tester exam, candidates must have",
+      "page": 7,
+      "id": 166,
+      "order": 166
+    },
+    {
+      "box": [
+        70.94400000000002,
+        193.12544000000003,
+        286.61883600000016,
+        203.08544000000006
+      ],
+      "text": "obtained the ISTQB Foundation Level certificate.",
+      "page": 7,
+      "id": 167,
+      "order": 167
+    },
+    {
+      "box": [
+        70.944,
+        218.68628,
+        288.045924,
+        232.7262800000001
+      ],
+      "text": "2.5 Structure and Course Duration",
+      "page": 7,
+      "id": 168,
+      "order": 168
+    },
+    {
+      "box": [
+        70.944,
+        241.75171999999998,
+        541.0679520000002,
+        251.74159999999995
+      ],
+      "text": "The Foundation Level Extension – Agile Tester syllabus has no shared or common elements with the",
+      "page": 7,
+      "id": 169,
+      "order": 169
+    },
+    {
+      "box": [
+        70.94400000000002,
+        253.27544,
+        189.26880000000003,
+        263.23544000000004
+      ],
+      "text": "Foundation Level syllabus.",
+      "page": 7,
+      "id": 170,
+      "order": 170
+    },
+    {
+      "box": [
+        70.94400000000002,
+        276.1934,
+        374.2867560000002,
+        286.1534
+      ],
+      "text": "The syllabi must be taught in the following minimum number of days:",
+      "page": 7,
+      "id": 171,
+      "order": 171
+    },
+    {
+      "box": [
+        212.21,
+        302.59172,
+        392.23456000000004,
+        312.55172
+      ],
+      "text": "Syllabus Days",
+      "page": 7,
+      "id": 172,
+      "order": 172
+    },
+    {
+      "box": [
+        212.21,
+        320.71172,
+        383.12775999999997,
+        330.67172
+      ],
+      "text": "Baseline: Foundation 3",
+      "page": 7,
+      "id": 173,
+      "order": 173
+    },
+    {
+      "box": [
+        212.21,
+        338.71172,
+        383.12775999999997,
+        348.67172
+      ],
+      "text": "Extension: Agile Tester 2",
+      "page": 7,
+      "id": 174,
+      "order": 174
+    },
+    {
+      "box": [
+        70.944,
+        368.23172,
+        541.1506199999998,
+        378.19172
+      ],
+      "text": "The following figure shows the structure of the Agile Tester Extension and its relationship to the",
+      "page": 7,
+      "id": 175,
+      "order": 175
+    },
+    {
+      "box": [
+        70.944,
+        379.75544,
+        150.268428,
+        389.71544
+      ],
+      "text": "Foundation Level.",
+      "page": 7,
+      "id": 176,
+      "order": 176
+    },
+    {
+      "box": [
+        76.584,
+        720.1218,
+        530.0757480000001,
+        730.0818
+      ],
+      "text": "Version 2014 Page 8 of 12 May 31, 2014",
+      "page": 7,
+      "id": 177,
+      "order": 177
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 7,
+      "id": 178,
+      "order": 178
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 8,
+      "id": 179,
+      "order": 179
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 8,
+      "id": 180,
+      "order": 180
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 8,
+      "id": 181,
+      "order": 181
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 8,
+      "id": 182,
+      "order": 182
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.0712800000001,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 8,
+      "id": 183,
+      "order": 183
+    },
+    {
+      "box": [
+        70.944,
+        135.52627999999993,
+        211.616376,
+        149.56628
+      ],
+      "text": "2.6 Keeping It Current",
+      "page": 8,
+      "id": 184,
+      "order": 184
+    },
+    {
+      "box": [
+        70.944,
+        158.56172000000004,
+        541.1884679999996,
+        168.52172000000007
+      ],
+      "text": "The software industry changes rapidly. To deal with these changes and to provide the stakeholders with",
+      "page": 8,
+      "id": 185,
+      "order": 185
+    },
+    {
+      "box": [
+        70.944,
+        170.08544000000006,
+        541.0291079999998,
+        180.0454400000001
+      ],
+      "text": "access to relevant and current information, the ISTQB working groups have created links on the",
+      "page": 8,
+      "id": 186,
+      "order": 186
+    },
+    {
+      "box": [
+        70.944,
+        181.6091600000001,
+        540.7163639999999,
+        191.56916000000012
+      ],
+      "text": "www.istqb.org web site which refer to supporting documents, changes to standards and new occurrences",
+      "page": 8,
+      "id": 187,
+      "order": 187
+    },
+    {
+      "box": [
+        70.94399999999999,
+        193.1328800000001,
+        381.67608,
+        203.09288000000015
+      ],
+      "text": "in the industry. This information is not examinable under this syllabus.",
+      "page": 8,
+      "id": 188,
+      "order": 188
+    },
+    {
+      "box": [
+        76.58135999999996,
+        720.1364000000002,
+        530.073108,
+        730.0964000000001
+      ],
+      "text": "Version 2014 Page 9 of 12 May 31, 2014",
+      "page": 8,
+      "id": 189,
+      "order": 189
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 8,
+      "id": 190,
+      "order": 190
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 9,
+      "id": 191,
+      "order": 191
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 9,
+      "id": 192,
+      "order": 192
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 9,
+      "id": 193,
+      "order": 193
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 9,
+      "id": 194,
+      "order": 194
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.0712800000001,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 9,
+      "id": 195,
+      "order": 195
+    },
+    {
+      "box": [
+        70.944,
+        121.64371999999992,
+        541.0394160000001,
+        137.65159999999992
+      ],
+      "text": "3. Overview of the Foundation Level Extension – Agile Tester",
+      "page": 9,
+      "id": 196,
+      "order": 196
+    },
+    {
+      "box": [
+        106.93380000000008,
+        140.1253999999999,
+        172.5613200000001,
+        156.08539999999994
+      ],
+      "text": "Syllabus",
+      "page": 9,
+      "id": 197,
+      "order": 197
+    },
+    {
+      "box": [
+        70.944,
+        189.52627999999993,
+        222.37944000000002,
+        203.56628
+      ],
+      "text": "3.1 Business Outcomes",
+      "page": 9,
+      "id": 198,
+      "order": 198
+    },
+    {
+      "box": [
+        70.944,
+        212.56172000000004,
+        540.7542119999998,
+        222.52172000000007
+      ],
+      "text": "This section lists the Business Outcomes expected of a candidate who has achieved the Foundation Level",
+      "page": 9,
+      "id": 199,
+      "order": 199
+    },
+    {
+      "box": [
+        70.944,
+        224.08544000000006,
+        235.869648,
+        234.07532000000003
+      ],
+      "text": "Extension – Agile Tester certification.",
+      "page": 9,
+      "id": 200,
+      "order": 200
+    },
+    {
+      "box": [
+        70.93404000000001,
+        247.06316000000015,
+        168.16356000000002,
+        257.0231600000001
+      ],
+      "text": "An Agile Tester can…",
+      "page": 9,
+      "id": 201,
+      "order": 201
+    },
+    {
+      "box": [
+        107.78,
+        270.07172,
+        511.23176,
+        280.03172
+      ],
+      "text": "AFM1 Collaborate in a cross-functional Agile team being familiar with principles and basic",
+      "page": 9,
+      "id": 202,
+      "order": 202
+    },
+    {
+      "box": [
+        145.34,
+        281.59172,
+        324.7828400000001,
+        291.55172
+      ],
+      "text": "practices of Agile software development.",
+      "page": 9,
+      "id": 203,
+      "order": 203
+    },
+    {
+      "box": [
+        107.78,
+        304.63172,
+        497.26888,
+        314.59171999999995
+      ],
+      "text": "AFM2 Adapt existing testing experience and knowledge to Agile values and principles.",
+      "page": 9,
+      "id": 204,
+      "order": 204
+    },
+    {
+      "box": [
+        107.78,
+        329.59172,
+        394.99888000000004,
+        339.55172
+      ],
+      "text": "AFM3 Support the Agile team in planning test-related activities.",
+      "page": 9,
+      "id": 205,
+      "order": 205
+    },
+    {
+      "box": [
+        107.78,
+        354.67172,
+        452.23888000000005,
+        364.63172
+      ],
+      "text": "AFM4 Apply relevant methods and techniques for testing in an Agile project.",
+      "page": 9,
+      "id": 206,
+      "order": 206
+    },
+    {
+      "box": [
+        107.78,
+        379.75172,
+        364.51888,
+        389.71171999999996
+      ],
+      "text": "AFM5 Assist the Agile team in test automation activities.",
+      "page": 9,
+      "id": 207,
+      "order": 207
+    },
+    {
+      "box": [
+        107.78,
+        404.85172,
+        508.17848,
+        414.81172
+      ],
+      "text": "AFM6 Assist business stakeholders in defining understandable and testable user stories,",
+      "page": 9,
+      "id": 208,
+      "order": 208
+    },
+    {
+      "box": [
+        145.34,
+        416.25172,
+        427.63888000000003,
+        426.21171999999996
+      ],
+      "text": "scenarios, requirements and acceptance criteria as appropriate.",
+      "page": 9,
+      "id": 209,
+      "order": 209
+    },
+    {
+      "box": [
+        107.78,
+        439.29172,
+        520.16468,
+        449.25172
+      ],
+      "text": "AFM7 Work and share information with other team members using effective communication",
+      "page": 9,
+      "id": 210,
+      "order": 210
+    },
+    {
+      "box": [
+        145.34,
+        450.81172,
+        235.72700000000003,
+        460.77171999999996
+      ],
+      "text": "styles and channels.",
+      "page": 9,
+      "id": 211,
+      "order": 211
+    },
+    {
+      "box": [
+        70.944,
+        485.97172,
+        536.7692160000001,
+        495.96160000000003
+      ],
+      "text": "In general, a Certified Tester Foundation Level – Agile Tester is expected to have acquired the necessary",
+      "page": 9,
+      "id": 212,
+      "order": 212
+    },
+    {
+      "box": [
+        70.94399999999999,
+        497.49544000000003,
+        360.56088000000005,
+        507.45544
+      ],
+      "text": "skills to working effectively within an Agile team and environment.",
+      "page": 9,
+      "id": 213,
+      "order": 213
+    },
+    {
+      "box": [
+        70.944,
+        534.57628,
+        147.08292,
+        548.61628
+      ],
+      "text": "3.2 Content",
+      "page": 9,
+      "id": 214,
+      "order": 214
+    },
+    {
+      "box": [
+        70.944,
+        557.64172,
+        246.39936000000003,
+        567.60172
+      ],
+      "text": "Chapter 1: Agile Software Development",
+      "page": 9,
+      "id": 215,
+      "order": 215
+    },
+    {
+      "box": [
+        88.94172,
+        569.88256,
+        541.0639679999998,
+        579.9322
+      ],
+      "text": " The tester should remember the basic concept of Agile software development based on the Agile",
+      "page": 9,
+      "id": 216,
+      "order": 216
+    },
+    {
+      "box": [
+        106.93944,
+        581.28676,
+        153.028344,
+        591.24676
+      ],
+      "text": "Manifesto.",
+      "page": 9,
+      "id": 217,
+      "order": 217
+    },
+    {
+      "box": [
+        88.94172,
+        593.5276,
+        541.1067959999996,
+        603.57724
+      ],
+      "text": " The tester should understand the advantages of the whole-team approach and the benefits of",
+      "page": 9,
+      "id": 218,
+      "order": 218
+    },
+    {
+      "box": [
+        106.93944,
+        604.9318,
+        233.817888,
+        614.8918
+      ],
+      "text": "early and frequent feedback.",
+      "page": 9,
+      "id": 219,
+      "order": 219
+    },
+    {
+      "box": [
+        88.94172,
+        617.17264,
+        393.6808680000001,
+        627.22228
+      ],
+      "text": " The tester should recall Agile software development approaches.",
+      "page": 9,
+      "id": 220,
+      "order": 220
+    },
+    {
+      "box": [
+        88.94172,
+        629.4134799999999,
+        540.96636,
+        639.46312
+      ],
+      "text": " The tester should be able to write testable user stories in collaboration with developers and",
+      "page": 9,
+      "id": 221,
+      "order": 221
+    },
+    {
+      "box": [
+        106.93944,
+        640.81768,
+        220.37786400000002,
+        650.7776799999999
+      ],
+      "text": "business representatives.",
+      "page": 9,
+      "id": 222,
+      "order": 222
+    },
+    {
+      "box": [
+        88.94172,
+        653.0585199999999,
+        540.8478359999998,
+        663.10816
+      ],
+      "text": " The tester should understand how retrospectives can be used as a mechanism for process",
+      "page": 9,
+      "id": 223,
+      "order": 223
+    },
+    {
+      "box": [
+        106.93944,
+        664.46272,
+        241.01797200000001,
+        674.4227199999999
+      ],
+      "text": "improvement in Agile projects.",
+      "page": 9,
+      "id": 224,
+      "order": 224
+    },
+    {
+      "box": [
+        88.94172,
+        676.7035599999999,
+        444.800568,
+        686.7532
+      ],
+      "text": " The tester should understand the use and purpose of continuous integration.",
+      "page": 9,
+      "id": 225,
+      "order": 225
+    },
+    {
+      "box": [
+        88.94172,
+        688.9444,
+        541.1217359999997,
+        698.9940399999999
+      ],
+      "text": " The tester should know the differences between iteration and release planning, and how a tester",
+      "page": 9,
+      "id": 226,
+      "order": 226
+    },
+    {
+      "box": [
+        106.93944,
+        700.3486,
+        272.69874000000004,
+        710.3086
+      ],
+      "text": "adds value in each of these activities.",
+      "page": 9,
+      "id": 227,
+      "order": 227
+    },
+    {
+      "box": [
+        76.58136,
+        720.14908,
+        530.073108,
+        730.10908
+      ],
+      "text": "Version 2014 Page 10 of 12 May 31, 2014",
+      "page": 9,
+      "id": 228,
+      "order": 228
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 9,
+      "id": 229,
+      "order": 229
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 10,
+      "id": 230,
+      "order": 230
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 10,
+      "id": 231,
+      "order": 231
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 10,
+      "id": 232,
+      "order": 232
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 10,
+      "id": 233,
+      "order": 233
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.07128,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 10,
+      "id": 234,
+      "order": 234
+    },
+    {
+      "box": [
+        70.944,
+        109.96172000000001,
+        403.58310000000023,
+        119.92172000000005
+      ],
+      "text": "Chapter 2: Fundamental Agile Testing Principles, Practices, and Processes",
+      "page": 10,
+      "id": 235,
+      "order": 235
+    },
+    {
+      "box": [
+        88.94172,
+        122.20256000000006,
+        540.8737319999999,
+        132.25220000000002
+      ],
+      "text": " The tester should be able to describe the differences between testing activities in Agile projects",
+      "page": 10,
+      "id": 236,
+      "order": 236
+    },
+    {
+      "box": [
+        106.93944,
+        133.7262800000001,
+        209.21370000000005,
+        143.68628000000012
+      ],
+      "text": "and non-Agile projects.",
+      "page": 10,
+      "id": 237,
+      "order": 237
+    },
+    {
+      "box": [
+        88.94172,
+        145.84760000000006,
+        540.725328,
+        155.89724
+      ],
+      "text": " The tester should be able to describe how development and testing activities are integrated in",
+      "page": 10,
+      "id": 238,
+      "order": 238
+    },
+    {
+      "box": [
+        106.93944,
+        157.37132000000008,
+        169.708356,
+        167.33132000000012
+      ],
+      "text": "Agile projects.",
+      "page": 10,
+      "id": 239,
+      "order": 239
+    },
+    {
+      "box": [
+        88.94172,
+        169.61216000000013,
+        484.430412,
+        179.66180000000008
+      ],
+      "text": " The tester should be able to describe the role of independent testing in Agile projects.",
+      "page": 10,
+      "id": 240,
+      "order": 240
+    },
+    {
+      "box": [
+        88.94172,
+        181.7334800000001,
+        540.6844919999999,
+        191.78312000000005
+      ],
+      "text": " The tester should be able to describe the tools and techniques used to communicate the status of",
+      "page": 10,
+      "id": 241,
+      "order": 241
+    },
+    {
+      "box": [
+        106.93944,
+        193.25720000000013,
+        414.317988,
+        203.21720000000016
+      ],
+      "text": "testing in an Agile project, including test progress and product quality.",
+      "page": 10,
+      "id": 242,
+      "order": 242
+    },
+    {
+      "box": [
+        88.94172,
+        205.3785200000001,
+        541.0350839999999,
+        215.42816000000005
+      ],
+      "text": " The tester should be able to describe the process of evolving tests across multiple iterations and",
+      "page": 10,
+      "id": 243,
+      "order": 243
+    },
+    {
+      "box": [
+        106.93944,
+        216.90224000000012,
+        478.3279199999999,
+        226.86224000000016
+      ],
+      "text": "explain why test automation is important to manage regression risk in Agile projects.",
+      "page": 10,
+      "id": 244,
+      "order": 244
+    },
+    {
+      "box": [
+        88.94172,
+        229.1729600000001,
+        534.3499319999997,
+        239.22260000000006
+      ],
+      "text": " The tester should understand the skills (people, domain, and testing) of a tester in an Agile team.",
+      "page": 10,
+      "id": 245,
+      "order": 245
+    },
+    {
+      "box": [
+        88.94172,
+        241.29428000000007,
+        461.6001,
+        251.34392000000003
+      ],
+      "text": " The tester should be able to understand the role of a tester within an Agile team.",
+      "page": 10,
+      "id": 246,
+      "order": 246
+    },
+    {
+      "box": [
+        70.944,
+        264.21224000000007,
+        325.7805600000002,
+        274.1722400000001
+      ],
+      "text": "Chapter 3: Agile Testing Methods, Techniques, and Tools",
+      "page": 10,
+      "id": 247,
+      "order": 247
+    },
+    {
+      "box": [
+        88.94172,
+        276.45308,
+        541.2581879999998,
+        286.50272000000007
+      ],
+      "text": " The tester should be able to recall the concepts of test-driven development, acceptance test-",
+      "page": 10,
+      "id": 248,
+      "order": 248
+    },
+    {
+      "box": [
+        106.93944,
+        287.9768000000001,
+        350.95844400000016,
+        297.93680000000006
+      ],
+      "text": "driven development, and behavior-driven development.",
+      "page": 10,
+      "id": 249,
+      "order": 249
+    },
+    {
+      "box": [
+        88.94172,
+        300.2176400000001,
+        404.24046000000004,
+        310.2672800000001
+      ],
+      "text": " The tester should be able to recall the concepts of the test pyramid.",
+      "page": 10,
+      "id": 250,
+      "order": 250
+    },
+    {
+      "box": [
+        88.94172,
+        312.3389600000001,
+        540.8229359999999,
+        322.3886000000001
+      ],
+      "text": " The tester should be able to summarize the testing quadrants and their relationships with testing",
+      "page": 10,
+      "id": 251,
+      "order": 251
+    },
+    {
+      "box": [
+        106.93944,
+        323.7431600000001,
+        213.65785200000002,
+        333.7031600000001
+      ],
+      "text": "levels and testing types.",
+      "page": 10,
+      "id": 252,
+      "order": 252
+    },
+    {
+      "box": [
+        88.94172,
+        335.9840000000001,
+        491.99005200000005,
+        346.0336400000001
+      ],
+      "text": " For a given Agile project, the tester should be able to work as a tester in a Scrum team.",
+      "page": 10,
+      "id": 253,
+      "order": 253
+    },
+    {
+      "box": [
+        88.94172,
+        348.2248400000001,
+        422.1206520000002,
+        358.2744800000001
+      ],
+      "text": " The tester should be able to assess quality risks within an Agile project.",
+      "page": 10,
+      "id": 254,
+      "order": 254
+    },
+    {
+      "box": [
+        88.94172,
+        360.3461600000001,
+        526.6707719999999,
+        370.3958000000001
+      ],
+      "text": " The tester should be able to estimate testing effort based on iteration content and quality risks.",
+      "page": 10,
+      "id": 255,
+      "order": 255
+    },
+    {
+      "box": [
+        88.94172,
+        372.5870000000001,
+        483.83081999999985,
+        382.6366400000001
+      ],
+      "text": " The tester should be able to interpret relevant information to support testing activities.",
+      "page": 10,
+      "id": 256,
+      "order": 256
+    },
+    {
+      "box": [
+        88.94172,
+        384.7083200000001,
+        540.6556079999998,
+        394.75796000000014
+      ],
+      "text": " The tester should be able to explain to business stakeholders how to define testable acceptance",
+      "page": 10,
+      "id": 257,
+      "order": 257
+    },
+    {
+      "box": [
+        106.93944,
+        396.13244000000014,
+        139.70784,
+        406.0924400000001
+      ],
+      "text": "criteria.",
+      "page": 10,
+      "id": 258,
+      "order": 258
+    },
+    {
+      "box": [
+        88.94172,
+        408.37328000000014,
+        541.1765159999998,
+        418.42292000000015
+      ],
+      "text": " Given a user story, the tester should be able to write acceptance test-driven development test",
+      "page": 10,
+      "id": 259,
+      "order": 259
+    },
+    {
+      "box": [
+        106.93944,
+        419.89700000000016,
+        135.86826,
+        429.85700000000014
+      ],
+      "text": "cases.",
+      "page": 10,
+      "id": 260,
+      "order": 260
+    },
+    {
+      "box": [
+        88.94172,
+        432.13784000000015,
+        541.0569959999998,
+        442.18748000000016
+      ],
+      "text": " For both functional and non-functional behavior, the tester should be able to write test cases using",
+      "page": 10,
+      "id": 261,
+      "order": 261
+    },
+    {
+      "box": [
+        106.93944,
+        443.54204000000016,
+        379.39822800000013,
+        453.50204000000014
+      ],
+      "text": "black box test design techniques based on given user stories.",
+      "page": 10,
+      "id": 262,
+      "order": 262
+    },
+    {
+      "box": [
+        88.94172,
+        455.78288000000015,
+        533.8708559999997,
+        465.83252000000016
+      ],
+      "text": " The tester should be able to perform exploratory testing to support the testing of an Agile project.",
+      "page": 10,
+      "id": 263,
+      "order": 263
+    },
+    {
+      "box": [
+        88.94172,
+        467.9042000000002,
+        540.68748,
+        477.9538400000002
+      ],
+      "text": " The tester should be able to recall different tools available to testers according to their purpose",
+      "page": 10,
+      "id": 264,
+      "order": 264
+    },
+    {
+      "box": [
+        106.93944,
+        479.4279200000002,
+        252.17815199999998,
+        489.3879200000002
+      ],
+      "text": "and to activities in Agile projects.",
+      "page": 10,
+      "id": 265,
+      "order": 265
+    },
+    {
+      "box": [
+        76.58136,
+        720.1810400000002,
+        530.073108,
+        730.1410400000002
+      ],
+      "text": "Version 2014 Page 11 of 12 May 31, 2014",
+      "page": 10,
+      "id": 266,
+      "order": 266
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 10,
+      "id": 267,
+      "order": 267
+    },
+    {
+      "box": [
+        447.91,
+        39.74171999999999,
+        502.91068,
+        49.70172000000002
+      ],
+      "text": "International",
+      "page": 11,
+      "id": 268,
+      "order": 268
+    },
+    {
+      "box": [
+        74.424,
+        42.92400000000009,
+        124.45200000000001,
+        54.92400000000009
+      ],
+      "text": "Overview",
+      "page": 11,
+      "id": 269,
+      "order": 269
+    },
+    {
+      "box": [
+        437.95,
+        51.26171999999997,
+        512.9189200000001,
+        61.221720000000005
+      ],
+      "text": "Software Testing",
+      "page": 11,
+      "id": 270,
+      "order": 270
+    },
+    {
+      "box": [
+        74.424,
+        59.541720000000055,
+        262.29632000000004,
+        69.53160000000003
+      ],
+      "text": "Foundation Level Extension – Agile Tester",
+      "page": 11,
+      "id": 271,
+      "order": 271
+    },
+    {
+      "box": [
+        430.75,
+        62.78171999999995,
+        520.0712800000001,
+        72.74171999999999
+      ],
+      "text": "Qualifications Board",
+      "page": 11,
+      "id": 272,
+      "order": 272
+    },
+    {
+      "box": [
+        70.944,
+        124.76371999999992,
+        179.77524000000003,
+        140.72371999999996
+      ],
+      "text": "4. References",
+      "page": 11,
+      "id": 273,
+      "order": 273
+    },
+    {
+      "box": [
+        70.944,
+        172.96627999999998,
+        172.64976000000004,
+        187.00628000000006
+      ],
+      "text": "4.1 Trademarks",
+      "page": 11,
+      "id": 274,
+      "order": 274
+    },
+    {
+      "box": [
+        70.944,
+        196.00171999999998,
+        433.45812000000006,
+        205.96172
+      ],
+      "text": "The following registered trademarks and service marks are used in this document:",
+      "page": 11,
+      "id": 275,
+      "order": 275
+    },
+    {
+      "box": [
+        70.944,
+        219.76135999999997,
+        474.27422000000007,
+        231.99716
+      ],
+      "text": "ISTQB® is a registered trademark of the International Software Testing Qualifications Board",
+      "page": 11,
+      "id": 276,
+      "order": 276
+    },
+    {
+      "box": [
+        70.944,
+        259.0362799999999,
+        263.85500400000006,
+        273.07628
+      ],
+      "text": "4.2 Documents and Web Sites",
+      "page": 11,
+      "id": 277,
+      "order": 277
+    },
+    {
+      "box": [
+        76.344,
+        281.95172,
+        241.5962,
+        291.91172
+      ],
+      "text": "Identifier Reference",
+      "page": 11,
+      "id": 278,
+      "order": 278
+    },
+    {
+      "box": [
+        76.344,
+        296.59172,
+        517.7073200000001,
+        306.55172
+      ],
+      "text": "[ISTQB-Web] Web site of the International Software Testing Qualifications Board. Refer",
+      "page": 11,
+      "id": 279,
+      "order": 279
+    },
+    {
+      "box": [
+        193.34,
+        308.11172,
+        516.17888,
+        318.07171999999997
+      ],
+      "text": "to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org)",
+      "page": 11,
+      "id": 280,
+      "order": 280
+    },
+    {
+      "box": [
+        76.584,
+        720.1218,
+        530.0757480000001,
+        730.0818
+      ],
+      "text": "Version 2014 Page 12 of 12 May 31, 2014",
+      "page": 11,
+      "id": 281,
+      "order": 281
+    },
+    {
+      "box": [
+        76.584,
+        737.562,
+        217.6260000000001,
+        743.562
+      ],
+      "text": "© International Software Testing Qualifications Board",
+      "page": 11,
+      "id": 282,
+      "order": 282
+    }
+  ]
+}

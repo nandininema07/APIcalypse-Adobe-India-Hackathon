@@ -32,13 +32,17 @@ Key Highlights:
 
 ```
 PDF-Outline-Extractor
-├── pdf_input/        # Upload your PDFs here
-├── pdf_output/       # Output JSONs will be saved here
-├── json_input/       # Intermediate metadata and inputs for the model
-├── src/              # All source files for preprocessing and inference
-│   ├── model/
-│   ├── pipeline/
-│   └── utils/
+├── input/        # Upload your PDFs here
+├── output/       # Output JSONs will be saved here
+├── src/          # All source files for preprocessing and inference
+│   ├── compressed_inputs/             # Compressed pdf files for large inputs
+│   ├── json_input/                    # Intermediate metadata and inputs for the model     
+│   ├── model predictions/
+│   ├── models/
+│   ├── pretrained_models_bert_tiny/
+│   ├── compress_pdf.py
+│   ├── model.py
+│   └── preprocessing.py       
 ├── Dockerfile        # Docker image definition
 ├── requirements.txt
 └── README.md

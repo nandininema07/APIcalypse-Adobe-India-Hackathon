@@ -1,0 +1,427 @@
+[
+  {
+    "id": 3,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7012801766395569,
+    "text": "Fuel Blend Properties Prediction Challenge",
+    "gt_text": "",
+    "box": [
+      72.00000000000006,
+      425.96232000000003,
+      181.02614400000004,
+      445.88232000000005
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 4,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7915480732917786,
+    "text": "Introduction",
+    "gt_text": "",
+    "box": [
+      72.0,
+      450.24,
+      540.00000012,
+      462.24
+    ],
+    "page": 0,
+    "heading_level": "h1"
+  },
+  {
+    "id": 5,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7652823328971863,
+    "text": "Welcome to the sixth edition of the Shell.ai Hackathon for Sustainable and Affordable",
+    "gt_text": "",
+    "box": [
+      72.0,
+      466.32,
+      540.0119996399998,
+      478.32
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 6,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7283377051353455,
+    "text": "Energy. Shell.ai Hackathon brings together brilliant minds passionate about digital solutions",
+    "gt_text": "",
+    "box": [
+      72.0,
+      482.64,
+      540.0,
+      494.64
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 7,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7025752663612366,
+    "text": "and AI, to tackle real energy challenges and help build a lower-carbon world where",
+    "gt_text": "",
+    "box": [
+      71.99999999999994,
+      498.71999999999997,
+      539.9939999999999,
+      510.71999999999997
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 9,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7830039858818054,
+    "text": "the digital challenges around the energy transition: windfarm layout optimisation (2020),",
+    "gt_text": "",
+    "box": [
+      71.98799999999989,
+      531.1199999999999,
+      539.9807999999999,
+      543.1199999999999
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 10,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.79179447889328,
+    "text": "irradiance forecasting for solar power generation (2021), optimal placement of electric",
+    "gt_text": "",
+    "box": [
+      71.97599999999994,
+      547.4399999999999,
+      539.9832011039999,
+      559.4399999999999
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 11,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7069053649902344,
+    "text": "vehicle (EV) charging stations (2022), supply chain optimisation for biorefineries (2023),",
+    "gt_text": "",
+    "box": [
+      71.97599999999994,
+      563.52,
+      539.9808009599999,
+      575.52
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 14,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.833351194858551,
+    "text": "Challenge",
+    "gt_text": "",
+    "box": [
+      72.0,
+      649.92,
+      540.0012,
+      661.92
+    ],
+    "page": 0,
+    "heading_level": "h1"
+  },
+  {
+    "id": 16,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7453815340995789,
+    "text": "aviation. For example, use of fuels like Sustainable Aviation Fuels (SAFs), renewable diesel,",
+    "gt_text": "",
+    "box": [
+      72.0,
+      682.3199999999999,
+      540.0048054000002,
+      694.3199999999999
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 19,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7822078466415405,
+    "text": "ecosystem presents a challenge. Crafting the optimal fuel blend – mixing various sustainable",
+    "gt_text": "",
+    "box": [
+      71.988,
+      92.40000000000009,
+      539.9879999999999,
+      104.40000000000009
+    ],
+    "page": 1,
+    "heading_level": "title"
+  },
+  {
+    "id": 21,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7185373902320862,
+    "text": "intricate science. It demands a delicate balancing act: ensuring adherence to rigorous safety",
+    "gt_text": "",
+    "box": [
+      71.98800000000006,
+      124.80000000000018,
+      539.988,
+      136.80000000000018
+    ],
+    "page": 1,
+    "heading_level": "title"
+  },
+  {
+    "id": 25,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7181415557861328,
+    "text": "challenge is to develop models capable of predicting the final properties of complex fuel",
+    "gt_text": "",
+    "box": [
+      71.98800000000004,
+      201.60000000000036,
+      539.9796000480001,
+      213.60000000000036
+    ],
+    "page": 1,
+    "heading_level": "title"
+  },
+  {
+    "id": 27,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7317920327186584,
+    "text": "with complex interactions, you will decipher the hidden relationships that dictate fuel",
+    "gt_text": "",
+    "box": [
+      71.97600000000011,
+      234.00000000000045,
+      539.9820021600001,
+      246.00000000000045
+    ],
+    "page": 1,
+    "heading_level": "title"
+  },
+  {
+    "id": 29,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7133098244667053,
+    "text": "engineer powerful predictive tools that can guide the industry in formulating the next",
+    "gt_text": "",
+    "box": [
+      71.97600000000011,
+      266.40000000000055,
+      539.97,
+      278.40000000000055
+    ],
+    "page": 1,
+    "heading_level": "title"
+  },
+  {
+    "id": 32,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8841253519058228,
+    "text": "Data",
+    "gt_text": "",
+    "box": [
+      72.0,
+      352.8,
+      540.0144,
+      364.8
+    ],
+    "page": 1,
+    "heading_level": "h1"
+  },
+  {
+    "id": 33,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7062069177627563,
+    "text": "To tackle this challenge, you will be equipped with a dataset reflecting the complexities of",
+    "gt_text": "",
+    "box": [
+      72.0,
+      368.88,
+      347.4,
+      380.88
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 34,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.797356128692627,
+    "text": "fuel blending. At a high level, this dataset will feature:",
+    "gt_text": "",
+    "box": [
+      90.0,
+      385.18820999999997,
+      540.002200288,
+      397.20000000000005
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 37,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8770521283149719,
+    "text": "2. Blend Composition Data: A significant number of diverse fuel blend examples,",
+    "gt_text": "",
+    "box": [
+      107.9998,
+      433.68,
+      385.5238,
+      445.68
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 39,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8743636608123779,
+    "text": "3. Resultant Blend Properties: The corresponding key characteristics/properties",
+    "gt_text": "",
+    "box": [
+      107.99979999999996,
+      466.08,
+      358.67979999999994,
+      478.08
+    ],
+    "page": 1,
+    "heading_level": "h2"
+  },
+  {
+    "id": 40,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7694414258003235,
+    "text": "measured or calculated for each of these blends.",
+    "gt_text": "",
+    "box": [
+      71.99979999999994,
+      482.4,
+      540.0070028800002,
+      494.4
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 43,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7624304890632629,
+    "text": "Further, more granular details regarding the specific components, the full list of properties,",
+    "gt_text": "",
+    "box": [
+      71.98320000000001,
+      530.88,
+      539.988,
+      542.88
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 47,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8476543426513672,
+    "text": "learning. We do not expect you to have any prior knowledge in fuel blending. To create a",
+    "gt_text": "",
+    "box": [
+      71.99520000000004,
+      595.6800000000001,
+      522.8112,
+      607.6800000000001
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 48,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8670711517333984,
+    "text": "level playing field, we will not provide the exact property names and scale the values to",
+    "gt_text": "",
+    "box": [
+      71.99520000000001,
+      612.0,
+      215.1072,
+      624.0
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 49,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7834916710853577,
+    "text": "make it impossible to guess.",
+    "gt_text": "",
+    "box": [
+      71.9952,
+      640.0799999999999,
+      474.7632,
+      652.0799999999999
+    ],
+    "page": 1,
+    "heading_level": "other"
+  }
+]

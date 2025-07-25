@@ -1,0 +1,6071 @@
+[
+  {
+    "id": 3,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.8790833353996277,
+    "text": "RFP: Request for Proposal",
+    "gt_text": "",
+    "box": [
+      131.8006,
+      251.18399999999997,
+      476.8989999999997,
+      275.18399999999997
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 5,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.8345030546188354,
+    "text": "the Business Plan for the Ontario",
+    "gt_text": "",
+    "box": [
+      131.8006,
+      306.38400000000007,
+      257.0182000000001,
+      330.38400000000007
+    ],
+    "page": 0,
+    "heading_level": "title"
+  },
+  {
+    "id": 14,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.8294079303741455,
+    "text": "Summary",
+    "gt_text": "",
+    "box": [
+      96.0406,
+      229.84943999999996,
+      522.717832,
+      240.88943999999992
+    ],
+    "page": 1,
+    "heading_level": "h2"
+  },
+  {
+    "id": 16,
+    "label": "title",
+    "parent_id": 0,
+    "order": 0,
+    "confidence": 0.7257490158081055,
+    "text": "present a proposal for developing the business plan for the Ontario Digital Library (ODL).",
+    "gt_text": "",
+    "box": [
+      96.04059999999998,
+      255.16415999999992,
+      522.3755920000001,
+      266.2041599999999
+    ],
+    "page": 1,
+    "heading_level": "title"
+  },
+  {
+    "id": 18,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7694033980369568,
+    "text": "assist people as they learn, work, and enhance their quality of life. The business plan to be",
+    "gt_text": "",
+    "box": [
+      96.04059999999998,
+      280.4788799999999,
+      337.09789599999976,
+      291.51887999999985
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 23,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8837404847145081,
+    "text": "revenues, etc.",
+    "gt_text": "",
+    "box": [
+      132.042,
+      355.70545999999996,
+      390.85051199999975,
+      366.7454599999999
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 26,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7074258923530579,
+    "text": "how the ODL will operate and be managed following the implementation",
+    "gt_text": "",
+    "box": [
+      132.042,
+      393.6168199999999,
+      522.3623040000003,
+      404.65681999999987
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 27,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.830231785774231,
+    "text": "who will be involved, and what their role/responsibility will be, for both the",
+    "gt_text": "",
+    "box": [
+      132.63816,
+      406.3348999999999,
+      312.76128000000006,
+      417.37489999999985
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 28,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8013431429862976,
+    "text": "implementation and operational stages",
+    "gt_text": "",
+    "box": [
+      132.042,
+      418.93153999999987,
+      374.5665120000001,
+      429.97153999999983
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 31,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.9074775576591492,
+    "text": "later than September 30, 2003",
+    "gt_text": "",
+    "box": [
+      96.04060000000001,
+      481.5724799999999,
+      138.72013600000002,
+      492.6124799999999
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 32,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8352177739143372,
+    "text": "Timeline:",
+    "gt_text": "",
+    "box": [
+      96.04060000000001,
+      506.16959999999995,
+      522.4241679999999,
+      517.2095999999999
+    ],
+    "page": 1,
+    "heading_level": "h2"
+  },
+  {
+    "id": 33,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7096686363220215,
+    "text": "Those firms/consultants intended to submit a proposal to this RFP must indicate their",
+    "gt_text": "",
+    "box": [
+      96.04060000000001,
+      517.1084599999999,
+      490.06972,
+      529.96944
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 37,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.736466109752655,
+    "text": "St., Suite 303, Toronto, ON M5C 1M3. Proposals must be received by Noon on Monday,",
+    "gt_text": "",
+    "box": [
+      96.03964000000002,
+      581.44608,
+      166.53776800000003,
+      592.48608
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 38,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8757253289222717,
+    "text": "April 21, 2003.",
+    "gt_text": "",
+    "box": [
+      96.03964000000002,
+      606.16464,
+      522.1604560000003,
+      617.20464
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 39,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7325626015663147,
+    "text": "Those proposals that are short-listed will be invited to discuss their proposal during the week",
+    "gt_text": "",
+    "box": [
+      96.03964000000002,
+      618.76128,
+      522.2300079999997,
+      629.80128
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 40,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8443806767463684,
+    "text": "of April 28, 2003. No presentation will be expected. Firms or consultants invited to an",
+    "gt_text": "",
+    "box": [
+      96.03964,
+      631.47936,
+      522.4519119999991,
+      642.51936
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 41,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7052406668663025,
+    "text": "interview will be expected to discuss the project and their approach with the selection",
+    "gt_text": "",
+    "box": [
+      96.03964,
+      644.076,
+      147.5854,
+      655.116
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 42,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.869314968585968,
+    "text": "committee.",
+    "gt_text": "",
+    "box": [
+      96.03963999999999,
+      668.67312,
+      522.4243119999999,
+      679.71312
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 43,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8231185078620911,
+    "text": "Contracts with the firm/consultant will be signed the week of May 5, 2003 with the work to",
+    "gt_text": "",
+    "box": [
+      96.05067999999994,
+      681.3912,
+      293.01531999999986,
+      692.4312
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 44,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8259446620941162,
+    "text": "commence as soon as possible thereafter.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 1,
+    "heading_level": "other"
+  },
+  {
+    "id": 46,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7418112754821777,
+    "text": "Please note that we reserve the right not to select any of the submitted proposals and may",
+    "gt_text": "",
+    "box": [
+      96.0406,
+      86.08608000000004,
+      335.6273679999998,
+      97.12608
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 47,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8309162259101868,
+    "text": "seek further response to these Terms of Reference.",
+    "gt_text": "",
+    "box": [
+      96.0406,
+      110.80464000000006,
+      522.0973839999999,
+      121.84464000000003
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 48,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.791517436504364,
+    "text": "If you require further information or have any questions, please contact Michael Ridley by e-",
+    "gt_text": "",
+    "box": [
+      96.0406,
+      123.40128000000004,
+      522.277336,
+      134.44128
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 50,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8318822979927063,
+    "text": "responses will be shared with those who have indicated that they will be submitting a",
+    "gt_text": "",
+    "box": [
+      96.01852000000002,
+      148.716,
+      522.2000559999997,
+      159.75599999999997
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 51,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7948847413063049,
+    "text": "proposal. Please note, that firms/consultants who have not indicated in an e-mail to Michael",
+    "gt_text": "",
+    "box": [
+      96.01852000000002,
+      159.50856,
+      522.1835919999996,
+      172.36943999999994
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 52,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7150385975837708,
+    "text": "Ridley by April 11th that they will be submitting a proposal will not receive any further",
+    "gt_text": "",
+    "box": [
+      96.03628000000002,
+      174.04751999999996,
+      256.4618320000001,
+      185.08751999999993
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 53,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8451520204544067,
+    "text": "information or question responses.",
+    "gt_text": "",
+    "box": [
+      96.0406,
+      211.06799999999998,
+      170.53419999999997,
+      223.06799999999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 54,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8568795323371887,
+    "text": "Background",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      240.40944000000002,
+      522.423303999999,
+      251.44943999999998
+    ],
+    "page": 2,
+    "heading_level": "h2"
+  },
+  {
+    "id": 56,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8302454948425293,
+    "text": "has acted as a catalyst, bringing together the stakeholders needed to create the Ontario",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      265.60272,
+      522.3614800000001,
+      276.64271999999994
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 59,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8076275587081909,
+    "text": "Libraries that serve very different clientele recognize that by working together they can create",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      315.63599999999997,
+      522.2124400000001,
+      326.67599999999993
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 61,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8387246131896973,
+    "text": "able to explore a topic at school, use the same child-safe resources after school (either at",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      340.8292799999999,
+      522.3084879999999,
+      351.8692799999999
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 63,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8017786741256714,
+    "text": "electronic resources that are still available and then, after graduation, continue to use these",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      366.1439999999999,
+      274.09175200000004,
+      377.18399999999986
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 64,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7626075148582458,
+    "text": "skills and resources at work or at home.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      390.8625599999999,
+      522.2720560000001,
+      401.9025599999999
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 65,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7046793699264526,
+    "text": "We are moving into a period of convergence. With convergence we no longer have to license",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      403.4591999999999,
+      522.4674639999993,
+      414.49919999999986
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 66,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.737216591835022,
+    "text": "commercial products as individual libraries or institutions. We can work together to spend our",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      416.0558399999999,
+      522.1373679999994,
+      427.09583999999984
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 67,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.8243463635444641,
+    "text": "money wisely. The provincial government has made this possible by working hard to provide",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      428.77391999999986,
+      522.4906479999993,
+      439.8139199999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 68,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7379503846168518,
+    "text": "all Ontarians with a stable, high-speed communications infrastructure. While there is still a",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      441.37055999999984,
+      522.522663999999,
+      452.4105599999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 69,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7104870080947876,
+    "text": "great deal of work needed to improve this infrastructure, libraries are beginning to plan how",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      454.0886399999998,
+      522.4685680000002,
+      465.1286399999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 70,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7393705248832703,
+    "text": "best to exploit communications technology. We can reduce barriers to access and create the",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      466.6852799999998,
+      375.1243119999999,
+      477.72527999999977
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 71,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7971602082252502,
+    "text": "content infrastructure needed to support a knowledge society.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      491.2823999999998,
+      506.9573680000001,
+      502.3223999999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 73,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 1,
+    "confidence": 0.7210947871208191,
+    "text": "envision and attain Ontario’s economic goal prepared by the Ontario Jobs and Investment",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      516.5971199999998,
+      520.8578319999993,
+      527.6371199999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 74,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8312740325927734,
+    "text": "Board. The OJIB strategic plan recommends an electronic library to “connect students to new",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      529.3151999999998,
+      516.374488,
+      540.3551999999997
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 75,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7398538589477539,
+    "text": "workplaces, new sources of information and applied learning opportunities”. The ODL will do",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      541.9118399999998,
+      509.4833200000004,
+      552.9518399999997
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 76,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8237810134887695,
+    "text": "that and much more. The ODL will connect students to electronic information, and will also",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      554.5084799999997,
+      520.587352,
+      565.5484799999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 77,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8908068537712097,
+    "text": "leverage this investment to help connect all citizens to the electronic information they need as",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      567.2265599999998,
+      410.7448720000005,
+      578.2665599999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 78,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.914919912815094,
+    "text": "they make decisions, solve problems and enhance their quality of life.",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      592.5523199999998,
+      495.1335279999998,
+      603.5923199999997
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 79,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.760485827922821,
+    "text": "Libraries have long been a key delivery point for public services. The ODL will allow that",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      605.1489599999998,
+      494.6058160000001,
+      616.1889599999997
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 80,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.790984034538269,
+    "text": "delivery point to move closer to citizens, into the smallest of libraries and even into living",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      617.8670399999997,
+      122.51034400000003,
+      628.9070399999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 81,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.883967936038971,
+    "text": "rooms.",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      643.0713599999998,
+      519.438088,
+      654.1113599999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 82,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7789233922958374,
+    "text": "Libraries have a long tradition of using a practical, consultative approach to solving problems,",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      655.7894399999998,
+      484.97341599999965,
+      666.8294399999997
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 83,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7698407173156738,
+    "text": "and of learning from others. The ODL is a very practical solution to various problems.",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      681.1151999999997,
+      497.35146399999957,
+      692.1551999999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 84,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.708700954914093,
+    "text": "Jurisdiction-wide digital libraries are very practical and very real. The ODL we propose is",
+    "gt_text": "",
+    "box": [
+      90.04060000000004,
+      693.7118399999997,
+      494.4479439999996,
+      704.7518399999998
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 86,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7509778141975403,
+    "text": "digital libraries. We can learn from their experiences. For example, The Alberta Library (TAL)",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 2,
+    "heading_level": "other"
+  },
+  {
+    "id": 89,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7691625356674194,
+    "text": "with its members to promote universal access to materials and resources in more than 250",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      98.71584000000007,
+      506.4737040000001,
+      109.75584000000003
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 90,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7641324400901794,
+    "text": "public, post-secondary, special, government and regional libraries. Unlike ODL, TAL does",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      111.31248000000005,
+      495.40831199999985,
+      122.35248000000001
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 91,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7993483543395996,
+    "text": "not include elementary or secondary schools. However, the timeline and funding we are",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      124.03056000000004,
+      517.384536,
+      135.07056
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 93,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7833268642425537,
+    "text": "years. TAL’s implementation plan was supported by 8 million dollars in provincially shared",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      149.22384,
+      509.13544800000005,
+      160.26383999999996
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 94,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8818397521972656,
+    "text": "funding, spread over three years, later revised to 15 million dollars over 4 years. Not only is",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      161.94191999999998,
+      484.2612239999996,
+      172.98191999999995
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 95,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7419827580451965,
+    "text": "Alberta’s population 30% of Ontario’s, TAL does not include elementary or secondary",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      174.53855999999996,
+      494.57258399999984,
+      185.57855999999992
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 96,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7888545989990234,
+    "text": "schools as partners; it has 250 member libraries. ODL envisions universal access for all",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      187.25663999999995,
+      517.4110319999998,
+      198.2966399999999
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 97,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8018537163734436,
+    "text": "10,0,0 Ontarians, with more than 50 Ontario libraries as partners. Although ODL can",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      199.85327999999993,
+      518.4620399999993,
+      210.8932799999999
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 98,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7506644129753113,
+    "text": "learn from TAL’s practices, the scope of planning and implementing ODL is much larger than",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      212.4499199999999,
+      112.52786400000001,
+      223.48991999999987
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 99,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8950005173683167,
+    "text": "TAL.",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      237.77567999999985,
+      522.4209839999999,
+      248.81567999999982
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 103,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7394779920578003,
+    "text": "libraries, school libraries, college and university libraries and special libraries. The ODL",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      288.4051199999998,
+      522.383448,
+      299.44511999999975
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 105,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7166946530342102,
+    "text": "there is mutual benefit and to support the common mandates of local libraries.",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      325.7203199999998,
+      345.11195999999995,
+      336.76031999999975
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 106,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8513138294219971,
+    "text": "The principles which will define and guide the ODL are:",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      350.3174399999998,
+      261.9178320000001,
+      361.35743999999977
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 107,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7496289610862732,
+    "text": "Equitable access for all Ontarians:",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      375.03599999999983,
+      522.2973360000003,
+      386.0759999999998
+    ],
+    "page": 3,
+    "heading_level": "h3"
+  },
+  {
+    "id": 108,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7895911931991577,
+    "text": "We will bring consistent, high-quality electronic resources and services to 10 million",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      387.6326399999998,
+      180.14234400000004,
+      398.6726399999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 109,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7662941217422485,
+    "text": "Ontario citizens",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      412.2297599999998,
+      522.1681679999998,
+      423.2697599999998
+    ],
+    "page": 3,
+    "heading_level": "h3"
+  },
+  {
+    "id": 110,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.876143217086792,
+    "text": "We will eliminate barriers to the access to information and create more consistent",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      424.9478399999998,
+      227.53706399999993,
+      435.9878399999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 111,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8019110560417175,
+    "text": "services for library clients.",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      449.54495999999983,
+      310.29290399999985,
+      460.5849599999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 112,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8704606294631958,
+    "text": "Shared decision-making and accountability:",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      474.26351999999986,
+      522.4110479999999,
+      485.3035199999998
+    ],
+    "page": 3,
+    "heading_level": "h3"
+  },
+  {
+    "id": 113,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7764679789543152,
+    "text": "We will facilitate consensus among members regarding ODL’s portfolio of electronic",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      486.86015999999984,
+      207.64850400000003,
+      497.9001599999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 114,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9207645654678345,
+    "text": "licenses and services",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      511.45727999999986,
+      522.413256,
+      522.4972799999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 115,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7888867259025574,
+    "text": "We will balance the interests and realities of small and large as well as rich and poor",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      524.1753599999998,
+      242.35715999999996,
+      535.2153599999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 116,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.9245875477790833,
+    "text": "communities and institutions.",
+    "gt_text": "",
+    "box": [
+      90.03276000000001,
+      548.7724799999999,
+      239.86101600000003,
+      559.8124799999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 117,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.825753927230835,
+    "text": "Shared governance structure:",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      573.4910399999999,
+      432.30808799999994,
+      584.5310399999998
+    ],
+    "page": 3,
+    "heading_level": "h3"
+  },
+  {
+    "id": 118,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.9152493476867676,
+    "text": "We will share decision-making in order to enable the people we serve.",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      598.0881599999998,
+      431.8896720000003,
+      609.1281599999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 120,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.9160689115524292,
+    "text": "Shared funding:",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      647.4038399999998,
+      522.4618319999997,
+      658.4438399999998
+    ],
+    "page": 3,
+    "heading_level": "h3"
+  },
+  {
+    "id": 121,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8470856547355652,
+    "text": "We will leverage provincial, institutional, and local dollars to realize economies of scale",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      660.0004799999998,
+      314.25516,
+      671.0404799999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 122,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.7693403363227844,
+    "text": "and put Ontario dollars to work for everyone.",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      684.7190399999997,
+      522.4541039999998,
+      695.7590399999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 123,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8806831240653992,
+    "text": "We will be willing to pool talents and dollars in order to provide common services that are",
+    "gt_text": "",
+    "box": [
+      108.02796000000001,
+      697.3156799999998,
+      438.5434800000005,
+      708.3556799999998
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 124,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8115536570549011,
+    "text": "truly greater than those that can be maintained by individual institutions.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 3,
+    "heading_level": "other"
+  },
+  {
+    "id": 126,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.892363429069519,
+    "text": "Local points of entry:",
+    "gt_text": "",
+    "box": [
+      114.00066000000001,
+      98.71583999999996,
+      489.4103399999999,
+      109.75583999999992
+    ],
+    "page": 4,
+    "heading_level": "h3"
+  },
+  {
+    "id": 127,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.9050469994544983,
+    "text": "We will provide the licenses, infrastructure, services and support that enable local",
+    "gt_text": "",
+    "box": [
+      114.00066000000001,
+      111.31247999999994,
+      498.8517480000004,
+      122.3524799999999
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 128,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8340885639190674,
+    "text": "libraries to provide exceptional services to their clientele. ODL will focus on support,",
+    "gt_text": "",
+    "box": [
+      114.00066000000001,
+      124.03055999999992,
+      333.88544399999995,
+      135.0705599999999
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 129,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7357321977615356,
+    "text": "providing the underpinning, not overshadowing.",
+    "gt_text": "",
+    "box": [
+      89.99970000000002,
+      149.23487999999998,
+      286.49624400000016,
+      160.27487999999994
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 131,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.917511522769928,
+    "text": "Access:",
+    "gt_text": "",
+    "box": [
+      107.99490000000002,
+      187.2787199999999,
+      431.3553959999996,
+      198.31871999999987
+    ],
+    "page": 4,
+    "heading_level": "h3"
+  },
+  {
+    "id": 134,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7307558059692383,
+    "text": "to digital government information",
+    "gt_text": "",
+    "box": [
+      107.99490000000002,
+      225.19007999999985,
+      229.16773199999997,
+      236.23011999999994
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 136,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8733555674552917,
+    "text": "Guidance and Advice:",
+    "gt_text": "",
+    "box": [
+      107.9949,
+      263.11248,
+      208.93030799999997,
+      274.15247999999997
+    ],
+    "page": 4,
+    "heading_level": "h3"
+  },
+  {
+    "id": 137,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8908510208129883,
+    "text": "to support e-learning",
+    "gt_text": "",
+    "box": [
+      107.9949,
+      275.83056,
+      448.6374120000005,
+      286.87055999999995
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 138,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8785101771354675,
+    "text": "to support citizens, in real-time, as they try to use electronic resources",
+    "gt_text": "",
+    "box": [
+      107.9949,
+      288.42719999999997,
+      296.36490000000015,
+      299.46719999999993
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 139,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8760190010070801,
+    "text": "to assist citizens as they use web-links",
+    "gt_text": "",
+    "box": [
+      89.9997,
+      301.02383999999995,
+      137.105172,
+      312.0638399999999
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 140,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8709774017333984,
+    "text": "Training:",
+    "gt_text": "",
+    "box": [
+      107.9949,
+      313.74191999999994,
+      195.43832400000005,
+      324.7819199999999
+    ],
+    "page": 4,
+    "heading_level": "h3"
+  },
+  {
+    "id": 141,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.7694126963615417,
+    "text": "for library workers",
+    "gt_text": "",
+    "box": [
+      107.9949,
+      326.3385599999999,
+      210.85347600000003,
+      337.3785599999999
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 142,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7460169196128845,
+    "text": "for the general public",
+    "gt_text": "",
+    "box": [
+      89.9997,
+      351.6643199999999,
+      274.58408399999996,
+      362.7043199999999
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 143,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7394366264343262,
+    "text": "Provincial Purchasing & Licensing:",
+    "gt_text": "",
+    "box": [
+      107.9949,
+      364.2609599999999,
+      422.1601799999996,
+      375.30095999999986
+    ],
+    "page": 4,
+    "heading_level": "h3"
+  },
+  {
+    "id": 144,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.713516116142273,
+    "text": "of electronic content on a consortia basis for all member libraries",
+    "gt_text": "",
+    "box": [
+      89.9997,
+      389.5867199999999,
+      212.839572,
+      400.62671999999986
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 145,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.804513692855835,
+    "text": "Technological Support:",
+    "gt_text": "",
+    "box": [
+      107.9949,
+      402.3047999999999,
+      476.60835600000075,
+      413.34479999999985
+    ],
+    "page": 4,
+    "heading_level": "h3"
+  },
+  {
+    "id": 149,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 2,
+    "confidence": 0.7512610554695129,
+    "text": "What could the ODL really mean?",
+    "gt_text": "",
+    "box": [
+      89.99970000000002,
+      495.05184,
+      283.50882,
+      506.09184
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 152,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8295360803604126,
+    "text": "resources for their personal, educational and professional needs;",
+    "gt_text": "",
+    "box": [
+      162.00258000000002,
+      533.2060799999999,
+      518.8407719999998,
+      544.24608
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 153,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.823221743106842,
+    "text": "Access to credible, high-quality, user-friendly electronic services through their",
+    "gt_text": "",
+    "box": [
+      162.00258000000002,
+      545.80268,
+      345.74684,
+      556.84272
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 154,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8961734175682068,
+    "text": "community, school, or academic library;",
+    "gt_text": "",
+    "box": [
+      162.0026,
+      558.39932,
+      515.6524399999993,
+      569.43932
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 155,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8383827805519104,
+    "text": "Confidence that the electronic services and sources they – and their children",
+    "gt_text": "",
+    "box": [
+      162.0026,
+      571.1174,
+      469.374968,
+      582.15742
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 156,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9074399471282959,
+    "text": "– are using are safe, valid, and bringing them both global and local",
+    "gt_text": "",
+    "box": [
+      162.0026,
+      583.71406,
+      223.86634400000003,
+      594.75406
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 157,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.9120349884033203,
+    "text": "perspectives;",
+    "gt_text": "",
+    "box": [
+      162.0026,
+      596.43214,
+      522.2786279999998,
+      607.47216
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 158,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7926630973815918,
+    "text": "Electronic information and tools that enhance job skills and the learning",
+    "gt_text": "",
+    "box": [
+      162.00258000000002,
+      609.0288,
+      213.618996,
+      620.0688
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 159,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8842622637748718,
+    "text": "experience",
+    "gt_text": "",
+    "box": [
+      89.99970000000003,
+      633.5044800000001,
+      288.9228360000002,
+      644.54448
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 160,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7444308400154114,
+    "text": "For each Ontario student it could mean:",
+    "gt_text": "",
+    "box": [
+      162.00258000000002,
+      646.344,
+      504.3916200000004,
+      657.384
+    ],
+    "page": 4,
+    "heading_level": "h3"
+  },
+  {
+    "id": 162,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8905735611915588,
+    "text": "resources and services",
+    "gt_text": "",
+    "box": [
+      162.00258000000002,
+      671.65872,
+      484.82101200000005,
+      682.6987200000001
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 163,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8686501979827881,
+    "text": "Connection to their individual educational environment, whether at the",
+    "gt_text": "",
+    "box": [
+      162.00258000000002,
+      684.2553600000001,
+      384.28416800000014,
+      695.29538
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 164,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8393904566764832,
+    "text": "elementary, secondary or post-secondary levels",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 4,
+    "heading_level": "other"
+  },
+  {
+    "id": 166,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7542642951011658,
+    "text": "Confidence that the services and resources people are using are credible,",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      86.08608000000004,
+      497.18589599999973,
+      97.12608
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 167,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8638995289802551,
+    "text": "available when they need them and adaptable to different learning styles",
+    "gt_text": "",
+    "box": [
+      90.03732000000001,
+      111.29040000000009,
+      282.91715999999997,
+      122.33040000000005
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 170,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.831203281879425,
+    "text": "resources and services that support and enhance their collections, programs",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      149.32320000000004,
+      221.09868000000003,
+      160.3632
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 171,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8877085447311401,
+    "text": "and services",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      162.04128000000003,
+      521.4109679999998,
+      173.08128
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 172,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.709624171257019,
+    "text": "The opportunity to show case their local community, collections, services, and",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      174.63788,
+      204.76831199999998,
+      185.67791999999997
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 173,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8383535146713257,
+    "text": "expertise",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      187.35595999999998,
+      514.3155600000003,
+      198.39595999999995
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 174,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.7805942296981812,
+    "text": "The opportunity to gain from the provincial, collaborative partnership in order",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      199.95259999999996,
+      457.8106319999996,
+      210.99267999999995
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 175,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.7522983551025391,
+    "text": "to provide a seamless gateway to digital resources and services",
+    "gt_text": "",
+    "box": [
+      90.03732000000001,
+      225.15696000000003,
+      303.0629519999999,
+      236.1969999999999
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 178,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8308467268943787,
+    "text": "connecting to portal initiatives.",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      263.18976,
+      497.26207200000044,
+      274.22975999999994
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 181,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8584157824516296,
+    "text": "Improved access and flexibility for all students at all ages and stages",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      301.1011,
+      369.477384,
+      312.14109999999994
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 182,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8591570258140564,
+    "text": "(supports Ontario’s lifelong learning strategy)",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      313.81917999999996,
+      518.3197680000001,
+      324.8591799999999
+    ],
+    "page": 5,
+    "heading_level": "h3"
+  },
+  {
+    "id": 183,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.809454619884491,
+    "text": "The opportunity to address emerging job skills shortages and facilitate school",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      326.41581999999994,
+      475.95155999999986,
+      337.45588
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 184,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.7737501859664917,
+    "text": "to work and job to job transitions with the necessary information and",
+    "gt_text": "",
+    "box": [
+      162.0402,
+      339.13396,
+      300.9234,
+      350.17395999999997
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 185,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8416248559951782,
+    "text": "knowledge supports and tools",
+    "gt_text": "",
+    "box": [
+      90.03732000000001,
+      364.33824000000004,
+      522.5889359999996,
+      375.37827999999996
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 187,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8621927499771118,
+    "text": "by a voting membership. The Board will include representatives from all stakeholders. We",
+    "gt_text": "",
+    "box": [
+      90.04836000000002,
+      389.65296,
+      497.95428000000015,
+      400.69295999999997
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 189,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7855506539344788,
+    "text": "More information regarding the envisioned phasing, funding and resources required for the",
+    "gt_text": "",
+    "box": [
+      90.04836000000002,
+      426.96816,
+      263.12575200000003,
+      438.00816
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 191,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.789415717124939,
+    "text": "The Business Plan to be Developed",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      504.88934,
+      518.3903919999995,
+      515.9293399999999
+    ],
+    "page": 5,
+    "heading_level": "h2"
+  },
+  {
+    "id": 193,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.749735951423645,
+    "text": "that documents and clearly communicates the ODL’s services, funding and governance",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      530.0826199999999,
+      507.4365039999998,
+      541.12262
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 194,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8217121362686157,
+    "text": "structures, as well as implementation plans for 2004-2005, and operational plans for 2005-",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      542.8007,
+      501.2761839999996,
+      553.8407
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 195,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7568841576576233,
+    "text": "2007. The planning process must also secure the full commitment of all stakeholders, as",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      555.39734,
+      276.3935920000001,
+      566.43734
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 196,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.8153795003890991,
+    "text": "represented on the Steering Committee.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      579.51974,
+      293.6148879999999,
+      590.5597399999999
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 197,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8290318250656128,
+    "text": "Specifically, the business plan must include:",
+    "gt_text": "",
+    "box": [
+      132.03676,
+      604.8455,
+      391.22284000000036,
+      615.8855
+    ],
+    "page": 5,
+    "heading_level": "h3"
+  },
+  {
+    "id": 198,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7791293859481812,
+    "text": "how the ODL will be implemented, including the timeline",
+    "gt_text": "",
+    "box": [
+      132.03676,
+      617.56358,
+      316.59575200000006,
+      628.60358
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 199,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7306718826293945,
+    "text": "the financial plan for the implementation",
+    "gt_text": "",
+    "box": [
+      132.03676,
+      630.16022,
+      522.2610159999997,
+      641.20022
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 200,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7467193603515625,
+    "text": "the financial plan for the first 2 operating years, including capital and operating costs,",
+    "gt_text": "",
+    "box": [
+      135.03964,
+      642.75686,
+      200.96172800000002,
+      653.79688
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 201,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9244277477264404,
+    "text": "revenues, etc.",
+    "gt_text": "",
+    "box": [
+      132.03680000000003,
+      655.4749400000001,
+      390.85631199999983,
+      666.51496
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 202,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7481963634490967,
+    "text": "a financial forecast for the succeeding 2 operating years",
+    "gt_text": "",
+    "box": [
+      132.03676,
+      668.07158,
+      378.4937199999997,
+      679.11158
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 203,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.751051127910614,
+    "text": "the services and products to be delivered by the ODL",
+    "gt_text": "",
+    "box": [
+      132.03676,
+      680.78966,
+      465.80797600000017,
+      691.82966
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 204,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8170124888420105,
+    "text": "how the ODL will operate and be managed following the implementation",
+    "gt_text": "",
+    "box": [
+      132.03676,
+      693.3862799999999,
+      522.3670400000004,
+      704.4263
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 205,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9196842312812805,
+    "text": "who will be involved, and what their role/responsibility will be, for both the",
+    "gt_text": "",
+    "box": [
+      130.6016,
+      705.98292,
+      310.72472000000005,
+      717.02292
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 206,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8833491802215576,
+    "text": "implementation and operational stages",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 5,
+    "heading_level": "other"
+  },
+  {
+    "id": 209,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8644365668296814,
+    "text": "the commitment of all stakeholders to their responsibilities",
+    "gt_text": "",
+    "box": [
+      90.04473999999999,
+      111.41183999999998,
+      511.6700679999993,
+      122.45183999999995
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 211,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7180051803588867,
+    "text": "all stakeholders are engaged in creating a synergistic ODL organization. The proposal must",
+    "gt_text": "",
+    "box": [
+      90.04473999999999,
+      136.72655999999995,
+      357.744868,
+      147.7665599999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 212,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7081408500671387,
+    "text": "indicate how this consultative process will be approached.",
+    "gt_text": "",
+    "box": [
+      90.04473999999999,
+      162.0523199999999,
+      493.74883599999987,
+      173.09231999999986
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 215,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7420949935913086,
+    "text": "similar services. Some post-secondary and public libraries, particularly those in large urban",
+    "gt_text": "",
+    "box": [
+      90.04473999999999,
+      199.96367999999984,
+      510.4225479999999,
+      211.0036799999998
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 216,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8152898550033569,
+    "text": "areas, have the facilities, funding and technological infrastructure necessary to service their",
+    "gt_text": "",
+    "box": [
+      90.04473999999999,
+      212.56031999999982,
+      515.3585319999999,
+      223.60031999999978
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 217,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7898005843162537,
+    "text": "patrons with electronic services and resources. Many others, particularly in rural regions, do",
+    "gt_text": "",
+    "box": [
+      90.04473999999999,
+      225.2783999999998,
+      414.81614800000006,
+      236.31839999999977
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 218,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.8793394565582275,
+    "text": "not. The proposal must indicate how these issues will be approached.",
+    "gt_text": "",
+    "box": [
+      96.0406,
+      275.028,
+      162.9742,
+      287.028
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 220,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8766976594924927,
+    "text": "1) A preliminary report will be issued during June 2003.",
+    "gt_text": "",
+    "box": [
+      108.0406,
+      328.84656,
+      522.4512879999997,
+      339.88656
+    ],
+    "page": 6,
+    "heading_level": "h2"
+  },
+  {
+    "id": 221,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 5,
+    "confidence": 0.9285032153129578,
+    "text": "2) It is expected that an Interim Report, suitable for distribution to the broader library",
+    "gt_text": "",
+    "box": [
+      126.0358,
+      341.56464,
+      522.3729039999996,
+      352.60463999999996
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 222,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8718492388725281,
+    "text": "community will be available by August 1, 2003 and that there will be an opportunity",
+    "gt_text": "",
+    "box": [
+      126.0358,
+      354.16128,
+      266.693128,
+      365.20127999999994
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 223,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9033514261245728,
+    "text": "for responses to be evaluated.",
+    "gt_text": "",
+    "box": [
+      108.0406,
+      378.87983999999994,
+      522.4866160000004,
+      389.9198399999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 224,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9129447340965271,
+    "text": "3) The business plan must be completed and approved by the ODL Steering Committee",
+    "gt_text": "",
+    "box": [
+      126.0358,
+      391.4764799999999,
+      285.10232800000006,
+      402.5164799999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 225,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8959077000617981,
+    "text": "no later than September 30, 2003.",
+    "gt_text": "",
+    "box": [
+      99.5206,
+      428.50800000000004,
+      383.62059999999997,
+      440.50800000000004
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 226,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8394074440002441,
+    "text": "Approach and Specific Proposal Requirements",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      457.84944,
+      522.3846639999998,
+      468.88944
+    ],
+    "page": 6,
+    "heading_level": "h2"
+  },
+  {
+    "id": 227,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7577098608016968,
+    "text": "The firm/consultant (or proposed team of consultants) will be expected to work closely with",
+    "gt_text": "",
+    "box": [
+      90.04059999999996,
+      470.44608,
+      522.3151119999998,
+      481.48607999999996
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 230,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.841268002986908,
+    "text": "be expected to travel and communicate regularly with various stakeholders as well as with",
+    "gt_text": "",
+    "box": [
+      90.04059999999996,
+      508.35743999999994,
+      271.8418,
+      519.39744
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 231,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7413783669471741,
+    "text": "electronic resource publishers/vendors.",
+    "gt_text": "",
+    "box": [
+      90.04059999999996,
+      533.0759999999999,
+      339.16923999999995,
+      544.116
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 232,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.832061767578125,
+    "text": "The proposal should include the following information:",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      557.6731199999999,
+      246.41888799999995,
+      568.7131199999999
+    ],
+    "page": 6,
+    "heading_level": "h3"
+  },
+  {
+    "id": 233,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 3,
+    "confidence": 0.7422312498092651,
+    "text": "a) name of the firm/consultant",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      570.3911999999999,
+      468.5260239999996,
+      581.4311999999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 234,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8575299978256226,
+    "text": "b) names of those individuals who will be engaged in this project, their specific",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      582.9878399999999,
+      421.4591920000003,
+      594.02784
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 235,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8235134482383728,
+    "text": "responsibilities on this project and relevant experience/qualifications",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      595.58448,
+      497.10527199999956,
+      606.62448
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 236,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.7783140540122986,
+    "text": "c) description of similar engagements that highlight the firm’s experience in business",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      608.3025599999999,
+      324.2067279999999,
+      619.3425599999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 237,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.85941481590271,
+    "text": "planning and building stakeholder commitment",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      620.8992,
+      407.58191199999976,
+      631.9391999999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 238,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8814136981964111,
+    "text": "d) references with details of work completed for these references",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      633.6172799999999,
+      479.10675999999967,
+      644.6572799999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 239,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.7481439113616943,
+    "text": "e) description of the approach that will be used for completing the business plan,",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      646.2139199999999,
+      197.011576,
+      657.2539199999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 240,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.892113447189331,
+    "text": "including a timeline",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      658.8105599999999,
+      518.8629039999993,
+      669.8505599999999
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 241,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.787521243095398,
+    "text": "f) cost to complete the study including estimated expenses (i.e.: travel, etc.) and payment",
+    "gt_text": "",
+    "box": [
+      108.03579999999995,
+      671.5286399999999,
+      148.91471199999995,
+      682.56864
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 242,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.8555570244789124,
+    "text": "structure",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 6,
+    "heading_level": "other"
+  },
+  {
+    "id": 244,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8455273509025574,
+    "text": "Evaluation and Awarding of Contract",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      124.12944000000005,
+      521.3049519999997,
+      135.16944
+    ],
+    "page": 7,
+    "heading_level": "h2"
+  },
+  {
+    "id": 245,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8717273473739624,
+    "text": "The contract will be awarded to the bidder whose submission offers the best value; the contract will",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      136.84752000000003,
+      517.3349679999991,
+      147.88752
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 246,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8527398109436035,
+    "text": "not necessarily be awarded to the lowest bidder. We reserve the right not to award the contract to",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      149.44416,
+      429.8429680000003,
+      160.48415999999997
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 247,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8077731728553772,
+    "text": "any of the bidders responding to this RFP and we may seek further response.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      174.04128000000003,
+      455.4149200000005,
+      185.08128
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 248,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8254303932189941,
+    "text": "Specifically, proposals will be evaluated proposals according to the following criteria:",
+    "gt_text": "",
+    "box": [
+      126.04203999999999,
+      211.47792000000004,
+      513.4720720000003,
+      222.51792
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 250,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8678805828094482,
+    "text": "Demonstrated experience",
+    "gt_text": "",
+    "box": [
+      126.04203999999999,
+      236.79264,
+      236.87812000000002,
+      247.83263999999997
+    ],
+    "page": 7,
+    "heading_level": "h3"
+  },
+  {
+    "id": 251,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8783405423164368,
+    "text": "Cost, including expenses",
+    "gt_text": "",
+    "box": [
+      126.04203999999999,
+      249.38927999999999,
+      299.22099999999995,
+      260.42927999999995
+    ],
+    "page": 7,
+    "heading_level": "h3"
+  },
+  {
+    "id": 252,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8226628303527832,
+    "text": "Timeline and projected completion date",
+    "gt_text": "",
+    "box": [
+      126.04203999999999,
+      262.59312,
+      430.36736800000045,
+      273.63311999999996
+    ],
+    "page": 7,
+    "heading_level": "h3"
+  },
+  {
+    "id": 253,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7397419810295105,
+    "text": "Other relevant factors as determined by the ODL Steering Committee",
+    "gt_text": "",
+    "box": [
+      90.04059999999998,
+      287.90784,
+      445.4038480000005,
+      298.94784
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 254,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7013716101646423,
+    "text": "Questions regarding this RFP should be directed by e-mail only to Michael Ridley",
+    "gt_text": "",
+    "box": [
+      90.04059999999998,
+      300.62592,
+      197.028136,
+      311.66591999999997
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 255,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8024478554725647,
+    "text": "(mridley@uoguelph.ca).",
+    "gt_text": "",
+    "box": [
+      90.04059999999998,
+      325.94064000000003,
+      521.6251119999986,
+      336.98064
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 256,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.842683732509613,
+    "text": "Bidders are asked not to contact any other member of the ODL Catalyst Team or the ODL Steering",
+    "gt_text": "",
+    "box": [
+      90.04059999999998,
+      338.53728,
+      141.80495199999996,
+      349.57728
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 257,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 4,
+    "confidence": 0.831780195236206,
+    "text": "Committee.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 7,
+    "heading_level": "other"
+  },
+  {
+    "id": 260,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8264749050140381,
+    "text": "Phase I: Business Planning",
+    "gt_text": "",
+    "box": [
+      90.0405,
+      163.97874000000002,
+      265.49685600000004,
+      173.93876
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 261,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7357280850410461,
+    "text": "Timeline: March 2003 – September 2003",
+    "gt_text": "",
+    "box": [
+      90.0405,
+      175.50246000000004,
+      518.2368360000004,
+      185.46248000000003
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 262,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7136666774749756,
+    "text": "Funding Requested: ~$100,0 jointly funded by stakeholder groups and the provincial government.",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      198.42042000000004,
+      224.09811599999998,
+      208.38041999999996
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 263,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7995065450668335,
+    "text": "Result: The ODL business plan",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      221.57742000000007,
+      513.6841199999996,
+      231.53742
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 265,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7705525755882263,
+    "text": "funding and governance structures, as well as implementation plans for 2003-2005. It will also secure",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      244.62486000000013,
+      510.1981199999995,
+      254.58486000000005
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 267,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7403453588485718,
+    "text": "Given the number and diversity of stakeholders involved, the business planning process must be a fully",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      279.06654000000015,
+      517.7746919999995,
+      289.0265400000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 268,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7849802374839783,
+    "text": "consultative approach. To ensure that the planning results in a workable plan with the full commitment",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      290.59026000000017,
+      470.3381999999998,
+      300.55026000000015
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 269,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.767785906791687,
+    "text": "of all stakeholders it must have competent, dedicated staffing and monies for the travel and",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      302.1139800000002,
+      358.72345200000035,
+      312.0739800000002
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 270,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7259069085121155,
+    "text": "communication components so critical in a consultative process.",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      336.4361400000002,
+      276.005652,
+      346.3961400000002
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 271,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8347690105438232,
+    "text": "Phase II: Implementing and Transitioning",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      359.4736200000002,
+      255.17132400000003,
+      369.43366000000003
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 272,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7374609112739563,
+    "text": "Timeline: April 2004 – December 2006",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      370.99734000000007,
+      506.9830320000002,
+      380.95738000000006
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 273,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7132408022880554,
+    "text": "Funding Requested: Funding from other states and provinces suggest that the ODL could receive",
+    "gt_text": "",
+    "box": [
+      90.04050000000001,
+      382.5210600000001,
+      511.42419600000045,
+      392.48106000000007
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 274,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8931348323822021,
+    "text": "funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library",
+    "gt_text": "",
+    "box": [
+      90.04050000000002,
+      393.9252600000001,
+      263.71302000000026,
+      403.8852600000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 275,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8527886271476746,
+    "text": "stakeholders and other interested parties.",
+    "gt_text": "",
+    "box": [
+      90.04050000000002,
+      416.9627400000001,
+      288.751464,
+      426.9227400000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 276,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8027446269989014,
+    "text": "Result: The ODL is implemented and validated",
+    "gt_text": "",
+    "box": [
+      90.04050000000002,
+      440.1197400000001,
+      522.2118719999993,
+      450.0797400000001
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 277,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7336723208427429,
+    "text": "The second phase will be to implement the ODL based on the business plan. This phase recognizes",
+    "gt_text": "",
+    "box": [
+      90.04050000000002,
+      451.6434600000001,
+      522.0564959999996,
+      461.6034600000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 279,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8695859909057617,
+    "text": "providing services. The transition must occur while libraries continue to provide existing services and",
+    "gt_text": "",
+    "box": [
+      90.04050000000002,
+      474.57138000000015,
+      522.2955360000002,
+      484.5313800000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 280,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8835408687591553,
+    "text": "respond to current challenges. This implementation phase will funded by a partnership of government,",
+    "gt_text": "",
+    "box": [
+      90.04050000000002,
+      486.0951000000002,
+      464.76757200000026,
+      496.05510000000015
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 281,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.771519124507904,
+    "text": "library stakeholders and other interested parties as a means to quickly jumpstart the ODL.",
+    "gt_text": "",
+    "box": [
+      90.04050000000002,
+      509.1325800000002,
+      522.3373679999991,
+      519.0925800000002
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 283,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8029783964157104,
+    "text": "and content of the ODL is created and secured. Some of the funding will be new money, although there",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      531.9409800000002,
+      522.342347999999,
+      541.9009800000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 284,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7783739566802979,
+    "text": "is every indication that existing budgets and methods of operating may be modified as a result of",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      543.4647000000002,
+      522.1680479999999,
+      553.4247000000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 285,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.809990644454956,
+    "text": "recommendations. During this phase the polices, procedures, governance structures and accountability",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      555.1079400000001,
+      522.1899599999996,
+      565.0679400000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 286,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7939767241477966,
+    "text": "mechanisms of the ODL will be put in place. Pilot projects will be initiated, evaluated and expanded.",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      566.6316600000001,
+      522.138168,
+      576.5916600000002
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 287,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7718300819396973,
+    "text": "Information resources will be identified, contracts for these resources will be negotiated and resources",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      578.1553800000002,
+      522.1033079999996,
+      588.1153800000002
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 288,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7205896973609924,
+    "text": "will be made deployed through the ODL. Regular evaluation during this phase will ensure the ODL is",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      589.6791000000002,
+      366.06795600000027,
+      599.6391000000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 289,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8650915622711182,
+    "text": "achieving its objectives and is accountable to its key communities.",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      612.4775400000001,
+      279.9279000000001,
+      622.4375400000001
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 290,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8513926863670349,
+    "text": "Phase I: Operating and Growing the ODL",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      635.5150200000002,
+      197.63240400000004,
+      645.4750200000001
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 291,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7331663370132446,
+    "text": "Timeline: January 2007 -",
+    "gt_text": "",
+    "box": [
+      90.04050000000004,
+      647.0387400000002,
+      389.03173200000026,
+      656.99878
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 292,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8026535511016846,
+    "text": "Funding: $50 Million annually ($35 Million requested from government)",
+    "gt_text": "",
+    "box": [
+      90.0405,
+      669.9567000000001,
+      310.0280159999999,
+      679.91674
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 293,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7595909237861633,
+    "text": "Result: The ODL is fully operational and sustainable",
+    "gt_text": "",
+    "box": [
+      90.05045999999999,
+      693.1137000000001,
+      516.2020080000003,
+      703.0737
+    ],
+    "page": 8,
+    "heading_level": "h2"
+  },
+  {
+    "id": 295,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7569884061813354,
+    "text": "of the initiative and libraries will consolidate support around the ODL to grow resources and extend",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6436,
+      743.9039
+    ],
+    "page": 8,
+    "heading_level": "other"
+  },
+  {
+    "id": 297,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8649399280548096,
+    "text": "capabilities. The challenge is to secure resources sufficient to both sustain the original investments and",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      84.90528000000006,
+      177.76130799999996,
+      94.86527999999998
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 298,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8534963130950928,
+    "text": "to enhance the ODL.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      107.82324000000006,
+      515.9899599999994,
+      117.78323999999998
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 300,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9187324643135071,
+    "text": "(i.e. government, libraries, donors, public and private sectors). All participants (i.e. beneficiaries) are",
+    "gt_text": "",
+    "box": [
+      90.05056,
+      130.87070000000006,
+      506.77197999999925,
+      140.83069999999998
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 303,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8599234223365784,
+    "text": "(university, colleges, public libraries and schools).",
+    "gt_text": "",
+    "box": [
+      90.05056,
+      171.43776000000003,
+      519.6482679999997,
+      181.39778
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 304,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7987486720085144,
+    "text": "The proposed funding model requires a continuing government investment, but also recognizes that as",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      182.84195999999997,
+      494.81300799999974,
+      192.8019599999999
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 306,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.839781641960144,
+    "text": "sources. During the 3-year implementation phase (2004 – 2006) libraries will realign their budgets to",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      205.88940000000002,
+      506.7191919999991,
+      215.84939999999995
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 309,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7738476395606995,
+    "text": "outlines the model. This model is based on these assumptions:",
+    "gt_text": "",
+    "box": [
+      108.03832,
+      246.45648000000006,
+      400.8673000000003,
+      256.41648
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 310,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9131755828857422,
+    "text": "1. that ODL expenditures will increase by 50% over a 10 year period",
+    "gt_text": "",
+    "box": [
+      108.03832,
+      263.85660000000007,
+      470.7874960000003,
+      273.8166
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 311,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9362758994102478,
+    "text": "2. that government funding will decrease from 70% to 45% during that 10 year period",
+    "gt_text": "",
+    "box": [
+      108.03832,
+      281.37624000000005,
+      511.52887600000014,
+      291.33624000000003
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 312,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.923508882522583,
+    "text": "3. that library contributions, endowment and gifts/in-kind funding will increase from 30% to 55%",
+    "gt_text": "",
+    "box": [
+      126.046,
+      292.8999600000001,
+      223.04146,
+      302.85996000000006
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 313,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.734394907951355,
+    "text": "during the same period",
+    "gt_text": "",
+    "box": [
+      245.80504000000002,
+      321.82380000000006,
+      420.476548,
+      331.78380000000004
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 314,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.705441951751709,
+    "text": "OVERVIEW OF ODL FUNDING MODEL",
+    "gt_text": "",
+    "box": [
+      114.4006,
+      345.49199999999996,
+      453.58660000000003,
+      357.49199999999996
+    ],
+    "page": 9,
+    "heading_level": "h3"
+  },
+  {
+    "id": 315,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7861805558204651,
+    "text": "Funding Source 2007 2017",
+    "gt_text": "",
+    "box": [
+      114.4006,
+      359.58156,
+      473.26936,
+      369.54156
+    ],
+    "page": 9,
+    "heading_level": "h3"
+  },
+  {
+    "id": 316,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8548970222473145,
+    "text": "Government $35M (70%) $33.75M (45%)",
+    "gt_text": "",
+    "box": [
+      114.40059999999994,
+      371.58336,
+      470.632948,
+      381.54336
+    ],
+    "page": 9,
+    "heading_level": "h3"
+  },
+  {
+    "id": 317,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8812101483345032,
+    "text": "Libraries $10M (20%) $22.5M (30%)",
+    "gt_text": "",
+    "box": [
+      114.41055999999998,
+      383.58516000000003,
+      466.7186680000001,
+      393.54516
+    ],
+    "page": 9,
+    "heading_level": "h3"
+  },
+  {
+    "id": 318,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9135542511940002,
+    "text": "Endowment $4.5M (9%) $15M (20%)",
+    "gt_text": "",
+    "box": [
+      114.41056000000003,
+      395.58696000000003,
+      468.0612760000001,
+      405.54696
+    ],
+    "page": 9,
+    "heading_level": "h3"
+  },
+  {
+    "id": 319,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9161823987960815,
+    "text": "Gifts/In-Kind $0.5M (1%) $3.75M (5%)",
+    "gt_text": "",
+    "box": [
+      114.41056000000003,
+      407.46924,
+      452.69200000000006,
+      417.54876
+    ],
+    "page": 9,
+    "heading_level": "h3"
+  },
+  {
+    "id": 320,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7724882960319519,
+    "text": "TOTAL ANNUAL $50M $75M",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      442.62804000000006,
+      506.9092600000004,
+      452.58804000000003
+    ],
+    "page": 9,
+    "heading_level": "h2"
+  },
+  {
+    "id": 321,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8367217779159546,
+    "text": "While the private sector will be invited to participate in the ODL through the endowment, gifts and in-",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      454.1517600000001,
+      517.461879999999,
+      464.11176000000006
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 322,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7170310020446777,
+    "text": "kind contributions, the ODL will also explore compatible commercial services which leverage the reach",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      465.6754800000001,
+      280.0363960000001,
+      475.6354800000001
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 323,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7266514897346497,
+    "text": "of the ODL and help to offset operating costs.",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      488.7129600000001,
+      506.0208280000003,
+      498.6729600000001
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 325,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7207929491996765,
+    "text": "prices for information resources, the widest accessibility and the most favourable contracts. A budget of",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      511.64088000000015,
+      518.5764039999993,
+      521.6008800000002
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 326,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7065730690956116,
+    "text": "this nature will ensure a core digital collection of sufficient scope and coverage to address a substantial",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      523.1646000000002,
+      514.3095400000004,
+      533.1246000000001
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 327,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7360478639602661,
+    "text": "amount of the wide and diverse information and learning needs of the citizens of Ontario (an overview",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      534.6883200000002,
+      505.065664,
+      544.6483200000001
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 329,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9118849039077759,
+    "text": "represent an investment of $5.00 per citizen.",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      569.1300000000001,
+      518.0186440000003,
+      579.0900000000001
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 332,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7401914596557617,
+    "text": "strengthens every local library in Ontario by allowing them to reinvest existing dollars in new resources",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      603.7011600000001,
+      519.0495039999998,
+      613.6611600000001
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 333,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8280900716781616,
+    "text": "that enhance local services. This multiplier means that for every dollar invested in ODL the return",
+    "gt_text": "",
+    "box": [
+      90.04840000000002,
+      615.2248800000001,
+      299.13270399999993,
+      625.1848800000001
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 334,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.847317636013031,
+    "text": "on investment is worth $2 of value for Ontario.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6432000000001,
+      743.9039
+    ],
+    "page": 9,
+    "heading_level": "other"
+  },
+  {
+    "id": 337,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.863815188407898,
+    "text": "1. Preamble",
+    "gt_text": "",
+    "box": [
+      95.79748,
+      161.0982600000001,
+      519.2518600000004,
+      171.05826000000002
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 339,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7809923887252808,
+    "text": "and supported by its diverse stakeholder communities (see: w.odl.on.ca). The business",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      184.02618000000007,
+      513.5507560000002,
+      193.98618
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 340,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7275890111923218,
+    "text": "development planning and commitment process will be overseen by a Steering Committee, who are",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      195.5499000000001,
+      396.0486520000003,
+      205.50990000000002
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 341,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7261311411857605,
+    "text": "accountable to potential ODL funders including the Province of Ontario.",
+    "gt_text": "",
+    "box": [
+      90.04060000000001,
+      218.4678600000001,
+      189.41749600000003,
+      228.42786
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 342,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9180570840835571,
+    "text": "2. Terms of Reference",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      241.50534000000005,
+      503.3895639999995,
+      251.46533999999997
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 344,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8173598051071167,
+    "text": "business plan, securing sector support, and management of the planners and process. Specific",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      264.5527800000001,
+      192.50908,
+      274.51278
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 345,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8925902843475342,
+    "text": "responsibilities include:",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      287.5902600000001,
+      522.3842799999993,
+      297.5502600000001
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 346,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9296385049819946,
+    "text": "2.1 developing a detailed business plan for the three-year implementation phase of the ODL, including",
+    "gt_text": "",
+    "box": [
+      131.79292,
+      298.9944600000001,
+      517.4112520000003,
+      308.9544600000001
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 347,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8547835350036621,
+    "text": "governance, management, funding model and structure, organizational structure, marketing,",
+    "gt_text": "",
+    "box": [
+      131.79292,
+      310.51818000000014,
+      231.29630800000004,
+      320.4781800000001
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 348,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8503889441490173,
+    "text": "staffing, and evaluation;",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      322.04190000000017,
+      521.6472399999998,
+      332.00190000000015
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 349,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9404745697975159,
+    "text": "2.2 consulting with and reporting to stakeholder communities, to ensure open, consistent and two-way",
+    "gt_text": "",
+    "box": [
+      131.79292,
+      333.5656200000002,
+      510.3665440000002,
+      343.5256200000002
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 350,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8967430591583252,
+    "text": "communication, and to ensure meaningful opportunities for stakeholder input into decision-",
+    "gt_text": "",
+    "box": [
+      131.79292,
+      345.0893400000002,
+      165.40393600000002,
+      355.0493400000002
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 351,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8730383515357971,
+    "text": "making;",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      356.61306000000025,
+      316.86963999999995,
+      366.5730600000002
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 352,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.940654456615448,
+    "text": "2.3 recruiting and managing the business planner(s);",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      368.01726000000025,
+      500.8198839999993,
+      377.97726000000023
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 353,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9405254125595093,
+    "text": "2.4 defining terms of reference and resource parameters for business planner(s), and authorizing",
+    "gt_text": "",
+    "box": [
+      131.79292,
+      379.5409800000003,
+      188.786032,
+      389.50098000000025
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 354,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8777215480804443,
+    "text": "expenditures;",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      391.0647000000003,
+      369.0829480000004,
+      401.0247000000003
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 355,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9373726844787598,
+    "text": "2.5 serving as a focus group for business planner(s) to test ideas;",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      402.5884200000003,
+      502.28699199999977,
+      412.5484200000003
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 356,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9347963333129883,
+    "text": "2.6 providing signoff for business planner(s) at key decision points of business plan development;",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      414.11214000000035,
+      513.8903920000006,
+      424.07214000000033
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 357,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9417811036109924,
+    "text": "2.7 securing commitment from library, government, and institutional stakeholders for implementation",
+    "gt_text": "",
+    "box": [
+      131.79292,
+      425.6358600000004,
+      218.4777880000001,
+      435.59586000000036
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 358,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8186113238334656,
+    "text": "of the business plan;",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      437.0400600000004,
+      276.724864,
+      447.00006000000036
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 359,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9428116083145142,
+    "text": "2.8 presenting the business plan to funders",
+    "gt_text": "",
+    "box": [
+      95.79748000000001,
+      448.5637800000004,
+      506.32776400000023,
+      458.5237800000004
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 360,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9400351047515869,
+    "text": "2.9 undertaking advocacy efforts to promote the ODL to the broader communities including library",
+    "gt_text": "",
+    "box": [
+      131.79292,
+      460.08750000000043,
+      249.98525199999997,
+      470.0475000000004
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 361,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9093840718269348,
+    "text": "and education communities.",
+    "gt_text": "",
+    "box": [
+      90.03064,
+      483.0054600000004,
+      157.103272,
+      492.9654600000004
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 362,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9447000622749329,
+    "text": "3. Membership",
+    "gt_text": "",
+    "box": [
+      95.78752,
+      506.04294000000044,
+      510.44124399999913,
+      516.0029400000004
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 363,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7976881265640259,
+    "text": "Each of the four sectors, Schools, Colleges, Universities, and Public Libraries can appoint up to two",
+    "gt_text": "",
+    "box": [
+      95.78752,
+      517.5666600000004,
+      269.1423160000001,
+      527.5266600000004
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 364,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7934518456459045,
+    "text": "representatives to the steering committee",
+    "gt_text": "",
+    "box": [
+      95.78752,
+      540.6041400000005,
+      148.26676,
+      550.5641400000004
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 365,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9480664730072021,
+    "text": "3.1 Schools:",
+    "gt_text": "",
+    "box": [
+      126.02608000000001,
+      552.1278600000005,
+      512.3973880000005,
+      562.0878600000004
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 367,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7665783166885376,
+    "text": "Coordinators of Ontario (TALCO) (Executive Council of OSLA to name representative in",
+    "gt_text": "",
+    "box": [
+      126.02608000000001,
+      574.9362600000004,
+      233.50444000000002,
+      584.8962600000004
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 368,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7780309319496155,
+    "text": "consultation with TALCO)",
+    "gt_text": "",
+    "box": [
+      95.78752000000003,
+      586.5795000000005,
+      163.119112,
+      596.5395000000004
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 369,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.949462354183197,
+    "text": "3.2 Universities:",
+    "gt_text": "",
+    "box": [
+      126.02608000000004,
+      597.9837000000005,
+      397.66516000000007,
+      607.9437000000005
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 371,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9477863907814026,
+    "text": "3.3 Colleges:",
+    "gt_text": "",
+    "box": [
+      126.02608000000004,
+      621.0311400000005,
+      501.8168800000001,
+      630.9911400000004
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 373,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9465880990028381,
+    "text": "3.4 Public libraries:",
+    "gt_text": "",
+    "box": [
+      126.01612000000006,
+      644.0785800000004,
+      518.8425039999996,
+      654.0385800000005
+    ],
+    "page": 10,
+    "heading_level": "h2"
+  },
+  {
+    "id": 374,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7413160800933838,
+    "text": "-Administrators of Medium-sized Public Libraries of Ontario (AMPLO), Administrators of Rural",
+    "gt_text": "",
+    "box": [
+      126.01612000000006,
+      655.6023000000005,
+      490.9664560000001,
+      665.5623000000005
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 377,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8614640831947327,
+    "text": "(Executives of AMPLO, ARUPLO, ASPLO and CELPLO to name)",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6432000000001,
+      743.9039
+    ],
+    "page": 10,
+    "heading_level": "other"
+  },
+  {
+    "id": 379,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9168043732643127,
+    "text": "3.5 Ontario Library Association representative (ex-officio) (OLA to appoint one representative)",
+    "gt_text": "",
+    "box": [
+      126.06801999999993,
+      84.93444,
+      515.6225440000002,
+      94.89443999999992
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 381,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7210498452186584,
+    "text": "the OLA Board, and to assist the chair with the administrative responsibilities connected with",
+    "gt_text": "",
+    "box": [
+      126.06801999999993,
+      107.86235999999997,
+      406.70197600000006,
+      117.82235999999989
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 382,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7387238144874573,
+    "text": "the preparation of the business plan, finance, and communications.",
+    "gt_text": "",
+    "box": [
+      95.82945999999993,
+      130.89983999999993,
+      479.7276999999994,
+      140.85983999999985
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 383,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.923054039478302,
+    "text": "3.6 It is anticipated that as planning for the ODL evolves, the Steering Committee may, at its",
+    "gt_text": "",
+    "box": [
+      95.82945999999993,
+      142.42355999999995,
+      366.9785080000001,
+      152.38355999999987
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 384,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8272143006324768,
+    "text": "discretion, call on invited experts to advise on issues as required.",
+    "gt_text": "",
+    "box": [
+      90.07257999999993,
+      165.34151999999995,
+      261.854692,
+      175.30151999999987
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 385,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.911643385887146,
+    "text": "4. Appointment Criteria and Process",
+    "gt_text": "",
+    "box": [
+      95.82945999999993,
+      188.98655999999994,
+      522.2469399999994,
+      198.94655999999986
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 386,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9265294075012207,
+    "text": "4.1 Groups and organizations named in Section 3 above are responsible for appointing up to two",
+    "gt_text": "",
+    "box": [
+      131.83485999999994,
+      200.98835999999994,
+      311.72540799999985,
+      210.94835999999987
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 387,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7838683724403381,
+    "text": "representatives to the Steering Committee.",
+    "gt_text": "",
+    "box": [
+      95.83941999999993,
+      224.99195999999995,
+      401.5964800000003,
+      234.95195999999987
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 388,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9275489449501038,
+    "text": "4.2 Desired characteristics for steering committee appointees include:",
+    "gt_text": "",
+    "box": [
+      108.08025999999992,
+      247.01351999999986,
+      201.72318399999992,
+      259.07507999999984
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 389,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8822917938232422,
+    "text": "• Strategic thinkers;",
+    "gt_text": "",
+    "box": [
+      108.08025999999992,
+      259.2543599999999,
+      353.01956799999994,
+      271.3159199999999
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 390,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8962567448616028,
+    "text": "• Committed to the concept of multi-sector partnerships;",
+    "gt_text": "",
+    "box": [
+      108.08025999999992,
+      271.37568,
+      345.081448,
+      283.43724
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 391,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7434076070785522,
+    "text": "• Knowledgeable about digital libraries and resources;",
+    "gt_text": "",
+    "box": [
+      108.08025999999992,
+      283.61652,
+      317.1705400000001,
+      295.67807999999997
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 392,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7733060121536255,
+    "text": "• Knowledgeable about government structures;",
+    "gt_text": "",
+    "box": [
+      108.08025999999992,
+      295.73784,
+      308.1318399999999,
+      307.7994
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 393,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8724238276481628,
+    "text": "• Respected by their communities; influential;",
+    "gt_text": "",
+    "box": [
+      108.08025999999992,
+      307.85916000000003,
+      281.0306800000001,
+      319.92072
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 394,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8837272524833679,
+    "text": "• Able to take a consultative approach;",
+    "gt_text": "",
+    "box": [
+      108.0406,
+      320.04,
+      503.20787200000024,
+      334.14156
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 395,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.909845769405365,
+    "text": "•",
+    "gt_text": "",
+    "box": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "page": 0,
+    "heading_level": "other"
+  },
+  {
+    "id": 396,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.762712836265564,
+    "text": "Able to devote time to Steering Committee business: approximately one day per month for",
+    "gt_text": "",
+    "box": [
+      126.0406,
+      335.772,
+      390.01660000000004,
+      347.772
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 397,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9181872010231018,
+    "text": "meetings plus 2-3 working days per month on related activities.",
+    "gt_text": "",
+    "box": [
+      90.0405,
+      360.78126000000003,
+      131.808756,
+      370.74126
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 398,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9459797739982605,
+    "text": "5. Term",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      383.93826,
+      489.66856800000016,
+      393.89826
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 399,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7343605756759644,
+    "text": "Expected term on the Steering Committee is the time required to complete development of the",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      395.34246,
+      473.2275960000002,
+      405.30246
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 400,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8034622073173523,
+    "text": "business plan plus two months. This process is expected to take approximately 6 months.",
+    "gt_text": "",
+    "box": [
+      90.0405,
+      418.26042,
+      132.532848,
+      428.22042
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 401,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.942531943321228,
+    "text": "6. Chair",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      441.41742,
+      409.84514400000046,
+      451.37742
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 402,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8461199402809143,
+    "text": "Chair will be appointed by the Board of the Ontario Library Association.",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      466.61622,
+      169.269312,
+      476.57622
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 403,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8063305020332336,
+    "text": "Role of the Chair:",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      489.6537,
+      506.3455920000003,
+      499.6137
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 404,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8205885887145996,
+    "text": "In addition to the characteristics for appointees (4.2) the role of the chair will be as a process agent",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      501.17742000000004,
+      506.62646400000017,
+      511.13742
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 405,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7810835242271423,
+    "text": "working with the selected consultant(s), OLA, and the Steering Committee to prepare the business",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      512.7011400000001,
+      513.0397080000001,
+      522.66114
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 406,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.892406702041626,
+    "text": "plan. The chair must be able to devote 5-8 days per month on activities related to the preparation of",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      524.22486,
+      441.6255120000003,
+      534.1848600000001
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 407,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7861437201499939,
+    "text": "the business plan, and communications to stakeholders, funders, and government.",
+    "gt_text": "",
+    "box": [
+      90.0405,
+      547.0233000000001,
+      149.69791199999997,
+      556.9833000000001
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 408,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9466873407363892,
+    "text": "7. Meetings",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      570.1803000000001,
+      506.00695200000035,
+      580.1403
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 409,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8024954795837402,
+    "text": "It is expected that in person meetings are held once per month and the majority of business will be",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      581.7040200000001,
+      268.9579560000002,
+      591.66402
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 410,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7210673093795776,
+    "text": "conducted by e-mail, and teleconference.",
+    "gt_text": "",
+    "box": [
+      90.0405,
+      604.50246,
+      307.0031639999999,
+      614.4624600000001
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 411,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.945727527141571,
+    "text": "8. Lines of Accountability and Communication",
+    "gt_text": "",
+    "box": [
+      95.79737999999999,
+      627.6594600000001,
+      490.7671559999994,
+      637.6194600000001
+    ],
+    "page": 11,
+    "heading_level": "h2"
+  },
+  {
+    "id": 412,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9416022300720215,
+    "text": "8.1 The Steering Committee is accountable to the Province of Ontario, and to its business plan",
+    "gt_text": "",
+    "box": [
+      131.79282,
+      639.1831800000001,
+      166.237488,
+      649.14318
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 413,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8931726813316345,
+    "text": "funders.",
+    "gt_text": "",
+    "box": [
+      95.79738,
+      662.2206600000001,
+      520.1969640000002,
+      672.1806600000001
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 414,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9318028092384338,
+    "text": "8.2 The role of the Ontario Library Association is to assume responsibility for funds contributed by the",
+    "gt_text": "",
+    "box": [
+      131.79282,
+      673.6248600000001,
+      494.12566799999996,
+      683.58486
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 415,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7661423683166504,
+    "text": "ODL funders to finance the business plan, to hold the funds in a separate account, and",
+    "gt_text": "",
+    "box": [
+      131.79282,
+      685.14858,
+      488.372772,
+      695.1085800000001
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 416,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7596854567527771,
+    "text": "disperse them for purposes as directed by the Steering Committee. OLA will provide",
+    "gt_text": "",
+    "box": [
+      131.79282,
+      696.6723000000001,
+      472.25550000000015,
+      706.6323000000001
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 418,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7926703691482544,
+    "text": "government reporting regulations for funds received.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6432000000001,
+      743.9039
+    ],
+    "page": 11,
+    "heading_level": "other"
+  },
+  {
+    "id": 420,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9180390238761902,
+    "text": "8.3 The Steering Committee is accountable to its constituent groups and other stakeholders for",
+    "gt_text": "",
+    "box": [
+      131.806,
+      96.44892000000004,
+      517.2998319999999,
+      106.40891999999997
+    ],
+    "page": 12,
+    "heading_level": "other"
+  },
+  {
+    "id": 423,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7456044554710388,
+    "text": "Community Services Cluster, ADM’s and Deputy Ministers.",
+    "gt_text": "",
+    "box": [
+      90.04372000000001,
+      142.2948,
+      275.7250119999999,
+      152.25479999999993
+    ],
+    "page": 12,
+    "heading_level": "other"
+  },
+  {
+    "id": 424,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9394127130508423,
+    "text": "9. Financial and Administrative Policies",
+    "gt_text": "",
+    "box": [
+      95.81056000000001,
+      165.45180000000005,
+      344.8185280000001,
+      175.41179999999997
+    ],
+    "page": 12,
+    "heading_level": "h2"
+  },
+  {
+    "id": 425,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9329557418823242,
+    "text": "9.1 Service on the Steering Committee is non-remunerative",
+    "gt_text": "",
+    "box": [
+      95.81056000000001,
+      176.856,
+      514.6932999999992,
+      186.81599999999992
+    ],
+    "page": 12,
+    "heading_level": "h2"
+  },
+  {
+    "id": 426,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9297934770584106,
+    "text": "9.2 Travel and meeting expenses for Steering Committee members are reimbursed according to the",
+    "gt_text": "",
+    "box": [
+      131.81596000000002,
+      188.37972000000002,
+      305.098048,
+      198.33971999999994
+    ],
+    "page": 12,
+    "heading_level": "other"
+  },
+  {
+    "id": 428,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9308260679244995,
+    "text": "9.3 Conflict of Interest:",
+    "gt_text": "",
+    "box": [
+      126.04912000000002,
+      211.42716000000007,
+      516.2331160000002,
+      221.38716
+    ],
+    "page": 12,
+    "heading_level": "h2"
+  },
+  {
+    "id": 430,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8957576155662537,
+    "text": "ensuring that members, their immediate family members, or their places of employment, will",
+    "gt_text": "",
+    "box": [
+      126.0491,
+      234.47460000000012,
+      498.69054799999975,
+      244.43460000000005
+    ],
+    "page": 12,
+    "heading_level": "other"
+  },
+  {
+    "id": 431,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7751574516296387,
+    "text": "not benefit financially from the decisions the Steering Committee might make. As a first",
+    "gt_text": "",
+    "box": [
+      126.0491,
+      245.87880000000007,
+      519.6264680000003,
+      255.8388
+    ],
+    "page": 12,
+    "heading_level": "other"
+  },
+  {
+    "id": 432,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.719371497631073,
+    "text": "order of business, the Steering Committee will be expected to adopt a conflict of interest policy",
+    "gt_text": "",
+    "box": [
+      126.0491,
+      257.4025200000001,
+      381.13067600000016,
+      267.36252
+    ],
+    "page": 12,
+    "heading_level": "other"
+  },
+  {
+    "id": 433,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7661849856376648,
+    "text": "statement and procedural guidelines that will govern its work.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6432000000001,
+      743.9039
+    ],
+    "page": 12,
+    "heading_level": "other"
+  },
+  {
+    "id": 440,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8463783264160156,
+    "text": "of their education, life and work. Some examples:",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      207.07410000000004,
+      198.810668,
+      217.03409999999997
+    ],
+    "page": 13,
+    "heading_level": "h2"
+  },
+  {
+    "id": 441,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8808454871177673,
+    "text": "1. Reference Resources",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      230.11158,
+      477.6956479999998,
+      240.07157999999993
+    ],
+    "page": 13,
+    "heading_level": "h2"
+  },
+  {
+    "id": 442,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.795642077922821,
+    "text": "-directories: companies, associations, organizations, governments, educational institutions,",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      241.51577999999995,
+      129.05282,
+      251.47577999999987
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 443,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9084852933883667,
+    "text": "etc. etc.",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      253.03949999999998,
+      227.93868800000007,
+      262.9994999999999
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 444,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8293895125389099,
+    "text": "-almanacs, country information",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      264.56322,
+      253.19425999999984,
+      274.5232199999999
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 446,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8560445308685303,
+    "text": "-consumer information",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      287.61066000000005,
+      159.058316,
+      297.57066000000003
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 447,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8693409562110901,
+    "text": "-phone books,",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      299.01486000000006,
+      251.2909039999998,
+      308.97486000000004
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 448,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7643836736679077,
+    "text": "-travel guides, entertainment guides",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      310.5385800000001,
+      184.9832,
+      320.49858000000006
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 449,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7497645616531372,
+    "text": "-weather information",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      322.0623000000001,
+      181.80396800000003,
+      332.0223000000001
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 450,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7099873423576355,
+    "text": "-media/newspapers",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      333.58602000000013,
+      265.7866879999999,
+      343.5460200000001
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 451,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.819942831993103,
+    "text": "-leisure time, recreational activity guides",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      345.10974000000016,
+      241.39564399999992,
+      355.06974000000014
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 452,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7675744295120239,
+    "text": "-indexing and abstracting services",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      356.6334600000002,
+      187.49013200000005,
+      366.59346000000016
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 453,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9006215333938599,
+    "text": "-currency converters,",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      368.0376600000002,
+      206.51074400000002,
+      377.99766000000017
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 454,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7501568794250488,
+    "text": "-virtual reference services",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      379.5613800000002,
+      220.496576,
+      389.5213800000002
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 456,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7478063702583313,
+    "text": "-internet search engines",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      402.60878,
+      214.52469200000002,
+      412.56880000000007
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 457,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.916025698184967,
+    "text": "-current awareness services",
+    "gt_text": "",
+    "box": [
+      96.03854000000001,
+      425.64626000000004,
+      171.134948,
+      435.60626
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 458,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8972492814064026,
+    "text": "2. Subject Guides",
+    "gt_text": "",
+    "box": [
+      96.03854000000001,
+      448.56422000000003,
+      181.78218800000005,
+      458.52422
+    ],
+    "page": 13,
+    "heading_level": "h2"
+  },
+  {
+    "id": 459,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7613223195075989,
+    "text": "-arts and humanities",
+    "gt_text": "",
+    "box": [
+      96.03854000000001,
+      460.08794000000006,
+      206.02867999999998,
+      470.04798000000005
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 460,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8172857761383057,
+    "text": "-business and economics",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      471.6117000000001,
+      142.854392,
+      481.5717000000001
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 461,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8647692203521729,
+    "text": "-education",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      483.1354200000001,
+      187.89948800000005,
+      493.0954200000001
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 462,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7722183465957642,
+    "text": "-recreation and sports",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      494.5396200000001,
+      267.99482,
+      504.49966
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 463,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.804863452911377,
+    "text": "-entertainment -games, activities for kids",
+    "gt_text": "",
+    "box": [
+      96.04039999999999,
+      506.06338000000005,
+      174.29313199999996,
+      516.0233800000001
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 464,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.710321307182312,
+    "text": "-health information",
+    "gt_text": "",
+    "box": [
+      96.04039999999999,
+      517.5871000000001,
+      198.45410000000007,
+      527.5471
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 465,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7928804159164429,
+    "text": "-science and technology",
+    "gt_text": "",
+    "box": [
+      96.04039999999999,
+      529.1108200000001,
+      162.81223999999997,
+      539.07082
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 466,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8316919207572937,
+    "text": "-social sciences",
+    "gt_text": "",
+    "box": [
+      96.04039999999999,
+      540.63454,
+      177.917576,
+      550.59454
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 467,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.713310956954956,
+    "text": "-society and culture",
+    "gt_text": "",
+    "box": [
+      96.04039999999999,
+      563.5525,
+      191.18828,
+      573.5125
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 468,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9233648180961609,
+    "text": "3. Educational tool-kits",
+    "gt_text": "",
+    "box": [
+      96.04039999999999,
+      586.5899400000001,
+      377.37852799999996,
+      596.54998
+    ],
+    "page": 13,
+    "heading_level": "h2"
+  },
+  {
+    "id": 469,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7278812527656555,
+    "text": "-guides to information gathering methodologies, information literacy",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      598.1136600000001,
+      152.378144,
+      608.0736600000001
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 470,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7945991158485413,
+    "text": "-study guides",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      609.6373800000001,
+      196.98798800000003,
+      619.5973800000002
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 471,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.8253666162490845,
+    "text": "-study skill development",
+    "gt_text": "",
+    "box": [
+      96.0404,
+      621.1611,
+      184.006152,
+      631.1211000000001
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 473,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.7469547390937805,
+    "text": "-internet search guides",
+    "gt_text": "",
+    "box": [
+      96.04241999999998,
+      655.60278,
+      249.32582399999998,
+      665.56278
+    ],
+    "page": 13,
+    "heading_level": "other"
+  },
+  {
+    "id": 474,
+    "label": "section-title",
+    "parent_id": 0,
+    "order": 6,
+    "confidence": 0.9373985528945923,
+    "text": "4. Journals, books, maps, music etc.",
+    "gt_text": "",
+    "box": [
+      90.0406,
+      734.6609,
+      522.6432000000001,
+      743.9039
+    ],
+    "page": 13,
+    "heading_level": "h3"
+  }
+]
