@@ -33,11 +33,11 @@ Key Highlights:
 ```
 PDF-Outline-Extractor
 ├── input/        # Upload your PDFs here
-├── output/       # Output JSONs will be saved here
+├── output/       # Output JSONs will be saved here (after execution)
 ├── src/          # All source files for preprocessing and inference
-│   ├── compressed_inputs/             # Compressed pdf files for large inputs
-│   ├── json_input/                    # Intermediate metadata and inputs for the model     
-│   ├── model predictions/
+│   ├── compressed_inputs/             # Compressed pdf files for large inputs (after execution)
+│   ├── json_input/                    # Intermediate metadata and inputs for the model (after execution)
+│   ├── model predictions/             # Results from model (after execution)
 │   ├── models/
 │   ├── pretrained_models_bert_tiny/
 │   ├── compress_pdf.py
