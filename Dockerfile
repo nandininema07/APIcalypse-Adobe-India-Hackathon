@@ -34,7 +34,7 @@ ENV OUTPUT_DIR=/app/output
 # Change the working directory to where your main script is located.
 # This allows you to run 'python model.py' directly, just like you do locally,
 # and ensures any relative imports within your script work correctly.
-WORKDIR /app/extract_structure
+WORKDIR /app/src
 
 # --- Set the Default Command to Run ---
 # This command is executed when the container starts.
