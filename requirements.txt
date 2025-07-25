@@ -1,0 +1,11 @@
+torch
+transformers
+scikit-learn
+tqdm
+pdfplumber
+pdf2image
+pytesseract
+Pillow
+easyocr
+numpy
+ 
